@@ -1,6 +1,6 @@
 {
   "name": "podparse",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A simple package for parsing podcast RSS feeds into manageable JavaScript objects. For use with Node and in the browser.",
   "main": "index.js",
   "scripts": {

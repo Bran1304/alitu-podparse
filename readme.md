@@ -33,7 +33,8 @@ This package:
 * Does not use hard-coded namespace prefixes (esp. `itunes`, `googleplay`, and `atom`).
 
 ## Overview
-By default, `podcast-feed-parser` will parse a podcast's xml feed and return an object with the following properties. `meta` contains all of the information pertinent to the podcast show itself, and `episodes` is list of episode objects which contain the information pertinent to each individual episode of the podcast.
+
+By default, `podparse` will parse a podcast's xml feed and return an object with the following properties. `meta` contains all of the information pertinent to the podcast show itself, and `episodes` is list of episode objects which contain the information pertinent to each individual episode of the podcast.
 
 ```js
 {
@@ -61,18 +62,16 @@ By default, `podcast-feed-parser` will parse a podcast's xml feed and return an 
 
 ## Quickstart
 
-`podcast-feed-parser` has one main functions: `getPodcastFromFeed`.
+`podparse` has one main functions: `getPodcastFromFeed`.
 
 For parsing a podcast from an feed xml, use `getPodcastFromFeed`:
 
 ```js
-const podcastFeedParser = require("podcast-feed-parser")
+const getPodcastFromFeed = require("podparse")
 const fs = require('fs')
 
-// if you already have the feed xml, you can parse
-// synchronously with getPodcastFromFeed
 const podcastFeed = fs.readFileSync('path/to/podcast-feed.xml', 'utf8')
-const podcast = podcastFeedParser.getPodcastFromFeed(podcastFeed)
+const podcast = getPodcastFromFeed(podcastFeed)
 
 console.log(podcast.meta.title)
 // "My Podcast"
@@ -86,7 +85,7 @@ podcast.episodes.forEach( (episode) => {
 
 ## Default
 
-By default, `podcast-feed-parser` will parse a feed for the following default fields, based on [this standard](https://github.com/simplepie/simplepie-ng/wiki/Spec:-iTunes-Podcast-RSS). If a field is not found in a feed, it will quietly return `undefined`.
+By default, `podparse` will parse a feed for the following default fields, based on [this standard](https://github.com/simplepie/simplepie-ng/wiki/Spec:-iTunes-Podcast-RSS). If a field is not found in a feed, it will quietly return `undefined`.
 
 ```js
 {
