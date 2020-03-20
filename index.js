@@ -332,7 +332,7 @@ function createLinksObjectFromFeed(channel, namespaces) {
 */
 
 function parseXMLFeed(feedText) {
-  let feed = {};
+  const feed = {};
   parseString(feedText, (error, result) => {
     if (error) {
       throw new Error(`Error parsing feed: ${error.message}`);

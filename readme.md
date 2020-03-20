@@ -9,18 +9,19 @@
       * [Overview](#overview)
       * [Quickstart](#quickstart)
       * [Default](#default)
-      * [Configuration](#configuration)
-         * [Fields](#fields)
-            * [Specifying particular fields](#specifying-particular-fields)
-            * [Extending default fields](#extending-default-fields)
-         * [Required](#required)
-         * [Uncleaned](#uncleaned)
-      * [Asynchronously Fetching Remote Feeds](#asynchronously-fetching-remote-feeds)
-      * [Errors](#errors)
 
 # podcast-feed-parser
 
-A highly customizable package for fetching and parsing podcast feeds into simple and manageable JavaScript objects. For use with node and in the browser.
+A simple package for parsing podcast feeds into manageable JavaScript objects. For use with Node and in the browser. Based on [jbierfeldt/podcast-feed-parser](https://github.com/jbierfeldt/podcast-feed-parser/).
+
+## Differences from jbierfeldt/podcast-feed-parser
+
+This package:
+
+* Does not contain the `isomorphic-fetch` dependency.
+* Is designed to be easier to use, albeit less configurable.
+* Removes empty (`null`, `undefined`, `''`, `NaN`, `{}`) from the output.
+* Does not use hard-coded namespace prefixes (esp. `itunes`, `googleplay`, and `atom`).
 
 ## Overview
 By default, `podcast-feed-parser` will parse a podcast's xml feed and return an object with the following properties. `meta` contains all of the information pertinent to the podcast show itself, and `episodes` is list of episode objects which contain the information pertinent to each individual episode of the podcast.
@@ -51,26 +52,9 @@ By default, `podcast-feed-parser` will parse a podcast's xml feed and return an 
 
 ## Quickstart
 
-`podcast-feed-parser` has two main functions: `getPodcastFromFeed` and `getPodcastFromURL`.
+`podcast-feed-parser` has one main functions: `getPodcastFromFeed`.
 
-For fetching remote feeds from urls, use `getPodcastFromURL`:
-
-```js
-const podcastFeedParser = require("podcast-feed-parser")
-
-// for fetching remote feeds, use getPodcastFromURL.
-// Note that function must be async
-async function printPodcastTitle (url) {
-	const podcast = await podcastFeedParser.getPodcastFromURL(url)
-	console.log(podcast.meta.title)
-}
-
-printPodcastTitle('http://feeds.gimletmedia.com/hearreplyall')
-// "Reply All"
-
-```
-
-If you already have the podcast feed xml, use `getPodcastFromFeed`:
+For parsing a podcast from an feed xml, use `getPodcastFromFeed`:
 
 ```js
 const podcastFeedParser = require("podcast-feed-parser")
@@ -101,7 +85,13 @@ By default, `podcast-feed-parser` will parse a feed for the following default fi
         title: '',
         description: '',
         subtitle: '',
-        imageURL: '',
+        image: {
+          url: '',
+          title: '',
+          link: '',
+          width: 0,
+          height: 0
+        },
         lastUpdated: '',
         link: '',
         language: '',
@@ -110,9 +100,10 @@ By default, `podcast-feed-parser` will parse a feed for the following default fi
         summary: '',
         categories: [],
         owner: {
-            name: '',
-            email: ''
+          name: '',
+          email: ''
         },
+        ttl: 0,
         explicit: true,
         complete: true,
         blocked: true
@@ -124,11 +115,12 @@ By default, `podcast-feed-parser` will parse a feed for the following default fi
         imageURL: '',
         pubDate: '',
         link: '',
+        guid: '',
         language: '',
         enclosure: {
-            length: '0',
-            type: '',
-            url: ''
+          length: '0',
+          type: '',
+          url: ''
         },
         duration: 0,
         summary: '',
@@ -137,186 +129,5 @@ By default, `podcast-feed-parser` will parse a feed for the following default fi
         order: 1
       }
   ]
-}
-```
-
-## Configuration
-
-You can customize `podcast-feed-parser` by passing an optional `options` object to either of parsing functions, `getPodcastFromFeed` and `getPodcastFromURL`. The options object consists of three components: `fields`, `required`, and `uncleaned`.
-
-```js
-const options = {
-  // specifies the fields to be parsed from the podcast feed
-  fields: {
-    meta: [],
-    episodes: []
-  },
-  // specifies the fields which must be present for the function to return without
-  // an error
-  required: {
-    meta: [],
-    episodes: []
-  },
-  // specifies which fields should not have any of the cleaning functions applied
-  uncleaned: {
-    meta: [],
-    episodes: []
-  }
-}
-```
-
-### Fields
-
-If no options object is passed to the parsing function, or if no fields are specified, then the fields listed in the [Default](#default) section are applied.
-
-#### Specifying particular fields
-
-If you specify particular fields for either `meta` or `episodes`, the final podcast object will only consist of those fields.
-
-```js
-const options = {
-  fields : {
-    'meta': ['title', 'description', 'webMaster'],
-    'episodes': ['title', 'pubDate', 'timeline']
-  }
-}
-
-const podcast = podcastFeedParser.getPodcastFromFeed(sampleFeed, options)
-
-console.log(podcast)
-// { meta:
-//    { title: 'All Things Chemical',
-//      description: 'All Things Chemical is a podcast...',
-//      webMaster: 'Jackson Bierfeldt (jbierfeldt@gmail.com)'
-//    },
-//   episodes:
-//     [ { title: 'Confidential Business Information under TSCA',
-//        pubDate: '2018-11-29T10:30:00.000Z',
-//        timeline: 'http://timelinenotation.com/pages/documentation/notation.php' }
-//     ] }
-// }
-```
-
-#### Extending default fields
-
-If you wish to use the default fields listed in the [Default](#default) section, but to also parse an additional field, you can include `'default'` in the list of desired fields, along with the names of the additional fields you wish to parse.
-
-```js
-const options = {
-  fields : {
-    'meta': ['default', 'webMaster'],
-    'episodes': ['default', 'timeline']
-  }
-}
-
-const podcast = podcastFeedParser.getPodcastFromFeed(sampleFeed, options)
-
-console.log(podcast)
-// { meta:
-//    { title: 'All Things Chemical',
-//      description: 'All Things Chemical is a podcast...',
-//      subtitle: 'A Podcast...',
-//      ...
-//      [all default meta fields]
-//      ...
-//      webMaster: 'Jackson Bierfeldt (jbierfeldt@gmail.com)'
-//    },
-//   episodes:
-//     [ { title: 'Confidential Business Information under TSCA',
-//        ...
-//        [all default episode fields]
-//        ...
-//        timeline: 'http://timelinenotation.com/pages/documentation/notation.php' }
-//     ] }
-// }
-```
-
-### Required
-
-By default, `podcast-feed-parser` will quietly return an `undefined` value if it tries to parse a field in a podcast feed that does not exist. If you wish for the function to halt and throw [requiredError](#errors) when a particular field is missing, you can specify those fields in the `required` options object.
-
-```js
-const options = {
-  fields : {
-    'meta': ['title', 'description'],
-    'episodes': ['title', 'pubDate']
-  },
-  required: {
-    'meta': ['title']
-  }
-}
-
-const podcast = podcastFeedParser.getPodcastFromFeed(sampleFeed, options)
-
-// If podcast feed does not have a title attribute, parser will throw a requiredError
-
-// If podcast feed does not have a description attribute, parsing will continue
-// and the resulting podcast object will have an undefined attribute for meta.description
-```
-
-### Uncleaned
-By default, `podcast-feed-parser` will clean and standardize the data for several fields. For example, the podcast object returned by `podcast-feed-parser` will always return durations as integer numbers of seconds, not as formatted strings. This is for convenience when working with many different unstandardized podcast feeds from different sources.
-
-A full list of the fields which are cleaned and the functions used to clean them can be found in the `CLEAN FUNCTIONS` section of `index.js`.
-
-If you would like the data in the podcast object to resemble exactly that of the podcast feed,
-you can list fields which should remain uncleaned in the `uncleaned` options object. These fields will have no cleaning applied to them after parsing.
-
-```js
-// sampleFeed
-<xml>
-  <itunes:duration>39:58</itunes:duration>
-</xml>
-
-// -------------
-
-// default behavior with no options supplied
-const podcast = podcastFeedParser.getPodcastFromFeed(sampleFeed)
-console.log(podcast.episodes[0].duration)
-// 2398
-
-// -------------
-
-const options = {
-  uncleaned: {
-    'episodes': ['duration']
-  }
-}
-
-const podcast = podcastFeedParser.getPodcastFromFeed(sampleFeed, options)
-console.log(podcast.episodes[0].duration)
-// ['39:58']
-
-```
-
-
-## Asynchronously Fetching Remote Feeds
-
-`podcast-feed-parser` can also fetch and parse remote feeds in both the browser and server environment thanks to `isomorphic-fetch`. Simply call `getPodcastFromURL(url, options)`. Functions which fetch remote feeds must be asynchronous and utilize async/await.
-
-```js
-const podcastFeedParser = require("podcast-feed-parser")
-
-async function getNumberOfEpisodes (url) {
-	const podcast = await podcastFeedParser.getPodcastFromURL(url)
-	console.log(podcast.meta.title, podcast.episodes.length)
-}
-
-getNumberOfEpisodes('http://feeds.gimletmedia.com/hearreplyall')
-// "Reply All"
-// 148
-
-```
-
-## Errors
-
-`podcast-feed-parser` has a variety of custom errors. These are exposed under `exports.ERRORS` and are as follows:
-
-```js
-exports.ERRORS = {
-  'parsingError' : new Error("Parsing error."),
-  'requiredError' : new Error("One or more required values are missing from feed."),
-  'fetchingError' : new Error("Fetching error."),
-  'optionsError' : new Error("Invalid options.")
 }
 ```
