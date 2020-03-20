@@ -1,7 +1,7 @@
 {
-  "name": "podcast-feed-parser",
-  "version": "1.1.0",
-  "description": "A highly customizable package for parsing podcast feeds into simple and manageable JavaScript objects. For use with Node and in the browser.",
+  "name": "podparse",
+  "version": "1.1.1",
+  "description": "A simple package for parsing podcast RSS feeds into manageable JavaScript objects. For use with Node and in the browser.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -12,9 +12,9 @@
   },
   "keywords": [
     "javascript",
+    "node",
+    "nodejs",
     "podcast",
-    "podcast-client",
-    "podcast-aggregator",
     "rss",
     "itunes",
     "xml",
@@ -22,6 +22,8 @@
     "atom",
     "parse",
     "parser",
+    "podcast-client",
+    "podcast-aggregator",
     "feed"
   ],
   "contributors": [

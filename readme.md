@@ -1,18 +1,27 @@
-[![npm version](https://badge.fury.io/js/podcast-feed-parser.svg)](https://badge.fury.io/js/podcast-feed-parser)
+[![npm version](https://badge.fury.io/js/podparse.svg)](https://badge.fury.io/js/podparse)
 [![Build Status](https://travis-ci.com/jbierfeldt/podcast-feed-parser.svg?branch=master)](https://travis-ci.com/jbierfeldt/podcast-feed-parser)
 
-[![NPM](https://nodei.co/npm/podcast-feed-parser.png)](https://nodei.co/npm/podcast-feed-parser/)
+[![NPM](https://nodei.co/npm/podparse.png)](https://nodei.co/npm/podparse.png)
 
 # Table of Contents
 
-   * [podcast-feed-parser](#podcast-feed-parser)
+   * [podparse](#podparse)
+      * [Installation](#installation)
       * [Overview](#overview)
       * [Quickstart](#quickstart)
       * [Default](#default)
 
-# podcast-feed-parser
+# podparse
 
 A simple package for parsing podcast feeds into manageable JavaScript objects. For use with Node and in the browser. Based on [jbierfeldt/podcast-feed-parser](https://github.com/jbierfeldt/podcast-feed-parser/).
+
+## Installation
+
+```
+npm install podparse
+```
+
+See [podparse on npm](https://www.npmjs.com/package/podparse).
 
 ## Differences from jbierfeldt/podcast-feed-parser
 
