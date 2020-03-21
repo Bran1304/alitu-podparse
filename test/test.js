@@ -101,7 +101,7 @@ describe('Getting Podcast Object from Sample Feed', () => {
 
     it('should list episodes in order of newest to oldest', () => {
       expect(podcast.episodes[0].title).to.be.equal('Confidential Business Information under TSCA');
-      expect(podcast.episodes[3].title).to.be.equal('Introducing All Things Chemical ');
+      expect(podcast.episodes[3].title).to.be.equal('Introducing All Things Chemical');
     });
 
     describe('Checking Episode of Podcast', () => {
@@ -139,7 +139,7 @@ describe('Getting Podcast Object from Sample Feed', () => {
 
       it('should have expected information', () => {
         expect(money.episodes[0].title).to.equal('#980: The Fed Fights The Virus');
-        expect(money.episodes[0].description).to.equal('The central bank is trying to prevent a health crisis from becoming a financial crisis. | Subscribe to our weekly newsletter <a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&utm_medium=podcast&utm_term=planet_money">here</a>. ');
+        expect(money.episodes[0].description).to.equal('The central bank is trying to prevent a health crisis from becoming a financial crisis. | Subscribe to our weekly newsletter <a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&utm_medium=podcast&utm_term=planet_money">here</a>.');
         expect(money.episodes[0].image.url).to.equal('https://media.npr.org/assets/img/2020/03/16/gettyimages-1204924943-594x594_wide-60e13736df6bfcb9135f158ec2873956f134aef4.jpg?s=1400');
         expect(money.episodes[0].episodeType).to.equal('full');
         expect(money.episodes[0].link).to.equal('https://www.npr.org/2020/03/16/816684372/episode-980-the-fed-fights-the-virus');
@@ -176,7 +176,7 @@ describe('Checking re-ordering functionality', () => {
     const podcast = getPodcastFromFeed(sampleFeedOrder);
     expect(podcast.episodes[3].title).to.equal('Chemical Regulation in the Middle East'); // order 1
     expect(podcast.episodes[2].title).to.equal('Animal Testing and New TSCA'); // order 2
-    expect(podcast.episodes[1].title).to.equal('Introducing All Things Chemical '); // default ordering by pubDate
+    expect(podcast.episodes[1].title).to.equal('Introducing All Things Chemical'); // default ordering by pubDate
   });
 
   it('should order by title when no order is specified and pubDate is the same', () => {

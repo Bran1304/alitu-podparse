@@ -258,9 +258,25 @@ function cleaners(ns) {
       return undefined;
     },
 
+    summary(node) {
+      return (cleanDefault(node) || '').trim();
+    },
+
+    title(node) {
+      return (cleanDefault(node) || '').trim();
+    },
+
+    subtitle(node) {
+      return (cleanDefault(node) || '').trim();
+    },
+
+    description(node) {
+      return (cleanDefault(node) || '').trim();
+    },
+
     guid(node) {
       const id = cleanDefault(node);
-      return (typeof id === 'string') ? id : id._;
+      return (((typeof id === 'string') ? id : id._) || '').trim();
     },
   };
 }
