@@ -17,6 +17,7 @@ const badSampleFeed = fs.readFileSync(`${testFilesPath}/bc-sample-bad.xml`, 'utf
 const sampleFeedOrder = fs.readFileSync(`${testFilesPath}/bc-sample-order.xml`, 'utf8').toString();
 const replyAllOrdering = fs.readFileSync(`${testFilesPath}/replyall-sample-ordering.xml`, 'utf8').toString();
 const planeyMoney = fs.readFileSync(`${testFilesPath}/planet-money.xml`, 'utf8').toString();
+const theDaily = fs.readFileSync(`${testFilesPath}/the-daily.xml`, 'utf8').toString();
 
 describe('Reading files', () => {
   it('should read the file', () => {
@@ -121,7 +122,7 @@ describe('Getting Podcast Object from Sample Feed', () => {
         expect(podcast.episodes[0].link).to.equal('http://allthingschemical.libsyn.com/confidential-business-information-under-tsca');
         expect(podcast.episodes[0].language).to.be.undefined;
         expect(podcast.episodes[0].enclosure).to.eql({
-          length: '28882931',
+          length: 28882931,
           type: 'audio/mpeg',
           url: 'https://traffic.libsyn.com/secure/allthingschemical/ep3_final_96.mp3?dest-id=814653',
         });
@@ -130,6 +131,41 @@ describe('Getting Podcast Object from Sample Feed', () => {
         expect(podcast.episodes[0].blocked).to.be.undefined;
         expect(podcast.episodes[0].explicit).to.equal(false);
         expect(podcast.episodes[0].order).to.be.undefined;
+      });
+    });
+
+    describe('Parsing Planet Money', () => {
+      const money = getPodcastFromFeed(planeyMoney);
+
+      it('should have expected information', () => {
+        expect(money.episodes[0].title).to.equal('#980: The Fed Fights The Virus');
+        expect(money.episodes[0].description).to.equal('The central bank is trying to prevent a health crisis from becoming a financial crisis. | Subscribe to our weekly newsletter <a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&utm_medium=podcast&utm_term=planet_money">here</a>. ');
+        expect(money.episodes[0].image.url).to.equal('https://media.npr.org/assets/img/2020/03/16/gettyimages-1204924943-594x594_wide-60e13736df6bfcb9135f158ec2873956f134aef4.jpg?s=1400');
+        expect(money.episodes[0].episodeType).to.equal('full');
+        expect(money.episodes[0].link).to.equal('https://www.npr.org/2020/03/16/816684372/episode-980-the-fed-fights-the-virus');
+        expect(money.episodes[0].pubDate).to.equal('2020-03-16T21:50:01.000Z');
+        expect(money.episodes[0].duration).to.equal(1097);
+        expect(money.episodes[0].summary).to.equal('The Federal Reserve usually has one main job: setting interest rates. But in emergencies, another Fed job becomes more important: trying to prevent a financial crisis.');
+        expect(money.episodes[0].enclosure.url).to.equal('https://play.podtrac.com/npr-510289/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/pmoney/2020/03/20200316_pmoney_pmpod980-e086b0be-e27c-44eb-a088-d76e3104fb20.mp3?awCollectionId=510289&awEpisodeId=816684372&orgId=1&topicId=1017&aggIds=812054919&d=1097&p=510289&story=816684372&t=podcast&e=816684372&size=17556408&ft=pod&f=510289');
+        expect(money.episodes[0].enclosure.length).to.equal(17556408);
+        expect(money.episodes[0].enclosure.type).to.equal('audio/mpeg');
+        expect(money.episodes[0].guid).to.equal('5b88529b-fed8-4562-8312-61e4b24b0451');
+      });
+    });
+
+    describe('Parsing The Daily', () => {
+      const daily = getPodcastFromFeed(theDaily);
+
+      it('should have expected information', () => {
+        expect(daily.episodes[0].title).to.equal('Gov. Andrew Cuomo: ‘It’s Making Sure We Live Through This.’');
+        expect(daily.episodes[0].image.url).to.equal('https://content.production.cdn.art19.com/images/01/1b/f3/d6/011bf3d6-a448-4533-967b-e2f19e376480/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg');
+        expect(daily.episodes[0].episodeType).to.equal('full');
+        expect(daily.episodes[0].pubDate).to.equal('2020-03-18T09:52:39.000Z');
+        expect(daily.episodes[0].duration).to.equal((60 * 30) + 52);
+        expect(daily.episodes[0].enclosure.url).to.equal('https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/4bc87d0e-844c-4008-9a7e-b5bff3114ded.mp3');
+        expect(daily.episodes[0].enclosure.length).to.equal(29635395);
+        expect(daily.episodes[0].enclosure.type).to.equal('audio/mpeg');
+        expect(daily.episodes[0].guid).to.equal('gid://art19-episode-locator/V0/eooL1KYI_E0xdACmvP47Uaj_PHCfMpQIB8oH6V5V09E');
       });
     });
   });

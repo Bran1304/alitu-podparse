@@ -116,6 +116,10 @@ function getters(ns) {
       return node[`${ns.itunes}:type`];
     },
 
+    guid(node) {
+      return node.guid;
+    },
+
     categories(node) {
       // returns categories as an array containing each category/sub-category
       // grouping in lists. If there is a sub-category, it is the second element
@@ -146,11 +150,19 @@ function getDefault(node, field) {
 =======================
 */
 
+function cleanDefault(node) {
+  // return first item of array
+  if (node !== undefined && Array.isArray(node) && node[0] !== undefined) {
+    return node[0];
+  }
+  return node;
+}
+
 function cleaners(ns) {
   return {
     enclosure([enclosure]) {
       return removeEmpties({
-        length: enclosure.$.length,
+        length: ('length' in enclosure.$) ? Number.parseInt(enclosure.$.length, 10) : NaN,
         type: enclosure.$.type,
         url: enclosure.$.url,
       });
@@ -245,15 +257,12 @@ function cleaners(ns) {
       }
       return undefined;
     },
-  };
-}
 
-function cleanDefault(node) {
-  // return first item of array
-  if (node !== undefined && Array.isArray(node) && node[0] !== undefined) {
-    return node[0];
-  }
-  return node;
+    guid(node) {
+      const id = cleanDefault(node);
+      return (typeof id === 'string') ? id : id._;
+    },
+  };
 }
 
 /*
