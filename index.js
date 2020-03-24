@@ -10,6 +10,10 @@ function isEmptyObject(obj) {
   return (Object.keys(obj).length === 0 && obj.constructor === Object);
 }
 
+function isEmptyString(str) {
+  return (str === null || str === undefined || str.length === 0);
+}
+
 function removeEmpties(obj) {
   // Filter empty Array values
   if (Array.isArray(obj)) {
@@ -125,13 +129,26 @@ function getters(ns) {
       // grouping in lists. If there is a sub-category, it is the second element
       // of an array.
 
-      const categoryAttr = `${ns.itunes}:category`;
-      const categoriesArray = node[categoryAttr].map((item) => {
+      const cats = (
+        node[`${ns.itunes}:category`] ||
+        node[`${ns.googleplay}:category`] ||
+        []
+      );
+
+      const categoriesArray = cats.map((item) => {
         const category = [];
         category.push(item.$.text); // primary category
-        if (item[categoryAttr]) { // sub-category
-          category.push(item[categoryAttr][0].$.text);
+
+        // iTunes sub-category
+        if (item[`${ns.itunes}:category`]) {
+          category.push(item[`${ns.itunes}:category`][0].$.text);
         }
+
+        // Google Play sub-category
+        if (item[`${ns.googleplay}:category`]) {
+          category.push(item[`${ns.googleplay}:category`][0].$.text);
+        }
+
         return category;
       });
 
@@ -156,6 +173,18 @@ function cleanDefault(node) {
     return node[0];
   }
   return node;
+}
+
+function cleanDate(dateString) {
+  if (isEmptyString(dateString)) {
+    return dateString;
+  }
+
+  try {
+    return new Date(dateString).toISOString();
+  } catch (error) { // RangeError
+    return dateString;
+  }
 }
 
 function cleaners(ns) {
@@ -232,11 +261,11 @@ function cleaners(ns) {
     },
 
     lastUpdated(string) {
-      return new Date(string).toISOString();
+      return cleanDate(string);
     },
 
     pubDate(string) {
-      return new Date(string).toISOString();
+      return cleanDate(string);
     },
 
     complete(string) {
