@@ -365,6 +365,10 @@ function episodeComparator(a, b) {
 
 // function builds episode objects from parsed podcast feed
 function createEpisodesObjectFromFeed(channel, namespaces) {
+  if (!('item' in channel)) {
+    return [];
+  }
+
   const GET = getters(namespaces);
   const CLEAN = cleaners(namespaces);
 
