@@ -187,6 +187,14 @@ function cleanDate(dateString) {
   }
 }
 
+function cleanString(node) {
+  let string = cleanDefault(node);
+  if (typeof string === 'string') {
+    return string.trim();
+  }
+  return string;
+}
+
 function cleaners(ns) {
   return {
     enclosure([enclosure]) {
@@ -288,19 +296,19 @@ function cleaners(ns) {
     },
 
     summary(node) {
-      return (cleanDefault(node) || '').trim();
+      return cleanString(node);
     },
 
     title(node) {
-      return (cleanDefault(node) || '').trim();
+      return cleanString(node);
     },
 
     subtitle(node) {
-      return (cleanDefault(node) || '').trim();
+      return cleanString(node);
     },
 
     description(node) {
-      return (cleanDefault(node) || '').trim();
+      return cleanString(node);
     },
 
     guid(node) {
