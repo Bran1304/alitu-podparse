@@ -206,6 +206,10 @@ function cleaners(ns) {
     },
 
     image([img]) {
+      if (typeof img === 'string') {
+        return img;
+      }
+
       // itunes:image
       if ('$' in img) {
         return {
@@ -411,6 +415,7 @@ function parseXMLFeed(feedText) {
 
 const XMLNS = 'xmlns:';
 function getNamespacePrefix(feed, nsUri, defaultPrefix) {
+  if (!feed.rss) { return defaultPrefix; }
   const [prefix] = (Object.entries(feed.rss.$).find(([_, uri]) => uri === nsUri) || []);
   return (((prefix || '').startsWith(XMLNS)) ? prefix.substr(XMLNS.length) : prefix) || defaultPrefix;
 }
