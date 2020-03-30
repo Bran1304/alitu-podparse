@@ -1,4 +1,4 @@
-const { parseString } = require('xml2js');
+const { Parser } = require('xml2js');
 
 const ITUNES_URI = 'http://www.itunes.com/dtds/podcast-1.0.dtd';
 const GOOGLE_URI = 'http://www.google.com/schemas/play-podcasts/1.0';
@@ -187,14 +187,6 @@ function cleanDate(dateString) {
   }
 }
 
-function cleanString(node) {
-  const string = cleanDefault(node);
-  if (typeof string === 'string') {
-    return string.trim();
-  }
-  return string;
-}
-
 function cleaners(ns) {
   return {
     enclosure([enclosure]) {
@@ -232,7 +224,7 @@ function cleaners(ns) {
       // * [hours]:[minutes]:[seconds]
       // * [minutes]:[seconds]
       // * [total_seconds]
-      const dur = cleanString(string);
+      const dur = cleanDefault(string);
       const times = dur.split(':').map(Number);
       const [h, m, s] = times;
       switch (times.length) {
@@ -282,17 +274,17 @@ function cleaners(ns) {
     },
 
     complete(node) {
-      const string = cleanString(node);
+      const string = cleanDefault(node);
       return ((string || '').toLowerCase() === 'yes');
     },
 
     blocked(node) {
-      const string = cleanString(node);
+      const string = cleanDefault(node);
       return ((string || '').toLowerCase() === 'yes');
     },
 
     explicit(node) {
-      const string = cleanString(node);
+      const string = cleanDefault(node);
       const explicit = (string || '').toLowerCase();
       if (['yes', 'explicit', 'true'].includes(explicit)) {
         return true;
@@ -304,24 +296,24 @@ function cleaners(ns) {
     },
 
     summary(node) {
-      return cleanString(node);
+      return cleanDefault(node);
     },
 
     title(node) {
-      return cleanString(node);
+      return cleanDefault(node);
     },
 
     subtitle(node) {
-      return cleanString(node);
+      return cleanDefault(node);
     },
 
     description(node) {
-      return cleanString(node);
+      return cleanDefault(node);
     },
 
     guid(node) {
       const id = cleanDefault(node);
-      return (((typeof id === 'string') ? id : id._) || '').trim();
+      return (((typeof id === 'string') ? id : id._) || '');
     },
   };
 }
@@ -405,13 +397,19 @@ function createLinksObjectFromFeed(channel, namespaces) {
 ======================
 */
 
+const xmlParser = new Parser({
+  normalize: true,
+  trim: true,
+});
+
 function parseXMLFeed(feedText) {
-  const feed = {};
-  parseString(feedText, (error, result) => {
+  xmlParser.reset();
+  let feed = { };
+  xmlParser.parseString(feedText, (error, result) => {
     if (error) {
       throw new Error(`Error parsing feed: ${error.message}`);
     }
-    Object.assign(feed, result);
+    feed = result;
     return result;
   });
   return feed;
