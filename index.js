@@ -130,9 +130,9 @@ function getters(ns) {
       // of an array.
 
       const cats = (
-        node[`${ns.itunes}:category`] ||
-        node[`${ns.googleplay}:category`] ||
-        []
+        node[`${ns.itunes}:category`]
+        || node[`${ns.googleplay}:category`]
+        || []
       );
 
       const categoriesArray = cats.map((item) => {
@@ -188,7 +188,7 @@ function cleanDate(dateString) {
 }
 
 function cleanString(node) {
-  let string = cleanDefault(node);
+  const string = cleanDefault(node);
   if (typeof string === 'string') {
     return string.trim();
   }
@@ -232,7 +232,8 @@ function cleaners(ns) {
       // * [hours]:[minutes]:[seconds]
       // * [minutes]:[seconds]
       // * [total_seconds]
-      const times = string[0].split(':').map(Number);
+      const dur = cleanString(string);
+      const times = dur.split(':').map(Number);
       const [h, m, s] = times;
       switch (times.length) {
         case 3:
@@ -280,16 +281,19 @@ function cleaners(ns) {
       return cleanDate(string);
     },
 
-    complete(string) {
-      return ((string[0] || '').toLowerCase() === 'yes');
+    complete(node) {
+      const string = cleanString(node);
+      return ((string || '').toLowerCase() === 'yes');
     },
 
-    blocked(string) {
-      return ((string[0] || '').toLowerCase() === 'yes');
+    blocked(node) {
+      const string = cleanString(node);
+      return ((string || '').toLowerCase() === 'yes');
     },
 
-    explicit(string) {
-      const explicit = (string[0] || '').toLowerCase();
+    explicit(node) {
+      const string = cleanString(node);
+      const explicit = (string || '').toLowerCase();
       if (['yes', 'explicit', 'true'].includes(explicit)) {
         return true;
       }
@@ -416,7 +420,7 @@ function parseXMLFeed(feedText) {
 const XMLNS = 'xmlns:';
 function getNamespacePrefix(feed, nsUri, defaultPrefix) {
   if (!feed.rss) { return defaultPrefix; }
-  const [prefix] = (Object.entries(feed.rss.$).find(([_, uri]) => uri === nsUri) || []);
+  const [prefix] = (Object.entries(feed.rss.$).find(([, uri]) => uri === nsUri) || []);
   return (((prefix || '').startsWith(XMLNS)) ? prefix.substr(XMLNS.length) : prefix) || defaultPrefix;
 }
 
