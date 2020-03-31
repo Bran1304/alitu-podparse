@@ -1,0 +1,5 @@
+index-xml2js.js
+test/
+.travis.yml
+.eslintrc.js
+.gitignore
