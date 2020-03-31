@@ -21,6 +21,8 @@ const theDaily = fs.readFileSync(`${testFilesPath}/the-daily.xml`, 'utf8').toStr
 const orbita = fs.readFileSync(`${testFilesPath}/orbita.xml`, 'utf8').toString();
 const ruminant = fs.readFileSync(`${testFilesPath}/ruminant.xml`, 'utf8').toString();
 const enigma = fs.readFileSync(`${testFilesPath}/enigma.xml`, 'utf8').toString();
+const itunesu = fs.readFileSync(`${testFilesPath}/itunesu.xml`, 'utf8').toString();
+const extraContent = fs.readFileSync(`${testFilesPath}/canal.xml`, 'utf8').toString();
 
 describe('Reading files', () => {
   it('should read the file', () => {
@@ -35,6 +37,11 @@ describe('Parsing Local Feeds', () => {
 
   it('should parse a bad feed and return an error', () => {
     expect(() => getPodcastFromFeed(badSampleFeed)).to.throw();
+  });
+
+  it('should throw an error for extra content', () => {
+    // extra content before or after the XML document
+    expect(() => getPodcastFromFeed(extraContent)).to.throw();
   });
 });
 
@@ -227,5 +234,13 @@ describe('Deduplication', () => {
   it('should deduplicate categories', () => {
     const podcast = getPodcastFromFeed(orbita);
     expect(podcast.meta.category).to.eql(['Comedy']);
+  });
+});
+
+describe('Duration element', () => {
+  // i.e. <itunes:duration></itunes:duration>
+  it('handles empty duration', () => {
+    const podcast = getPodcastFromFeed(itunesu);
+    expect(podcast.episodes[0].duration).to.be.undefined;
   });
 });

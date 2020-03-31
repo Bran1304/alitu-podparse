@@ -1,0 +1,103 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>História da Arte</title>
+        <link>http://deimos3.apple.com/WebObjects/Core.woa/Browse/animaeducacao.com.br-dz.22142534580.022142534582</link>
+        <itunes:author>Anima Educação</itunes:author>
+        <description>História da Arte</description>
+        <category>Arts</category>
+        <itunes:category text="iTunes U">
+        
+            
+            
+                <itunes:category text="Arts"/>
+            
+        
+        </itunes:category>
+        <itunes:provider>Anima Educação</itunes:provider>
+        <language>EN</language>
+        <itunes:block>no</itunes:block>
+        <copyright></copyright>
+        <itunes:summary></itunes:summary>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:complete>false</itunes:complete>
+        
+        <itunes:image href="http://a667.phobos.apple.com/us/r30/Podcasts/v4/b7/d3/6a/b7d36a74-6749-08c6-0d72-6ade538fa550/mza_2174269419275828272.jpg"></itunes:image>
+        
+            <item>
+                <title>Historia da Arte</title>
+                <itunes:subtitle></itunes:subtitle>
+                <description></description>
+                <itunes:summary></itunes:summary>
+                <itunes:image href="https://is2-ssl.mzstatic.com/image/thumb/Podcasts/v4/b7/d3/6a/b7d36a74-6749-08c6-0d72-6ade538fa550/mza_2174269419275828272.jpg/600x600bb.jpg"></itunes:image>
+                <enclosure url="https://itunesu-assets.itunes.apple.com/itunes-assets/CobaltPublic/v4/63/ac/fb/63acfbf4-3bba-202f-d39c-06eabca86385/8a67332436fdafdbb1457e21daf1fc03a73f1d8a8bca62cf87433678dfa2a9f4-22136496844.epub?a=v%3D3%26artistId%3D1280772903%26podcastId%3D605355776%26podcastName%3DHist%25C3%25B3ria%2Bda%2BArte%26episodeId%3D1000133351488%26episodeName%3DHistoria%2Bda%2BArte%26episodeKind%3Dpdf%26pageLocation%3Ditc"></enclosure>
+                <guid isPermaLink="false">22136496845</guid>
+                <pubDate>Tue, 19 Feb 2013 14:38:37 GMT</pubDate>
+                <itunes:author>Alexandra Nascimento</itunes:author>
+                <itunes:duration></itunes:duration>
+                
+                <category>Arts</category>
+                <itunes:provider>Anima Educação</itunes:provider>
+                
+                <itunes:block>no</itunes:block>
+                <itunes:order>1</itunes:order>
+            </item>
+        
+            <item>
+                <title>Historia da Arte - Renascimento</title>
+                <itunes:subtitle></itunes:subtitle>
+                <description></description>
+                <itunes:summary></itunes:summary>
+                <itunes:image href="https://is2-ssl.mzstatic.com/image/thumb/Podcasts/v4/b7/d3/6a/b7d36a74-6749-08c6-0d72-6ade538fa550/mza_2174269419275828272.jpg/600x600bb.jpg"></itunes:image>
+                <enclosure url="https://itunesu-assets.itunes.apple.com/itunes-assets/CobaltPublic6/v4/f7/63/36/f763368c-db37-d1e9-6e78-61441594161b/33e676114bdd5156a31cec5117ac58da2714dfcbfae6bb6046472e0d26105927-22135039436.mov?a=v%3D3%26artistId%3D1280772903%26podcastId%3D605355776%26podcastName%3DHist%25C3%25B3ria%2Bda%2BArte%26episodeId%3D1000133351489%26episodeName%3DHistoria%2Bda%2BArte%2B-%2BRenascimento%26episodeKind%3Dmovie%26pageLocation%3Ditc"></enclosure>
+                <guid isPermaLink="false">22135039437</guid>
+                <pubDate>Tue, 19 Feb 2013 14:53:19 GMT</pubDate>
+                <itunes:author>Alexandra Nascimento</itunes:author>
+                <itunes:duration></itunes:duration>
+                
+                <category>Arts</category>
+                <itunes:provider>Anima Educação</itunes:provider>
+                
+                <itunes:block>no</itunes:block>
+                <itunes:order>2</itunes:order>
+            </item>
+        
+            <item>
+                <title>Historia da Arte - Barroco</title>
+                <itunes:subtitle></itunes:subtitle>
+                <description></description>
+                <itunes:summary></itunes:summary>
+                <itunes:image href="https://is2-ssl.mzstatic.com/image/thumb/Podcasts/v4/b7/d3/6a/b7d36a74-6749-08c6-0d72-6ade538fa550/mza_2174269419275828272.jpg/600x600bb.jpg"></itunes:image>
+                <enclosure url="https://itunesu-assets.itunes.apple.com/itunes-assets/CobaltPublic4/v4/37/9f/16/379f161e-d29b-366b-37d3-2173406157ee/5027a1defac4e0a76dcb0b4e70d816b3f6f4de334f4594ebc523ad8dac5c5489-22136644503.mov?a=v%3D3%26artistId%3D1280772903%26podcastId%3D605355776%26podcastName%3DHist%25C3%25B3ria%2Bda%2BArte%26episodeId%3D1000134390560%26episodeName%3DHistoria%2Bda%2BArte%2B-%2BBarroco%26episodeKind%3Dmovie%26pageLocation%3Ditc"></enclosure>
+                <guid isPermaLink="false">22136644504</guid>
+                <pubDate>Tue, 19 Feb 2013 14:57:15 GMT</pubDate>
+                <itunes:author>Alexandra Nascimento</itunes:author>
+                <itunes:duration></itunes:duration>
+                
+                <category>Arts</category>
+                <itunes:provider>Anima Educação</itunes:provider>
+                
+                <itunes:block>no</itunes:block>
+                <itunes:order>3</itunes:order>
+            </item>
+        
+            <item>
+                <title>Historia da Arte - Impressionismo</title>
+                <itunes:subtitle></itunes:subtitle>
+                <description></description>
+                <itunes:summary></itunes:summary>
+                <itunes:image href="https://is2-ssl.mzstatic.com/image/thumb/Podcasts/v4/b7/d3/6a/b7d36a74-6749-08c6-0d72-6ade538fa550/mza_2174269419275828272.jpg/600x600bb.jpg"></itunes:image>
+                <enclosure url="https://itunesu-assets.itunes.apple.com/itunes-assets/CobaltPublic4/v4/24/fa/90/24fa902c-8a5d-6f00-b8c2-c799a99b6c67/8f30c5fb54d1f57e6d1b51a7e02aaf6727b061873959519ac3b73ef297f4f55c-22136660943.mov?a=v%3D3%26artistId%3D1280772903%26podcastId%3D605355776%26podcastName%3DHist%25C3%25B3ria%2Bda%2BArte%26episodeId%3D1000134390559%26episodeName%3DHistoria%2Bda%2BArte%2B-%2BImpressionismo%26episodeKind%3Dmovie%26pageLocation%3Ditc"></enclosure>
+                <guid isPermaLink="false">22136660944</guid>
+                <pubDate>Tue, 19 Feb 2013 15:01:17 GMT</pubDate>
+                <itunes:author>Alexandra Nascimento</itunes:author>
+                <itunes:duration></itunes:duration>
+                
+                <category>Arts</category>
+                <itunes:provider>Anima Educação</itunes:provider>
+                
+                <itunes:block>no</itunes:block>
+                <itunes:order>4</itunes:order>
+            </item>
+        
+    </channel>
+</rss>

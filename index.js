@@ -175,6 +175,8 @@ const rssElements = Object.freeze({
     if (!node) { return null; }
 
     const dur = getText([node]);
+    if (isEmptyString(dur)) { return null; }
+
     const times = dur.split(':').map(Number);
     const [h, m, s] = times;
 

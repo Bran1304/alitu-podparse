@@ -1,0 +1,1012 @@
+<br />
+<b>Warning</b>:  count(): Parameter must be an array or an object that implements Countable in <b>/home/meiahori/public_html/wp-content/themes/maronpro/lib/metaboxes/init.php</b> on line <b>746</b><br />
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /home/meiahori/public_html/wp-content/themes/maronpro/lib/metaboxes/init.php:746) in <b>/home/meiahori/public_html/wp-content/plugins/sg-cachepress/core/Supercacher/Supercacher_Helper.php</b> on line <b>77</b><br />
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+<channel>
+	<title>Canal Meia Horinha</title>
+	<atom:link href="https://meiahorinha.com/feed/podcast/" rel="self" type="application/rss+xml" />
+	<link>https://meiahorinha.com</link>
+	<description>Espaço para discussão de temas relacionados a Liderança, Empreendedorismo, Insights, Educação Financeira entre outros, sempre com muito bom humor !</description>
+	<lastBuildDate>Thu, 01 Feb 2018 02:28:21 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<!-- podcast_generator="Blubrry PowerPress/8.0.3" mode="advanced" feedslug="podcast" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+	<itunes:summary>Sabe aquela meia horinha logo após terminar de almoçar, onde o papo rola solto e você dá muita risada com as histórias da turma ? &lt;br /&gt;
+Foi durante essas conversas que reparei que a liderança pode ser desenvolvida e praticada de diversas maneiras, seja através de um jogo de celular, organização de um evento ou uma viagem, e que temas como educação financeira e empreendedorismo estão cada vez mais em pauta, só que ainda existem muitas dúvidas.&lt;br /&gt;
+Foi  pensando nisso criamos um espaço para discussão e debate desses temas e insigths ! Bem vindo ao Canal Meia Horinha, contamos com sua audiência e não deixem de enviar suas sugestões.</itunes:summary>
+	<itunes:author>Meia Horinha - Empreendedorismo</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="https://meiahorinha.com/wp-content/uploads/2017/06/iTunes-Cover.jpg" />
+	<itunes:owner>
+		<itunes:name>Meia Horinha - Empreendedorismo</itunes:name>
+		<itunes:email>contato@meiahorinha.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>contato@meiahorinha.com (Meia Horinha - Empreendedorismo)</managingEditor>
+	<itunes:subtitle>Espaço para discussão de temas relacionados a Liderança, Empreendedorismo, Insights, Educação Financeira entre outros, sempre com muito bom humor !</itunes:subtitle>
+	<image>
+		<title>Canal Meia Horinha</title>
+		<url>https://meiahorinha.com/wp-content/uploads/2017/06/iTunes-Cover.jpg</url>
+		<link>https://meiahorinha.com</link>
+	</image>
+	<itunes:category text="Business">
+		<itunes:category text="Careers"></itunes:category>
+	</itunes:category>
+	<googleplay:category text="Business"/>
+	<rawvoice:rating>TV-G</rawvoice:rating>
+	<rawvoice:location>Brasil</rawvoice:location>
+	<rawvoice:subscribe feed="https://meiahorinha.com/feed/podcast/" html="https://meiahorinha.com/subscribe-to-podcast/" itunes="https://itunes.apple.com/us/podcast/canal-meia-horinha/id1218038519 " blubrry="https://www.blubrry.com/canalmeiahorinha/"></rawvoice:subscribe>
+	<item>
+		<title>#7 &#8211; Gerenciamento de Projetos &#8211; Muito mais que uma certificação</title>
+		<link>https://meiahorinha.com/7-gerenciamento-de-projetos-muito-mais-que-uma-certificacao/</link>
+		<pubDate>Thu, 08 Jun 2017 23:09:12 +0000</pubDate>
+		<guid isPermaLink="false">https://meiahorinha.com/?p=519</guid>
+		<description>Gerenciamento de projetos é muito mais do tirar uma certificação PMP ! - Essas são as palavras do nosso convidado de hoje, que vai compartilhar sua experiência no mundo de Gerenciamento de Projetos, sobre metodologias, certificações e a vida real nesse mundo.
+
+Se você já atua nessa área ou está pensando em começar uma carreira, confira esse bate papo e entenda por onde começar, que certificações existem no mercado, o que cada uma das metodologias tem de bom, e muito mais.
+
+Os principais tópicos que pautaram essa discussão foram:
+
+Prince 2, PMI, Scrum Alliance, Gerenciamento de Projetos, Programas e Portifolio entre outros.
+
+Contamos com a presença de um convidado especial:
+
+Enio Moraes
+
+
+
+ 
+
+Formado em Engenharia Elétrica pela UNESP de Guaratinguetá, com parte de sua formação realizada na universidade de Grenoble- França.
+
+Atuou 5 anos como gestor de projetos numa grande construtora brasileira, onde teve que buscar a gestão de projetos como um meio para alcançar excelência nos resultados dentro de um projeto de uma usina hidrelétrica com 50 turbinas do tipo bulbo.
+
+Atualmente, atua numa grande multinacional no ramo de produtos médicos , com a gestão de projetos e portfólio.
+
+Possui MBA em Gestão de projetos pela FGV, especialização em gestão de projetos pela Universidade de Baeza - Espanha, e certificações como o PMP - Project Management  Professional do PMI e recentemente, a certificação de implementação de PMO pela metodologia VALUE RING - PMO-CP.
+
+Além de conhecimentos nas metodologias de Corrente critica, métodos ágeis e design Thinking.
+
+ 
+
+O time finaliza o episódio com as &quot;Dicas do que fazer naquela meia horinha !&quot;
+
+Referências:
+
+Filipe: Livro: Scrum: a arte de fazer o dobro do trabalho na metade do tempo - Jeff Sutherland (https://www.amazon.com.br/Scrum-fazer-dobro-trabalho-metade-ebook/dp/B01N0QKCL5)
+
+Hélio: Livro: Gestão de Projetos - Jack Gido e James P. Clements (https://www.estantevirtual.com.br/b/jack-gido-e-james-p-clements/gestao-de-projetos/2996890982)
+
+Luciano: Webinar PMI - Ricardo Vagas (https://www.youtube.com/watch?v=Dzn-QYre8To)
+
+Enio: PMO Value Ring: http://www.pmovaluering.com/</description>
+		<content:encoded><![CDATA[
+<p>Gerenciamento de projetos é muito mais do tirar uma certificação PMP ! &#8211; Essas são as palavras do nosso convidado de hoje, que vai compartilhar sua experiência no mundo de Gerenciamento de Projetos, sobre metodologias, certificações e a vida real nesse mundo.</p>
+<p>Se você já atua nessa área ou está pensando em começar uma carreira, confira esse bate papo e entenda por onde começar, que certificações existem no mercado, o que cada uma das metodologias tem de bom, e muito mais.</p>
+<p>Os principais tópicos que pautaram essa discussão foram:</p>
+<p>Prince 2, PMI, Scrum Alliance, Gerenciamento de Projetos, Programas e Portifolio entre outros.</p>
+<p><strong>Contamos com a presença de um convidado especial:</strong></p>
+<p><strong>Enio Moraes</strong></p>
+<p><img src="https://meiahorinha.com/wp-content/uploads/2017/06/WhatsApp-Image-2017-06-03-at-9.16.59-AM.jpeg" alt="" width="188" height="251" class="alignleft wp-image-522" srcset="https://i1.wp.com/meiahorinha.com/wp-content/uploads/2017/06/WhatsApp-Image-2017-06-03-at-9.16.59-AM.jpeg?w=960&amp;ssl=1 960w, https://i1.wp.com/meiahorinha.com/wp-content/uploads/2017/06/WhatsApp-Image-2017-06-03-at-9.16.59-AM.jpeg?resize=225%2C300&amp;ssl=1 225w, https://i1.wp.com/meiahorinha.com/wp-content/uploads/2017/06/WhatsApp-Image-2017-06-03-at-9.16.59-AM.jpeg?resize=768%2C1024&amp;ssl=1 768w" sizes="(max-width: 188px) 100vw, 188px" /></p>
+<p>&nbsp;</p>
+<p>Formado em Engenharia Elétrica pela UNESP de Guaratinguetá, com parte de sua formação realizada na universidade de Grenoble- França.</p>
+<p>Atuou 5 anos como gestor de projetos numa grande construtora brasileira, onde teve que buscar a gestão de projetos como um meio para alcançar excelência nos resultados dentro de um projeto de uma usina hidrelétrica com 50 turbinas do tipo bulbo.</p>
+<p>Atualmente, atua numa grande multinacional no ramo de produtos médicos , com a gestão de projetos e portfólio.</p>
+<p>Possui MBA em Gestão de projetos pela FGV, especialização em gestão de projetos pela Universidade de Baeza &#8211; Espanha, e certificações como o PMP &#8211; Project Management  Professional do PMI e recentemente, a certificação de implementação de PMO pela metodologia VALUE RING &#8211; PMO-CP.</p>
+<p>Além de conhecimentos nas metodologias de Corrente critica, métodos ágeis e design Thinking.</p>
+<p>&nbsp;</p>
+<p><strong>O time finaliza o episódio com as &#8220;Dicas do que fazer naquela meia horinha !&#8221;</strong></p>
+<p>Referências:</p>
+<p><strong>Filipe:</strong> Livro: Scrum: a arte de fazer o dobro do trabalho na metade do tempo &#8211; Jeff Sutherland (<a href="https://www.amazon.com.br/Scrum-fazer-dobro-trabalho-metade-ebook/dp/B01N0QKCL5">https://www.amazon.com.br/Scrum-fazer-dobro-trabalho-metade-ebook/dp/B01N0QKCL5</a>)</p>
+<p><strong>Hélio:</strong> Livro: Gestão de Projetos &#8211; Jack Gido e James P. Clements (<a href="https://www.estantevirtual.com.br/b/jack-gido-e-james-p-clements/gestao-de-projetos/2996890982">https://www.estantevirtual.com.br/b/jack-gido-e-james-p-clements/gestao-de-projetos/2996890982</a>)</p>
+<p><strong>Luciano: </strong>Webinar PMI &#8211; Ricardo Vagas (<a href="https://www.youtube.com/watch?v=Dzn-QYre8To">https://www.youtube.com/watch?v=Dzn-QYre8To</a>)</p>
+<p><strong>Enio:</strong> PMO Value Ring: <a href="http://www.pmovaluering.com/">http://www.pmovaluering.com/</a></p>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/canalmeiahorinha/content.blubrry.com/canalmeiahorinha/cmh_007_v00.mp3" length="30801821" type="audio/mpeg" />
+		<itunes:subtitle>Gerenciamento de projetos é muito mais do tirar uma certificação PMP ! - Essas são as palavras do nosso convidado de hoje, que vai compartilhar sua experiência no mundo de Gerenciamento de Projetos, sobre metodologias,</itunes:subtitle>
+		<itunes:summary>Gerenciamento de projetos é muito mais do tirar uma certificação PMP ! - Essas são as palavras do nosso convidado de hoje, que vai compartilhar sua experiência no mundo de Gerenciamento de Projetos, sobre metodologias, certificações e a vida real nesse mundo.&lt;br /&gt;
+&lt;br /&gt;
+Se você já atua nessa área ou está pensando em começar uma carreira, confira esse bate papo e entenda por onde começar, que certificações existem no mercado, o que cada uma das metodologias tem de bom, e muito mais.&lt;br /&gt;
+&lt;br /&gt;
+Os principais tópicos que pautaram essa discussão foram:&lt;br /&gt;
+&lt;br /&gt;
+Prince 2, PMI, Scrum Alliance, Gerenciamento de Projetos, Programas e Portifolio entre outros.&lt;br /&gt;
+&lt;br /&gt;
+Contamos com a presença de um convidado especial:&lt;br /&gt;
+&lt;br /&gt;
+Enio Moraes&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ &lt;br /&gt;
+&lt;br /&gt;
+Formado em Engenharia Elétrica pela UNESP de Guaratinguetá, com parte de sua formação realizada na universidade de Grenoble- França.&lt;br /&gt;
+&lt;br /&gt;
+Atuou 5 anos como gestor de projetos numa grande construtora brasileira, onde teve que buscar a gestão de projetos como um meio para alcançar excelência nos resultados dentro de um projeto de uma usina hidrelétrica com 50 turbinas do tipo bulbo.&lt;br /&gt;
+&lt;br /&gt;
+Atualmente, atua numa grande multinacional no ramo de produtos médicos , com a gestão de projetos e portfólio.&lt;br /&gt;
+&lt;br /&gt;
+Possui MBA em Gestão de projetos pela FGV, especialização em gestão de projetos pela Universidade de Baeza - Espanha, e certificações como o PMP - Project Management  Professional do PMI e recentemente, a certificação de implementação de PMO pela metodologia VALUE RING - PMO-CP.&lt;br /&gt;
+&lt;br /&gt;
+Além de conhecimentos nas metodologias de Corrente critica, métodos ágeis e design Thinking.&lt;br /&gt;
+&lt;br /&gt;
+ &lt;br /&gt;
+&lt;br /&gt;
+O time finaliza o episódio com as &quot;Dicas do que fazer naquela meia horinha !&quot;&lt;br /&gt;
+&lt;br /&gt;
+Referências:&lt;br /&gt;
+&lt;br /&gt;
+Filipe: Livro: Scrum: a arte de fazer o dobro do trabalho na metade do tempo - Jeff Sutherland (https://www.amazon.com.br/Scrum-fazer-dobro-trabalho-metade-ebook/dp/B01N0QKCL5)&lt;br /&gt;
+&lt;br /&gt;
+Hélio: Livro: Gestão de Projetos - Jack Gido e James P. Clements (https://www.estantevirtual.com.br/b/jack-gido-e-james-p-clements/gestao-de-projetos/2996890982)&lt;br /&gt;
+&lt;br /&gt;
+Luciano: Webinar PMI - Ricardo Vagas (https://www.youtube.com/watch?v=Dzn-QYre8To)&lt;br /&gt;
+&lt;br /&gt;
+Enio: PMO Value Ring: http://www.pmovaluering.com/</itunes:summary>
+		<itunes:author>Meia Horinha - Empreendedorismo</itunes:author>
+		<itunes:image href="https://meiahorinha.com/wp-content/uploads/2017/06/iTunes-Cover.jpg" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>42:35</itunes:duration>
+		</item>
+	<item>
+		<title>#6 &#8211; Indústria 4.0 &#8211; A evolução da Manufatura de Produtos</title>
+		<link>https://meiahorinha.com/6-industria-4-0/</link>
+		<pubDate>Fri, 12 May 2017 16:11:03 +0000</pubDate>
+		<guid isPermaLink="false">https://meiahorinha.com/?p=498</guid>
+		<description>A Transformação Digital está tomando conta de todo o mercado. O que começou com os Bancos e indústrias de varejo agora chega com tudo na Manufatura de Produtos.
+
+As revoluções industriais são conhecidas por trazer transformações nos modelos de negócio: começando com o advento das máquinas a vapor, passando pelo surgimento da eletricidade, chegando na aplicação de eletrônica e sistemas na manufatura.
+
+Agora com a quarta revolução da indústria, temos a Internet como principal impulsionador do novo modelo industrial, agregando a caixa de ferramentas essenciais que cubrimos nesse episódio do nosso Podcast:
+
+ 	Um modelo mais inteligente de utilização de ativos
+ 	Cloud
+ 	IoT - Internet of things (Sensores, contatores, e plcs conectados na rede)
+ 	Inteligência Artificial e Machine Learning
+ 	Big data
+ 	 Cobots (Robos colaborativos multifuncionais)
+ 	Entre outros
+
+Contamos com a presença de um convidado especial:
+Guilherme Dias, Eng, MSc, EMBA
+
+
+Atualmente é Gerente de IT na Johnson &amp; Johnson
+
+Formado em Mecatronica pela USP
+Mestrado em Engenharia da Computação pela USP
+MBA Executivo na FGV
+Extenção em Governança de IT pela FIA
+Extenção em IoT pelo MIT - Massachutts Institute of technology
+
+ 
+
+O time finaliza o episódio com as &quot;Dicas do que fazer naquela meia horinha !&quot;
+
+Referências:
+
+Luciano: TED - The Future of Manufacturing: Kyle Hermenean at
+
+https://www.youtube.com/watch?v=Jo9_pb32-ak
+
+Hélio: Livro: A Quarta Revolução Industrial - Klaus Schwab
+
+ Guilherme Dias: TED - Olivier Scalabre - The next manufacturing revolution is here
+
+https://www.ted.com/talks/olivier_scalabre_the_next_manufacturing_revolution_is_here
+
+OBS: Não estamos recebendo patrocínio sobre os produtos e serviços anunciados, somente compartilhando referências de ferramentas que utilizamos no dia-a-dia e que nos ajudam a tornar a vida mais fácil.
+
+Qualquer feedback, sugestões de temas ou convidados, etc - Deixem comentário e/ou entre em contato pelo contato@meiahorinha.com</description>
+		<content:encoded><![CDATA[
+<p>A Transformação Digital está tomando conta de todo o mercado. O que começou com os Bancos e indústrias de varejo agora chega com tudo na Manufatura de Produtos.</p>
+<p>As revoluções industriais são conhecidas por trazer transformações nos modelos de negócio: começando com o advento das máquinas a vapor, passando pelo surgimento da eletricidade, chegando na aplicação de eletrônica e sistemas na manufatura.</p>
+<p>Agora com a quarta revolução da indústria, temos a Internet como principal impulsionador do novo modelo industrial, agregando a caixa de ferramentas essenciais que cubrimos nesse episódio do nosso Podcast:</p>
+<ul>
+<li>Um modelo mais inteligente de utilização de ativos</li>
+<li>Cloud</li>
+<li>IoT &#8211; Internet of things (Sensores, contatores, e plcs conectados na rede)</li>
+<li>Inteligência Artificial e Machine Learning</li>
+<li>Big data</li>
+<li> Cobots (Robos colaborativos multifuncionais)</li>
+<li>Entre outros</li>
+</ul>
+<p><strong>Contamos com a presença de um convidado especial:</strong></p>
+<p class="pv-top-card-section__name Sans-26px-black-85% mb1"><strong>Guilherme Dias</strong>, Eng, MSc, EMBA</p>
+<p><img src="https://meiahorinha.com/wp-content/uploads/2017/05/gdias.jpg" alt="" width="154" height="154" class="alignleft wp-image-500" srcset="https://i1.wp.com/meiahorinha.com/wp-content/uploads/2017/05/gdias.jpg?w=400&amp;ssl=1 400w, https://i1.wp.com/meiahorinha.com/wp-content/uploads/2017/05/gdias.jpg?resize=150%2C150&amp;ssl=1 150w, https://i1.wp.com/meiahorinha.com/wp-content/uploads/2017/05/gdias.jpg?resize=300%2C300&amp;ssl=1 300w, https://i1.wp.com/meiahorinha.com/wp-content/uploads/2017/05/gdias.jpg?resize=100%2C100&amp;ssl=1 100w, https://i1.wp.com/meiahorinha.com/wp-content/uploads/2017/05/gdias.jpg?resize=250%2C250&amp;ssl=1 250w, https://i1.wp.com/meiahorinha.com/wp-content/uploads/2017/05/gdias.jpg?resize=200%2C200&amp;ssl=1 200w" sizes="(max-width: 154px) 100vw, 154px" /></p>
+<p>Atualmente é Gerente de IT na Johnson &amp; Johnson</p>
+<p>Formado em Mecatronica pela USP<br />
+Mestrado em Engenharia da Computação pela USP<br />
+MBA Executivo na FGV<br />
+Extenção em Governança de IT pela FIA<br />
+Extenção em IoT pelo MIT &#8211; Massachutts Institute of technology</p>
+<p>&nbsp;</p>
+<p><strong>O time finaliza o episódio com as &#8220;Dicas do que fazer naquela meia horinha !&#8221;</strong></p>
+<p>Referências:</p>
+<p><strong>Luciano: </strong>TED &#8211; The Future of Manufacturing: Kyle Hermenean at</p>
+<p>https://www.youtube.com/watch?v=Jo9_pb32-ak</p>
+<p><strong>Hélio: </strong>Livro: A Quarta Revolução Industrial &#8211; Klaus Schwab</p>
+<p><strong> Guilherme Dias: </strong>TED<strong> &#8211; </strong>Olivier Scalabre &#8211; The next manufacturing revolution is here</p>
+<p>https://www.ted.com/talks/olivier_scalabre_the_next_manufacturing_revolution_is_here</p>
+<p><strong>OBS:</strong> <em>Não estamos recebendo patrocínio sobre os produtos e serviços anunciados, somente compartilhando referências de ferramentas que utilizamos no dia-a-dia e que nos ajudam a tornar a vida mais fácil.</em></p>
+<p>Qualquer feedback, sugestões de temas ou convidados, etc &#8211; Deixem comentário e/ou entre em contato pelo <a href="mailto:contato@meiahorinha.com">contato@meiahorinha.com</a></p>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/canalmeiahorinha/content.blubrry.com/canalmeiahorinha/cmh_006_v00.mp3" length="35242384" type="audio/mpeg" />
+		<itunes:subtitle>A Transformação Digital está tomando conta de todo o mercado. O que começou com os Bancos e indústrias de varejo agora chega com tudo na Manufatura de Produtos. - As revoluções industriais são conhecidas por trazer transformações nos modelos de negóci...</itunes:subtitle>
+		<itunes:summary>A Transformação Digital está tomando conta de todo o mercado. O que começou com os Bancos e indústrias de varejo agora chega com tudo na Manufatura de Produtos.&lt;br /&gt;
+&lt;br /&gt;
+As revoluções industriais são conhecidas por trazer transformações nos modelos de negócio: começando com o advento das máquinas a vapor, passando pelo surgimento da eletricidade, chegando na aplicação de eletrônica e sistemas na manufatura.&lt;br /&gt;
+&lt;br /&gt;
+Agora com a quarta revolução da indústria, temos a Internet como principal impulsionador do novo modelo industrial, agregando a caixa de ferramentas essenciais que cubrimos nesse episódio do nosso Podcast:&lt;br /&gt;
+&lt;br /&gt;
+ 	Um modelo mais inteligente de utilização de ativos&lt;br /&gt;
+ 	Cloud&lt;br /&gt;
+ 	IoT - Internet of things (Sensores, contatores, e plcs conectados na rede)&lt;br /&gt;
+ 	Inteligência Artificial e Machine Learning&lt;br /&gt;
+ 	Big data&lt;br /&gt;
+ 	 Cobots (Robos colaborativos multifuncionais)&lt;br /&gt;
+ 	Entre outros&lt;br /&gt;
+&lt;br /&gt;
+Contamos com a presença de um convidado especial:&lt;br /&gt;
+Guilherme Dias, Eng, MSc, EMBA&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Atualmente é Gerente de IT na Johnson &amp; Johnson&lt;br /&gt;
+&lt;br /&gt;
+Formado em Mecatronica pela USP&lt;br /&gt;
+Mestrado em Engenharia da Computação pela USP&lt;br /&gt;
+MBA Executivo na FGV&lt;br /&gt;
+Extenção em Governança de IT pela FIA&lt;br /&gt;
+Extenção em IoT pelo MIT - Massachutts Institute of technology&lt;br /&gt;
+&lt;br /&gt;
+ &lt;br /&gt;
+&lt;br /&gt;
+O time finaliza o episódio com as &quot;Dicas do que fazer naquela meia horinha !&quot;&lt;br /&gt;
+&lt;br /&gt;
+Referências:&lt;br /&gt;
+&lt;br /&gt;
+Luciano: TED - The Future of Manufacturing: Kyle Hermenean at&lt;br /&gt;
+&lt;br /&gt;
+https://www.youtube.com/watch?v=Jo9_pb32-ak&lt;br /&gt;
+&lt;br /&gt;
+Hélio: Livro: A Quarta Revolução Industrial - Klaus Schwab&lt;br /&gt;
+&lt;br /&gt;
+ Guilherme Dias: TED - Olivier Scalabre - The next manufacturing revolution is here&lt;br /&gt;
+&lt;br /&gt;
+https://www.ted.com/talks/olivier_scalabre_the_next_manufacturing_revolution_is_here&lt;br /&gt;
+&lt;br /&gt;
+OBS: Não estamos recebendo patrocínio sobre os produtos e serviços anunciados, somente compartilhando referências de ferramentas que utilizamos no dia-a-dia e que nos ajudam a tornar a vida mais fácil.&lt;br /&gt;
+&lt;br /&gt;
+Qualquer feedback, sugestões de temas ou convidados, etc - Deixem comentário e/ou entre em contato pelo contato@meiahorinha.com</itunes:summary>
+		<itunes:author>Meia Horinha - Empreendedorismo</itunes:author>
+		<itunes:image href="https://meiahorinha.com/wp-content/uploads/2017/06/iTunes-Cover.jpg" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>48:46</itunes:duration>
+		</item>
+	<item>
+		<title>#5 &#8211; Os 5 passos para gerar uma boa ideia &#8211; Design Thinking</title>
+		<link>https://meiahorinha.com/5-os-5-passos-para-gerar-uma-boa-ideia-design-thinking/</link>
+		<pubDate>Fri, 28 Apr 2017 19:25:35 +0000</pubDate>
+		<guid isPermaLink="false">https://meiahorinha.com/?p=482</guid>
+		<description>Quanto vale uma boa ideia ?
+
+Esse é o tema discutido no episódio 5 do nosso Podcast, trazendo discussões interessantes sobre o processo de geração de ideias, e que mesmo se você não se considera uma pessoa criativa você sim é capaz de gerar boas ideias através desse processo.
+
+Todos os participantes empolgados com a discussão prometeram novos episódios com mais detalhes sobre o tema, além de artigos relacionados.
+
+Cobrimos nesse episódio do Meia Horinha parte desse tema em uma discussão bem humorada e divertida.
+
+As principais discussões desse episódio são:
+
+ 	Quanto valeu uma boa ideia ?
+ 	Os 5 Passos do Design Thinking e a geração de ideias
+
+ 	Empatia
+ 	Definição
+ 	Idealizar
+ 	Prototipar
+ 	Testar
+
+
+
+O time finaliza o episódio com as &quot;Dicas do que fazer naquela meia horinha !&quot;
+
+Referências:
+
+Luciano: Evernote e o Material do Sebrae sobre Design Thinking
+
+Hélio: Livro: De onde vem as boas ideias - Steven Johnson
+
+Video sobre o livro: https://www.youtube.com/watch?v=uTRf4wqCLuE
+
+Filipe: Videos do Youtube sobre Design Thinking
+
+ 
+
+OBS: Não estamos recebendo patrocínio sobre os produtos e serviços anunciados, somente compartilhando referências de ferramentas que utilizamos no dia-a-dia e que nos ajudam a tornar a vida mais fácil.
+
+Qualquer feedback, sugestões de temas ou convidados, etc - Deixem comentário e/ou entre em contato pelo contato@meiahorinha.com</description>
+		<content:encoded><![CDATA[
+<p><strong>Quanto vale uma boa ideia ?</strong></p>
+<p>Esse é o tema discutido no episódio 5 do nosso Podcast, trazendo discussões interessantes sobre o processo de geração de ideias, e que mesmo se você não se considera uma pessoa criativa você sim é capaz de gerar boas ideias através desse processo.</p>
+<p>Todos os participantes empolgados com a discussão prometeram novos episódios com mais detalhes sobre o tema, além de artigos relacionados.</p>
+<p>Cobrimos nesse episódio do Meia Horinha parte desse tema em uma discussão bem humorada e divertida.</p>
+<p><strong>As principais discussões desse episódio são:</strong></p>
+<ul>
+<li>Quanto valeu uma boa ideia ?</li>
+<li>Os 5 Passos do Design Thinking e a geração de ideias
+<ul>
+<li>Empatia</li>
+<li>Definição</li>
+<li>Idealizar</li>
+<li>Prototipar</li>
+<li>Testar</li>
+</ul>
+</li>
+</ul>
+<p><strong>O time finaliza o episódio com as &#8220;Dicas do que fazer naquela meia horinha !&#8221;</strong></p>
+<p>Referências:</p>
+<p><strong>Luciano: </strong>Evernote e o Material do Sebrae sobre Design Thinking<strong></strong></p>
+<p><strong>Hélio: </strong>Livro:<strong> </strong>De onde vem as boas ideias &#8211; Steven Johnson</p>
+<p>Video sobre o livro: <a href="https://www.youtube.com/watch?v=uTRf4wqCLuE">https://www.youtube.com/watch?v=uTRf4wqCLuE</a></p>
+<p><strong>Filipe:</strong> Videos do Youtube sobre Design Thinking</p>
+<p><strong> </strong></p>
+<p><strong>OBS:</strong> <em>Não estamos recebendo patrocínio sobre os produtos e serviços anunciados, somente compartilhando referências de ferramentas que utilizamos no dia-a-dia e que nos ajudam a tornar a vida mais fácil.</em></p>
+<p>Qualquer feedback, sugestões de temas ou convidados, etc &#8211; Deixem comentário e/ou entre em contato pelo <a href="mailto:contato@meiahorinha.com">contato@meiahorinha.com</a></p>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/canalmeiahorinha/content.blubrry.com/canalmeiahorinha/cmh_005-v00.mp3" length="24558383" type="audio/mpeg" />
+		<itunes:subtitle>Quanto vale uma boa ideia ? - Esse é o tema discutido no episódio 5 do nosso Podcast, trazendo discussões interessantes sobre o processo de geração de ideias, e que mesmo se você não se considera uma pessoa criativa você sim é capaz de gerar boas idei...</itunes:subtitle>
+		<itunes:summary>Quanto vale uma boa ideia ?&lt;br /&gt;
+&lt;br /&gt;
+Esse é o tema discutido no episódio 5 do nosso Podcast, trazendo discussões interessantes sobre o processo de geração de ideias, e que mesmo se você não se considera uma pessoa criativa você sim é capaz de gerar boas ideias através desse processo.&lt;br /&gt;
+&lt;br /&gt;
+Todos os participantes empolgados com a discussão prometeram novos episódios com mais detalhes sobre o tema, além de artigos relacionados.&lt;br /&gt;
+&lt;br /&gt;
+Cobrimos nesse episódio do Meia Horinha parte desse tema em uma discussão bem humorada e divertida.&lt;br /&gt;
+&lt;br /&gt;
+As principais discussões desse episódio são:&lt;br /&gt;
+&lt;br /&gt;
+ 	Quanto valeu uma boa ideia ?&lt;br /&gt;
+ 	Os 5 Passos do Design Thinking e a geração de ideias&lt;br /&gt;
+&lt;br /&gt;
+ 	Empatia&lt;br /&gt;
+ 	Definição&lt;br /&gt;
+ 	Idealizar&lt;br /&gt;
+ 	Prototipar&lt;br /&gt;
+ 	Testar&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+O time finaliza o episódio com as &quot;Dicas do que fazer naquela meia horinha !&quot;&lt;br /&gt;
+&lt;br /&gt;
+Referências:&lt;br /&gt;
+&lt;br /&gt;
+Luciano: Evernote e o Material do Sebrae sobre Design Thinking&lt;br /&gt;
+&lt;br /&gt;
+Hélio: Livro: De onde vem as boas ideias - Steven Johnson&lt;br /&gt;
+&lt;br /&gt;
+Video sobre o livro: https://www.youtube.com/watch?v=uTRf4wqCLuE&lt;br /&gt;
+&lt;br /&gt;
+Filipe: Videos do Youtube sobre Design Thinking&lt;br /&gt;
+&lt;br /&gt;
+ &lt;br /&gt;
+&lt;br /&gt;
+OBS: Não estamos recebendo patrocínio sobre os produtos e serviços anunciados, somente compartilhando referências de ferramentas que utilizamos no dia-a-dia e que nos ajudam a tornar a vida mais fácil.&lt;br /&gt;
+&lt;br /&gt;
+Qualquer feedback, sugestões de temas ou convidados, etc - Deixem comentário e/ou entre em contato pelo contato@meiahorinha.com</itunes:summary>
+		<itunes:author>Meia Horinha - Empreendedorismo</itunes:author>
+		<itunes:image href="https://meiahorinha.com/wp-content/uploads/2017/06/iTunes-Cover.jpg" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>33:56</itunes:duration>
+		</item>
+	<item>
+		<title>#4 &#8211; Networking &#8211; Todos precisamos de uma rede de contatos</title>
+		<link>https://meiahorinha.com/4-networking-todos-precisamos-de-uma-rede-de-contatos/</link>
+		<pubDate>Thu, 06 Apr 2017 21:10:38 +0000</pubDate>
+		<guid isPermaLink="false">https://meiahorinha.com/?p=410</guid>
+		<description> 
+
+O Networking está presente no nosso dia-a-dia, quer queiramos ou não.
+
+O simples fato de recomendar produtos e serviços gera credibilidade quando recebemos a informação de alguém em que acreditamos, gerando assim um ciclo de confiança.
+
+Precisamos entender bem esse conceito e aplicar de maneira correta em nossa vida, para não parecer somente interesse em momentos específicos.
+
+ 
+
+Esse com certeza é um longo tema que pode ser explorado de diferentes ângulos.
+
+Cobrimos nesse episódio do Meia Horinha parte desse tema em uma discussão bem humorada e divertida.
+
+As principais discussões desse episódio são:
+
+ 	Introdução ao Networking (Conceito) ?
+ 	A importância do Networking na carreira ?
+ 	Por onde começar ?
+ 	Construindo um bom Networking ?
+ 	Como usar ?
+ 	Erros que se devem evitar na hora de fazer networking
+
+O time finaliza o episódio com as &quot;Dicas do que fazer naquela meia horinha !&quot;
+
+Referências:
+
+Luciano: Linkedin - Rede Social profissional www.linkedin.com
+
+Hélio e Filipe: Grupos e associações locais em sua cidade para networking
+
+ 
+
+OBS: Não estamos recebendo patrocínio sobre os produtos e serviços anunciados, somente compartilhando referências de ferramentas que utilizamos no dia-a-dia e que nos ajudam a tornar a vida mais fácil.
+
+Qualquer feedback, sugestões de temas ou convidados, etc - Deixem comentário e/ou entre em contato pelo contato@meiahorinha.com</description>
+		<content:encoded><![CDATA[
+<p>&nbsp;</p>
+<p><strong>O Networking está presente no nosso dia-a-dia, quer queiramos ou não.</strong></p>
+<p>O simples fato de recomendar produtos e serviços gera credibilidade quando recebemos a informação de alguém em que acreditamos, gerando assim um ciclo de confiança.</p>
+<p>Precisamos entender bem esse conceito e aplicar de maneira correta em nossa vida, para não parecer somente interesse em momentos específicos.</p>
+<p>&nbsp;</p>
+<p>Esse com certeza é um longo tema que pode ser explorado de diferentes ângulos.</p>
+<p>Cobrimos nesse episódio do Meia Horinha parte desse tema em uma discussão bem humorada e divertida.</p>
+<p><strong>As principais discussões desse episódio são:</strong></p>
+<ul>
+<li>Introdução ao Networking (Conceito) ?</li>
+<li>A importância do Networking na carreira ?</li>
+<li>Por onde começar ?</li>
+<li>Construindo um bom Networking ?</li>
+<li>Como usar ?</li>
+<li>Erros que se devem evitar na hora de fazer networking</li>
+</ul>
+<p><strong>O time finaliza o episódio com as &#8220;Dicas do que fazer naquela meia horinha !&#8221;</strong></p>
+<p>Referências:</p>
+<p><strong>Luciano: </strong>Linkedin &#8211; Rede Social profissional<strong> <a href="https://www.linkedin.com">www.linkedin.com</a></strong></p>
+<p><strong>Hélio e Filipe:</strong> Grupos e associações locais em sua cidade para networking</p>
+<p><strong> </strong></p>
+<p><strong>OBS:</strong> <em>Não estamos recebendo patrocínio sobre os produtos e serviços anunciados, somente compartilhando referências de ferramentas que utilizamos no dia-a-dia e que nos ajudam a tornar a vida mais fácil.</em></p>
+<p>Qualquer feedback, sugestões de temas ou convidados, etc &#8211; Deixem comentário e/ou entre em contato pelo <a href="mailto:contato@meiahorinha.com">contato@meiahorinha.com</a></p>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/canalmeiahorinha/content.blubrry.com/canalmeiahorinha/cmh_004_v00.mp3" length="26991261" type="audio/mpeg" />
+		<itunes:subtitle>  - O Networking está presente no nosso dia-a-dia, quer queiramos ou não. - O simples fato de recomendar produtos e serviços gera credibilidade quando recebemos a informação de alguém em que acreditamos, gerando assim um ciclo de confiança. - </itunes:subtitle>
+		<itunes:summary> &lt;br /&gt;
+&lt;br /&gt;
+O Networking está presente no nosso dia-a-dia, quer queiramos ou não.&lt;br /&gt;
+&lt;br /&gt;
+O simples fato de recomendar produtos e serviços gera credibilidade quando recebemos a informação de alguém em que acreditamos, gerando assim um ciclo de confiança.&lt;br /&gt;
+&lt;br /&gt;
+Precisamos entender bem esse conceito e aplicar de maneira correta em nossa vida, para não parecer somente interesse em momentos específicos.&lt;br /&gt;
+&lt;br /&gt;
+ &lt;br /&gt;
+&lt;br /&gt;
+Esse com certeza é um longo tema que pode ser explorado de diferentes ângulos.&lt;br /&gt;
+&lt;br /&gt;
+Cobrimos nesse episódio do Meia Horinha parte desse tema em uma discussão bem humorada e divertida.&lt;br /&gt;
+&lt;br /&gt;
+As principais discussões desse episódio são:&lt;br /&gt;
+&lt;br /&gt;
+ 	Introdução ao Networking (Conceito) ?&lt;br /&gt;
+ 	A importância do Networking na carreira ?&lt;br /&gt;
+ 	Por onde começar ?&lt;br /&gt;
+ 	Construindo um bom Networking ?&lt;br /&gt;
+ 	Como usar ?&lt;br /&gt;
+ 	Erros que se devem evitar na hora de fazer networking&lt;br /&gt;
+&lt;br /&gt;
+O time finaliza o episódio com as &quot;Dicas do que fazer naquela meia horinha !&quot;&lt;br /&gt;
+&lt;br /&gt;
+Referências:&lt;br /&gt;
+&lt;br /&gt;
+Luciano: Linkedin - Rede Social profissional www.linkedin.com&lt;br /&gt;
+&lt;br /&gt;
+Hélio e Filipe: Grupos e associações locais em sua cidade para networking&lt;br /&gt;
+&lt;br /&gt;
+ &lt;br /&gt;
+&lt;br /&gt;
+OBS: Não estamos recebendo patrocínio sobre os produtos e serviços anunciados, somente compartilhando referências de ferramentas que utilizamos no dia-a-dia e que nos ajudam a tornar a vida mais fácil.&lt;br /&gt;
+&lt;br /&gt;
+Qualquer feedback, sugestões de temas ou convidados, etc - Deixem comentário e/ou entre em contato pelo contato@meiahorinha.com</itunes:summary>
+		<itunes:author>Meia Horinha - Empreendedorismo</itunes:author>
+		<itunes:image href="https://meiahorinha.com/wp-content/uploads/2017/06/iTunes-Cover.jpg" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>28:03</itunes:duration>
+		</item>
+	<item>
+		<title>#3 &#8211; Autogestão de Carreira</title>
+		<link>https://meiahorinha.com/3-autogestao-de-carreira/</link>
+		<pubDate>Thu, 23 Mar 2017 16:05:13 +0000</pubDate>
+		<guid isPermaLink="false">https://meiahorinha.com/?p=392</guid>
+		<description> 
+
+O conceito de carreira se transformou muito nos últimos 10 anos, e cada vez mais a responsabilidade pelo desenvolvimento se torna uma responsabilidade individual do profissional.
+
+Uma extensa literatura sobre o tema vem sendo publicada, tanto no Brasil quanto no Exterior, tendo como foco três quesitos:
+1) Flexibilidade do emprego.
+2) Nova forma de trabalho baseada na gestão do conhecimento.
+3) Perspectiva de curto prazo.
+
+Baseado nessa tenência de mercado, discutimos esse tema nesse episódio do Canal Meia Horinha.
+
+ 
+
+As principais discussões desse episódio são:
+
+ 	Como planejar sua carreira?
+
+ 	Dicas gerais sobre planejamentos de carreira com foco nas gerações Y e Z
+
+
+ 	Qual a importância do capital intelectual nos dias atuais?
+
+ 	Comentários sobre a importância do capital intelectual na era do conhecimento, e as armadilhas do excesso de informação
+
+
+ 	Competências podem ser desenvolvidas ou é algo nato?
+
+ 	Comentários sobre como desenvolver competências essenciais para a carreira através da disciplina e foco
+
+
+ 	Quais são os erros que você deve evitar na sua carreira?
+
+ 	Exposição de cases e/ou feelings sobre erros a serem evitados ao longo da carreira e/ou no planejamento
+
+
+ 	Ferramentas que podem auxiliar na autogestão de carreira :
+
+ 	PBSC (Personal Balanced Scorecard)
+ 	Método C.A.R.M.A. (Career And Relationship Management)
+
+
+
+O time finaliza o episódio com as &quot;Dicas do que fazer naquela meia horinha !&quot;
+
+Referências:
+
+Luciano: Ferramentas de Auto-avaliação (definição de Perfil, etc)
+
+Filipe: Livro: Fora de Série - Outliers (Gladwell Malcolm - Editora: Sextante)
+
+Hélio: Livro: Autogestão de Carreira - Você no comando de sua vida (EDSON CARLI) - http://www.edsoncarli.com.br/livros
+
+OBS: Não estamos recebendo patrocínio sobre os produtos e serviços anunciados, somente compartilhando referências de ferramentas que utilizamos no dia-a-dia e que nos ajudam a tornar a vida mais fácil.
+
+Qualquer feedback, sugestões de temas ou convidados, etc - entre em contato pelo contato@meiahorinha.com</description>
+		<content:encoded><![CDATA[
+<p>&nbsp;</p>
+<p><strong>O conceito de carreira se transformou muito nos últimos 10 anos, e cada vez mais a responsabilidade pelo desenvolvimento se torna uma responsabilidade individual do profissional.</strong></p>
+<p>Uma extensa literatura sobre o tema vem sendo publicada, tanto no Brasil quanto no Exterior, tendo como foco três quesitos:<br />
+1) Flexibilidade do emprego.<br />
+2) Nova forma de trabalho baseada na gestão do conhecimento.<br />
+3) Perspectiva de curto prazo.</p>
+<p>Baseado nessa tenência de mercado, discutimos esse tema nesse episódio do Canal Meia Horinha.</p>
+<p>&nbsp;</p>
+<p><strong>As principais discussões desse episódio são:</strong></p>
+<ul>
+<li>Como planejar sua carreira?
+<ul>
+<li>Dicas gerais sobre planejamentos de carreira com foco nas gerações Y e Z</li>
+</ul>
+</li>
+<li>Qual a importância do capital intelectual nos dias atuais?
+<ul>
+<li>Comentários sobre a importância do capital intelectual na era do conhecimento, e as armadilhas do excesso de informação</li>
+</ul>
+</li>
+<li>Competências podem ser desenvolvidas ou é algo nato?
+<ul>
+<li>Comentários sobre como desenvolver competências essenciais para a carreira através da disciplina e foco</li>
+</ul>
+</li>
+<li>Quais são os erros que você deve evitar na sua carreira?
+<ul>
+<li>Exposição de cases e/ou feelings sobre erros a serem evitados ao longo da carreira e/ou no planejamento</li>
+</ul>
+</li>
+<li>Ferramentas que podem auxiliar na autogestão de carreira :
+<ul>
+<li>PBSC (Personal Balanced Scorecard)</li>
+<li>Método C.A.R.M.A. (Career And Relationship Management)</li>
+</ul>
+</li>
+</ul>
+<p><strong>O time finaliza o episódio com as &#8220;Dicas do que fazer naquela meia horinha !&#8221;</strong></p>
+<p>Referências:</p>
+<p><strong>Luciano: </strong>Ferramentas de Auto-avaliação (definição de Perfil, etc)</p>
+<p><strong>Filipe: </strong>Livro: Fora de Série &#8211; Outliers (Gladwell Malcolm &#8211; Editora: Sextante)</p>
+<p><strong>Hélio:</strong> Livro: Autogestão de Carreira &#8211; Você no comando de sua vida (EDSON CARLI) &#8211; <a href="http://www.edsoncarli.com.br/livros">http://www.edsoncarli.com.br/livros</a></p>
+<p><strong>OBS:</strong> <em>Não estamos recebendo patrocínio sobre os produtos e serviços anunciados, somente compartilhando referências de ferramentas que utilizamos no dia-a-dia e que nos ajudam a tornar a vida mais fácil.</em></p>
+<p>Qualquer feedback, sugestões de temas ou convidados, etc &#8211; entre em contato pelo <a href="mailto:contato@meiahorinha.com">contato@meiahorinha.com</a><strong></strong></p>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/canalmeiahorinha/content.blubrry.com/canalmeiahorinha/cmh_003_v01.mp3" length="40602895" type="audio/mpeg" />
+		<itunes:subtitle>  - O conceito de carreira se transformou muito nos últimos 10 anos, e cada vez mais a responsabilidade pelo desenvolvimento se torna uma responsabilidade individual do profissional. - Uma extensa literatura sobre o tema vem sendo publicada,</itunes:subtitle>
+		<itunes:summary> &lt;br /&gt;
+&lt;br /&gt;
+O conceito de carreira se transformou muito nos últimos 10 anos, e cada vez mais a responsabilidade pelo desenvolvimento se torna uma responsabilidade individual do profissional.&lt;br /&gt;
+&lt;br /&gt;
+Uma extensa literatura sobre o tema vem sendo publicada, tanto no Brasil quanto no Exterior, tendo como foco três quesitos:&lt;br /&gt;
+1) Flexibilidade do emprego.&lt;br /&gt;
+2) Nova forma de trabalho baseada na gestão do conhecimento.&lt;br /&gt;
+3) Perspectiva de curto prazo.&lt;br /&gt;
+&lt;br /&gt;
+Baseado nessa tenência de mercado, discutimos esse tema nesse episódio do Canal Meia Horinha.&lt;br /&gt;
+&lt;br /&gt;
+ &lt;br /&gt;
+&lt;br /&gt;
+As principais discussões desse episódio são:&lt;br /&gt;
+&lt;br /&gt;
+ 	Como planejar sua carreira?&lt;br /&gt;
+&lt;br /&gt;
+ 	Dicas gerais sobre planejamentos de carreira com foco nas gerações Y e Z&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 	Qual a importância do capital intelectual nos dias atuais?&lt;br /&gt;
+&lt;br /&gt;
+ 	Comentários sobre a importância do capital intelectual na era do conhecimento, e as armadilhas do excesso de informação&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 	Competências podem ser desenvolvidas ou é algo nato?&lt;br /&gt;
+&lt;br /&gt;
+ 	Comentários sobre como desenvolver competências essenciais para a carreira através da disciplina e foco&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 	Quais são os erros que você deve evitar na sua carreira?&lt;br /&gt;
+&lt;br /&gt;
+ 	Exposição de cases e/ou feelings sobre erros a serem evitados ao longo da carreira e/ou no planejamento&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 	Ferramentas que podem auxiliar na autogestão de carreira :&lt;br /&gt;
+&lt;br /&gt;
+ 	PBSC (Personal Balanced Scorecard)&lt;br /&gt;
+ 	Método C.A.R.M.A. (Career And Relationship Management)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+O time finaliza o episódio com as &quot;Dicas do que fazer naquela meia horinha !&quot;&lt;br /&gt;
+&lt;br /&gt;
+Referências:&lt;br /&gt;
+&lt;br /&gt;
+Luciano: Ferramentas de Auto-avaliação (definição de Perfil, etc)&lt;br /&gt;
+&lt;br /&gt;
+Filipe: Livro: Fora de Série - Outliers (Gladwell Malcolm - Editora: Sextante)&lt;br /&gt;
+&lt;br /&gt;
+Hélio: Livro: Autogestão de Carreira - Você no comando de sua vida (EDSON CARLI) - http://www.edsoncarli.com.br/livros&lt;br /&gt;
+&lt;br /&gt;
+OBS: Não estamos recebendo patrocínio sobre os produtos e serviços anunciados, somente compartilhando referências de ferramentas que utilizamos no dia-a-dia e que nos ajudam a tornar a vida mais fácil.&lt;br /&gt;
+&lt;br /&gt;
+Qualquer feedback, sugestões de temas ou convidados, etc - entre em contato pelo contato@meiahorinha.com</itunes:summary>
+		<itunes:author>Meia Horinha - Empreendedorismo</itunes:author>
+		<itunes:image href="https://meiahorinha.com/wp-content/uploads/2017/06/iTunes-Cover.jpg" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>42:07</itunes:duration>
+		</item>
+	<item>
+		<title>#2 &#8211; Metas e Objetivos</title>
+		<link>https://meiahorinha.com/2-metas-e-objetivos/</link>
+		<pubDate>Tue, 21 Mar 2017 21:41:19 +0000</pubDate>
+		<guid isPermaLink="false">https://meiahorinha.com/?p=390</guid>
+		<description> 
+
+Passando o Carnaval, voltamos a realidade !
+
+Aproveitamos o segundo episódio do Canal Meia Horinha para discutir a importância das metas e objetivos tanto no âmbito Profissional quanto no Pessoal.
+
+Compartilhamos aqui exemplos e experiências do nosso dia-a-dia, metodologias aplicadas pelas multinacionais e que podem ser também adaptadas para sua startup, seu empreendimento familiar, e para suas metas pessoais.
+
+Segundo o IBC, as metas são especificações dos objetivos. Um objetivo, tanto profissional como pessoal, é algo que você deseja alcançar, é a direção, e a meta é a especificação, o detalhamento.
+“Todo bom desempenho começa com objetivos claros.” Ken Blanchard
+As principais discussões desse episódio são:
+
+ 	Discussão sobre o conceito de metas e objetivos e se aplicamos no ambiente profissional ou pessoal
+ 	Utilização de ferramentas para documentar e fazer o Tracking
+ 	Práticas de rituais diários, semanal, mensal ou anual para planejamento ou tracking das suas metas
+ 	A importância de definir metas, e em manter um ritual de planejamento e tracking
+
+“Não se pode gerenciar o que não se pode medir. Não se pode medir, o que não se conhece.” Kaplan e Norton - Mapas Estratégicos, 2004
+O time finaliza o episódio com as &quot;Dicas do que fazer naquela meia horinha !&quot;
+
+Referências:
+
+Luciano: Planilhas prontas para controle de Metas e Objetivos - https://www.google.com/search?q=planilhas+prontas+para+controle+de+metas&amp;oq=planilhas+para+controle+de+metas&amp;aqs=chrome.2.69i57j0l5.13546j0j7&amp;sourceid=chrome&amp;ie=UTF-8
+
+Filipe: Evernote - Ferramenta de Produtividade - https://evernote.com/
+
+Hélio: Livro: O Poder do Hábito - Por Que Fazemos o Que Fazemos na Vida e Nos Negócios (Charles Duhigg) - https://books.google.com/books/about/O_PODER_DO_HABITO.html?id=DqDANAEACAAJ&amp;hl=pt-BR
+
+OBS: Não estamos recebendo patrocínio sobre os produtos e serviços anunciados, somente compartilhando referências de ferramentas que utilizamos no dia-a-dia e que nos ajudam a tornar a vida mais fácil.
+
+Qualquer feedback, sugestões de temas ou convidados, etc - entre em contato pelo contato@meiahorinha.com
+
+ 
+
+Nosso time:
+
+Professor Hélio Costa
+
+Luciano de Paula
+
+Filipe Schmidt
+
+O time é formado basicamente por profissionais da área de TI (Tecnologia da Informação), que hoje exercem funções de Liderança e gerenciamento em grandes organizações, além de atuação na área de educação, consultoria entre outros.
+
+As experiências do time são bem diversificadas como professor de cursos de informática, help-desk, service-desk, data-center, consultorias de IT, ERP, desenvolvimento, entre outras.</description>
+		<content:encoded><![CDATA[<p><span></span></p>
+<p>&nbsp;</p>
+<p><strong>Passando o Carnaval, voltamos a realidade !</strong></p>
+<p><span></span>Aproveitamos o segundo episódio do Canal Meia Horinha para discutir a importância das metas e objetivos tanto no âmbito Profissional quanto no Pessoal.</p>
+<p><span></span>Compartilhamos aqui exemplos e experiências do nosso dia-a-dia, metodologias aplicadas pelas multinacionais e que podem ser também adaptadas para sua startup, seu empreendimento familiar, e para suas metas pessoais.</p>
+<p><span>Segundo o </span><a href="http://www.ibccoaching.com.br/tudo-sobre-coaching/coaching-e-psicologia/metas-e-objetivos-diferencas-e-exemplos/">IBC</a><span>, as metas são especificações dos objetivos. Um objetivo, tanto profissional como pessoal, é algo que você deseja alcançar, é a direção, e a meta é a especificação, o detalhamento.</span></p>
+<blockquote><p><span><span></span>“Todo bom desempenho começa com objetivos claros.” Ken Blanchard</span></p></blockquote>
+<p><strong>As principais discussões desse episódio são:</strong></p>
+<ul>
+<li>Discussão sobre o conceito de metas e objetivos e se aplicamos no ambiente profissional ou pessoal</li>
+<li><span></span>Utilização de ferramentas para documentar e fazer o Tracking</li>
+<li><span></span>Práticas de rituais diários, semanal, mensal ou anual para planejamento ou tracking das suas metas</li>
+<li><span></span>A importância de definir metas, e em manter um ritual de planejamento e tracking</li>
+</ul>
+<blockquote><p>“Não se pode gerenciar o que não se pode medir. Não se pode medir, o que não se conhece.” <i><span></span>Kaplan e Norton &#8211; </i><i>Mapas</i> <i>Estratégicos</i><i>, 2004</i></p></blockquote>
+<p><strong><span></span>O time finaliza o episódio com as &#8220;Dicas do que fazer naquela meia horinha !&#8221;</strong></p>
+<p>Referências:</p>
+<p><strong>Luciano:</strong> Planilhas prontas para controle de Metas e Objetivos &#8211; <a href="https://www.google.com/search?q=planilhas+prontas+para+controle+de+metas&amp;oq=planilhas+para+controle+de+metas&amp;aqs=chrome.2.69i57j0l5.13546j0j7&amp;sourceid=chrome&amp;ie=UTF-8"><span></span>https://www.google.com/search?q=planilhas+prontas+para+controle+de+metas&amp;oq=planilhas+para+controle+de+metas&amp;aqs=chrome.2.69i57j0l5.13546j0j7&amp;sourceid=chrome&amp;ie=UTF-8</a></p>
+<p><strong>Filipe:</strong><span></span> Evernote &#8211; Ferramenta de Produtividade &#8211; <a href="https://evernote.com/"><span></span>https://evernote.com/</a></p>
+<p><strong>Hélio:</strong> Livro: <span>O Poder do Hábito &#8211; Por Que Fazemos o Que Fazemos na Vida e Nos Negócios (<a class="fl" href="https://www.google.com/search?biw=1920&amp;bih=950&amp;q=Charles+Duhigg&amp;stick=H4sIAAAAAAAAAOPgE-LSz9U3yDIxKczNUAKzkyoNkwoLtGSyk630k_Lzs_XLizJLSlLz4svzi7KtEktLMvKLAG8EftA4AAAA&amp;sa=X&amp;ved=0ahUKEwig1uuk2-XSAhXHzbwKHe-lAoMQmxMIhQEoATAP" data-ved="0ahUKEwig1uuk2-XSAhXHzbwKHe-lAoMQmxMIhQEoATAP"><span></span>Charles Duhigg</a>) &#8211; <a href="https://books.google.com/books/about/O_PODER_DO_HABITO.html?id=DqDANAEACAAJ&amp;hl=pt-BR"><span></span>https://books.google.com/books/about/O_PODER_DO_HABITO.html?id=DqDANAEACAAJ&amp;hl=pt-BR</a></span></p>
+<p><strong><span></span>OBS:</strong> <em>Não estamos recebendo patrocínio sobre os produtos e serviços anunciados, somente compartilhando referências de ferramentas que utilizamos no dia-a-dia e que nos ajudam a tornar a vida mais fácil.</em></p>
+<p>Qualquer feedback, sugestões de temas ou convidados, etc &#8211; entre em contato pelo <a href="mailto:contato@meiahorinha.com">contato@meiahorinha.com</a></p>
+<p>&nbsp;</p>
+<p><strong>Nosso time:</strong></p>
+<p>Professor Hélio Costa</p>
+<p>Luciano de Paula</p>
+<p><span></span>Filipe Schmidt</p>
+<p>O time é formado basicamente por profissionais da área de TI (Tecnologia da Informação), que hoje exercem funções de Liderança e gerenciamento em grandes organizações, além de atuação na área de educação, consultoria entre outros.</p>
+<p><span></span>As experiências do time são bem diversificadas como professor de cursos de informática, help-desk, service-desk, data-center, consultorias de IT, ERP, desenvolvimento, entre outras.</p>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/canalmeiahorinha/content.blubrry.com/canalmeiahorinha/cmh_002_v00.mp3" length="22177688" type="audio/mpeg" />
+		<itunes:subtitle>  - Passando o Carnaval, voltamos a realidade ! - Aproveitamos o segundo episódio do Canal Meia Horinha para discutir a importância das metas e objetivos tanto no âmbito Profissional quanto no Pessoal. - </itunes:subtitle>
+		<itunes:summary> &lt;br /&gt;
+&lt;br /&gt;
+Passando o Carnaval, voltamos a realidade !&lt;br /&gt;
+&lt;br /&gt;
+Aproveitamos o segundo episódio do Canal Meia Horinha para discutir a importância das metas e objetivos tanto no âmbito Profissional quanto no Pessoal.&lt;br /&gt;
+&lt;br /&gt;
+Compartilhamos aqui exemplos e experiências do nosso dia-a-dia, metodologias aplicadas pelas multinacionais e que podem ser também adaptadas para sua startup, seu empreendimento familiar, e para suas metas pessoais.&lt;br /&gt;
+&lt;br /&gt;
+Segundo o IBC, as metas são especificações dos objetivos. Um objetivo, tanto profissional como pessoal, é algo que você deseja alcançar, é a direção, e a meta é a especificação, o detalhamento.&lt;br /&gt;
+“Todo bom desempenho começa com objetivos claros.” Ken Blanchard&lt;br /&gt;
+As principais discussões desse episódio são:&lt;br /&gt;
+&lt;br /&gt;
+ 	Discussão sobre o conceito de metas e objetivos e se aplicamos no ambiente profissional ou pessoal&lt;br /&gt;
+ 	Utilização de ferramentas para documentar e fazer o Tracking&lt;br /&gt;
+ 	Práticas de rituais diários, semanal, mensal ou anual para planejamento ou tracking das suas metas&lt;br /&gt;
+ 	A importância de definir metas, e em manter um ritual de planejamento e tracking&lt;br /&gt;
+&lt;br /&gt;
+“Não se pode gerenciar o que não se pode medir. Não se pode medir, o que não se conhece.” Kaplan e Norton - Mapas Estratégicos, 2004&lt;br /&gt;
+O time finaliza o episódio com as &quot;Dicas do que fazer naquela meia horinha !&quot;&lt;br /&gt;
+&lt;br /&gt;
+Referências:&lt;br /&gt;
+&lt;br /&gt;
+Luciano: Planilhas prontas para controle de Metas e Objetivos - https://www.google.com/search?q=planilhas+prontas+para+controle+de+metas&amp;oq=planilhas+para+controle+de+metas&amp;aqs=chrome.2.69i57j0l5.13546j0j7&amp;sourceid=chrome&amp;ie=UTF-8&lt;br /&gt;
+&lt;br /&gt;
+Filipe: Evernote - Ferramenta de Produtividade - https://evernote.com/&lt;br /&gt;
+&lt;br /&gt;
+Hélio: Livro: O Poder do Hábito - Por Que Fazemos o Que Fazemos na Vida e Nos Negócios (Charles Duhigg) - https://books.google.com/books/about/O_PODER_DO_HABITO.html?id=DqDANAEACAAJ&amp;hl=pt-BR&lt;br /&gt;
+&lt;br /&gt;
+OBS: Não estamos recebendo patrocínio sobre os produtos e serviços anunciados, somente compartilhando referências de ferramentas que utilizamos no dia-a-dia e que nos ajudam a tornar a vida mais fácil.&lt;br /&gt;
+&lt;br /&gt;
+Qualquer feedback, sugestões de temas ou convidados, etc - entre em contato pelo contato@meiahorinha.com&lt;br /&gt;
+&lt;br /&gt;
+ &lt;br /&gt;
+&lt;br /&gt;
+Nosso time:&lt;br /&gt;
+&lt;br /&gt;
+Professor Hélio Costa&lt;br /&gt;
+&lt;br /&gt;
+Luciano de Paula&lt;br /&gt;
+&lt;br /&gt;
+Filipe Schmidt&lt;br /&gt;
+&lt;br /&gt;
+O time é formado basicamente por profissionais da área de TI (Tecnologia da Informação), que hoje exercem funções de Liderança e gerenciamento em grandes organizações, além de atuação na área de educação, consultoria entre outros.&lt;br /&gt;
+&lt;br /&gt;
+As experiências do time são bem diversificadas como professor de cursos de informática, help-desk, service-desk, data-center, consultorias de IT, ERP, desenvolvimento, entre outras.</itunes:summary>
+		<itunes:author>Meia Horinha - Empreendedorismo</itunes:author>
+		<itunes:image href="https://meiahorinha.com/wp-content/uploads/2017/06/iTunes-Cover.jpg" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>30:42</itunes:duration>
+		</item>
+	<item>
+		<title>#1 &#8211; Piloto &#8211; Nossa estréia</title>
+		<link>https://meiahorinha.com/1-piloto-nossa-estreia/</link>
+		<pubDate>Fri, 17 Mar 2017 20:23:12 +0000</pubDate>
+		<guid isPermaLink="false">https://meiahorinha.com/?p=385</guid>
+		<description>Nesse primeiro episódio, compartilhamos eufóricamente com nosso público o Piloto do nosso Projeto.
+
+Com esse início esperamos coletar feedbacks sobre nosso objetivo, e ir ajustando o conteúdo para que realmente agregue valor ao dia-a-dia dos nossos ouvintes.
+
+As principais discussões desse episódio são:
+
+O porque do Podcast ?
+
+Projeto Canal Meia Horinha
+Como surgiu ?
+De onde veio o nome do Canal ?
+Porposta do Canal ?
+
+Apresentação dos Integrantes do nosso time fixo:
+
+Professor Hélio Costa
+
+Luciano de Paula
+
+Filipe Schmidt
+
+ 
+
+O time é formado basicamente por profissionais da área de TI (Tecnologia da Informação), que hoje exercem funções de Liderança e gerenciamento em grandes organizações, além de atuação na área de educação, consultoria entre outros.
+
+As experiências do time são bem diversificadas como professor de cursos de informática, help-desk, service-desk, data-center, consultorias de IT, ERP, desenvolvimento, entre outras.
+
+ 
+
+O time finaliza o episódio com as &quot;Dicas do que fazer naquela meia horinha !&quot;
+
+Referências:
+
+Luciano: https://products.office.com/en-us/yammer/yammer-overview
+
+Filipe: https://trello.com/
+
+Hélio: https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&amp;hl=pt
+
+ 
+
+OBS: Não estamos recebendo patrocínio sobre os produtos e serviços anunciados, somente compartilhando referências de ferramentas que utilizamos no dia-a-dia e que nos ajudam a tornar a vida mais fácil.
+
+ 
+
+Qualquer feedback, sugestões de temas ou convidados, etc - entre em contato pelo contato@meiahorinha.com
+
+ </description>
+		<content:encoded><![CDATA[<p>Nesse primeiro episódio, compartilhamos eufóricamente com nosso público o Piloto do nosso Projeto.</p>
+<p>Com esse início esperamos coletar feedbacks sobre nosso objetivo, e ir ajustando o conteúdo para que realmente agregue valor ao dia-a-dia dos nossos ouvintes.</p>
+<p><strong>As principais discussões desse episódio são:</strong></p>
+<p>O porque do Podcast ?</p>
+<p><strong>Projeto Canal Meia Horinha</strong><br />
+Como surgiu ?<br />
+De onde veio o nome do Canal ?<br />
+Porposta do Canal ?</p>
+<p><strong>Apresentação dos Integrantes do nosso time fixo:</strong></p>
+<p>Professor Hélio Costa</p>
+<p>Luciano de Paula</p>
+<p>Filipe Schmidt</p>
+<p>&nbsp;</p>
+<p>O time é formado basicamente por profissionais da área de TI (Tecnologia da Informação), que hoje exercem funções de Liderança e gerenciamento em grandes organizações, além de atuação na área de educação, consultoria entre outros.</p>
+<p>As experiências do time são bem diversificadas como professor de cursos de informática, help-desk, service-desk, data-center, consultorias de IT, ERP, desenvolvimento, entre outras.</p>
+<p>&nbsp;</p>
+<p><strong>O time finaliza o episódio com as &#8220;Dicas do que fazer naquela meia horinha !&#8221;</strong></p>
+<p>Referências:</p>
+<p>Luciano: <a href="https://products.office.com/en-us/yammer/yammer-overview">https://products.office.com/en-us/yammer/yammer-overview</a></p>
+<p>Filipe: <a href="https://trello.com/">https://trello.com/</a></p>
+<p>Hélio: <a href="https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&amp;hl=pt">https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&amp;hl=pt</a></p>
+<p>&nbsp;</p>
+<p><strong>OBS:</strong> <em>Não estamos recebendo patrocínio sobre os produtos e serviços anunciados, somente compartilhando referências de ferramentas que utilizamos no dia-a-dia e que nos ajudam a tornar a vida mais fácil.</em></p>
+<p>&nbsp;</p>
+<p>Qualquer feedback, sugestões de temas ou convidados, etc &#8211; entre em contato pelo <a href="mailto:contato@meiahorinha.com">contato@meiahorinha.com</a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/canalmeiahorinha/content.blubrry.com/canalmeiahorinha/cmh_001_v01.mp3" length="29332115" type="audio/mpeg" />
+		<itunes:subtitle>Nesse primeiro episódio, compartilhamos eufóricamente com nosso público o Piloto do nosso Projeto. - Com esse início esperamos coletar feedbacks sobre nosso objetivo, e ir ajustando o conteúdo para que realmente agregue valor ao dia-a-dia dos nossos o...</itunes:subtitle>
+		<itunes:summary>Nesse primeiro episódio, compartilhamos eufóricamente com nosso público o Piloto do nosso Projeto.&lt;br /&gt;
+&lt;br /&gt;
+Com esse início esperamos coletar feedbacks sobre nosso objetivo, e ir ajustando o conteúdo para que realmente agregue valor ao dia-a-dia dos nossos ouvintes.&lt;br /&gt;
+&lt;br /&gt;
+As principais discussões desse episódio são:&lt;br /&gt;
+&lt;br /&gt;
+O porque do Podcast ?&lt;br /&gt;
+&lt;br /&gt;
+Projeto Canal Meia Horinha&lt;br /&gt;
+Como surgiu ?&lt;br /&gt;
+De onde veio o nome do Canal ?&lt;br /&gt;
+Porposta do Canal ?&lt;br /&gt;
+&lt;br /&gt;
+Apresentação dos Integrantes do nosso time fixo:&lt;br /&gt;
+&lt;br /&gt;
+Professor Hélio Costa&lt;br /&gt;
+&lt;br /&gt;
+Luciano de Paula&lt;br /&gt;
+&lt;br /&gt;
+Filipe Schmidt&lt;br /&gt;
+&lt;br /&gt;
+ &lt;br /&gt;
+&lt;br /&gt;
+O time é formado basicamente por profissionais da área de TI (Tecnologia da Informação), que hoje exercem funções de Liderança e gerenciamento em grandes organizações, além de atuação na área de educação, consultoria entre outros.&lt;br /&gt;
+&lt;br /&gt;
+As experiências do time são bem diversificadas como professor de cursos de informática, help-desk, service-desk, data-center, consultorias de IT, ERP, desenvolvimento, entre outras.&lt;br /&gt;
+&lt;br /&gt;
+ &lt;br /&gt;
+&lt;br /&gt;
+O time finaliza o episódio com as &quot;Dicas do que fazer naquela meia horinha !&quot;&lt;br /&gt;
+&lt;br /&gt;
+Referências:&lt;br /&gt;
+&lt;br /&gt;
+Luciano: https://products.office.com/en-us/yammer/yammer-overview&lt;br /&gt;
+&lt;br /&gt;
+Filipe: https://trello.com/&lt;br /&gt;
+&lt;br /&gt;
+Hélio: https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&amp;hl=pt&lt;br /&gt;
+&lt;br /&gt;
+ &lt;br /&gt;
+&lt;br /&gt;
+OBS: Não estamos recebendo patrocínio sobre os produtos e serviços anunciados, somente compartilhando referências de ferramentas que utilizamos no dia-a-dia e que nos ajudam a tornar a vida mais fácil.&lt;br /&gt;
+&lt;br /&gt;
+ &lt;br /&gt;
+&lt;br /&gt;
+Qualquer feedback, sugestões de temas ou convidados, etc - entre em contato pelo contato@meiahorinha.com&lt;br /&gt;
+&lt;br /&gt;
+ </itunes:summary>
+		<itunes:author>Meia Horinha - Empreendedorismo</itunes:author>
+		<itunes:image href="https://meiahorinha.com/wp-content/uploads/2017/06/iTunes-Cover.jpg" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>30:28</itunes:duration>
+		</item>
+	<item>
+		<title>#00 &#8211; Bem Vindos !</title>
+		<link>https://meiahorinha.com/bem-vindos/</link>
+		<pubDate>Tue, 14 Mar 2017 19:12:12 +0000</pubDate>
+		<guid isPermaLink="false">https://meiahorinha.com/?p=306</guid>
+		<description>Olá,
+
+Sabe aquela meia horinha logo após terminar de almoçar, onde o papo rola solto e você dá muita risada com as histórias da turma ?
+
+Foi durante essas conversas que reparei que a liderança pode ser desenvolvida e praticada de diversas maneiras, seja através de um jogo de celular, organização de um evento ou uma viagem, e que temas como educação financeira e empreendedorismo estão cada vez mais em pauta, só que ainda existem muitas dúvidas.
+
+Foi  pensando nisso criamos um espaço para discussão e debate desses temas e insigths !
+
+Bem vindo ao Canal Meia Horinha, contamos com sua audiência e não deixem de enviar suas sugestões….
+
+Grande abraço,
+
+Filipe Schmidt, Luciano de Paula e Hélio Costa
+
+Curta nossa Vinheta em Primeira Mão clicando no Play !</description>
+		<content:encoded><![CDATA[<p><img src="https://meiahorinha.com/wp-content/uploads/2017/03/bemvindo-180x300.jpg" alt="" width="180" height="300" class="alignleft size-medium wp-image-315" srcset="https://i1.wp.com/meiahorinha.com/wp-content/uploads/2017/03/bemvindo.jpg?resize=180%2C300&amp;ssl=1 180w, https://i1.wp.com/meiahorinha.com/wp-content/uploads/2017/03/bemvindo.jpg?w=300&amp;ssl=1 300w" sizes="(max-width: 180px) 100vw, 180px" /></p>
+<p>Olá,</p>
+<p>Sabe aquela meia horinha logo após terminar de almoçar, onde o papo rola solto e você dá muita risada com as histórias da turma ?</p>
+<p>Foi durante essas conversas que reparei que a liderança pode ser desenvolvida e praticada de diversas maneiras, seja através de um jogo de celular, organização de um evento ou uma viagem, e que temas como educação financeira e empreendedorismo estão cada vez mais em pauta, só que ainda existem muitas dúvidas.</p>
+<p>Foi  pensando nisso criamos um espaço para discussão e debate desses temas e insigths !</p>
+<p>Bem vindo ao Canal Meia Horinha, contamos com sua audiência e não deixem de enviar suas sugestões….</p>
+<p>Grande abraço,</p>
+<p><em><strong>Filipe Schmidt, Luciano de Paula e Hélio Costa</strong></em></p>
+<p><em><strong>Curta nossa Vinheta em Primeira Mão clicando no Play !</strong></em></p>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/canalmeiahorinha/content.blubrry.com/canalmeiahorinha/MeiaHorinha-Vinheta.mp3" length="1198464" type="audio/mpeg" />
+		<itunes:subtitle>Olá, - Sabe aquela meia horinha logo após terminar de almoçar, onde o papo rola solto e você dá muita risada com as histórias da turma ? - Foi durante essas conversas que reparei que a liderança pode ser desenvolvida e praticada de diversas maneiras,...</itunes:subtitle>
+		<itunes:summary>Olá,&lt;br /&gt;
+&lt;br /&gt;
+Sabe aquela meia horinha logo após terminar de almoçar, onde o papo rola solto e você dá muita risada com as histórias da turma ?&lt;br /&gt;
+&lt;br /&gt;
+Foi durante essas conversas que reparei que a liderança pode ser desenvolvida e praticada de diversas maneiras, seja através de um jogo de celular, organização de um evento ou uma viagem, e que temas como educação financeira e empreendedorismo estão cada vez mais em pauta, só que ainda existem muitas dúvidas.&lt;br /&gt;
+&lt;br /&gt;
+Foi  pensando nisso criamos um espaço para discussão e debate desses temas e insigths !&lt;br /&gt;
+&lt;br /&gt;
+Bem vindo ao Canal Meia Horinha, contamos com sua audiência e não deixem de enviar suas sugestões….&lt;br /&gt;
+&lt;br /&gt;
+Grande abraço,&lt;br /&gt;
+&lt;br /&gt;
+Filipe Schmidt, Luciano de Paula e Hélio Costa&lt;br /&gt;
+&lt;br /&gt;
+Curta nossa Vinheta em Primeira Mão clicando no Play !</itunes:summary>
+		<itunes:author>Meia Horinha - Empreendedorismo</itunes:author>
+		<itunes:image href="https://meiahorinha.com/wp-content/uploads/2017/06/iTunes-Cover.jpg" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:15</itunes:duration>
+		</item>
+</channel>
+</rss>
