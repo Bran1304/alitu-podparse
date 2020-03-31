@@ -18,6 +18,9 @@ const sampleFeedOrder = fs.readFileSync(`${testFilesPath}/bc-sample-order.xml`, 
 const replyAllOrdering = fs.readFileSync(`${testFilesPath}/replyall-sample-ordering.xml`, 'utf8').toString();
 const planeyMoney = fs.readFileSync(`${testFilesPath}/planet-money.xml`, 'utf8').toString();
 const theDaily = fs.readFileSync(`${testFilesPath}/the-daily.xml`, 'utf8').toString();
+const orbita = fs.readFileSync(`${testFilesPath}/orbita.xml`, 'utf8').toString();
+const ruminant = fs.readFileSync(`${testFilesPath}/ruminant.xml`, 'utf8').toString();
+const enigma = fs.readFileSync(`${testFilesPath}/enigma.xml`, 'utf8').toString();
 
 describe('Reading files', () => {
   it('should read the file', () => {
@@ -45,8 +48,8 @@ describe('Getting Podcast Object from Sample Feed', () => {
   describe('Checking Podcast Meta Information', () => {
     it('should be a valid object with all default fields', () => {
       expect(podcast.meta).to.be.an('object').that.contains.keys(
-        'title', 'description', 'image', 'lastUpdated', 'link', 'links',
-        'language', 'editor', 'author', 'summary', 'categories', 'owner',
+        'title', 'description', 'image', 'lastBuildDate', 'link', 'links',
+        'language', 'managingEditor', 'author', 'summary', 'category', 'owner',
         'explicit', 'generator',
       );
     });
@@ -55,13 +58,13 @@ describe('Getting Podcast Object from Sample Feed', () => {
       expect(podcast.meta.title).to.equal('All Things Chemical');
       expect(podcast.meta.description).to.equal('All Things Chemical is a podcast produced by Bergeson & Campbell, P.C. (B&C®), a Washington D.C. law firm focusing on chemical law, business, and litigation matters. All Things Chemical is hosted by Lynn L. Bergeson, managing partner of B&C. In each episode, we bring you intelligent, insightful, and engaging conversation about everything related to industrial, pesticidal, and specialty chemicals, as well as the law and business issues surrounding chemicals. Our incredibly talented team of lawyers, scientists, and consultants keep you abreast of the changing world of both domestic and international chemical regulation and provide analysis of the many intriguing and complicated issues surrounding this space.');
       expect(podcast.meta.image.url).to.equal('https://ssl-static.libsyn.com/p/assets/0/0/e/b/00eb13bdea311055/AllThingsChemicalLogo1400.png');
-      expect(podcast.meta.lastUpdated).to.equal('2018-12-06T17:51:50.000Z');
+      expect(podcast.meta.lastBuildDate).to.equal('2018-12-06T17:51:50.000Z');
       expect(podcast.meta.link).to.equal('http://www.lawbc.com');
       expect(podcast.meta.language).to.equal('en');
-      expect(podcast.meta.editor).to.equal('info@lawbc.com (info@lawbc.com)');
+      expect(podcast.meta.managingEditor).to.equal('info@lawbc.com (info@lawbc.com)');
       expect(podcast.meta.author).to.equal('Bergeson & Campbell, PC');
       expect(podcast.meta.summary).to.equal('All Things Chemical is a podcast produced by Bergeson & Campbell, P.C. (B&C®), a Washington D.C. law firm focusing on chemical law, business, and litigation matters. All Things Chemical is hosted by Lynn L. Bergeson, managing partner of B&C. In each episode, we bring you intelligent, insightful, and engaging conversation about everything related to industrial, pesticidal, and specialty chemicals, as well as the law and business issues surrounding chemicals. Our incredibly talented team of lawyers, scientists, and consultants keep you abreast of the changing world of both domestic and international chemical regulation and provide analysis of the many intriguing and complicated issues surrounding this space.');
-      expect(podcast.meta.categories).to.eql(['Business']);
+      expect(podcast.meta.category).to.eql(['Business', 'Business News', 'Government & Organizations']);
       expect(podcast.meta.owner).to.eql({ name: 'Bergeson & Campbell, PC', email: 'info@lawbc.com' });
       expect(podcast.meta.explicit).to.equal(false);
       expect(podcast.meta.complete).to.be.undefined;
@@ -71,6 +74,29 @@ describe('Getting Podcast Object from Sample Feed', () => {
     it('should have a links section', () => {
       expect(podcast.meta.links).to.be.an('array');
       expect(podcast.meta.links[0]).to.be.an('object').that.contains.keys('href', 'type', 'rel');
+    });
+  });
+
+  describe('Parses Google Play Schema', () => {
+    const enigmaPodcast = getPodcastFromFeed(enigma);
+
+    it('parses podcast metadata', () => {
+      expect(enigmaPodcast.meta.author).to.equal('JuanPaLaguna');
+      expect(enigmaPodcast.meta.image.url).to.equal('https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3d221577de5b436cf44fc10b77370732.jpg');
+      expect(enigmaPodcast.meta.description).to.equal('El viaje para la búsqueda de la verdad ( o lo más cercano a ella) en el mundo del misterio.');
+    });
+
+    it('handles explicit values case-insensitive', () => {
+      expect(enigmaPodcast.meta.explicit).to.equal(false); // "No"
+    });
+
+    it('handles both category and googleplay:category elements', () => {
+      expect(enigmaPodcast.meta.category).to.eql(['Leisure', 'Society & Culture']);
+    });
+
+    it('handles "clean" as not explicit', () => {
+      const orbitaPodcast = getPodcastFromFeed(orbita);
+      expect(orbitaPodcast.meta.explicit).to.equal(false); // "clean"
     });
   });
 
@@ -86,11 +112,11 @@ describe('Getting Podcast Object from Sample Feed', () => {
       expect(money.meta.language).to.equal('en');
       expect(money.meta.author).to.equal('NPR');
       expect(money.meta.summary).to.equal(money.meta.description);
-      expect(money.meta.categories).to.eql(['Business']);
+      expect(money.meta.category).to.eql(['Business', 'News']);
       expect(money.meta.owner).to.eql({ name: 'NPR', email: 'podcasts@npr.org' });
       expect(money.meta.explicit).to.be.undefined;
       expect(money.meta.complete).to.be.undefined;
-      expect(money.meta.blocked).to.eql(false);
+      expect(money.meta.blocked).to.be.undefined;
     });
   });
 
@@ -184,5 +210,22 @@ describe('Checking re-ordering functionality', () => {
     expect(podcast.episodes[2].title).to.equal('Reply All Mic Test'); // first by pubDate
     expect(podcast.episodes[1].title).to.equal('#1 A Stranger Says I Love You'); // pubDate is the same, order by title
     expect(podcast.episodes[0].title).to.equal('#2 The Secret, Gruesome Internet For Doctors'); // pubDate is the same, order by title
+  });
+});
+
+describe('Deduplication', () => {
+  it('should deduplicate keywords', () => {
+    const podcast = getPodcastFromFeed(replyAllOrdering);
+    expect(podcast.meta.keywords).to.eql(['Storytelling']);
+  });
+
+  it('should support comma-separated keywords', () => {
+    const podcast = getPodcastFromFeed(ruminant);
+    expect(podcast.meta.keywords).to.eql(['farm', 'farming', 'food', 'gardening', 'ideas', 'organic', 'politics', 'scale', 'skills', 'small', 'sustainable']);
+  });
+
+  it('should deduplicate categories', () => {
+    const podcast = getPodcastFromFeed(orbita);
+    expect(podcast.meta.category).to.eql(['Comedy']);
   });
 });

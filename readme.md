@@ -13,7 +13,7 @@
 
 # podparse
 
-A simple package for parsing podcast feeds into manageable JavaScript objects. For use with Node and in the browser. Based on [jbierfeldt/podcast-feed-parser](https://github.com/jbierfeldt/podcast-feed-parser/).
+A simple package for parsing podcast feeds into manageable JavaScript objects. For use with Node and in the browser. Originally based on [jbierfeldt/podcast-feed-parser](https://github.com/jbierfeldt/podcast-feed-parser/).
 
 ## Installation
 
@@ -27,7 +27,8 @@ See [podparse on npm](https://www.npmjs.com/package/podparse).
 
 This package:
 
-* Does not contain the `isomorphic-fetch` dependency.
+* Does not contain the [`isomorphic-fetch`](https://github.com/matthew-andrews/isomorphic-fetch) dependency.
+* Replaces [`xml2js`](https://github.com/Leonidas-from-XIV/node-xml2js) with smaller and less memory-intensive [`@rgrove/parse-xml`](https://github.com/rgrove/parse-xml).
 * Is designed to be easier to use, albeit less configurable.
 * Removes empty (`null`, `undefined`, `''`, `NaN`, `{}`) from the output.
 * Does not use hard-coded namespace prefixes (esp. `itunes`, `googleplay`, and `atom`).
@@ -62,9 +63,7 @@ By default, `podparse` will parse a podcast's xml feed and return an object with
 
 ## Quickstart
 
-`podparse` has one main functions: `getPodcastFromFeed`.
-
-For parsing a podcast from an feed xml, use `getPodcastFromFeed`:
+`podparse` has one function: `getPodcastFromFeed`:
 
 ```js
 const getPodcastFromFeed = require("podparse")
@@ -83,59 +82,54 @@ podcast.episodes.forEach( (episode) => {
 // "My Episode 2"
 ```
 
-## Default
+## Real-world example
 
-By default, `podparse` will parse a feed for the following default fields, based on [this standard](https://github.com/simplepie/simplepie-ng/wiki/Spec:-iTunes-Podcast-RSS). If a field is not found in a feed, it will quietly return `undefined`.
+`podparse` will parse a feed for values based on [this standard](https://github.com/simplepie/simplepie-ng/wiki/Spec:-iTunes-Podcast-RSS). If a field is not found in a feed, it will not be included. Here is a sample output for [Planet Money](https://www.npr.org/planetmoney):
 
 ```js
 {
-    meta: {
-        title: '',
-        description: '',
-        subtitle: '',
-        image: {
-          url: '',
-          title: '',
-          link: '',
-          width: 0,
-          height: 0
-        },
-        lastUpdated: '',
-        link: '',
-        language: '',
-        editor: '',
-        author: '',
-        summary: '',
-        categories: [],
-        owner: {
-          name: '',
-          email: ''
-        },
-        ttl: 0,
-        explicit: true,
-        complete: true,
-        blocked: true
+  meta: {
+    title: 'Planet Money',
+    description: `The economy explained. Imagine you could call up a friend and say, "Meet me at the bar and tell me what's going on with the economy." Now imagine that's actually a fun evening.`,
+    language: 'en',
+    author: 'NPR',
+    summary: `The economy explained. Imagine you could call up a friend and say, "Meet me at the bar and tell me what's going on with the economy." Now imagine that's actually a fun evening.`,
+    type: 'episodic',
+    generator: 'NPR API RSS Generator 0.94',
+    category: [ 'Business', 'News' ],
+    owner: { name: 'NPR', email: 'podcasts@npr.org' },
+    image: {
+      url: 'https://media.npr.org/assets/img/2018/08/02/npr_planetmoney_podcasttile_sq-7b7fab0b52fd72826936c3dbe51cff94889797a0.jpg?s=1400'
     },
-    episodes: [
-      {
-        title: '',
-        description: '',
-        imageURL: '',
-        pubDate: '',
-        link: '',
-        guid: '',
-        language: '',
-        enclosure: {
-          length: '0',
-          type: '',
-          url: ''
-        },
-        duration: 0,
-        summary: '',
-        blocked: true,
-        explicit: true,
-        order: 1
-      }
-  ]
+    lastBuildDate: '2020-03-16T21:50:01.000Z',
+    pubDate: '1970-01-01T00:00:00.000Z',
+    link: 'https://www.npr.org/planetmoney',
+    links: []
+  },
+  episodes: [
+    {
+      title: '#980: The Fed Fights The Virus',
+      description: 'The central bank is trying to prevent a health crisis from becoming a financial crisis. | Subscribe to our weekly newsletter <a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&utm_medium=podcast&utm_term=planet_money">here</a>.',
+      subtitle: 'The Federal Reserve usually has one main job: setting interest rates. But in emergencies, another Fed job becomes more important: trying to prevent a financial crisis.',
+      author: 'NPR',
+      summary: 'The Federal Reserve usually has one main job: setting interest rates. But in emergencies, another Fed job becomes more important: trying to prevent a financial crisis.',
+      episodeType: 'full',
+      guid: '5b88529b-fed8-4562-8312-61e4b24b0451',
+      image: {
+        url: 'https://media.npr.org/assets/img/2020/03/16/gettyimages-1204924943-594x594_wide-60e13736df6bfcb9135f158ec2873956f134aef4.jpg?s=1400'
+      },
+      explicit: false,
+      duration: 1097,
+      enclosure: {
+        url: 'https://play.podtrac.com/npr-510289/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/pmoney/2020/03/20200316_pmoney_pmpod980-e086b0be-e27c-44eb-a088-d76e3104fb20.mp3?awCollectionId=510289&amp;awEpisodeId=816684372&amp;orgId=1&amp;topicId=1017&amp;aggIds=812054919&amp;d=1097&amp;p=510289&amp;story=816684372&amp;t=podcast&amp;e=816684372&amp;size=17556408&amp;ft=pod&amp;f=510289',
+        length: 17556408,
+        type: 'audio/mpeg'
+      },
+      lastBuildDate: '1970-01-01T00:00:00.000Z',
+      pubDate: '2020-03-16T21:50:01.000Z',
+      link: 'https://www.npr.org/2020/03/16/816684372/episode-980-the-fed-fights-the-virus'
+    },
+    // ... 255 more items
+  ],
 }
 ```
