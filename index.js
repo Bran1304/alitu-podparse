@@ -66,6 +66,15 @@ function isYes(nodes) {
 // Find the first node with a given name
 const findNode = (node, elName) => node.children.find(({ name }) => elName === name);
 
+// Like findNode but throws an error if element is missing
+const findNodeOrThrow = (node, elName) => {
+  const child = findNode(node, elName);
+  if (!child) {
+    throw new Error(`Missing requires <${elName}> element.`);
+  }
+  return child;
+}
+
 // Find all nodes with a given name
 const findAllNodes = (node, elName) => node.children.filter(({ name }) => elName === name);
 
@@ -291,8 +300,8 @@ const createEpisodesFromItems = (items) => items.map(parseElement).sort(episodeC
 
 module.exports = function getPodcastFromFeed(feed) {
   const feedObject = parseXml(feed);
-  const rss = findNode(feedObject, 'rss');
-  const channel = findNode(rss, 'channel');
+  const rss = findNodeOrThrow(feedObject, 'rss');
+  const channel = findNodeOrThrow(rss, 'channel');
   const items = findAllNodes(channel, 'item');
 
   return {
