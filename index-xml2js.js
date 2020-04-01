@@ -5,6 +5,9 @@ const { Parser } = require('xml2js');
 const ITUNES_URI = 'http://www.itunes.com/dtds/podcast-1.0.dtd';
 const GOOGLE_URI = 'http://www.google.com/schemas/play-podcasts/1.0';
 const ATOM_URI = 'http://www.w3.org/2005/Atom';
+const MEDIA_RSS_URI = 'http://www.rssboard.org/media-rss';
+const MRSS_URI = 'http://search.yahoo.com/mrss/';
+const CONTENT_URI = 'http://purl.org/rss/1.0/modules/content/';
 
 const EMPTY_VALUES = [null, undefined, '', NaN];
 

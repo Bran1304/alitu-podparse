@@ -23,6 +23,9 @@ const ruminant = fs.readFileSync(`${testFilesPath}/ruminant.xml`, 'utf8').toStri
 const enigma = fs.readFileSync(`${testFilesPath}/enigma.xml`, 'utf8').toString();
 const itunesu = fs.readFileSync(`${testFilesPath}/itunesu.xml`, 'utf8').toString();
 const extraContent = fs.readFileSync(`${testFilesPath}/canal.xml`, 'utf8').toString();
+const notRss = fs.readFileSync(`${testFilesPath}/products.xml`, 'utf8').toString();
+const otherEntities = fs.readFileSync(`${testFilesPath}/babesinbusiness.xml`, 'utf8').toString();
+const badEntity = fs.readFileSync(`${testFilesPath}/comintegrator.xml`, 'utf8').toString();
 
 describe('Reading files', () => {
   it('should read the file', () => {
@@ -42,6 +45,18 @@ describe('Parsing Local Feeds', () => {
   it('should throw an error for extra content', () => {
     // extra content before or after the XML document
     expect(() => getPodcastFromFeed(extraContent)).to.throw();
+  });
+
+  it('should throw an error when root element is not <rss>', () => {
+    expect(() => getPodcastFromFeed(notRss)).to.throw(/Missing required <rss> element/);
+  });
+
+  it('should parse HTML entities like &nbsp;', () => {
+    expect(() => getPodcastFromFeed(otherEntities)).not.to.throw(/Named entity isn't defined/);
+  });
+
+  it('should throw an error for invalid entities', () => {
+    expect(() => getPodcastFromFeed(badEntity)).to.throw(/Named entity isn't defined/);
   });
 });
 
@@ -242,5 +257,13 @@ describe('Duration element', () => {
   it('handles empty duration', () => {
     const podcast = getPodcastFromFeed(itunesu);
     expect(podcast.episodes[0].duration).to.be.undefined;
+  });
+});
+
+describe('Options', () => {
+  it('doesn\'t parse episodes when includeEpisodes is set to false', () => {
+    const podcast = getPodcastFromFeed(itunesu, { includeEpisodes: false });
+    expect(podcast.episodes).to.be.undefined;
+    expect(podcast.meta).to.be.an('object');
   });
 });

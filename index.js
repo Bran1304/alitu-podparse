@@ -2,6 +2,19 @@ const parseXml = require('@rgrove/parse-xml');
 
 // === Utilities ===
 
+// Five predefined XML entities supported by parse-xml,
+// see: https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references#Predefined_entities_in_XML
+// Additional entities determined empirically.
+const entityMap = new Map([
+  ['&nbsp;', ' '],
+  ['&acirc;', 'Â'],
+  ['&mdash;', '—'],
+  ['&ndash;', '–'],
+  ['&hyphen;', '‐'],
+  ['&dash;', '‐'],
+  ['&hellip;', '…'],
+]);
+
 function fromEntries(entries) {
   return entries.reduce((main, [key, value]) => ({ ...main, [key]: value }), {});
 }
@@ -70,7 +83,7 @@ const findNode = (node, elName) => node.children.find(({ name }) => elName === n
 const findNodeOrThrow = (node, elName) => {
   const child = findNode(node, elName);
   if (!child) {
-    throw new Error(`Missing requires <${elName}> element.`);
+    throw new Error(`Missing required <${elName}> element.`);
   }
   return child;
 }
@@ -251,13 +264,8 @@ function episodeComparator(a, b) {
     return (b.pubDate > a.pubDate) ? 1 : -1;
   }
 
-  if (a.order && !b.order) {
-    return 1;
-  }
-
-  if (b.order && !a.order) {
-    return -1;
-  }
+  if (a.order && !b.order) { return 1; }
+  if (b.order && !a.order) { return -1; }
 
   return (a.order > b.order) ? -1 : 1;
 }
@@ -296,16 +304,31 @@ function createMetaFromChannel(channel) {
 // Parse item elements
 const createEpisodesFromItems = (items) => items.map(parseElement).sort(episodeComparator);
 
+// Resolve undefined entities
+const entityResolver = entityMap.get.bind(entityMap);
+
 // === Main Method ===
 
-module.exports = function getPodcastFromFeed(feed) {
-  const feedObject = parseXml(feed);
+const DEFAULT_OPTIONS = Object.freeze({
+  includeEpisodes: true,
+});
+
+module.exports = function getPodcastFromFeed(feed,
+  { includeEpisodes } = DEFAULT_OPTIONS) {
+  const feedObject = parseXml(feed, {
+    resolveUndefinedEntity: entityResolver,
+  });
   const rss = findNodeOrThrow(feedObject, 'rss');
   const channel = findNodeOrThrow(rss, 'channel');
-  const items = findAllNodes(channel, 'item');
 
-  return {
-    meta: createMetaFromChannel(channel),
-    episodes: createEpisodesFromItems(items),
-  };
+  if (includeEpisodes) {
+    const items = findAllNodes(channel, 'item');
+
+    return {
+      meta: createMetaFromChannel(channel),
+      episodes: createEpisodesFromItems(items),
+    };
+  }
+
+  return { meta: createMetaFromChannel(channel) };
 };

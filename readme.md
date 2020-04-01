@@ -82,6 +82,21 @@ podcast.episodes.forEach( (episode) => {
 // "My Episode 2"
 ```
 
+## Options
+
+`podparse` currently supports the following options:
+
+* `includeEpisodes` (default: `true`)
+  * Whether to parse `<item>` elements for each episode.
+
+Options are passed as an object to the `getPodcastFromFeed` function, for example:
+
+```js
+const podcastWithoutEpisodes = getPodcastFromFeed(podcastFeed, {
+  includeEpisodes: false
+});
+```
+
 ## Real-world example
 
 `podparse` will parse a feed for values based on [this standard](https://github.com/simplepie/simplepie-ng/wiki/Spec:-iTunes-Podcast-RSS). If a field is not found in a feed, it will not be included. Here is a sample output for [Planet Money](https://www.npr.org/planetmoney):
