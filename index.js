@@ -13,6 +13,18 @@ const entityMap = new Map([
   ['&hyphen;', '‐'],
   ['&dash;', '‐'],
   ['&hellip;', '…'],
+  ['&ldquo;', '“'],
+  ['&rdquo;', '”'],
+  ['&lsaquo;', '‹'],
+  ['&rsaquo;', '›'],
+  ['&raquo;', '»'],
+  ['&laquo;', '«'],
+  ['&bull;', '•'],
+  ['&Atilde;', 'Ã'],
+  ['&agrave;', 'à'],
+  ['&aacute;', 'á'],
+  ['&trade;', '™'],
+  ['&larr;', '←'],
 ]);
 
 function fromEntries(entries) {
