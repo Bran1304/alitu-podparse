@@ -25,6 +25,9 @@ const entityMap = new Map([
   ['&aacute;', 'á'],
   ['&trade;', '™'],
   ['&larr;', '←'],
+  ['&cent;', '¢'],
+  ['&rsquo;', '’'],
+  ['&lsquo;', '‘'],
 ]);
 
 function fromEntries(entries) {
