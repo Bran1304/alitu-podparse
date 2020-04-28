@@ -33,6 +33,16 @@ This package:
 * Removes empty (`null`, `undefined`, `''`, `NaN`, `{}`) from the output.
 * Does not use hard-coded namespace prefixes (esp. `itunes`, `googleplay`, and `atom`).
 
+## Supported Namespaces
+
+* iTunes (`http://www.itunes.com/dtds/podcast-1.0.dtd`)
+* Google Podcasts (`http://www.google.com/schemas/play-podcasts/1.0`)
+* Atom Links (`http://www.w3.org/2005/Atom`)
+* Media RSS (`http://www.rssboard.org/media-rss`)
+* Yahoo Media (`http://search.yahoo.com/mrss/`)
+* Spotify (`https://www.spotify.com/ns/rss`)
+* PodLove (`https://podlove.org/simple-chapters/`)
+
 ## Overview
 
 By default, `podparse` will parse a podcast's xml feed and return an object with the following properties. `meta` contains all of the information pertinent to the podcast show itself, and `episodes` is list of episode objects which contain the information pertinent to each individual episode of the podcast.

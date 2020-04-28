@@ -125,6 +125,23 @@ function findNodesLike(node, elName) {
   });
 }
 
+// PodLove Simple Chapters
+function getChapterElements(chapterNode) {
+  const chapter = {
+    start: getAttribute([chapterNode], 'start'),
+  };
+
+  const title = getAttribute([chapterNode], 'title');
+  const href = getAttribute([chapterNode], 'href');
+  const image = getAttribute([chapterNode], 'image');
+
+  if (!isEmptyString(title)) { chapter.title = title; }
+  if (!isEmptyString(href)) { chapter.href = href; }
+  if (!isEmptyString(image)) { chapter.image = image; }
+
+  return chapter;
+}
+
 // === RSS Transformation ===
 
 const rssElements = Object.freeze({
@@ -140,6 +157,16 @@ const rssElements = Object.freeze({
   type: getText, // episodic or serial
   guid: getText,
   generator: getText,
+  countryOfOrigin: getText, // spotify
+  limit: ([node]) => { // spotify
+    if (!(node && node.children)) { return null; }
+    return Number.parseInt(getAttribute([node], 'recentCount'), 10);
+  },
+  chapters: ([node]) => { // PodLove
+    if (!(node && node.children)) { return null; }
+    const chapterNodes = findNodesLike(node, 'chapter');
+    return chapterNodes.map(getChapterElements);
+  },
   thumbnail: (nodes) => getAttribute(nodes, 'url'),
   keywords: (nodes) => uniq(
     nodes.map(getTextForNode)

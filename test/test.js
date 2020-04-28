@@ -26,6 +26,7 @@ const extraContent = fs.readFileSync(`${testFilesPath}/canal.xml`, 'utf8').toStr
 const notRss = fs.readFileSync(`${testFilesPath}/products.xml`, 'utf8').toString();
 const otherEntities = fs.readFileSync(`${testFilesPath}/babesinbusiness.xml`, 'utf8').toString();
 const badEntity = fs.readFileSync(`${testFilesPath}/comintegrator.xml`, 'utf8').toString();
+const podlove = fs.readFileSync(`${testFilesPath}/podlove.xml`, 'utf8').toString();
 
 describe('Reading files', () => {
   it('should read the file', () => {
@@ -216,6 +217,38 @@ describe('Getting Podcast Object from Sample Feed', () => {
         expect(daily.episodes[0].guid).to.equal('gid://art19-episode-locator/V0/eooL1KYI_E0xdACmvP47Uaj_PHCfMpQIB8oH6V5V09E');
       });
     });
+  });
+});
+
+describe('Supports PodLove Simple Chapters', () => {
+  const podChapters = getPodcastFromFeed(podlove);
+
+  it('should include a chapters element', () => {
+    expect(podChapters.episodes[0].chapters).to.be.an('array');
+    expect(podChapters.episodes[0].chapters.length).to.eql(4);
+  });
+
+  it('should include chapter titles, start times, and links', () => {
+    expect(podChapters.episodes[0].chapters[0].start).to.eql('0');
+    expect(podChapters.episodes[0].chapters[0].title).to.eql('Welcome');
+    expect(podChapters.episodes[0].chapters[1].href).to.eql('http://podlove.org/');
+  });
+
+  it('should not include empty values', () => {
+    expect(podChapters.episodes[0].chapters[0].href).to.be.undefined;
+    expect(podChapters.episodes[0].chapters[0].image).to.be.undefined;
+  });
+});
+
+describe('Supports Spotify attributes', () => {
+  const podChapters = getPodcastFromFeed(podlove);
+
+  it('should parse the country of origin element', () => {
+    expect(podChapters.meta.countryOfOrigin).to.eql('us');
+  });
+
+  it('should parse the limit element', () => {
+    expect(podChapters.meta.limit).to.eql(1);
   });
 });
 
