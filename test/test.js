@@ -27,6 +27,7 @@ const notRss = fs.readFileSync(`${testFilesPath}/products.xml`, 'utf8').toString
 const otherEntities = fs.readFileSync(`${testFilesPath}/babesinbusiness.xml`, 'utf8').toString();
 const badEntity = fs.readFileSync(`${testFilesPath}/comintegrator.xml`, 'utf8').toString();
 const podlove = fs.readFileSync(`${testFilesPath}/podlove.xml`, 'utf8').toString();
+const hours80000 = fs.readFileSync(`${testFilesPath}/80000HoursPodcast.xml`, 'utf8').toString();
 
 describe('Reading files', () => {
   it('should read the file', () => {
@@ -290,6 +291,14 @@ describe('Duration element', () => {
   it('handles empty duration', () => {
     const podcast = getPodcastFromFeed(itunesu);
     expect(podcast.episodes[0].duration).to.be.undefined;
+  });
+
+  it('parses HH:MM:SS format correctly', () => {
+    const podcast = getPodcastFromFeed(hours80000);
+    // 02:11:36
+    expect(podcast.episodes[0].duration).to.eq((2 * 60 * 60) + (11 * 60) + 36);
+    // 00:26:45
+    expect(podcast.episodes[2].duration).to.eq((0 * 60 * 60) + (26 * 60) + 45);
   });
 });
 

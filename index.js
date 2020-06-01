@@ -244,7 +244,7 @@ const rssElements = Object.freeze({
     const times = dur.split(':').map(Number);
     const [h, m, s] = times;
 
-    // Standardize all formats into an amount in milliseconds
+    // Standardize all formats into an amount in seconds
     switch (times.length) {
       case 3: // i.e. 01:24:13
         return (60 * 60 * h) + (60 * m) + s;
