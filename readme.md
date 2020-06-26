@@ -42,6 +42,7 @@ This package:
 * Yahoo Media (`http://search.yahoo.com/mrss/`)
 * Spotify (`https://www.spotify.com/ns/rss`)
 * PodLove (`https://podlove.org/simple-chapters/`)
+* Iono.fm (`http://iono.fm/rss-namespace-1.0`)
 
 ## Overview
 

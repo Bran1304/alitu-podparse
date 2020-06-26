@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/rss/transform" media="screen"?>
+<rss
+	version="2.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:ionofm="http://iono.fm/rss-namespace-1.0"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xml:lang="en"
+>
+	<channel>
+		<title>BBC Minute</title>
+		<link>http://www.bbc.co.uk</link>
+		<atom:link href="http://iono.fm/rss/chan/2946" rel="self" type="application/rss+xml" />
+		<description>One minute of the world's most shareable news - updated every half an hour, 24/7.</description>
+					<category>News</category>
+				<language>en</language>
+		<pubDate>Mon, 28 Nov 2016 12:14:29 +0200</pubDate>
+		<lastBuildDate>Fri, 26 Jun 2020 21:59:34 +0200</lastBuildDate>
+		<ttl>30</ttl>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>iono.fm 1.0.1</generator>
+		<copyright>2013</copyright>
+				<webMaster>feeds@iono.fm (Feed Manager)</webMaster>
+		<image>
+			<url>https://static.iono.fm/files/p4/logo_2946_20191028_163751_1400.jpg</url>
+			<title>BBC Minute</title>
+			<link>http://www.bbc.co.uk</link>
+		</image>
+		<itunes:subtitle>One minute of the world's most shareable news - updated every half an hour, 24/7.</itunes:subtitle>
+		<itunes:author>BBC</itunes:author>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>BBC</itunes:name>
+			<itunes:email>ben.batson@bbc.co.uk</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:image href="https://static.iono.fm/files/p4/logo_2946_20191028_163751_1400.jpg" />
+		<itunes:summary><![CDATA[One minute of the world's most shareable news - updated every half an hour, 24/7.]]></itunes:summary>
+					<itunes:category text="News">
+							</itunes:category>
+				<ionofm:thumbnail href="https://static.iono.fm/files/p4/logo_2946_20191028_163751_600.jpg" />
+		<ionofm:coverart href="https://static.iono.fm/img/iono2/black/ionofm_black_tagline_square_with_background_300w.png" />
+		<spotify:countryOfOrigin>GB</spotify:countryOfOrigin>
+		<spotify:limit recentCount="150"/>
+			<item>
+		<title>20:00 GMT</title>
+		<link>http://iono.fm/e/882765</link>
+		<guid isPermaLink="true">http://iono.fm/e/882765</guid>
+		<description><![CDATA[<img src="https://static.iono.fm/files/p4/logo_2946_20191028_163751_600.jpg" height="64" width="64" /><b>BBC</b> &mdash; One minute of the world's most shareable news - updated every half an hour, 24/7. ]]></description>
+					<category>News</category>
+				<pubDate>Fri, 26 Jun 2020 21:59:34 +0200</pubDate>
+		<itunes:title>20:00 GMT</itunes:title>
+		<itunes:season>0</itunes:season>
+		<itunes:episode>0</itunes:episode>
+		<itunes:author>BBC</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:image href="https://static.iono.fm/files/p4/logo_2946_20191028_163751_1400.jpg"/>
+		<itunes:duration>1:00</itunes:duration>
+		<itunes:summary><![CDATA[One minute of the world's most shareable news - updated every half an hour, 24/7.]]></itunes:summary>
+		<source url="http://iono.fm/rss/chan/2946">BBC Minute</source>
+		<enclosure url="https://dl.iono.fm/epi/prov_4/epi_882765_medium.m4a?p=rss" length="431150" type="audio/x-m4a" />
+		<ionofm:thumbnail href="https://static.iono.fm/files/p4/logo_2946_20191028_163751_600.jpg"/>
+		<ionofm:coverart href=""/>
+	</item>
+	</channel>
+</rss>

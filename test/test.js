@@ -28,6 +28,7 @@ const otherEntities = fs.readFileSync(`${testFilesPath}/babesinbusiness.xml`, 'u
 const badEntity = fs.readFileSync(`${testFilesPath}/comintegrator.xml`, 'utf8').toString();
 const podlove = fs.readFileSync(`${testFilesPath}/podlove.xml`, 'utf8').toString();
 const hours80000 = fs.readFileSync(`${testFilesPath}/80000HoursPodcast.xml`, 'utf8').toString();
+const bbcMinutes = fs.readFileSync(`${testFilesPath}/bbc_minutes.xml`, 'utf8').toString();
 
 describe('Reading files', () => {
   it('should read the file', () => {
@@ -250,6 +251,20 @@ describe('Supports Spotify attributes', () => {
 
   it('should parse the limit element', () => {
     expect(podChapters.meta.limit).to.eql(1);
+  });
+});
+
+describe('Supports Iono Namespace', () => {
+  const bbcPodcast = getPodcastFromFeed(bbcMinutes);
+
+  it('should include cover art urls', () => {
+    expect(bbcPodcast.meta.coverart).to.eql('https://static.iono.fm/img/iono2/black/ionofm_black_tagline_square_with_background_300w.png');
+    expect(bbcPodcast.episodes[0].coverart).to.be.undefined;
+  });
+
+  it('should include thumbnail urls', () => {
+    expect(bbcPodcast.meta.thumbnail).to.eql('https://static.iono.fm/files/p4/logo_2946_20191028_163751_600.jpg');
+    expect(bbcPodcast.episodes[0].thumbnail).to.eql('https://static.iono.fm/files/p4/logo_2946_20191028_163751_600.jpg');
   });
 });
 

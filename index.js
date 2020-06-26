@@ -170,7 +170,8 @@ const rssElements = Object.freeze({
     const chapterNodes = findNodesLike(node, 'chapter');
     return chapterNodes.map(getChapterElements);
   },
-  thumbnail: (nodes) => getAttribute(nodes, 'url'),
+  thumbnail: (nodes) => (getAttribute(nodes, 'url') || getAttribute(nodes, 'href')),
+  coverart: (nodes) => getAttribute(nodes, 'href'),
   keywords: (nodes) => uniq(
     nodes.map(getTextForNode)
       .filter(isNotEmptyString)
@@ -360,7 +361,7 @@ const DEFAULT_OPTIONS = Object.freeze({
 
 module.exports = function getPodcastFromFeed(feed,
   { includeEpisodes } = DEFAULT_OPTIONS) {
-  const feedObject = parseXml(feed, {
+  const feedObject = parseXml(feed.trim(), {
     resolveUndefinedEntity: entityResolver,
   });
   const rss = findNodeOrThrow(feedObject, 'rss');
