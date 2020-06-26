@@ -28,6 +28,9 @@ const entityMap = new Map([
   ['&cent;', '¢'],
   ['&rsquo;', '’'],
   ['&lsquo;', '‘'],
+  ['&zwnj;', String.fromCodePoint(8204)],
+  ['&zwj;', String.fromCodePoint(8205)],
+  ['&wj;', String.fromCodePoint(8288)],
 ]);
 
 function fromEntries(entries) {
