@@ -177,6 +177,7 @@ const rssElements = Object.freeze({
       .filter(isNotEmptyString)
       .map((keywords) => keywords.split(','))
       .flat()
+      .map((keyword) => keyword.trim())
       .sort(),
   ),
   category: (nodes) => {
