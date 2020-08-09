@@ -31,6 +31,7 @@ const entityMap = new Map([
   ['&zwnj;', String.fromCodePoint(8204)],
   ['&zwj;', String.fromCodePoint(8205)],
   ['&wj;', String.fromCodePoint(8288)],
+  ['&rarr;', '→'],
 ]);
 
 function fromEntries(entries) {
