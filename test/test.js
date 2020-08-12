@@ -29,6 +29,9 @@ const badEntity = fs.readFileSync(`${testFilesPath}/comintegrator.xml`, 'utf8').
 const podlove = fs.readFileSync(`${testFilesPath}/podlove.xml`, 'utf8').toString();
 const hours80000 = fs.readFileSync(`${testFilesPath}/80000HoursPodcast.xml`, 'utf8').toString();
 const bbcMinutes = fs.readFileSync(`${testFilesPath}/bbc_minutes.xml`, 'utf8').toString();
+const geoLatlong = fs.readFileSync(`${testFilesPath}/georss_latlong.xml`, 'utf8').toString();
+const geoPoint = fs.readFileSync(`${testFilesPath}/georss_point.xml`, 'utf8').toString();
+const tvillingpodden = fs.readFileSync(`${testFilesPath}/tvillingpodden.xml`, 'utf8').toString();
 
 describe('Reading files', () => {
   it('should read the file', () => {
@@ -265,6 +268,50 @@ describe('Supports Iono Namespace', () => {
   it('should include thumbnail urls', () => {
     expect(bbcPodcast.meta.thumbnail).to.eql('https://static.iono.fm/files/p4/logo_2946_20191028_163751_600.jpg');
     expect(bbcPodcast.episodes[0].thumbnail).to.eql('https://static.iono.fm/files/p4/logo_2946_20191028_163751_600.jpg');
+  });
+});
+
+describe('Supports GeoRSS Namespace', () => {
+  const geoPointFeed = getPodcastFromFeed(geoPoint);
+  const geoLatlongFeed = getPodcastFromFeed(geoLatlong);
+
+  it('should include GeoRSS points', () => {
+    expect(geoPointFeed.episodes[0].point).to.eql([45.256, -71.92]);
+  });
+
+  it('should include W3 geo lat long', () => {
+    expect(geoLatlongFeed.episodes[0].lat).to.eql(5.5319);
+    expect(geoLatlongFeed.episodes[0].long).to.eql(95.8972);
+  });
+});
+
+describe('Supports Omny Namespace', () => {
+  const geoPointFeed = getPodcastFromFeed(geoPoint);
+
+  it('should include ClipID', () => {
+    expect(geoPointFeed.episodes[0].clipId).to.equal('bd6e1cae-b8fe-4c39-a947-ab7d00020c51');
+  });
+});
+
+describe('Supports Podping Namespace', () => {
+  const podden = getPodcastFromFeed(tvillingpodden);
+
+  it('should include pingback receiver', () => {
+    expect(podden.meta.receiver).to.equal('https://interaction.acast.com/pingback');
+  });
+});
+
+describe('Supports Acast Namespace', () => {
+  const podden = getPodcastFromFeed(tvillingpodden);
+
+  it('should include showId and showUrl', () => {
+    expect(podden.meta.showId).to.equal('2b0d74ba-ec2d-4b08-93c1-ed0941812903');
+    expect(podden.meta.showUrl).to.equal('tvillingpodden');
+  });
+
+  it('should include episodeId and episodeUrl', () => {
+    expect(podden.episodes[0].episodeId).to.equal('c0622b11-f879-4a28-adea-25bc81b532d6');
+    expect(podden.episodes[0].episodeUrl).to.equal('292.ostsnippa');
   });
 });
 

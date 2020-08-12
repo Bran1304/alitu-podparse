@@ -1,0 +1,70 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podaccess="https://schema-access.acast.com/1.0/" xmlns:pingback="https://podping.info/specification/1">
+    <channel>
+        <title>Tvillingpodden</title>
+        <description><![CDATA[<p>En podd av tvillingarna Angelica och Jessica som pratar högt och lågt om graviditet, förlossning, relationer och föräldraskap.</p>]]></description>
+        <acast:showId>2b0d74ba-ec2d-4b08-93c1-ed0941812903</acast:showId>
+        <acast:showUrl>tvillingpodden</acast:showUrl>
+        <link>https://play.acast.com/s/tvillingpodden</link>
+        <atom:link rel="self" type="application/rss+xml" href="https://rss.acast.com/tvillingpodden" />
+        
+        <pingback:receiver>https://interaction.acast.com/pingback</pingback:receiver>
+        <lastBuildDate>Tue, 11 Aug 2020 11:07:12 GMT</lastBuildDate>
+        <pubDate>Mon, 10 Aug 2020 00:00:16 GMT</pubDate>
+        <ttl>30</ttl>
+        <language>sv</language>
+        <copyright><![CDATA[]]></copyright>
+        <docs>https://www.acast.com/tvillingpodden</docs>
+    <acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[DRJE6HovFuWzSZN4DYj29Q==]]></acast:signature>
+		<acast:network id="aad26fb8-ff06-befb-55af-12f20c16b85b"><![CDATA[Tvillingpodden]]></acast:network>
+		<acast:settings><![CDATA[3NIqSZuX335R521cFZqvdEbAZ/monqxonLW7YDJRbl3dfndWrxcuQjFsCB20Dn6s9IZM/Q2/XqD48WwANs8xt2vjppqOC6SX1O68SCxShskfdYBPLZcskoIvEE2H8mhKHdzquj2RnHe1ynpIg2dGTVrJb628vJDxvyrzN0CvCudPRlAD3e+WOukJiUx75djN2HI0zPkTjGl5qpzf3ABDaIvwaMRKrqnPjilTZrgw0/jobGzsI6Btc8sMzqTy3q4+2vZsr/dGEYnbxTCE+TM9wWAUbGlxy9SJfBYIA45K0X5AVhw+BMMpLz7ANDBlVXcw47OS6XUstb2Cree7P/QCeHtMUy3QCoY3LgKYa7IDKQI2Q+WRAFQq1IUtCEukwglB4/pPZa1+8Pc0YxXfqj+DQNVvs0fL8fiiViso15W7Acg=]]></acast:settings>
+		
+        <image>
+            <url>https://thumborcdn.acast.com/1cXeL2ATfnYvNKVEUjCgSf8ATG0=/1500x1500/http://static.libsyn.com/p/assets/d/4/e/b/d4ebbe2023bc102f/NYheaderItunes.jpg</url>
+            <title>Tvillingpodden</title>
+            <link>https://play.acast.com/s/tvillingpodden</link>
+        </image>
+        
+        <itunes:image href="https://thumborcdn.acast.com/1cXeL2ATfnYvNKVEUjCgSf8ATG0=/1500x1500/http://static.libsyn.com/p/assets/d/4/e/b/d4ebbe2023bc102f/NYheaderItunes.jpg" />
+        <itunes:subtitle><![CDATA[En podd av tvillingarna Angelica och Jessica som pratar högt och lågt om graviditet, förlossning, relationer och föräldraskap.]]></itunes:subtitle>
+        <itunes:type>episodic</itunes:type>
+        <itunes:author>Angelica &amp; Jessica Lagergren</itunes:author>
+        <itunes:summary>En podd av tvillingarna Angelica och Jessica som pratar högt och lågt om graviditet, förlossning, relationer och föräldraskap.</itunes:summary>
+        
+        
+        <itunes:owner>
+	        <itunes:name><![CDATA[Angelica & Jessica Lagergren]]></itunes:name>
+	        <itunes:email>tvillingpodden@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:keywords></itunes:keywords>
+                <itunes:category text="Kids &amp; Family" />
+        <media:credit role="author">Angelica &amp; Jessica Lagergren</media:credit>
+	    <media:description type="html"><![CDATA[<p>En podd av tvillingarna Angelica och Jessica som pratar högt och lågt om graviditet, förlossning, relationer och föräldraskap.</p>]]></media:description>
+        <item>
+            <title>292. Ostsnippa</title>
+            <acast:episodeId>c0622b11-f879-4a28-adea-25bc81b532d6</acast:episodeId>
+            <acast:episodeUrl>292.ostsnippa</acast:episodeUrl>
+            <itunes:subtitle>I veckans avsnitt pratar Angelica &amp; Jessica bland annat om att det nu sker en nystart i livet, doft på kön och de snuddar vid swingers. Det och mycket mer i TVILLINGPODDEN.</itunes:subtitle>
+            <itunes:summary><![CDATA[I veckans avsnitt pratar Angelica & Jessica bland annat om att det nu sker en nystart i livet, doft på kön och de snuddar vid swingers. Det och mycket mer i TVILLINGPODDEN. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+            <guid isPermaLink="false"><![CDATA[c0622b11-f879-4a28-adea-25bc81b532d6]]></guid>
+            <pubDate>Mon, 10 Aug 2020 00:00:16 GMT</pubDate>
+            <itunes:duration>00:48:12</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:episodeType>full</itunes:episodeType>
+            
+            
+            
+            
+            <itunes:image href="https://thumborcdn.acast.com/QpXJhds5n53DkRYLuNS_qm2TgAY=/3000x3000/https://mediacdn.acast.com/assets/c0622b11-f879-4a28-adea-25bc81b532d6/cover-image-kdnfvnpk-tvillingpodden_bild.jpg" />
+            
+            <description><![CDATA[<p>I veckans avsnitt pratar <a href="www.angelicalagergren.se" rel="noopener noreferrer" target="_blank">Angelica</a> &amp; <a href="www.jessicalagergren.se" rel="noopener noreferrer" target="_blank">Jessica</a> bland annat om att det nu sker en nystart i livet, doft på kön och de snuddar vid swingers. Det och mycket mer i TVILLINGPODDEN. </p> &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+            <acast:settings><![CDATA[10a2/ewsSkb3G5gjMqLO0FIgAtuT0o64SD0q24pBq5mR156yB4RvT4ifmOhcpBhMqhACCOiqV6QAmeEPwl+H2aC3jbrNwgvptWSv9BxzBtoBh4g65a0ubrdFIzwh+bbBt7BhMGBsa2qXpiMvZRAPPwBO4Un2/PWM9i6Oevk3uMqIASSOmUpKowKNO6gap2A3ybttarumjAzjEx/0ubkTqVzbZ/VmdE4mZ5yDOulFtbQEvBre5RUIFGlb2An6ISmhud/gc3vZXEm5dfMG491zdP8TZufTAWF1Ja9iW3HlhAt/0wk5OXNu+KdkXhdX2DfctqZTzu4EYvFwm6hkca/ndAsKywcI0QjA+wplDgQXp7KUv4Z3XJaLpRFToqTJnWkWjxVYxCnFa5VqlH+MnhXSZHiGtgNsRTp+ej6jN08ZWPYc2LGQasvHzZUkNAFL8juq3LXuUvIH1931KZQobXZGkQl9BI8TUetJBwARjDBcqaxmUKhZ4w+CDm+Q8MnVXNnFv+Xpjq1eh1wqeUQyD7jrUxNhB1FpOztITniC6uxgvqRfS1vRK4tmc8IMIMhGZJYkMoKvX0TnPm2ty7l0UNDJ3oeUlgTsQs5L9ImoBJluDpou8oo6zLVv/EuczeQAaYacc9O15OJXNbqVK8eN/pcxWwn35pUUajZ7lBxCEUh80bjdCNPy3XkYlEfbZpdBC7Z5yGmLINSAxew54HTw36pAjpROme+Bq57vJMXMjPcB5RYTIO9OrGnWOQQX0dUq6s51yh3u3p9C4NmpOYpy0QjmY+Epx/cRbTGcPN1SFL/LR6z3GGP4/NcbcaEFMyMPwfks4oFhs/S6MQHFTUDRu38hZKqER8ZRUigEy6k1RKmjvlhEcCWFkxTL8exDS77eS83/]]></acast:settings>
+            <link>https://play.acast.com/s/tvillingpodden/292.ostsnippa</link>
+
+            <enclosure url="https://sphinx.acast.com/tvillingpodden/292.ostsnippa/media.mp3" length="46278156" type="audio/mpeg"/>
+        </item>
+    </channel>
+</rss>

@@ -43,6 +43,10 @@ This package:
 * Spotify (`https://www.spotify.com/ns/rss`)
 * PodLove (`https://podlove.org/simple-chapters/`)
 * Iono.fm (`http://iono.fm/rss-namespace-1.0`)
+* GeoRSS (`http://www.georss.org/georss`)
+* Omny (`https://omny.fm/rss-extensions`)
+* Acast (`https://schema.acast.com/1.0/`)
+* Podping (`https://podping.info/specification/1`)
 
 ## Overview
 

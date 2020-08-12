@@ -32,6 +32,12 @@ const entityMap = new Map([
   ['&zwj;', String.fromCodePoint(8205)],
   ['&wj;', String.fromCodePoint(8288)],
   ['&rarr;', '→'],
+  ['&copy;', '©'],
+  ['&copysr;', '℗'],
+  ['&eacute;', 'é'],
+  ['&Ccedil;', 'Ç'],
+  ['&ccedil;', 'ç'],
+  ['&Acirc;', 'Â'],
 ]);
 
 function fromEntries(entries) {
@@ -87,7 +93,8 @@ function getDate(nodes) {
 }
 
 // Get text content and parse as a Number
-const getNumber = (nodes) => Number.parseInt(getText(nodes), 10);
+const getInteger = (nodes) => Number.parseInt(getText(nodes), 10);
+const getFloat = (nodes) => Number.parseFloat(getText(nodes), 10);
 
 function isYes(nodes) {
   const string = getText(nodes);
@@ -290,12 +297,33 @@ const rssElements = Object.freeze({
 
     return null;
   },
-  order: getNumber,
-  season: getNumber,
-  episode: getNumber,
-  ttl: getNumber,
+  order: getInteger,
+  season: getInteger,
+  episode: getInteger,
+  ttl: getInteger,
   lastBuildDate: getDate,
   pubDate: getDate,
+  // Omny
+  clipId: getText,
+  // Acast (excluding settings, signature, and network)
+  showId: getText,
+  showUrl: getText,
+  episodeUrl: getText,
+  episodeId: getText,
+  // Pingback
+  receiver: getText,
+  // GeoRSS
+  lat: getFloat,
+  long: getFloat,
+  point: ([node]) => {
+    if (!node) { return null; }
+
+    const pt = getText([node]);
+    if (isEmptyString(pt)) { return null; }
+
+    // i.e. '45.256 -71.92'
+    return pt.split(' ').map(Number); // [45.256, -71.92]
+  },
 });
 
 // List of supported element names
