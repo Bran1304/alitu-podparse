@@ -32,6 +32,7 @@ const bbcMinutes = fs.readFileSync(`${testFilesPath}/bbc_minutes.xml`, 'utf8').t
 const geoLatlong = fs.readFileSync(`${testFilesPath}/georss_latlong.xml`, 'utf8').toString();
 const geoPoint = fs.readFileSync(`${testFilesPath}/georss_point.xml`, 'utf8').toString();
 const tvillingpodden = fs.readFileSync(`${testFilesPath}/tvillingpodden.xml`, 'utf8').toString();
+const riordansDesk = fs.readFileSync(`${testFilesPath}/riordans_desk.xml`, 'utf8').toString();
 
 describe('Reading files', () => {
   it('should read the file', () => {
@@ -345,6 +346,57 @@ describe('Deduplication', () => {
   it('should deduplicate categories', () => {
     const podcast = getPodcastFromFeed(orbita);
     expect(podcast.meta.category).to.eql(['Comedy']);
+  });
+});
+
+describe('Sorting when Type = Serial', () => {
+  const riordan = getPodcastFromFeed(riordansDesk);
+
+  it('sorts Season 1 before Season 2', () => {
+    const seasonOneIndex = riordan.episodes.findIndex((e) => e.season === 1);
+    const seasonTwoIndex = riordan.episodes.findIndex((e) => e.season === 2);
+    expect(seasonOneIndex).to.be.lessThan(seasonTwoIndex);
+  });
+
+  it('sorts Episode 1 before Episode 2', () => {
+    const episodeOneIndex = riordan.episodes.findIndex((e) => e.episode === 1);
+    const episodeTwoIndex = riordan.episodes.findIndex((e) => e.episode === 2);
+    expect(episodeOneIndex).to.be.lessThan(episodeTwoIndex);
+  });
+
+  it('sorts in reverse chronological order', () => {
+    const firstEpisodeDate = (new Date(riordan.episodes[0].pubDate)).valueOf();
+    const lastEpisodeDate = (new Date(riordan.episodes[riordan.episodes.length - 1].pubDate)).valueOf();
+    expect(firstEpisodeDate).to.be.lessThan(lastEpisodeDate);
+  });
+
+  it('sorts S1E1 first', () => {
+    const firstEpisode = riordan.episodes[0];
+    expect(firstEpisode.episode).to.eql(1);
+    expect(firstEpisode.season).to.eql(1);
+    expect(firstEpisode.guid).to.eql('Buzzsprout-3664768');
+    expect(firstEpisode.pubDate).to.eql('2020-05-07T22:00:00.000Z');
+  });
+
+  it('sorts S2E11 last', () => {
+    const lastEpisode = riordan.episodes[riordan.episodes.length - 1];
+    expect(lastEpisode.episode).to.eql(11);
+    expect(lastEpisode.season).to.eql(2);
+    expect(lastEpisode.guid).to.eql('Buzzsprout-5865685');
+    expect(lastEpisode.pubDate).to.eql('2020-10-13T00:00:00.000Z');
+  });
+
+  it('sorts episodes in order', () => {
+    for (let i = 1, e = riordan.episodes.length; i < e; i++) {
+      const a = riordan.episodes[i - 1];
+      const b = riordan.episodes[i];
+      
+      if (a.season === b.season) {
+        expect(a.episode).to.be.lessThan(b.episode);
+      } else {
+        expect(a.season).to.be.lessThan(b.season);
+      }
+    }
   });
 });
 

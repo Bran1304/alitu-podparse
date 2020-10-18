@@ -32,6 +32,7 @@ This package:
 * Is designed to be easier to use, albeit less configurable.
 * Removes empty (`null`, `undefined`, `''`, `NaN`, `{}`) from the output.
 * Does not use hard-coded namespace prefixes (esp. `itunes`, `googleplay`, and `atom`).
+* Handles episode sorting for both `episodic` and `serial` podcast types.
 
 ## Supported Namespaces
 

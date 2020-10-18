@@ -2,6 +2,8 @@ const parseXml = require('@rgrove/parse-xml');
 
 // === Utilities ===
 
+const SERIAL = 'serial';
+
 // Five predefined XML entities supported by parse-xml,
 // see: https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references#Predefined_entities_in_XML
 // Additional entities determined empirically.
@@ -112,7 +114,7 @@ const findNodeOrThrow = (node, elName) => {
     throw new Error(`Missing required <${elName}> element.`);
   }
   return child;
-}
+};
 
 // Find all nodes with a given name
 const findAllNodes = (node, elName) => node.children.filter(({ name }) => elName === name);
@@ -346,6 +348,34 @@ function episodeComparator(a, b) {
   return (a.order > b.order) ? -1 : 1;
 }
 
+// For itunes:type = "serial", use reverse chronological order
+// to keep seasons in order
+function serialComparator(a, b) {
+  // Same season, sort by episode
+  if (a.season === b.season) {
+    if (!(a.episode && b.episode)) {
+      if (a.pubDate === b.pubDate) {
+        return (a.title > b.title) ? -1 : 1;
+      }
+
+      return (b.pubDate > a.pubDate) ? -1 : 1;
+    }
+
+    return (a.episode > b.episode) ? 1 : -1;
+  }
+
+  // Default to reverse chronological
+  if (!(a.season && b.season)) {
+    if (a.pubDate === b.pubDate) {
+      return (a.title > b.title) ? -1 : 1;
+    }
+
+    return (b.pubDate > a.pubDate) ? -1 : 1;
+  }
+
+  return (a.season > b.season) ? 1 : -1;
+}
+
 // Get an array of links
 function getLinksFromChannel(channel) {
   return findNodesLike(channel, 'link')
@@ -379,6 +409,7 @@ function createMetaFromChannel(channel) {
 
 // Parse item elements
 const createEpisodesFromItems = (items) => items.map(parseElement).sort(episodeComparator);
+const createSeasonsFromItems = (items) => items.map(parseElement).sort(serialComparator);
 
 // Resolve undefined entities
 const entityResolver = entityMap.get.bind(entityMap);
@@ -397,14 +428,15 @@ module.exports = function getPodcastFromFeed(feed,
   const rss = findNodeOrThrow(feedObject, 'rss');
   const channel = findNodeOrThrow(rss, 'channel');
 
-  if (includeEpisodes) {
-    const items = findAllNodes(channel, 'item');
+  const meta = createMetaFromChannel(channel);
 
-    return {
-      meta: createMetaFromChannel(channel),
-      episodes: createEpisodesFromItems(items),
-    };
+  if (includeEpisodes) {
+    const isSerial = (meta && meta.type && meta.type.toLowerCase() === SERIAL);
+    const items = findAllNodes(channel, 'item');
+    const episodes = (isSerial) ? createSeasonsFromItems(items) : createEpisodesFromItems(items);
+
+    return { meta, episodes };
   }
 
-  return { meta: createMetaFromChannel(channel) };
+  return { meta };
 };

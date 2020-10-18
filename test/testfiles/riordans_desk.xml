@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://feeds.buzzsprout.com/styles.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <atom:link href="https://feeds.buzzsprout.com/1071847.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+  <title>Riordan&#39;s Desk</title>
+  <lastBuildDate>Sat, 17 Oct 2020 16:31:30 -0400</lastBuildDate>
+  <link>https://riordansdesk.buzzsprout.com/</link>
+  <language>en-us</language>
+  <copyright>&#x2117; &amp; © 2020 Mark Coggins</copyright>
+  <podcast:locked owner="mark@markcoggins.com">yes</podcast:locked>
+  <itunes:subtitle><![CDATA[Crime fiction by Mark Coggins featuring private investigator August Riordan. Season 1 is THE DEAD BEAT SCROLL, a novel the New York Journal of Books called a “Glorious potpourri of violence, black humor … sex, and a hunt for a lost manuscript.”]]></itunes:subtitle>
+  <itunes:author>Mark Coggins</itunes:author>
+  <itunes:summary><![CDATA[Crime fiction by Mark Coggins featuring private investigator August Riordan. Season 1 is THE DEAD BEAT SCROLL, a novel the New York Journal of Books called a “Glorious potpourri of violence, black humor … sex, and a hunt for a lost manuscript.”]]></itunes:summary>
+  <itunes:type>serial</itunes:type>
+  <itunes:explicit>true</itunes:explicit>
+  <description><![CDATA[Crime fiction by Mark Coggins featuring private investigator August Riordan. Season 1 is THE DEAD BEAT SCROLL, a novel the New York Journal of Books called a “Glorious potpourri of violence, black humor … sex, and a hunt for a lost manuscript.”]]></description>
+  <itunes:owner>
+    <itunes:name>Mark Coggins</itunes:name>
+    <itunes:email>mark@markcoggins.com</itunes:email>
+  </itunes:owner>
+  <image>
+     <url>https://storage.buzzsprout.com/variants/pp1on36hf5x6br7llw0301l0zkea/f81607a3cd537406cf0cf506c726bfe2824c5e584c9e9dc5e04e42436c820a79.jpg</url>
+     <title>Riordan&#39;s Desk</title>
+     <link>https://riordansdesk.buzzsprout.com/</link>
+  </image>
+  <itunes:image href="https://storage.buzzsprout.com/variants/pp1on36hf5x6br7llw0301l0zkea/f81607a3cd537406cf0cf506c726bfe2824c5e584c9e9dc5e04e42436c820a79.jpg" />
+  <itunes:category text="Arts">
+    <itunes:category text="Books" />
+  </itunes:category>
+  <item>
+    <itunes:title>No Hard Feelings, Chapter 11 - Winnie</itunes:title>
+    <title>No Hard Feelings, Chapter 11 - Winnie</title>
+    <description><![CDATA[<p>Winnie and Riordan search the motel rooms of The Winemaker's men.</p>]]></description>
+    <content:encoded><![CDATA[<p>Winnie and Riordan search the motel rooms of The Winemaker's men.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Winnie and Riordan search the motel rooms of The Winemaker&#39;s men.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/5865685-no-hard-feelings-chapter-11-winnie.mp3?blob_id=24166081" length="12543500" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-5865685</guid>
+    <pubDate>Mon, 12 Oct 2020 20:00:00 -0400</pubDate>
+    <itunes:duration>1038</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>No Hard Feelings, Chapter 10 - Riordan</itunes:title>
+    <title>No Hard Feelings, Chapter 10 - Riordan</title>
+    <description><![CDATA[<p>Winnie and Riordan attempt to ensnare The Winemaker's men.</p>]]></description>
+    <content:encoded><![CDATA[<p>Winnie and Riordan attempt to ensnare The Winemaker's men.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Winnie and Riordan attempt to ensnare The Winemaker&#39;s men.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/5756683-no-hard-feelings-chapter-10-riordan.mp3?blob_id=23653669" length="14257550" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-5756683</guid>
+    <pubDate>Mon, 05 Oct 2020 18:00:00 -0400</pubDate>
+    <itunes:duration>1181</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>No Hard Feelings, Chapter 9 - The Winemaker</itunes:title>
+    <title>No Hard Feelings, Chapter 9 - The Winemaker</title>
+    <description><![CDATA[<p>The Winemaker reflects on his stay in prison.&nbsp;</p>]]></description>
+    <content:encoded><![CDATA[<p>The Winemaker reflects on his stay in prison.&nbsp;</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>The Winemaker reflects on his stay in prison. </itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/5646148-no-hard-feelings-chapter-9-the-winemaker.mp3?blob_id=23130985" length="5358152" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-5646148</guid>
+    <pubDate>Mon, 28 Sep 2020 17:00:00 -0400</pubDate>
+    <itunes:duration>439</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>No Hard Feelings, Chapter 8 - Riordan</itunes:title>
+    <title>No Hard Feelings, Chapter 8 - Riordan</title>
+    <description><![CDATA[<p>Ray has a brainwave.</p>]]></description>
+    <content:encoded><![CDATA[<p>Ray has a brainwave.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Ray has a brainwave.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/5573605-no-hard-feelings-chapter-8-riordan.mp3?blob_id=22784878" length="7964023" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-5573605</guid>
+    <pubDate>Wed, 23 Sep 2020 14:00:00 -0400</pubDate>
+    <itunes:duration>656</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>No Hard Feelings, Chapter 7 - Riordan</itunes:title>
+    <title>No Hard Feelings, Chapter 7 - Riordan</title>
+    <description><![CDATA[<p>Winnie, Ray and Riordan share a pancake breakfast.</p>]]></description>
+    <content:encoded><![CDATA[<p>Winnie, Ray and Riordan share a pancake breakfast.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Winnie, Ray and Riordan share a pancake breakfast.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/5486068-no-hard-feelings-chapter-7-riordan.mp3?blob_id=22363663" length="6691024" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-5486068</guid>
+    <pubDate>Thu, 17 Sep 2020 12:00:00 -0400</pubDate>
+    <itunes:duration>550</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>No Hard Feelings, Chapter 6 - Riordan</itunes:title>
+    <title>No Hard Feelings, Chapter 6 - Riordan</title>
+    <description><![CDATA[<p>Ray thinks fast to deal with a threat from an unexpected source.</p>]]></description>
+    <content:encoded><![CDATA[<p>Ray thinks fast to deal with a threat from an unexpected source.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Ray thinks fast to deal with a threat from an unexpected source.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/5418517-no-hard-feelings-chapter-6-riordan.mp3?blob_id=21998194" length="6852774" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-5418517</guid>
+    <pubDate>Sun, 13 Sep 2020 12:00:00 -0400</pubDate>
+    <itunes:duration>564</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>No Hard Feelings, Chapter 5 - Winnie</itunes:title>
+    <title>No Hard Feelings, Chapter 5 - Winnie</title>
+    <description><![CDATA[<p>Winnie meets Ray, who lends her a hand.</p>]]></description>
+    <content:encoded><![CDATA[<p>Winnie meets Ray, who lends her a hand.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Winnie meets Ray, who lends her a hand.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/5372362-no-hard-feelings-chapter-5-winnie.mp3?blob_id=21775045" length="12364193" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-5372362</guid>
+    <pubDate>Wed, 09 Sep 2020 18:00:00 -0400</pubDate>
+    <itunes:duration>1023</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>No Hard Feelings, Chapter 4 - Winnie</itunes:title>
+    <title>No Hard Feelings, Chapter 4 - Winnie</title>
+    <description><![CDATA[<p>Winnie and Riordan get a windfall.</p>]]></description>
+    <content:encoded><![CDATA[<p>Winnie and Riordan get a windfall.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Winnie and Riordan get a windfall.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/5265103-no-hard-feelings-chapter-4-winnie.mp3?blob_id=21266488" length="9115123" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-5265103</guid>
+    <pubDate>Wed, 02 Sep 2020 15:00:00 -0400</pubDate>
+    <itunes:duration>752</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>No Hard Feelings, Chapter 3 - Riordan</itunes:title>
+    <title>No Hard Feelings, Chapter 3 - Riordan</title>
+    <description><![CDATA[<p>Riordan and Winnie get reacquainted.&nbsp;</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan and Winnie get reacquainted.&nbsp;</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan and Winnie get reacquainted. </itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/5203180-no-hard-feelings-chapter-3-riordan.mp3?blob_id=20980900" length="12793333" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-5203180</guid>
+    <pubDate>Sat, 29 Aug 2020 20:00:00 -0400</pubDate>
+    <itunes:duration>1059</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>No Hard Feelings, Chapter 2 - Winnie</itunes:title>
+    <title>No Hard Feelings, Chapter 2 - Winnie</title>
+    <description><![CDATA[<p>Winnie finds Riordan in Palm Springs.</p>]]></description>
+    <content:encoded><![CDATA[<p>Winnie finds Riordan in Palm Springs.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Winnie finds Riordan in Palm Springs.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/5133319-no-hard-feelings-chapter-2-winnie.mp3?blob_id=20650282" length="4685174" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-5133319</guid>
+    <pubDate>Mon, 24 Aug 2020 18:00:00 -0400</pubDate>
+    <itunes:duration>383</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>No Hard Feelings, Chapter 1 - Winnie</itunes:title>
+    <title>No Hard Feelings, Chapter 1 - Winnie</title>
+    <description><![CDATA[<p>Meet Winnie, the female protagonist of <a href="https://www.markcoggins.com/no-hard-feelings/"><em>No Hard Feelings</em></a><em>.<br><br></em>Winnie doesn’t remember the last time she felt anything below her neck. Her spine is severed at the seventh vertebrae, but thanks to implants from a sabotaged biomedical start-up, she has regained mobility. She is a prototype: a living, breathing—walking—demonstration of revolutionary technology that never made it to market.</p><p>Her disability has become her armor. Because she doesn’t register fatigue, she has trained relentlessly. Her hand, arm, and leg strength are off the scales for a woman, and she has honed self-defense techniques to channel that strength. She’s a modern-day Amazon who feels no pain.</p><p>When the sociopath who torpedoed the start-up sends killers to harvest the implants from her body, Winnie must team up with broken-down private investigator August Riordan to save both their lives—and derail sinister plans for perverse military applications of the technology.<br><br>In Chapter 1, Winnie makes an important decision while standing on the walkway of the Golden Gate Bridge.<br><br><br></p>]]></description>
+    <content:encoded><![CDATA[<p>Meet Winnie, the female protagonist of <a href="https://www.markcoggins.com/no-hard-feelings/"><em>No Hard Feelings</em></a><em>.<br><br></em>Winnie doesn’t remember the last time she felt anything below her neck. Her spine is severed at the seventh vertebrae, but thanks to implants from a sabotaged biomedical start-up, she has regained mobility. She is a prototype: a living, breathing—walking—demonstration of revolutionary technology that never made it to market.</p><p>Her disability has become her armor. Because she doesn’t register fatigue, she has trained relentlessly. Her hand, arm, and leg strength are off the scales for a woman, and she has honed self-defense techniques to channel that strength. She’s a modern-day Amazon who feels no pain.</p><p>When the sociopath who torpedoed the start-up sends killers to harvest the implants from her body, Winnie must team up with broken-down private investigator August Riordan to save both their lives—and derail sinister plans for perverse military applications of the technology.<br><br>In Chapter 1, Winnie makes an important decision while standing on the walkway of the Golden Gate Bridge.<br><br><br></p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Meet Winnie, the female protagonist of No Hard Feelings.Winnie doesn’t remember the last time she felt anything below her neck. Her spine is severed at the seventh vertebrae, but thanks to implants from a sabotaged biomedical start-up, she has regained...</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/5082674-no-hard-feelings-chapter-1-winnie.mp3?blob_id=20406560" length="15282907" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-5082674</guid>
+    <pubDate>Thu, 20 Aug 2020 17:00:00 -0400</pubDate>
+    <itunes:duration>1266</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Wrap-Up - Interview by Randal Brandt</itunes:title>
+    <title>The Dead Beat Scroll, Wrap-Up - Interview by Randal Brandt</title>
+    <description><![CDATA[<p>Randal Brandt, Curator of the California Detective Fiction Collection at the Bancroft Library, interviews Mark about THE DEAD BEAT SCROLL.<br><br>Links mentioned in the episode:</p><ul><li><a href="http://goldengatemysteries.pbworks.com/w/page/97325754/FrontPage">Golden Gate Mysteries</a></li><li><a href="https://www.david-dodge.com/">A David Dodge Companion</a></li><li><a href="https://www.markcoggins.com/joe-gores-on-the-maltese-falcon/">Joe Gores on The Maltese Falcon</a></li><li><a href="https://www.markcoggins.com/first-edition-of-the-immortal-game/">First Edition of The Immortal Game</a></li><li><a href="https://www.markcoggins.com/dbs-chapter-illustrations/">Chapter Photographs for The Dead Beat Scroll</a></li></ul>]]></description>
+    <content:encoded><![CDATA[<p>Randal Brandt, Curator of the California Detective Fiction Collection at the Bancroft Library, interviews Mark about THE DEAD BEAT SCROLL.<br><br>Links mentioned in the episode:</p><ul><li><a href="http://goldengatemysteries.pbworks.com/w/page/97325754/FrontPage">Golden Gate Mysteries</a></li><li><a href="https://www.david-dodge.com/">A David Dodge Companion</a></li><li><a href="https://www.markcoggins.com/joe-gores-on-the-maltese-falcon/">Joe Gores on The Maltese Falcon</a></li><li><a href="https://www.markcoggins.com/first-edition-of-the-immortal-game/">First Edition of The Immortal Game</a></li><li><a href="https://www.markcoggins.com/dbs-chapter-illustrations/">Chapter Photographs for The Dead Beat Scroll</a></li></ul>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Randal Brandt, Curator of the California Detective Fiction Collection at the Bancroft Library, interviews Mark about THE DEAD BEAT SCROLL.Links mentioned in the episode:Golden Gate MysteriesA David Dodge CompanionJoe Gores on The Maltese FalconFirst...</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/5019572-the-dead-beat-scroll-wrap-up-interview-by-randal-brandt.mp3?blob_id=20106857" length="41446631" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-5019572</guid>
+    <pubDate>Sun, 16 Aug 2020 15:00:00 -0400</pubDate>
+    <itunes:duration>3447</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>31</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 30 - Once in a While Forever</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 30 - Once in a While Forever</title>
+    <description><![CDATA[<p>Riordan, Gretchen, Ray and Kim attend Chris's wake.<br><br>Links mentioned in the episode:&nbsp;</p><ul><li><a href="https://www.goodreads.com/book/show/51056264-the-dead-beat-scroll">DBS on GoodReads</a></li><li><a href="https://www.amazon.com/gp/product/B07W76L12C">DBS on Amazon</a></li><li><a href="https://podcasts.apple.com/us/podcast/riordans-desk/id1512284227">DBS on iTunes</a></li><li><a href="https://youtu.be/h6ZWvDnkRCM">Taste of Honey Performance on Youtube</a></li></ul><p><br></p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan, Gretchen, Ray and Kim attend Chris's wake.<br><br>Links mentioned in the episode:&nbsp;</p><ul><li><a href="https://www.goodreads.com/book/show/51056264-the-dead-beat-scroll">DBS on GoodReads</a></li><li><a href="https://www.amazon.com/gp/product/B07W76L12C">DBS on Amazon</a></li><li><a href="https://podcasts.apple.com/us/podcast/riordans-desk/id1512284227">DBS on iTunes</a></li><li><a href="https://youtu.be/h6ZWvDnkRCM">Taste of Honey Performance on Youtube</a></li></ul><p><br></p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan, Gretchen, Ray and Kim attend Chris&#39;s wake.Links mentioned in the episode: DBS on GoodReadsDBS on AmazonDBS on iTunesTaste of Honey Performance on Youtube</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/5019359-the-dead-beat-scroll-chapter-30-once-in-a-while-forever.mp3?blob_id=20105597" length="13071696" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-5019359</guid>
+    <pubDate>Sun, 16 Aug 2020 14:00:00 -0400</pubDate>
+    <itunes:duration>1082</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>30</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 29 - Swedish All Along</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 29 - Swedish All Along</title>
+    <description><![CDATA[<p>Riordan reaches out to Wong.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan reaches out to Wong.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan reaches out to Wong.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/5019296-the-dead-beat-scroll-chapter-29-swedish-all-along.mp3?blob_id=20105402" length="12948189" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-5019296</guid>
+    <pubDate>Sun, 16 Aug 2020 14:00:00 -0400</pubDate>
+    <itunes:duration>1072</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>29</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 28 - Gather Round the Campfire</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 28 - Gather Round the Campfire</title>
+    <description><![CDATA[<p>Riordan and Ray spring their trap.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan and Ray spring their trap.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan and Ray spring their trap.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/4998689-the-dead-beat-scroll-chapter-28-gather-round-the-campfire.mp3?blob_id=20007083" length="16555996" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4998689</guid>
+    <pubDate>Fri, 14 Aug 2020 12:00:00 -0400</pubDate>
+    <itunes:duration>1372</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>28</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 27 - Tag, You&#39;re It</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 27 - Tag, You&#39;re It</title>
+    <description><![CDATA[<p>Riordan, Gretchen and Ray meet to strategize.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan, Gretchen and Ray meet to strategize.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan, Gretchen and Ray meet to strategize.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/4937408-the-dead-beat-scroll-chapter-27-tag-you-re-it.mp3?blob_id=19717028" length="10615036" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4937408</guid>
+    <pubDate>Mon, 10 Aug 2020 13:00:00 -0400</pubDate>
+    <itunes:duration>877</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>27</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 26 - Big Daddy</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 26 - Big Daddy</title>
+    <description><![CDATA[<p>Riordan has a sit down with big daddy.&nbsp;</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan has a sit down with big daddy.&nbsp;</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan has a sit down with big daddy. </itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/4885064-the-dead-beat-scroll-chapter-26-big-daddy.mp3?blob_id=19471199" length="12385254" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4885064</guid>
+    <pubDate>Thu, 06 Aug 2020 13:00:00 -0400</pubDate>
+    <itunes:duration>1025</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>26</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 25 - Text and Subtext</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 25 - Text and Subtext</title>
+    <description><![CDATA[<p>Riordan has a confrontation with number one son.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan has a confrontation with number one son.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan has a confrontation with number one son.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/4807970-the-dead-beat-scroll-chapter-25-text-and-subtext.mp3?blob_id=19119629" length="9193139" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4807970</guid>
+    <pubDate>Sat, 01 Aug 2020 13:00:00 -0400</pubDate>
+    <itunes:duration>759</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>25</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 24 - Film at Eleven</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 24 - Film at Eleven</title>
+    <description><![CDATA[<p>Riordan and Kittredge watch a video.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan and Kittredge watch a video.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan and Kittredge watch a video.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/4752383-the-dead-beat-scroll-chapter-24-film-at-eleven.mp3?blob_id=18861446" length="13892045" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4752383</guid>
+    <pubDate>Tue, 28 Jul 2020 14:00:00 -0400</pubDate>
+    <itunes:duration>1150</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>24</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 23 - Family Ties</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 23 - Family Ties</title>
+    <description><![CDATA[<p>Riordan has a conversation with Jeff.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan has a conversation with Jeff.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan has a conversation with Jeff.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/4701257-the-dead-beat-scroll-chapter-23-family-ties.mp3?blob_id=18621017" length="10420345" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4701257</guid>
+    <pubDate>Fri, 24 Jul 2020 12:00:00 -0400</pubDate>
+    <itunes:duration>861</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>23</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 22 - Hive Times</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 22 - Hive Times</title>
+    <description><![CDATA[<p>Riordan goes to a special sort of party.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan goes to a special sort of party.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan goes to a special sort of party.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/4642889-the-dead-beat-scroll-chapter-22-hive-times.mp3?blob_id=18344753" length="16834582" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4642889</guid>
+    <pubDate>Mon, 20 Jul 2020 13:00:00 -0400</pubDate>
+    <itunes:duration>1396</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>22</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 21 - Son of a Mama-san</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 21 - Son of a Mama-san</title>
+    <description><![CDATA[<p>Riordan goes to see the son of Mrs. Kongsangchai.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan goes to see the son of Mrs. Kongsangchai.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan goes to see the son of Mrs. Kongsangchai.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/4598015-the-dead-beat-scroll-chapter-21-son-of-a-mama-san.mp3?blob_id=18134657" length="12394288" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4598015</guid>
+    <pubDate>Thu, 16 Jul 2020 16:00:00 -0400</pubDate>
+    <itunes:duration>1026</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>21</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 20 - Chris&#39;s Play</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 20 - Chris&#39;s Play</title>
+    <description><![CDATA[<p>Riordan gets an important message from an old friend.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan gets an important message from an old friend.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan gets an important message from an old friend.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/4538162-the-dead-beat-scroll-chapter-20-chris-s-play.mp3?blob_id=17846465" length="10689015" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4538162</guid>
+    <pubDate>Sun, 12 Jul 2020 16:00:00 -0400</pubDate>
+    <itunes:duration>883</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>20</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 19 - The Grey Earl</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 19 - The Grey Earl</title>
+    <description><![CDATA[<p>Riordan receives an unexpected visitor from Palm Springs.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan receives an unexpected visitor from Palm Springs.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan receives an unexpected visitor from Palm Springs.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/4476236-the-dead-beat-scroll-chapter-19-the-grey-earl.mp3?blob_id=17553557" length="9129792" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4476236</guid>
+    <pubDate>Tue, 07 Jul 2020 14:00:00 -0400</pubDate>
+    <itunes:duration>753</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>19</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 18 - Sing a Tong of Six Gents</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 18 - Sing a Tong of Six Gents</title>
+    <description><![CDATA[<p>Riordan meets the leader of Wo Hop To.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan meets the leader of Wo Hop To.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan meets the leader of Wo Hop To.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/4402004-the-dead-beat-scroll-chapter-18-sing-a-tong-of-six-gents.mp3?blob_id=17200211" length="12688408" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4402004</guid>
+    <pubDate>Wed, 01 Jul 2020 13:00:00 -0400</pubDate>
+    <itunes:duration>1050</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>18</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 17 - Check Out Time</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 17 - Check Out Time</title>
+    <description><![CDATA[<p>Riordan learns more about what happened to Tuyen and goes to see Angelina.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan learns more about what happened to Tuyen and goes to see Angelina.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan learns more about what happened to Tuyen and goes to see Angelina.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/4320947-the-dead-beat-scroll-chapter-17-check-out-time.mp3?blob_id=16831685" length="12638481" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4320947</guid>
+    <pubDate>Thu, 25 Jun 2020 18:00:00 -0400</pubDate>
+    <itunes:duration>1046</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>17</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 16 - El Sobrarbe Surprise</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 16 - El Sobrarbe Surprise</title>
+    <description><![CDATA[<p>Riordan goes to see Kim's friend Tuyen.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan goes to see Kim's friend Tuyen.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan goes to see Kim&#39;s friend Tuyen.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/4274963-the-dead-beat-scroll-chapter-16-el-sobrarbe-surprise.mp3?blob_id=16610795" length="9403477" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4274963</guid>
+    <pubDate>Mon, 22 Jun 2020 14:00:00 -0400</pubDate>
+    <itunes:duration>776</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>16</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 15 - Hand Finish</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 15 - Hand Finish</title>
+    <description><![CDATA[<p>Riordan meets Kim and learns a thing or two more about the birds and the bees.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan meets Kim and learns a thing or two more about the birds and the bees.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan meets Kim and learns a thing or two more about the birds and the bees.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/4212530-the-dead-beat-scroll-chapter-15-hand-finish.mp3?blob_id=16307324" length="13040349" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4212530</guid>
+    <pubDate>Wed, 17 Jun 2020 11:00:00 -0400</pubDate>
+    <itunes:duration>1079</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>15</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 14 - Number One with a Bullet</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 14 - Number One with a Bullet</title>
+    <description><![CDATA[<p>Riordan meets with Kittredge to compare notes.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan meets with Kittredge to compare notes.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan meets with Kittredge to compare notes.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/4184480-the-dead-beat-scroll-chapter-14-number-one-with-a-bullet.mp3?blob_id=16167269" length="10059882" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4184480</guid>
+    <pubDate>Mon, 15 Jun 2020 14:00:00 -0400</pubDate>
+    <itunes:duration>831</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>14</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 13 - Arnie Jewel</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 13 - Arnie Jewel</title>
+    <description><![CDATA[<p>Riordan gets schooled on Beat Generation writers.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan gets schooled on Beat Generation writers.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan gets schooled on Beat Generation writers.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/4137875-the-dead-beat-scroll-chapter-13-arnie-jewel.mp3?blob_id=15947339" length="16736213" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4137875</guid>
+    <pubDate>Thu, 11 Jun 2020 17:00:00 -0400</pubDate>
+    <itunes:duration>1387</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>13</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 12 - Beat Epiphany </itunes:title>
+    <title>The Dead Beat Scroll, Chapter 12 - Beat Epiphany </title>
+    <description><![CDATA[<p>Riordan gains important insight into the origin of the mysterious scroll thanks to research by Gretchen</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan gains important insight into the origin of the mysterious scroll thanks to research by Gretchen</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan gains important insight into the origin of the mysterious scroll thanks to research by Gretchen</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/4089047-the-dead-beat-scroll-chapter-12-beat-epiphany.mp3?blob_id=15716723" length="10645822" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4089047</guid>
+    <pubDate>Mon, 08 Jun 2020 12:00:00 -0400</pubDate>
+    <itunes:duration>880</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 11 - Smashed Finger</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 11 - Smashed Finger</title>
+    <description><![CDATA[<p>Riordan visits a rare book dealer.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan visits a rare book dealer.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan visits a rare book dealer.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/4048361-the-dead-beat-scroll-chapter-11-smashed-finger.mp3?blob_id=15521189" length="8460223" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4048361</guid>
+    <pubDate>Thu, 04 Jun 2020 18:00:00 -0400</pubDate>
+    <itunes:duration>698</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 10 - The Beat Hive</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 10 - The Beat Hive</title>
+    <description><![CDATA[<p>Riordan has a literary experience.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan has a literary experience.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan has a literary experience.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/4001567-the-dead-beat-scroll-chapter-10-the-beat-hive.mp3?blob_id=15290039" length="11075211" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4001567</guid>
+    <pubDate>Mon, 01 Jun 2020 13:00:00 -0400</pubDate>
+    <itunes:duration>916</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 9 - Carlos G&#39;s</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 9 - Carlos G&#39;s</title>
+    <description><![CDATA[<p>Riordan gets his hair cut--and makes an important discovery as a result.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan gets his hair cut--and makes an important discovery as a result.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan gets his hair cut--and makes an important discovery as a result.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/3951788-the-dead-beat-scroll-chapter-9-carlos-g-s.mp3?blob_id=15051098" length="13002391" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-3951788</guid>
+    <pubDate>Thu, 28 May 2020 13:00:00 -0400</pubDate>
+    <itunes:duration>1076</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 8 - Prison Couture</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 8 - Prison Couture</title>
+    <description><![CDATA[<p>Riordan updates Angelina on developments in the case.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan updates Angelina on developments in the case.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan updates Angelina on developments in the case.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/3908858-the-dead-beat-scroll-chapter-8-prison-couture.mp3?blob_id=14838893" length="12822865" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-3908858</guid>
+    <pubDate>Mon, 25 May 2020 13:00:00 -0400</pubDate>
+    <itunes:duration>1061</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 7 - Historic Preservation</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 7 - Historic Preservation</title>
+    <description><![CDATA[<p>Riordan makes an unsettling discovery.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan makes an unsettling discovery.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan makes an unsettling discovery.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/3874892-the-dead-beat-scroll-chapter-7-historic-preservation.mp3?blob_id=14673245" length="12096466" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-3874892</guid>
+    <pubDate>Fri, 22 May 2020 12:00:00 -0400</pubDate>
+    <itunes:duration>1001</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 6 - The Late Shift</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 6 - The Late Shift</title>
+    <description><![CDATA[<p>Riordan makes another late night visit to Golden Fingers.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan makes another late night visit to Golden Fingers.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan makes another late night visit to Golden Fingers.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/3828956-the-dead-beat-scroll-chapter-6-the-late-shift.mp3?blob_id=14453648" length="14373911" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-3828956</guid>
+    <pubDate>Tue, 19 May 2020 12:00:00 -0400</pubDate>
+    <itunes:duration>1190</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 5 - Angelina</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 5 - Angelina</title>
+    <description><![CDATA[<p>Riordan meets Angelina, Duckworth's actual last client.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan meets Angelina, Duckworth's actual last client.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan meets Angelina, Duckworth&#39;s actual last client.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/3784388-the-dead-beat-scroll-chapter-5-angelina.mp3?blob_id=14245058" length="12261377" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-3784388</guid>
+    <pubDate>Sat, 16 May 2020 12:00:00 -0400</pubDate>
+    <itunes:duration>1014</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 4 - Sugar Daddy</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 4 - Sugar Daddy</title>
+    <description><![CDATA[<p>Riordan visits Ivy's sugar daddy.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan visits Ivy's sugar daddy.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan visits Ivy&#39;s sugar daddy.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/3742658-the-dead-beat-scroll-chapter-4-sugar-daddy.mp3?blob_id=13974692" length="9919166" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-3742658</guid>
+    <pubDate>Wed, 13 May 2020 13:00:00 -0400</pubDate>
+    <itunes:duration>819</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 3 - Sugar Baby</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 3 - Sugar Baby</title>
+    <description><![CDATA[<p>Riordan goes to Berkeley to talk to Ivy, the sugar baby who hired Duckworth.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan goes to Berkeley to talk to Ivy, the sugar baby who hired Duckworth.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan goes to Berkeley to talk to Ivy, the sugar baby who hired Duckworth.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/3682828-the-dead-beat-scroll-chapter-3-sugar-baby.mp3?blob_id=13686370" length="13556909" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-3682828</guid>
+    <pubDate>Fri, 08 May 2020 18:00:00 -0400</pubDate>
+    <itunes:duration>1122</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 2 - Old Home Week</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 2 - Old Home Week</title>
+    <description><![CDATA[<p>Riordan goes back to his old San Francisco office to compare notes with his ex, Gretchen Sabatini.</p>]]></description>
+    <content:encoded><![CDATA[<p>Riordan goes back to his old San Francisco office to compare notes with his ex, Gretchen Sabatini.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>Riordan goes back to his old San Francisco office to compare notes with his ex, Gretchen Sabatini.</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/3674452-the-dead-beat-scroll-chapter-2-old-home-week.mp3?blob_id=13656793" length="11354510" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-3674452</guid>
+    <pubDate>Fri, 08 May 2020 12:00:00 -0400</pubDate>
+    <itunes:duration>939</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dead Beat Scroll, Chapter 1 - Golden Fingers</itunes:title>
+    <title>The Dead Beat Scroll, Chapter 1 - Golden Fingers</title>
+    <description><![CDATA[<p>In this audio fiction presentation of the novel <a href="https://www.markcoggins.com/the-dead-beat-scroll/"><em>The Dead Beat Scroll</em></a>, private investigator August Riordan returns to San Francisco to avenge the death of his friend and one-time partner, Chris Duckworth. Duckworth has taken over Riordan’s old business, his old office, and even his old apartment, and Riordan suspects Duckworth’s death is linked to the missing-person case he was working when he died.</p><p>An alluring young woman named Angelina hired Duckworth to look for her half-sister, but what Riordan finds instead is a murderous polyamorous family intent on claiming a previously unknown manuscript from Beat writer Jack Kerouac.</p><p>Following clues from Duckworth and a trail of mutilated bodies left by the family, Riordan soon realizes that avenging his partner will first involve recovering the manuscript—then saving Angelina and himself from kidnap, torture, and death. As the bodies pile up, Riordan must work with old allies and enemies to untangle Duckworth’s last case before time runs out.<br><br>In Chapter 1, Riordan makes a late-night visit to a massage parlor.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this audio fiction presentation of the novel <a href="https://www.markcoggins.com/the-dead-beat-scroll/"><em>The Dead Beat Scroll</em></a>, private investigator August Riordan returns to San Francisco to avenge the death of his friend and one-time partner, Chris Duckworth. Duckworth has taken over Riordan’s old business, his old office, and even his old apartment, and Riordan suspects Duckworth’s death is linked to the missing-person case he was working when he died.</p><p>An alluring young woman named Angelina hired Duckworth to look for her half-sister, but what Riordan finds instead is a murderous polyamorous family intent on claiming a previously unknown manuscript from Beat writer Jack Kerouac.</p><p>Following clues from Duckworth and a trail of mutilated bodies left by the family, Riordan soon realizes that avenging his partner will first involve recovering the manuscript—then saving Angelina and himself from kidnap, torture, and death. As the bodies pile up, Riordan must work with old allies and enemies to untangle Duckworth’s last case before time runs out.<br><br>In Chapter 1, Riordan makes a late-night visit to a massage parlor.</p>]]></content:encoded>
+    <itunes:author>Mark Coggins</itunes:author>
+    <itunes:summary>In this audio fiction presentation of the novel The Dead Beat Scroll, private investigator August Riordan returns to San Francisco to avenge the death of his friend and one-time partner, Chris Duckworth. Duckworth has taken over Riordan’s old business,...</itunes:summary>
+    <enclosure url="https://www.buzzsprout.com/1071847/3664768-the-dead-beat-scroll-chapter-1-golden-fingers.mp3?blob_id=13614148" length="11005621" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-3664768</guid>
+    <pubDate>Thu, 07 May 2020 18:00:00 -0400</pubDate>
+    <itunes:duration>910</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
