@@ -175,10 +175,28 @@ const rssElements = Object.freeze({
     if (!(node && node.children)) { return null; }
     return Number.parseInt(getAttribute([node], 'recentCount'), 10);
   },
-  chapters: ([node]) => { // PodLove
-    if (!(node && node.children)) { return null; }
-    const chapterNodes = findNodesLike(node, 'chapter');
-    return chapterNodes.map(getChapterElements);
+  chapters: ([node]) => {
+    if (!node) { return null; }
+
+    // PodLove Chapters
+    if (node.children && node.children.length > 0) {
+      const chapterNodes = findNodesLike(node, 'chapter');
+      return chapterNodes.map(getChapterElements);
+    }
+
+    // Podcast Namespace Chapters
+    const url = getAttribute([node], 'url');
+    const type = getAttribute([node], 'type');
+
+    // Both url and type are required
+    if (isEmptyString(url) || isEmptyString(type)) {
+      return null;
+    }
+
+    return {
+      url,
+      type,
+    };
   },
   thumbnail: (nodes) => (getAttribute(nodes, 'url') || getAttribute(nodes, 'href')),
   coverart: (nodes) => getAttribute(nodes, 'href'),
@@ -199,7 +217,7 @@ const rssElements = Object.freeze({
     ).sort();
   },
   owner: ([node]) => {
-    if (!(node && node.children)) { return null; }
+    if (!(node && node.children && node.children.length)) { return null; }
     return {
       name: getText(findNodesLike(node, 'name')),
       email: getText(findNodesLike(node, 'email')),
@@ -325,6 +343,73 @@ const rssElements = Object.freeze({
 
     // i.e. '45.256 -71.92'
     return pt.split(' ').map(Number); // [45.256, -71.92]
+  },
+  // Podcast Namespace
+  locked: isYes, // count = single
+  location: ([node]) => {
+    if (!node) { return null; } // count = single
+
+    const name = getText([node]); // i.e. Jacksonville, FL, USA
+
+    const geoAttr = getAttribute([node], 'geo');
+    const osm = getAttribute([node], 'osm');
+
+    // Parse geo, i.e. geo:30.3321838,-81.65565099999999
+    let coords = null;
+    if (!isEmptyString(geoAttr)) {
+      if (geoAttr.startsWith('geo:')) {
+        coords = geoAttr
+          .substring(4)
+          .split(',')
+          .map(Number);
+      }
+    }
+
+    return {
+      name, // Jacksonville, FL, USA
+      geo: coords, // [ 30.3321838, -81.65565099999999 ]
+      osm, // R113314
+    };
+  },
+  soundbite: (nodes) => nodes.map((node) => ({
+    name: getText([node]), // i.e. Why the Podcast Namespace Matters
+    startTime: Number.parseFloat(getAttribute([node], 'startTime'), 10), // i.e. 73.0
+    duration: Number.parseFloat(getAttribute([node], 'duration'), 10), // i.e. 60.0
+  })).filter(({ startTime, duration }) => !(isEmptyValue(startTime) || isEmptyValue(duration))),
+  person: (nodes) => nodes.map((node) => ({
+    name: getText([node]), // i.e. Jane Doe
+    role: getAttribute([node], 'role') || 'host',
+    group: getAttribute([node], 'group') || 'cast',
+    img: getAttribute([node], 'img'),
+    href: getAttribute([node], 'href'),
+  })).filter(({ name }) => !isEmptyString(name)),
+  transcript: (nodes) => nodes.map((node) => ({
+    url: getAttribute([node], 'url'),
+    type: getAttribute([node], 'type'),
+    language: getAttribute([node], 'language'),
+    rel: getAttribute([node], 'rel'),
+  })).filter(({ url, type }) => !(isEmptyString(url) || isEmptyString(type))),
+  funding: (nodes) => nodes.map((node) => ({
+    name: getText([node]),
+    url: getAttribute([node], 'url'),
+  })).filter(({ url, name }) => !(isEmptyString(name) || isEmptyString(url))),
+  id: ([node]) => {
+    if (!node) { return null; } // count = single
+
+    // See list of service slugs: https://github.com/Podcastindex-org/podcast-namespace/blob/main/serviceslugs.txt
+    const platform = getAttribute([node], 'platform');
+    const id = getAttribute([node], 'id');
+    const url = getAttribute([node], 'url');
+
+    if (isEmptyString(platform) || isEmptyString(id)) {
+      return null;
+    }
+
+    return {
+      platform,
+      id,
+      url,
+    };
   },
 });
 

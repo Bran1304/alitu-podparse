@@ -13,7 +13,7 @@
 
 # podparse
 
-A simple package for parsing podcast feeds into manageable JavaScript objects. For use with Node and in the browser. Originally based on [jbierfeldt/podcast-feed-parser](https://github.com/jbierfeldt/podcast-feed-parser/).
+A simple package for parsing podcast feeds into consistent, manageable JavaScript objects. For use with Node and in the browser. Originally based on [jbierfeldt/podcast-feed-parser](https://github.com/jbierfeldt/podcast-feed-parser/), but optimized and with fewer runtime dependencies.
 
 ## Installation
 
@@ -48,6 +48,7 @@ This package:
 * Omny (`https://omny.fm/rss-extensions`)
 * Acast (`https://schema.acast.com/1.0/`)
 * Podping (`https://podping.info/specification/1`)
+* [Podcast Namespace](https://github.com/Podcastindex-org/podcast-namespace) (`https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md`)
 
 ## Overview
 
@@ -79,7 +80,7 @@ By default, `podparse` will parse a podcast's xml feed and return an object with
 
 ## Quickstart
 
-`podparse` has one function: `getPodcastFromFeed`:
+`podparse` has a single function: `getPodcastFromFeed`:
 
 ```js
 const getPodcastFromFeed = require("podparse")
@@ -164,3 +165,15 @@ const podcastWithoutEpisodes = getPodcastFromFeed(podcastFeed, {
   ],
 }
 ```
+
+More examples can be found in [test/json](test/json), including converstions of all valid RSS feeds in [test/testfiles](test/testfiles). See [test/convert.js](test/convert.js) for conversion code.
+
+### Testing
+
+To execute `mocha` tests run:
+
+```
+npm run-script test
+```
+
+`podparse` is tested every day against hundreds of thousands of real-world podcast RSS feeds as part of [PodLP](https://podlp.com/?utm_source=github).

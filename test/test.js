@@ -33,6 +33,8 @@ const geoLatlong = fs.readFileSync(`${testFilesPath}/georss_latlong.xml`, 'utf8'
 const geoPoint = fs.readFileSync(`${testFilesPath}/georss_point.xml`, 'utf8').toString();
 const tvillingpodden = fs.readFileSync(`${testFilesPath}/tvillingpodden.xml`, 'utf8').toString();
 const riordansDesk = fs.readFileSync(`${testFilesPath}/riordans_desk.xml`, 'utf8').toString();
+const podcastNamespaceEx = fs.readFileSync(`${testFilesPath}/podcast_example.xml`, 'utf8').toString();
+const howToStart = fs.readFileSync(`${testFilesPath}/start_podcast.xml`, 'utf8').toString();
 
 describe('Reading files', () => {
   it('should read the file', () => {
@@ -390,7 +392,7 @@ describe('Sorting when Type = Serial', () => {
     for (let i = 1, e = riordan.episodes.length; i < e; i++) {
       const a = riordan.episodes[i - 1];
       const b = riordan.episodes[i];
-      
+
       if (a.season === b.season) {
         expect(a.episode).to.be.lessThan(b.episode);
       } else {
@@ -421,5 +423,71 @@ describe('Options', () => {
     const podcast = getPodcastFromFeed(itunesu, { includeEpisodes: false });
     expect(podcast.episodes).to.be.undefined;
     expect(podcast.meta).to.be.an('object');
+  });
+});
+
+describe('Supports Podcast Namespace', () => {
+  const howToStartPodcast = getPodcastFromFeed(howToStart);
+  const podcastNSExample = getPodcastFromFeed(podcastNamespaceEx);
+
+  it('should include person elements', () => {
+    const { person } = podcastNSExample.episodes[0];
+    expect(person).to.be.an('array');
+    expect(person.length).to.eq(3);
+    expect(person.map(({ name }) => name)).to.eql(['Adam Curry', 'Dave Jones', 'Becky Smith']);
+    expect(person.map(({ role }) => role)).to.eql(['host', 'guest', 'cover art designer']);
+    expect(person.map(({ group }) => group)).to.eql(['cast', 'cast', 'visuals']);
+    expect(person.map(({ href }) => href)).to.eql([
+      'https://www.podchaser.com/creators/adam-curry-107ZzmWE5f',
+      'https://github.com/daveajones/',
+      'https://example.com/artist/beckysmith',
+    ]);
+  });
+
+  it('should include location element', () => {
+    const { location } = howToStartPodcast.meta;
+    expect(location.name).to.eql('Jacksonville, FL, USA');
+    expect(location.geo).to.eql([30.3321838, -81.65565099999999]);
+  });
+
+  it('should include funding elements', () => {
+    const funding = podcastNSExample.meta.funding[0];
+    expect(funding.url).to.eql('https://example.com/donate');
+    expect(funding.name).to.eql('Support the show!');
+  });
+
+  it('should include locked element', () => {
+    expect(howToStartPodcast.meta.locked).to.equal(false);
+    expect(podcastNSExample.meta.locked).to.equal(true);
+  });
+
+  it('should include soundbite elements', () => {
+    const soundbite = podcastNSExample.episodes[0].soundbite[0];
+    expect(soundbite.startTime).to.equal(33.833);
+    expect(soundbite.duration).to.equal(60.0);
+  });
+
+  it('should include transcript elements', () => {
+    const transcripts = howToStartPodcast.episodes[0].transcript;
+    expect(transcripts.map(({ url }) => url)).to.be.eql([
+      'https://feeds.buzzsprout.com/1/805964/transcript',
+      'https://feeds.buzzsprout.com/1/805964/transcript.json',
+      'https://feeds.buzzsprout.com/1/805964/transcript.srt',
+    ]);
+    expect(transcripts.map(({ type }) => type)).to.be.eql([
+      'text/html',
+      'application/json',
+      'application/srt',
+    ]);
+  });
+
+  it('should include chapters element', () => {
+    const chapter = podcastNSExample.episodes[0].chapters;
+    expect(chapter.url).to.eql('https://example.com/ep3_chapters.json');
+    expect(chapter.type).to.eql('application/json');
+  });
+
+  it('should include id element', () => {
+    expect(howToStartPodcast.meta.id.platform).to.eql('buzzsprout');
   });
 });
