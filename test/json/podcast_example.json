@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "title": "Podcasting 2.0 Namespace Example",
+    "description": "This is a fake show that exists only as an example of the \"podcast\" namespace tag usage.",
+    "language": "en-US",
+    "author": "John Doe",
+    "managingEditor": "john@example.com (John Doe)",
+    "webMaster": "support@example.com (Tech Support)",
+    "type": "episodic",
+    "generator": "Freedom Controller",
+    "category": [
+      "News",
+      "Technology"
+    ],
+    "image": {
+      "url": "https://example.com/images/pci_avatar-massive.jpg",
+      "link": "https://example.com/show",
+      "title": "Podcast Feed Template"
+    },
+    "explicit": false,
+    "lastBuildDate": "2020-10-09T04:30:38.000Z",
+    "pubDate": "2020-10-09T04:30:38.000Z",
+    "locked": true,
+    "location": {
+      "name": "Austin, TX",
+      "geo": [
+        30.2672,
+        97.7431
+      ],
+      "osm": "R113314"
+    },
+    "funding": [
+      {
+        "name": "Support the show!",
+        "url": "https://example.com/donate"
+      }
+    ],
+    "link": "http://example.com/podcast",
+    "links": []
+  },
+  "episodes": [
+    {
+      "title": "Episode 3 - The Future",
+      "description": "<p>A look into the future of podcasting and how we get to Podcasting 2.0!</p>",
+      "author": "John Doe (john@example.com)",
+      "guid": "https://example.com/ep0003",
+      "chapters": {
+        "url": "https://example.com/ep3_chapters.json",
+        "type": "application/json"
+      },
+      "image": {
+        "url": "https://example.com/ep0003/artMd.jpg"
+      },
+      "explicit": false,
+      "enclosure": {
+        "length": 76606111,
+        "type": "audio/mpeg",
+        "url": "https://mp3s.nashownotes.com/PC20-17-2020-12-25-Final.mp3"
+      },
+      "season": 1,
+      "episode": 3,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-10-09T04:30:38.000Z",
+      "soundbite": [
+        {
+          "name": null,
+          "startTime": 33.833,
+          "duration": 60
+        }
+      ],
+      "person": [
+        {
+          "name": "Adam Curry",
+          "role": "host",
+          "group": "cast",
+          "img": "https://example.com/images/adamcurry.jpg",
+          "href": "https://www.podchaser.com/creators/adam-curry-107ZzmWE5f"
+        },
+        {
+          "name": "Dave Jones",
+          "role": "guest",
+          "group": "cast",
+          "img": "https://example.com/images/davejones.jpg",
+          "href": "https://github.com/daveajones/"
+        },
+        {
+          "name": "Becky Smith",
+          "role": "cover art designer",
+          "group": "visuals",
+          "href": "https://example.com/artist/beckysmith"
+        }
+      ],
+      "transcript": [
+        {
+          "url": "https://example.com/ep3/transcript.txt",
+          "type": "text/plain"
+        }
+      ],
+      "link": "https://example.com/podcast/ep0003"
+    },
+    {
+      "title": "Episode 2 - The Present",
+      "description": "<p>Where are we at now in the podcasting era. What are the current challenges?</p>",
+      "author": "John Doe (john@example.com)",
+      "guid": "https://example.com/ep0002",
+      "chapters": {
+        "url": "https://example.com/ep2_chapters.json",
+        "type": "application/json"
+      },
+      "image": {
+        "url": "https://example.com/ep0002/artMd.jpg"
+      },
+      "explicit": false,
+      "enclosure": {
+        "length": 67080717,
+        "type": "audio/mpeg",
+        "url": "https://mp3s.nashownotes.com/PC20-16-2020-12-18-Final.mp3"
+      },
+      "season": 1,
+      "episode": 2,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-10-08T04:30:38.000Z",
+      "soundbite": [
+        {
+          "name": null,
+          "startTime": 45.4,
+          "duration": 56
+        }
+      ],
+      "person": [
+        {
+          "name": "Adam Curry",
+          "role": "host",
+          "group": "cast",
+          "img": "http://example.com/images/adamcurry.jpg",
+          "href": "https://en.wikipedia.org/wiki/Adam_Curry"
+        },
+        {
+          "name": "Dave Jones",
+          "role": "guest",
+          "group": "cast",
+          "img": "http://example.com/images/davejones.jpg",
+          "href": "https://example.com/blog/daveajones/"
+        },
+        {
+          "name": "Marcus Brown",
+          "role": "cover art designer",
+          "group": "visuals",
+          "href": "https://example.com/artist/marcusbrown"
+        }
+      ],
+      "transcript": [
+        {
+          "url": "https://example.com/ep2/transcript.txt",
+          "type": "text/plain"
+        }
+      ],
+      "link": "https://example.com/podcast/ep0002"
+    },
+    {
+      "title": "Episode 1 - The Past",
+      "description": "<p>How did podcasting get started? What was it like in the beginning?</p>",
+      "author": "John Doe (john@example.com)",
+      "guid": "https://example.com/ep0001",
+      "chapters": {
+        "url": "https://example.com/ep1_chapters.json",
+        "type": "application/json"
+      },
+      "image": {
+        "url": "https://example.com/ep0001/artMd.jpg"
+      },
+      "explicit": false,
+      "enclosure": {
+        "length": 71234813,
+        "type": "audio/mpeg",
+        "url": "https://mp3s.nashownotes.com/PC20-15-2020-12-11-Final.mp3"
+      },
+      "season": 1,
+      "episode": 1,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-10-07T04:30:38.000Z",
+      "soundbite": [
+        {
+          "name": null,
+          "startTime": 29.32,
+          "duration": 34
+        }
+      ],
+      "person": [
+        {
+          "name": "Adam Curry",
+          "role": "host",
+          "group": "cast",
+          "img": "http://example.com/images/adamcurry.jpg",
+          "href": "https://curry.com"
+        },
+        {
+          "name": "Dave Jones",
+          "role": "guest",
+          "group": "cast",
+          "img": "http://example.com/images/davejones.jpg",
+          "href": "https://www.imdb.com/name/nm0427852888/"
+        },
+        {
+          "name": "Jebick Morton",
+          "role": "cover art designer",
+          "group": "visuals",
+          "href": "https://example.com/artist/jebickmorton"
+        }
+      ],
+      "transcript": [
+        {
+          "url": "https://example.com/ep1/transcript.txt",
+          "type": "text/plain"
+        }
+      ],
+      "link": "https://example.com/podcast/ep0001"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "title": "Podlove Podcast",
+    "countryOfOrigin": "us",
+    "limit": 1,
+    "lastBuildDate": "1970-01-01T00:00:00.000Z",
+    "pubDate": "1970-01-01T00:00:00.000Z",
+    "links": []
+  },
+  "episodes": [
+    {
+      "title": "Fiat Lux",
+      "description": "First episode",
+      "guid": "urn:uuid:3241ace2-ca21-dd12-2341-1412ce31fad2",
+      "chapters": [
+        {
+          "start": "0",
+          "title": "Welcome"
+        },
+        {
+          "start": "3:07",
+          "title": "Introducing Podlove",
+          "href": "http://podlove.org/"
+        },
+        {
+          "start": "8:26.250",
+          "title": "Podlove WordPress Plugin",
+          "href": "http://podlove.org/podlove-podcast-publisher"
+        },
+        {
+          "start": "12:42",
+          "title": "Resumée"
+        }
+      ],
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2012-03-23T23:25:19.000Z"
+    }
+  ]
+}

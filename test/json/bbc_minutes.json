@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "title": "BBC Minute",
+    "description": "One minute of the world's most shareable news - updated every half an hour, 24/7.",
+    "subtitle": "One minute of the world's most shareable news - updated every half an hour, 24/7.",
+    "language": "en",
+    "author": "BBC",
+    "summary": "One minute of the world's most shareable news - updated every half an hour, 24/7.",
+    "webMaster": "feeds@iono.fm (Feed Manager)",
+    "type": "episodic",
+    "generator": "iono.fm 1.0.1",
+    "countryOfOrigin": "GB",
+    "limit": 150,
+    "thumbnail": "https://static.iono.fm/files/p4/logo_2946_20191028_163751_600.jpg",
+    "coverart": "https://static.iono.fm/img/iono2/black/ionofm_black_tagline_square_with_background_300w.png",
+    "category": [
+      "News"
+    ],
+    "owner": {
+      "name": "BBC",
+      "email": "ben.batson@bbc.co.uk"
+    },
+    "image": {
+      "url": "https://static.iono.fm/files/p4/logo_2946_20191028_163751_1400.jpg",
+      "link": "http://www.bbc.co.uk",
+      "title": "BBC Minute"
+    },
+    "explicit": false,
+    "ttl": 30,
+    "lastBuildDate": "2020-06-26T19:59:34.000Z",
+    "pubDate": "2016-11-28T10:14:29.000Z",
+    "link": "http://www.bbc.co.uk",
+    "links": [
+      {
+        "rel": "self",
+        "href": "http://iono.fm/rss/chan/2946",
+        "type": "application/rss+xml"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "title": "20:00 GMT",
+      "description": "<img src=\"https://static.iono.fm/files/p4/logo_2946_20191028_163751_600.jpg\" height=\"64\" width=\"64\" /><b>BBC</b> &mdash; One minute of the world's most shareable news - updated every half an hour, 24/7.",
+      "author": "BBC",
+      "summary": "One minute of the world's most shareable news - updated every half an hour, 24/7.",
+      "episodeType": "full",
+      "guid": "http://iono.fm/e/882765",
+      "thumbnail": "https://static.iono.fm/files/p4/logo_2946_20191028_163751_600.jpg",
+      "category": [
+        "News"
+      ],
+      "image": {
+        "url": "https://static.iono.fm/files/p4/logo_2946_20191028_163751_1400.jpg"
+      },
+      "duration": 60,
+      "enclosure": {
+        "length": 431150,
+        "type": "audio/x-m4a",
+        "url": "https://dl.iono.fm/epi/prov_4/epi_882765_medium.m4a?p=rss"
+      },
+      "season": 0,
+      "episode": 0,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-06-26T19:59:34.000Z",
+      "link": "http://iono.fm/e/882765"
+    }
+  ]
+}

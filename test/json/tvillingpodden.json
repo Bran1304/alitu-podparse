@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Tvillingpodden",
+    "description": "<p>En podd av tvillingarna Angelica och Jessica som pratar högt och lågt om graviditet, förlossning, relationer och föräldraskap.</p>",
+    "subtitle": "En podd av tvillingarna Angelica och Jessica som pratar högt och lågt om graviditet, förlossning, relationer och föräldraskap.",
+    "language": "sv",
+    "author": "Angelica & Jessica Lagergren",
+    "summary": "En podd av tvillingarna Angelica och Jessica som pratar högt och lågt om graviditet, förlossning, relationer och föräldraskap.",
+    "type": "episodic",
+    "category": [
+      "Kids & Family"
+    ],
+    "owner": {
+      "name": "Angelica & Jessica Lagergren",
+      "email": "tvillingpodden@gmail.com"
+    },
+    "image": {
+      "url": "https://thumborcdn.acast.com/1cXeL2ATfnYvNKVEUjCgSf8ATG0=/1500x1500/http://static.libsyn.com/p/assets/d/4/e/b/d4ebbe2023bc102f/NYheaderItunes.jpg",
+      "link": "https://play.acast.com/s/tvillingpodden",
+      "title": "Tvillingpodden"
+    },
+    "explicit": false,
+    "ttl": 30,
+    "lastBuildDate": "2020-08-11T11:07:12.000Z",
+    "pubDate": "2020-08-10T00:00:16.000Z",
+    "showId": "2b0d74ba-ec2d-4b08-93c1-ed0941812903",
+    "showUrl": "tvillingpodden",
+    "receiver": "https://interaction.acast.com/pingback",
+    "link": "https://play.acast.com/s/tvillingpodden",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://rss.acast.com/tvillingpodden",
+        "type": "application/rss+xml"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "title": "292. Ostsnippa",
+      "description": "<p>I veckans avsnitt pratar <a href=\"www.angelicalagergren.se\" rel=\"noopener noreferrer\" target=\"_blank\">Angelica</a> &amp; <a href=\"www.jessicalagergren.se\" rel=\"noopener noreferrer\" target=\"_blank\">Jessica</a> bland annat om att det nu sker en nystart i livet, doft på kön och de snuddar vid swingers. Det och mycket mer i TVILLINGPODDEN. </p> &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "I veckans avsnitt pratar Angelica & Jessica bland annat om att det nu sker en nystart i livet, doft på kön och de snuddar vid swingers. Det och mycket mer i TVILLINGPODDEN.",
+      "summary": "I veckans avsnitt pratar Angelica & Jessica bland annat om att det nu sker en nystart i livet, doft på kön och de snuddar vid swingers. Det och mycket mer i TVILLINGPODDEN. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "c0622b11-f879-4a28-adea-25bc81b532d6",
+      "image": {
+        "url": "https://thumborcdn.acast.com/QpXJhds5n53DkRYLuNS_qm2TgAY=/3000x3000/https://mediacdn.acast.com/assets/c0622b11-f879-4a28-adea-25bc81b532d6/cover-image-kdnfvnpk-tvillingpodden_bild.jpg"
+      },
+      "explicit": true,
+      "duration": 2892,
+      "enclosure": {
+        "length": 46278156,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/tvillingpodden/292.ostsnippa/media.mp3"
+      },
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-08-10T00:00:16.000Z",
+      "episodeUrl": "292.ostsnippa",
+      "episodeId": "c0622b11-f879-4a28-adea-25bc81b532d6",
+      "link": "https://play.acast.com/s/tvillingpodden/292.ostsnippa"
+    }
+  ]
+}

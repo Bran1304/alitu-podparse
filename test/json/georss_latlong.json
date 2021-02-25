@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "title": "USGS M5+ Earthquakes",
+    "description": "Real-time, worldwide earthquake list for the past 7 days",
+    "lastBuildDate": "1970-01-01T00:00:00.000Z",
+    "pubDate": "2007-12-28T07:56:15.000Z",
+    "link": "https://earthquake.usgs.gov/eqcenter/",
+    "links": []
+  },
+  "episodes": [
+    {
+      "title": "M 5.3, northern Sumatra, Indonesia",
+      "description": "December 28, 2007 05:24:17 GMT",
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2007-12-28T05:24:17.000Z",
+      "lat": 5.5319,
+      "long": 95.8972,
+      "link": "https://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2007llai.php"
+    }
+  ]
+}

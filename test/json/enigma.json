@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "title": "ENIGMA COLOMBIA: EL PODCAST",
+    "description": "El viaje para la búsqueda de la verdad ( o lo más cercano a ella) en el mundo del misterio.",
+    "language": "es",
+    "author": "JuanPaLaguna",
+    "category": [
+      "Leisure",
+      "Society & Culture"
+    ],
+    "image": {
+      "url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3d221577de5b436cf44fc10b77370732.jpg",
+      "link": "https://www.spreaker.com/show/enigma-colombia-el-podcast",
+      "title": "ENIGMA COLOMBIA: EL PODCAST"
+    },
+    "explicit": false,
+    "lastBuildDate": "1970-01-01T00:00:00.000Z",
+    "pubDate": "1970-01-01T00:00:00.000Z",
+    "link": "https://www.spreaker.com/show/enigma-colombia-el-podcast",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://www.spreaker.com/show/3202474/episodes/feed",
+        "type": "application/rss+xml"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "title": "CAPÍTULO 6: EL LADO OSCURO DE LA LUNA",
+      "description": "China llegó al lado oscuro de la Luna en la carrera espacial vs EEUU  Rusia. ¿Cómo vendrá la respuesta tecnológica de estos países?",
+      "author": "JuanPaLaguna",
+      "guid": "https://api.spreaker.com/episode/16624475",
+      "image": {
+        "url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/062f37468d10b21964e8e1fd1a0a944e.jpg"
+      },
+      "explicit": false,
+      "enclosure": {
+        "length": 17570271,
+        "type": "audio/mpeg",
+        "url": "https://api.spreaker.com/download/episode/16624475/cap_tulo_6_el_lado_oscuro_de_la_luna.mp3"
+      },
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2019-01-04T02:04:14.000Z",
+      "link": "https://www.spreaker.com/user/juanlaguna/capitulo-6-el-lado-oscuro-de-la-luna"
+    },
+    {
+      "title": "CAPÍTULO 5: WALT DISNEY ¿CRIOGENIZADO?",
+      "description": "A propósito de Disney. Un 5 de diciembre de 1901 nació el creador de la mayor empresa de entretenimiento del mundo. un 15 de 1966 de diciembre tras su muerte, dejó un mito que muchos esperan sea cierto: Un cuerpo y cerebro criogenizados para burlar la muerte.",
+      "author": "JuanPaLaguna",
+      "guid": "https://api.spreaker.com/episode/16396342",
+      "image": {
+        "url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/06d965f206a82a1483dbb1e3de550cfd.jpg"
+      },
+      "explicit": false,
+      "enclosure": {
+        "length": 18017831,
+        "type": "audio/mpeg",
+        "url": "https://api.spreaker.com/download/episode/16396342/cap_tulo_5_walt_disney_criogenizado.mp3"
+      },
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2018-12-05T22:30:14.000Z",
+      "link": "https://www.spreaker.com/user/juanlaguna/capitulo-5-walt-disney-criogenizado"
+    },
+    {
+      "title": "CAPÍTULO 4: SANDRA MAYORGA Y EL PODER OCULTO DE LOS NÚMEROS",
+      "author": "JuanPaLaguna",
+      "guid": "https://api.spreaker.com/episode/16217693",
+      "image": {
+        "url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3d221577de5b436cf44fc10b77370732.jpg"
+      },
+      "explicit": false,
+      "enclosure": {
+        "length": 70752421,
+        "type": "audio/mpeg",
+        "url": "https://api.spreaker.com/download/episode/16217693/cap_tulo_4_sandra_mayorga.mp3"
+      },
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2018-11-14T16:45:08.000Z",
+      "link": "https://www.spreaker.com/user/juanlaguna/capitulo-4-sandra-mayorga"
+    },
+    {
+      "title": "CAPÍTULO 3 - GUSTAVO GONZALEZ: DETECTOR DE BRUJERÍA",
+      "description": "¿Es real la brujería? ¿Podemos amarrar y matar personas por medio de rituales? Gustavo Gonzalez  lleva más de 20 años sacando entierros y luchando contra el miedo más grande que tiene el pueblo; caer bajo un embrujo.",
+      "author": "JuanPaLaguna",
+      "guid": "https://api.spreaker.com/episode/16087227",
+      "image": {
+        "url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3d221577de5b436cf44fc10b77370732.jpg"
+      },
+      "explicit": false,
+      "enclosure": {
+        "length": 137261461,
+        "type": "audio/mpeg",
+        "url": "https://api.spreaker.com/download/episode/16087227/cap_tulo_3_gustavo_gonzalez.mp3"
+      },
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2018-10-30T00:21:44.000Z",
+      "link": "https://www.spreaker.com/user/juanlaguna/capitulo-3-gustavo-gonzalez"
+    },
+    {
+      "title": "CAPÍTULO 2 -   EDWIN ROBLES: ENTRE LIBROS Y ESPANTOS",
+      "description": "Por años en Colombia se discute el uso de la palabra Parapsicólogo. Edwin Robles se ha convertido en una imagen visible para quienes creen en fenómenos paranormales y a pesar de tener cientos de haters, él con los libros a su lado busca darle explicación a lo que por años nos ha dejado con dudas.",
+      "author": "JuanPaLaguna",
+      "guid": "https://api.spreaker.com/episode/16025987",
+      "image": {
+        "url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/91532696675c726961105eadb50e4326.jpg"
+      },
+      "explicit": false,
+      "enclosure": {
+        "length": 112905897,
+        "type": "audio/mpeg",
+        "url": "https://api.spreaker.com/download/episode/16025987/cap_tulo_2_edwin_robles.mp3"
+      },
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2018-10-22T22:21:04.000Z",
+      "link": "https://www.spreaker.com/user/juanlaguna/capitulo-2-edwin-robles"
+    },
+    {
+      "title": "CAPÍTULO 1 - WILLIAM CHAVEZ: EL ÚLTIMO JUGLAR DE LA UFOLOGÍA EN COLOMBIA",
+      "description": "A William Chávez se le puede criticar, pero nadie le quita lo bailado siendo el único colombiano que ha perseguido el fenómeno OVNI",
+      "author": "JuanPaLaguna",
+      "guid": "https://api.spreaker.com/episode/15951102",
+      "image": {
+        "url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cab70ade1ee9a84948b48a1d57fa2ad3.jpg"
+      },
+      "explicit": false,
+      "enclosure": {
+        "length": 61620513,
+        "type": "audio/mpeg",
+        "url": "https://api.spreaker.com/download/episode/15951102/cap_tulo_1_william_chavez.mp3"
+      },
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2018-10-13T05:16:46.000Z",
+      "link": "https://www.spreaker.com/user/juanlaguna/capitulo-1-william-chavez"
+    },
+    {
+      "title": "LLEGA ENIGMA COLOMBIA: EL PODCAST. UN VIAJE POR EL MUNDO DEL MISTERIO",
+      "description": "Cabezota del nuevo Podcast de @JuanpaLaguna ENIGMA COLOMBIA: EL PODCAST",
+      "author": "JuanPaLaguna",
+      "guid": "https://api.spreaker.com/episode/15942336",
+      "image": {
+        "url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3d221577de5b436cf44fc10b77370732.jpg"
+      },
+      "explicit": false,
+      "enclosure": {
+        "length": 2575137,
+        "type": "audio/mpeg",
+        "url": "https://api.spreaker.com/download/episode/15942336/press_enigma_col.mp3"
+      },
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2018-10-12T04:18:37.000Z",
+      "link": "https://www.spreaker.com/user/juanlaguna/press-enigma-col"
+    }
+  ]
+}

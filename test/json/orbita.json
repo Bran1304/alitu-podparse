@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "Fora de órbita",
+    "description": "Fala seus curioso, meu nome é Juliano Coração sou comediante e nesse podcast falo sobre curiosidades de uma forma descontraída, da pra aprender e se divertir, bem-vindo ao Fora de órbita",
+    "subtitle": "Fala seus curioso, meu nome é Juliano Coração sou comediante e nesse podcast falo sobre curiosidades de uma forma descontraída, da pra aprender e se divertir, bem-vindo ao Fora de órbita",
+    "language": "pt",
+    "author": "PAPIER PODCAST",
+    "summary": "Fala seus curioso, meu nome é Juliano Coração sou comediante e nesse podcast falo sobre curiosidades de uma forma descontraída, da pra aprender e se divertir, bem-vindo ao Fora de órbita",
+    "type": "episodic",
+    "category": [
+      "Comedy"
+    ],
+    "owner": {
+      "name": "PAPIER PODCAST",
+      "email": "sabrina@papierpodcast.com.br"
+    },
+    "image": {
+      "url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d05ae2bbf83cb90a32f99b99353c3581.jpg",
+      "link": "https://www.spreaker.com/show/no-mundo-da-lua",
+      "title": "Fora de órbita"
+    },
+    "explicit": false,
+    "lastBuildDate": "1970-01-01T00:00:00.000Z",
+    "pubDate": "1970-01-01T00:00:00.000Z",
+    "link": "https://www.spreaker.com/show/no-mundo-da-lua",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://www.spreaker.com/show/4278455/episodes/feed",
+        "type": "application/rss+xml"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "title": "Corona virus e a história das pandemias!",
+      "description": "Olá, nesse primeiro episódio apresentado por Juliano Coração, vamos descobrir mais sobre o Corona Virus e as pandemias que passaram no mundo.",
+      "subtitle": "Olá, nesse primeiro episódio apresentado por Juliano Coração, vamos descobrir mais sobre o Corona Virus e as pandemias que passaram no mundo.",
+      "author": "PAPIER PODCAST",
+      "summary": "Olá, nesse primeiro episódio apresentado por Juliano Coração, vamos descobrir mais sobre o Corona Virus e as pandemias que passaram no mundo.",
+      "episodeType": "full",
+      "guid": "https://api.spreaker.com/episode/24186372",
+      "keywords": [
+        "comedia",
+        "humor",
+        "informação",
+        "juliano-coração",
+        "no-mundo-da-lua",
+        "nomundodalua",
+        "papierpodcast",
+        "podcast",
+        "tiktok"
+      ],
+      "image": {
+        "url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d05ae2bbf83cb90a32f99b99353c3581.jpg"
+      },
+      "explicit": false,
+      "duration": 813,
+      "enclosure": {
+        "length": 19496541,
+        "type": "audio/mpeg",
+        "url": "https://api.spreaker.com/download/episode/24186372/primeiro_epis_dio_no_mundo_da_lua.mp3"
+      },
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-03-24T08:00:00.000Z",
+      "link": "https://www.spreaker.com/user/papierpodcast/ep1-mundo-da-lua"
+    },
+    {
+      "title": "Tá fora de órbita? (Trailer)",
+      "author": "PAPIER PODCAST",
+      "episodeType": "trailer",
+      "guid": "https://api.spreaker.com/episode/24268390",
+      "image": {
+        "url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d05ae2bbf83cb90a32f99b99353c3581.jpg"
+      },
+      "explicit": false,
+      "duration": 51,
+      "enclosure": {
+        "length": 1202889,
+        "type": "audio/mpeg",
+        "url": "https://api.spreaker.com/download/episode/24268390/a.mp3"
+      },
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-03-22T23:21:00.000Z",
+      "link": "https://www.spreaker.com/user/papierpodcast/teaser-fora"
+    }
+  ]
+}

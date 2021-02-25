@@ -1,0 +1,840 @@
+{
+  "meta": {
+    "title": "Riordan's Desk",
+    "description": "Crime fiction by Mark Coggins featuring private investigator August Riordan. Season 1 is THE DEAD BEAT SCROLL, a novel the New York Journal of Books called a “Glorious potpourri of violence, black humor … sex, and a hunt for a lost manuscript.”",
+    "subtitle": "Crime fiction by Mark Coggins featuring private investigator August Riordan. Season 1 is THE DEAD BEAT SCROLL, a novel the New York Journal of Books called a “Glorious potpourri of violence, black humor … sex, and a hunt for a lost manuscript.”",
+    "language": "en-us",
+    "author": "Mark Coggins",
+    "summary": "Crime fiction by Mark Coggins featuring private investigator August Riordan. Season 1 is THE DEAD BEAT SCROLL, a novel the New York Journal of Books called a “Glorious potpourri of violence, black humor … sex, and a hunt for a lost manuscript.”",
+    "type": "serial",
+    "category": [
+      "Arts",
+      "Books"
+    ],
+    "owner": {
+      "name": "Mark Coggins",
+      "email": "mark@markcoggins.com"
+    },
+    "image": {
+      "url": "https://storage.buzzsprout.com/variants/pp1on36hf5x6br7llw0301l0zkea/f81607a3cd537406cf0cf506c726bfe2824c5e584c9e9dc5e04e42436c820a79.jpg",
+      "link": "https://riordansdesk.buzzsprout.com/",
+      "title": "Riordan's Desk"
+    },
+    "explicit": true,
+    "lastBuildDate": "2020-10-17T20:31:30.000Z",
+    "pubDate": "1970-01-01T00:00:00.000Z",
+    "locked": true,
+    "link": "https://riordansdesk.buzzsprout.com/",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://feeds.buzzsprout.com/1071847.rss",
+        "type": "application/rss+xml"
+      },
+      {
+        "rel": "hub",
+        "href": "https://pubsubhubbub.appspot.com/"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "title": "The Dead Beat Scroll, Chapter 1 - Golden Fingers",
+      "description": "<p>In this audio fiction presentation of the novel <a href=\"https://www.markcoggins.com/the-dead-beat-scroll/\"><em>The Dead Beat Scroll</em></a>, private investigator August Riordan returns to San Francisco to avenge the death of his friend and one-time partner, Chris Duckworth. Duckworth has taken over Riordan’s old business, his old office, and even his old apartment, and Riordan suspects Duckworth’s death is linked to the missing-person case he was working when he died.</p><p>An alluring young woman named Angelina hired Duckworth to look for her half-sister, but what Riordan finds instead is a murderous polyamorous family intent on claiming a previously unknown manuscript from Beat writer Jack Kerouac.</p><p>Following clues from Duckworth and a trail of mutilated bodies left by the family, Riordan soon realizes that avenging his partner will first involve recovering the manuscript—then saving Angelina and himself from kidnap, torture, and death. As the bodies pile up, Riordan must work with old allies and enemies to untangle Duckworth’s last case before time runs out.<br><br>In Chapter 1, Riordan makes a late-night visit to a massage parlor.</p>",
+      "author": "Mark Coggins",
+      "summary": "In this audio fiction presentation of the novel The Dead Beat Scroll, private investigator August Riordan returns to San Francisco to avenge the death of his friend and one-time partner, Chris Duckworth. Duckworth has taken over Riordan’s old business,...",
+      "episodeType": "full",
+      "guid": "Buzzsprout-3664768",
+      "explicit": false,
+      "duration": 910,
+      "enclosure": {
+        "length": 11005621,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/3664768-the-dead-beat-scroll-chapter-1-golden-fingers.mp3?blob_id=13614148"
+      },
+      "season": 1,
+      "episode": 1,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-05-07T22:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 2 - Old Home Week",
+      "description": "<p>Riordan goes back to his old San Francisco office to compare notes with his ex, Gretchen Sabatini.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan goes back to his old San Francisco office to compare notes with his ex, Gretchen Sabatini.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-3674452",
+      "explicit": false,
+      "duration": 939,
+      "enclosure": {
+        "length": 11354510,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/3674452-the-dead-beat-scroll-chapter-2-old-home-week.mp3?blob_id=13656793"
+      },
+      "season": 1,
+      "episode": 2,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-05-08T16:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 3 - Sugar Baby",
+      "description": "<p>Riordan goes to Berkeley to talk to Ivy, the sugar baby who hired Duckworth.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan goes to Berkeley to talk to Ivy, the sugar baby who hired Duckworth.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-3682828",
+      "explicit": false,
+      "duration": 1122,
+      "enclosure": {
+        "length": 13556909,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/3682828-the-dead-beat-scroll-chapter-3-sugar-baby.mp3?blob_id=13686370"
+      },
+      "season": 1,
+      "episode": 3,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-05-08T22:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 4 - Sugar Daddy",
+      "description": "<p>Riordan visits Ivy's sugar daddy.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan visits Ivy's sugar daddy.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-3742658",
+      "explicit": false,
+      "duration": 819,
+      "enclosure": {
+        "length": 9919166,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/3742658-the-dead-beat-scroll-chapter-4-sugar-daddy.mp3?blob_id=13974692"
+      },
+      "season": 1,
+      "episode": 4,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-05-13T17:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 5 - Angelina",
+      "description": "<p>Riordan meets Angelina, Duckworth's actual last client.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan meets Angelina, Duckworth's actual last client.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-3784388",
+      "explicit": false,
+      "duration": 1014,
+      "enclosure": {
+        "length": 12261377,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/3784388-the-dead-beat-scroll-chapter-5-angelina.mp3?blob_id=14245058"
+      },
+      "season": 1,
+      "episode": 5,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-05-16T16:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 6 - The Late Shift",
+      "description": "<p>Riordan makes another late night visit to Golden Fingers.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan makes another late night visit to Golden Fingers.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-3828956",
+      "explicit": false,
+      "duration": 1190,
+      "enclosure": {
+        "length": 14373911,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/3828956-the-dead-beat-scroll-chapter-6-the-late-shift.mp3?blob_id=14453648"
+      },
+      "season": 1,
+      "episode": 6,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-05-19T16:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 7 - Historic Preservation",
+      "description": "<p>Riordan makes an unsettling discovery.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan makes an unsettling discovery.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-3874892",
+      "explicit": false,
+      "duration": 1001,
+      "enclosure": {
+        "length": 12096466,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/3874892-the-dead-beat-scroll-chapter-7-historic-preservation.mp3?blob_id=14673245"
+      },
+      "season": 1,
+      "episode": 7,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-05-22T16:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 8 - Prison Couture",
+      "description": "<p>Riordan updates Angelina on developments in the case.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan updates Angelina on developments in the case.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-3908858",
+      "explicit": false,
+      "duration": 1061,
+      "enclosure": {
+        "length": 12822865,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/3908858-the-dead-beat-scroll-chapter-8-prison-couture.mp3?blob_id=14838893"
+      },
+      "season": 1,
+      "episode": 8,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-05-25T17:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 9 - Carlos G's",
+      "description": "<p>Riordan gets his hair cut--and makes an important discovery as a result.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan gets his hair cut--and makes an important discovery as a result.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-3951788",
+      "explicit": false,
+      "duration": 1076,
+      "enclosure": {
+        "length": 13002391,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/3951788-the-dead-beat-scroll-chapter-9-carlos-g-s.mp3?blob_id=15051098"
+      },
+      "season": 1,
+      "episode": 9,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-05-28T17:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 10 - The Beat Hive",
+      "description": "<p>Riordan has a literary experience.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan has a literary experience.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-4001567",
+      "explicit": false,
+      "duration": 916,
+      "enclosure": {
+        "length": 11075211,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/4001567-the-dead-beat-scroll-chapter-10-the-beat-hive.mp3?blob_id=15290039"
+      },
+      "season": 1,
+      "episode": 10,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-06-01T17:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 11 - Smashed Finger",
+      "description": "<p>Riordan visits a rare book dealer.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan visits a rare book dealer.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-4048361",
+      "explicit": false,
+      "duration": 698,
+      "enclosure": {
+        "length": 8460223,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/4048361-the-dead-beat-scroll-chapter-11-smashed-finger.mp3?blob_id=15521189"
+      },
+      "season": 1,
+      "episode": 11,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-06-04T22:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 12 - Beat Epiphany",
+      "description": "<p>Riordan gains important insight into the origin of the mysterious scroll thanks to research by Gretchen</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan gains important insight into the origin of the mysterious scroll thanks to research by Gretchen",
+      "episodeType": "full",
+      "guid": "Buzzsprout-4089047",
+      "explicit": false,
+      "duration": 880,
+      "enclosure": {
+        "length": 10645822,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/4089047-the-dead-beat-scroll-chapter-12-beat-epiphany.mp3?blob_id=15716723"
+      },
+      "season": 1,
+      "episode": 12,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-06-08T16:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 13 - Arnie Jewel",
+      "description": "<p>Riordan gets schooled on Beat Generation writers.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan gets schooled on Beat Generation writers.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-4137875",
+      "explicit": false,
+      "duration": 1387,
+      "enclosure": {
+        "length": 16736213,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/4137875-the-dead-beat-scroll-chapter-13-arnie-jewel.mp3?blob_id=15947339"
+      },
+      "season": 1,
+      "episode": 13,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-06-11T21:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 14 - Number One with a Bullet",
+      "description": "<p>Riordan meets with Kittredge to compare notes.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan meets with Kittredge to compare notes.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-4184480",
+      "explicit": false,
+      "duration": 831,
+      "enclosure": {
+        "length": 10059882,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/4184480-the-dead-beat-scroll-chapter-14-number-one-with-a-bullet.mp3?blob_id=16167269"
+      },
+      "season": 1,
+      "episode": 14,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-06-15T18:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 15 - Hand Finish",
+      "description": "<p>Riordan meets Kim and learns a thing or two more about the birds and the bees.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan meets Kim and learns a thing or two more about the birds and the bees.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-4212530",
+      "explicit": false,
+      "duration": 1079,
+      "enclosure": {
+        "length": 13040349,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/4212530-the-dead-beat-scroll-chapter-15-hand-finish.mp3?blob_id=16307324"
+      },
+      "season": 1,
+      "episode": 15,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-06-17T15:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 16 - El Sobrarbe Surprise",
+      "description": "<p>Riordan goes to see Kim's friend Tuyen.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan goes to see Kim's friend Tuyen.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-4274963",
+      "explicit": false,
+      "duration": 776,
+      "enclosure": {
+        "length": 9403477,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/4274963-the-dead-beat-scroll-chapter-16-el-sobrarbe-surprise.mp3?blob_id=16610795"
+      },
+      "season": 1,
+      "episode": 16,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-06-22T18:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 17 - Check Out Time",
+      "description": "<p>Riordan learns more about what happened to Tuyen and goes to see Angelina.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan learns more about what happened to Tuyen and goes to see Angelina.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-4320947",
+      "explicit": false,
+      "duration": 1046,
+      "enclosure": {
+        "length": 12638481,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/4320947-the-dead-beat-scroll-chapter-17-check-out-time.mp3?blob_id=16831685"
+      },
+      "season": 1,
+      "episode": 17,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-06-25T22:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 18 - Sing a Tong of Six Gents",
+      "description": "<p>Riordan meets the leader of Wo Hop To.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan meets the leader of Wo Hop To.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-4402004",
+      "explicit": false,
+      "duration": 1050,
+      "enclosure": {
+        "length": 12688408,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/4402004-the-dead-beat-scroll-chapter-18-sing-a-tong-of-six-gents.mp3?blob_id=17200211"
+      },
+      "season": 1,
+      "episode": 18,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-07-01T17:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 19 - The Grey Earl",
+      "description": "<p>Riordan receives an unexpected visitor from Palm Springs.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan receives an unexpected visitor from Palm Springs.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-4476236",
+      "explicit": false,
+      "duration": 753,
+      "enclosure": {
+        "length": 9129792,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/4476236-the-dead-beat-scroll-chapter-19-the-grey-earl.mp3?blob_id=17553557"
+      },
+      "season": 1,
+      "episode": 19,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-07-07T18:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 20 - Chris's Play",
+      "description": "<p>Riordan gets an important message from an old friend.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan gets an important message from an old friend.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-4538162",
+      "explicit": false,
+      "duration": 883,
+      "enclosure": {
+        "length": 10689015,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/4538162-the-dead-beat-scroll-chapter-20-chris-s-play.mp3?blob_id=17846465"
+      },
+      "season": 1,
+      "episode": 20,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-07-12T20:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 21 - Son of a Mama-san",
+      "description": "<p>Riordan goes to see the son of Mrs. Kongsangchai.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan goes to see the son of Mrs. Kongsangchai.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-4598015",
+      "explicit": false,
+      "duration": 1026,
+      "enclosure": {
+        "length": 12394288,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/4598015-the-dead-beat-scroll-chapter-21-son-of-a-mama-san.mp3?blob_id=18134657"
+      },
+      "season": 1,
+      "episode": 21,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-07-16T20:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 22 - Hive Times",
+      "description": "<p>Riordan goes to a special sort of party.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan goes to a special sort of party.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-4642889",
+      "explicit": true,
+      "duration": 1396,
+      "enclosure": {
+        "length": 16834582,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/4642889-the-dead-beat-scroll-chapter-22-hive-times.mp3?blob_id=18344753"
+      },
+      "season": 1,
+      "episode": 22,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-07-20T17:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 23 - Family Ties",
+      "description": "<p>Riordan has a conversation with Jeff.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan has a conversation with Jeff.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-4701257",
+      "explicit": true,
+      "duration": 861,
+      "enclosure": {
+        "length": 10420345,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/4701257-the-dead-beat-scroll-chapter-23-family-ties.mp3?blob_id=18621017"
+      },
+      "season": 1,
+      "episode": 23,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-07-24T16:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 24 - Film at Eleven",
+      "description": "<p>Riordan and Kittredge watch a video.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan and Kittredge watch a video.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-4752383",
+      "explicit": false,
+      "duration": 1150,
+      "enclosure": {
+        "length": 13892045,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/4752383-the-dead-beat-scroll-chapter-24-film-at-eleven.mp3?blob_id=18861446"
+      },
+      "season": 1,
+      "episode": 24,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-07-28T18:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 25 - Text and Subtext",
+      "description": "<p>Riordan has a confrontation with number one son.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan has a confrontation with number one son.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-4807970",
+      "explicit": false,
+      "duration": 759,
+      "enclosure": {
+        "length": 9193139,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/4807970-the-dead-beat-scroll-chapter-25-text-and-subtext.mp3?blob_id=19119629"
+      },
+      "season": 1,
+      "episode": 25,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-08-01T17:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 26 - Big Daddy",
+      "description": "<p>Riordan has a sit down with big daddy.&nbsp;</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan has a sit down with big daddy.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-4885064",
+      "explicit": true,
+      "duration": 1025,
+      "enclosure": {
+        "length": 12385254,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/4885064-the-dead-beat-scroll-chapter-26-big-daddy.mp3?blob_id=19471199"
+      },
+      "season": 1,
+      "episode": 26,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-08-06T17:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 27 - Tag, You're It",
+      "description": "<p>Riordan, Gretchen and Ray meet to strategize.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan, Gretchen and Ray meet to strategize.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-4937408",
+      "explicit": false,
+      "duration": 877,
+      "enclosure": {
+        "length": 10615036,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/4937408-the-dead-beat-scroll-chapter-27-tag-you-re-it.mp3?blob_id=19717028"
+      },
+      "season": 1,
+      "episode": 27,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-08-10T17:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 28 - Gather Round the Campfire",
+      "description": "<p>Riordan and Ray spring their trap.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan and Ray spring their trap.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-4998689",
+      "explicit": false,
+      "duration": 1372,
+      "enclosure": {
+        "length": 16555996,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/4998689-the-dead-beat-scroll-chapter-28-gather-round-the-campfire.mp3?blob_id=20007083"
+      },
+      "season": 1,
+      "episode": 28,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-08-14T16:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 29 - Swedish All Along",
+      "description": "<p>Riordan reaches out to Wong.</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan reaches out to Wong.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-5019296",
+      "explicit": false,
+      "duration": 1072,
+      "enclosure": {
+        "length": 12948189,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/5019296-the-dead-beat-scroll-chapter-29-swedish-all-along.mp3?blob_id=20105402"
+      },
+      "season": 1,
+      "episode": 29,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-08-16T18:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Chapter 30 - Once in a While Forever",
+      "description": "<p>Riordan, Gretchen, Ray and Kim attend Chris's wake.<br><br>Links mentioned in the episode:&nbsp;</p><ul><li><a href=\"https://www.goodreads.com/book/show/51056264-the-dead-beat-scroll\">DBS on GoodReads</a></li><li><a href=\"https://www.amazon.com/gp/product/B07W76L12C\">DBS on Amazon</a></li><li><a href=\"https://podcasts.apple.com/us/podcast/riordans-desk/id1512284227\">DBS on iTunes</a></li><li><a href=\"https://youtu.be/h6ZWvDnkRCM\">Taste of Honey Performance on Youtube</a></li></ul><p><br></p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan, Gretchen, Ray and Kim attend Chris's wake.Links mentioned in the episode: DBS on GoodReadsDBS on AmazonDBS on iTunesTaste of Honey Performance on Youtube",
+      "episodeType": "full",
+      "guid": "Buzzsprout-5019359",
+      "explicit": false,
+      "duration": 1082,
+      "enclosure": {
+        "length": 13071696,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/5019359-the-dead-beat-scroll-chapter-30-once-in-a-while-forever.mp3?blob_id=20105597"
+      },
+      "season": 1,
+      "episode": 30,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-08-16T18:00:00.000Z"
+    },
+    {
+      "title": "The Dead Beat Scroll, Wrap-Up - Interview by Randal Brandt",
+      "description": "<p>Randal Brandt, Curator of the California Detective Fiction Collection at the Bancroft Library, interviews Mark about THE DEAD BEAT SCROLL.<br><br>Links mentioned in the episode:</p><ul><li><a href=\"http://goldengatemysteries.pbworks.com/w/page/97325754/FrontPage\">Golden Gate Mysteries</a></li><li><a href=\"https://www.david-dodge.com/\">A David Dodge Companion</a></li><li><a href=\"https://www.markcoggins.com/joe-gores-on-the-maltese-falcon/\">Joe Gores on The Maltese Falcon</a></li><li><a href=\"https://www.markcoggins.com/first-edition-of-the-immortal-game/\">First Edition of The Immortal Game</a></li><li><a href=\"https://www.markcoggins.com/dbs-chapter-illustrations/\">Chapter Photographs for The Dead Beat Scroll</a></li></ul>",
+      "author": "Mark Coggins",
+      "summary": "Randal Brandt, Curator of the California Detective Fiction Collection at the Bancroft Library, interviews Mark about THE DEAD BEAT SCROLL.Links mentioned in the episode:Golden Gate MysteriesA David Dodge CompanionJoe Gores on The Maltese FalconFirst...",
+      "episodeType": "full",
+      "guid": "Buzzsprout-5019572",
+      "explicit": false,
+      "duration": 3447,
+      "enclosure": {
+        "length": 41446631,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/5019572-the-dead-beat-scroll-wrap-up-interview-by-randal-brandt.mp3?blob_id=20106857"
+      },
+      "season": 1,
+      "episode": 31,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-08-16T19:00:00.000Z"
+    },
+    {
+      "title": "No Hard Feelings, Chapter 1 - Winnie",
+      "description": "<p>Meet Winnie, the female protagonist of <a href=\"https://www.markcoggins.com/no-hard-feelings/\"><em>No Hard Feelings</em></a><em>.<br><br></em>Winnie doesn’t remember the last time she felt anything below her neck. Her spine is severed at the seventh vertebrae, but thanks to implants from a sabotaged biomedical start-up, she has regained mobility. She is a prototype: a living, breathing—walking—demonstration of revolutionary technology that never made it to market.</p><p>Her disability has become her armor. Because she doesn’t register fatigue, she has trained relentlessly. Her hand, arm, and leg strength are off the scales for a woman, and she has honed self-defense techniques to channel that strength. She’s a modern-day Amazon who feels no pain.</p><p>When the sociopath who torpedoed the start-up sends killers to harvest the implants from her body, Winnie must team up with broken-down private investigator August Riordan to save both their lives—and derail sinister plans for perverse military applications of the technology.<br><br>In Chapter 1, Winnie makes an important decision while standing on the walkway of the Golden Gate Bridge.<br><br><br></p>",
+      "author": "Mark Coggins",
+      "summary": "Meet Winnie, the female protagonist of No Hard Feelings.Winnie doesn’t remember the last time she felt anything below her neck. Her spine is severed at the seventh vertebrae, but thanks to implants from a sabotaged biomedical start-up, she has regained...",
+      "episodeType": "full",
+      "guid": "Buzzsprout-5082674",
+      "explicit": true,
+      "duration": 1266,
+      "enclosure": {
+        "length": 15282907,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/5082674-no-hard-feelings-chapter-1-winnie.mp3?blob_id=20406560"
+      },
+      "season": 2,
+      "episode": 1,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-08-20T21:00:00.000Z"
+    },
+    {
+      "title": "No Hard Feelings, Chapter 2 - Winnie",
+      "description": "<p>Winnie finds Riordan in Palm Springs.</p>",
+      "author": "Mark Coggins",
+      "summary": "Winnie finds Riordan in Palm Springs.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-5133319",
+      "explicit": false,
+      "duration": 383,
+      "enclosure": {
+        "length": 4685174,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/5133319-no-hard-feelings-chapter-2-winnie.mp3?blob_id=20650282"
+      },
+      "season": 2,
+      "episode": 2,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-08-24T22:00:00.000Z"
+    },
+    {
+      "title": "No Hard Feelings, Chapter 3 - Riordan",
+      "description": "<p>Riordan and Winnie get reacquainted.&nbsp;</p>",
+      "author": "Mark Coggins",
+      "summary": "Riordan and Winnie get reacquainted.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-5203180",
+      "explicit": false,
+      "duration": 1059,
+      "enclosure": {
+        "length": 12793333,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/5203180-no-hard-feelings-chapter-3-riordan.mp3?blob_id=20980900"
+      },
+      "season": 2,
+      "episode": 3,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-08-30T00:00:00.000Z"
+    },
+    {
+      "title": "No Hard Feelings, Chapter 4 - Winnie",
+      "description": "<p>Winnie and Riordan get a windfall.</p>",
+      "author": "Mark Coggins",
+      "summary": "Winnie and Riordan get a windfall.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-5265103",
+      "explicit": false,
+      "duration": 752,
+      "enclosure": {
+        "length": 9115123,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/5265103-no-hard-feelings-chapter-4-winnie.mp3?blob_id=21266488"
+      },
+      "season": 2,
+      "episode": 4,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-09-02T19:00:00.000Z"
+    },
+    {
+      "title": "No Hard Feelings, Chapter 5 - Winnie",
+      "description": "<p>Winnie meets Ray, who lends her a hand.</p>",
+      "author": "Mark Coggins",
+      "summary": "Winnie meets Ray, who lends her a hand.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-5372362",
+      "explicit": false,
+      "duration": 1023,
+      "enclosure": {
+        "length": 12364193,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/5372362-no-hard-feelings-chapter-5-winnie.mp3?blob_id=21775045"
+      },
+      "season": 2,
+      "episode": 5,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-09-09T22:00:00.000Z"
+    },
+    {
+      "title": "No Hard Feelings, Chapter 6 - Riordan",
+      "description": "<p>Ray thinks fast to deal with a threat from an unexpected source.</p>",
+      "author": "Mark Coggins",
+      "summary": "Ray thinks fast to deal with a threat from an unexpected source.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-5418517",
+      "explicit": false,
+      "duration": 564,
+      "enclosure": {
+        "length": 6852774,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/5418517-no-hard-feelings-chapter-6-riordan.mp3?blob_id=21998194"
+      },
+      "season": 2,
+      "episode": 6,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-09-13T16:00:00.000Z"
+    },
+    {
+      "title": "No Hard Feelings, Chapter 7 - Riordan",
+      "description": "<p>Winnie, Ray and Riordan share a pancake breakfast.</p>",
+      "author": "Mark Coggins",
+      "summary": "Winnie, Ray and Riordan share a pancake breakfast.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-5486068",
+      "explicit": false,
+      "duration": 550,
+      "enclosure": {
+        "length": 6691024,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/5486068-no-hard-feelings-chapter-7-riordan.mp3?blob_id=22363663"
+      },
+      "season": 2,
+      "episode": 7,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-09-17T16:00:00.000Z"
+    },
+    {
+      "title": "No Hard Feelings, Chapter 8 - Riordan",
+      "description": "<p>Ray has a brainwave.</p>",
+      "author": "Mark Coggins",
+      "summary": "Ray has a brainwave.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-5573605",
+      "explicit": false,
+      "duration": 656,
+      "enclosure": {
+        "length": 7964023,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/5573605-no-hard-feelings-chapter-8-riordan.mp3?blob_id=22784878"
+      },
+      "season": 2,
+      "episode": 8,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-09-23T18:00:00.000Z"
+    },
+    {
+      "title": "No Hard Feelings, Chapter 9 - The Winemaker",
+      "description": "<p>The Winemaker reflects on his stay in prison.&nbsp;</p>",
+      "author": "Mark Coggins",
+      "summary": "The Winemaker reflects on his stay in prison.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-5646148",
+      "explicit": false,
+      "duration": 439,
+      "enclosure": {
+        "length": 5358152,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/5646148-no-hard-feelings-chapter-9-the-winemaker.mp3?blob_id=23130985"
+      },
+      "season": 2,
+      "episode": 9,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-09-28T21:00:00.000Z"
+    },
+    {
+      "title": "No Hard Feelings, Chapter 10 - Riordan",
+      "description": "<p>Winnie and Riordan attempt to ensnare The Winemaker's men.</p>",
+      "author": "Mark Coggins",
+      "summary": "Winnie and Riordan attempt to ensnare The Winemaker's men.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-5756683",
+      "explicit": false,
+      "duration": 1181,
+      "enclosure": {
+        "length": 14257550,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/5756683-no-hard-feelings-chapter-10-riordan.mp3?blob_id=23653669"
+      },
+      "season": 2,
+      "episode": 10,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-10-05T22:00:00.000Z"
+    },
+    {
+      "title": "No Hard Feelings, Chapter 11 - Winnie",
+      "description": "<p>Winnie and Riordan search the motel rooms of The Winemaker's men.</p>",
+      "author": "Mark Coggins",
+      "summary": "Winnie and Riordan search the motel rooms of The Winemaker's men.",
+      "episodeType": "full",
+      "guid": "Buzzsprout-5865685",
+      "explicit": false,
+      "duration": 1038,
+      "enclosure": {
+        "length": 12543500,
+        "type": "audio/mpeg",
+        "url": "https://www.buzzsprout.com/1071847/5865685-no-hard-feelings-chapter-11-winnie.mp3?blob_id=24166081"
+      },
+      "season": 2,
+      "episode": 11,
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2020-10-13T00:00:00.000Z"
+    }
+  ]
+}

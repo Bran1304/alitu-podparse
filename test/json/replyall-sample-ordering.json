@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "title": "Reply All",
+    "description": "\"'A podcast about the internet' that is actually an unfailingly original exploration of modern life and how to survive it.\" - The Guardian. Hosted by PJ Vogt and Alex Goldman, from Gimlet.",
+    "subtitle": "\"'A podcast about the internet' that is actually an unfailingly original exploration of modern life and how to survive it.\" - The Guardian. Hosted by PJ Vogt and Alex Goldman, from Gimlet.",
+    "language": "en",
+    "author": "Gimlet",
+    "summary": "\"'A podcast about the internet' that is actually an unfailingly original exploration of modern life and how to survive it.\" - The Guardian. Hosted by PJ Vogt and Alex Goldman, from Gimlet.",
+    "type": "episodic",
+    "thumbnail": "https://static.megaphone.fm/podcasts/05f71746-a825-11e5-aeb5-a7a572df575e/image/uploads_2F1516902193862-jqkml22bswo-cee641b4533ddb31a5a7ab656fe45116_2FCURRENT_Reply%2BAll%2BLogo.png",
+    "keywords": [
+      "Storytelling"
+    ],
+    "category": [
+      "Arts",
+      "Society & Culture",
+      "Technology"
+    ],
+    "owner": {
+      "name": "Gimlet",
+      "email": "feeds@soundcloud.com"
+    },
+    "image": {
+      "url": "https://static.megaphone.fm/podcasts/05f71746-a825-11e5-aeb5-a7a572df575e/image/uploads_2F1516902193862-jqkml22bswo-cee641b4533ddb31a5a7ab656fe45116_2FCURRENT_Reply%2BAll%2BLogo.png",
+      "link": "http://gimletmedia.com/shows/reply-all",
+      "title": "Reply All"
+    },
+    "explicit": true,
+    "lastBuildDate": "1970-01-01T00:00:00.000Z",
+    "pubDate": "1970-01-01T00:00:00.000Z",
+    "link": "http://gimletmedia.com/shows/reply-all",
+    "links": [
+      {
+        "rel": "self",
+        "href": "http://feeds.gimletmedia.com/hearreplyall",
+        "type": "application/rss+xml"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "title": "#2 The Secret, Gruesome Internet For Doctors",
+      "description": "An app called Figure One wants to be Instagram, but for doctors. Why would doctors need their own Instagram? We spy on the secret &amp; disgusting medical internet, plus we speak to one of its residents.&nbsp;",
+      "subtitle": "An app called Figure One wants to be Instagram, b…",
+      "author": "Gimlet",
+      "summary": "An app called Figure One wants to be Instagram, but for doctors. Why would doctors need their own Instagram? We spy on the secret &amp; disgusting medical internet, plus we speak to one of its residents.&nbsp;",
+      "episodeType": "full",
+      "guid": "tag:soundcloud,2010:tracks/178489631",
+      "keywords": [
+        "Storytelling"
+      ],
+      "explicit": true,
+      "duration": 1346,
+      "enclosure": {
+        "length": 19856822,
+        "type": "audio/mpeg",
+        "url": "https://traffic.megaphone.fm/GLT5626794585.mp3"
+      },
+      "content": {
+        "fileSize": 19856822,
+        "type": "audio/mpeg",
+        "url": "https://traffic.megaphone.fm/GLT5626794585.mp3"
+      },
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2014-11-24T13:00:00.000Z"
+    },
+    {
+      "title": "#1 A Stranger Says I Love You",
+      "description": "What happens when a woman sends a stocky blond stranger to tell her ex she loves him.&nbsp;",
+      "subtitle": "What happens when a woman sends a stocky blond st…",
+      "author": "Gimlet",
+      "summary": "What happens when a woman sends a stocky blond stranger to tell her ex she loves him.&nbsp;",
+      "episodeType": "full",
+      "guid": "tag:soundcloud,2010:tracks/178485892",
+      "keywords": [
+        "Storytelling"
+      ],
+      "explicit": true,
+      "duration": 1339,
+      "enclosure": {
+        "length": 19745645,
+        "type": "audio/mpeg",
+        "url": "https://traffic.megaphone.fm/GLT4726279763.mp3"
+      },
+      "content": {
+        "fileSize": 19745645,
+        "type": "audio/mpeg",
+        "url": "https://traffic.megaphone.fm/GLT4726279763.mp3"
+      },
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2014-11-24T13:00:00.000Z"
+    },
+    {
+      "title": "Reply All Mic Test",
+      "description": "A podcast about the internet, hosted by PJ Vogt and Alex Goldman.  From Gimlet Media.  Coming soon.",
+      "subtitle": "A podcast about the internet, hosted by PJ Vogt a…",
+      "author": "Gimlet",
+      "summary": "A podcast about the internet, hosted by PJ Vogt and Alex Goldman.  From Gimlet Media.  Coming soon.",
+      "episodeType": "full",
+      "guid": "tag:soundcloud,2010:tracks/175708017",
+      "keywords": [
+        "Storytelling"
+      ],
+      "explicit": true,
+      "duration": 16,
+      "enclosure": {
+        "length": 642612,
+        "type": "audio/mpeg",
+        "url": "https://traffic.megaphone.fm/GLT8886497634.mp3"
+      },
+      "content": {
+        "fileSize": 642612,
+        "type": "audio/mpeg",
+        "url": "https://traffic.megaphone.fm/GLT8886497634.mp3"
+      },
+      "lastBuildDate": "1970-01-01T00:00:00.000Z",
+      "pubDate": "2014-11-06T23:25:29.000Z"
+    }
+  ]
+}
