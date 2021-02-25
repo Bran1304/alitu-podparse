@@ -344,8 +344,9 @@ const rssElements = Object.freeze({
     // i.e. '45.256 -71.92'
     return pt.split(' ').map(Number); // [45.256, -71.92]
   },
-  // Podcast Namespace
+  // === Podcast Namespace ===
   locked: isYes, // count = single
+  // Location
   location: ([node]) => {
     if (!node) { return null; } // count = single
 
@@ -371,11 +372,13 @@ const rssElements = Object.freeze({
       osm, // R113314
     };
   },
+  // Soundbites
   soundbite: (nodes) => nodes.map((node) => ({
     name: getText([node]), // i.e. Why the Podcast Namespace Matters
     startTime: Number.parseFloat(getAttribute([node], 'startTime'), 10), // i.e. 73.0
     duration: Number.parseFloat(getAttribute([node], 'duration'), 10), // i.e. 60.0
   })).filter(({ startTime, duration }) => !(isEmptyValue(startTime) || isEmptyValue(duration))),
+  // People
   person: (nodes) => nodes.map((node) => ({
     name: getText([node]), // i.e. Jane Doe
     role: getAttribute([node], 'role') || 'host',
@@ -383,16 +386,19 @@ const rssElements = Object.freeze({
     img: getAttribute([node], 'img'),
     href: getAttribute([node], 'href'),
   })).filter(({ name }) => !isEmptyString(name)),
+  // Transcripts
   transcript: (nodes) => nodes.map((node) => ({
     url: getAttribute([node], 'url'),
     type: getAttribute([node], 'type'),
     language: getAttribute([node], 'language'),
     rel: getAttribute([node], 'rel'),
   })).filter(({ url, type }) => !(isEmptyString(url) || isEmptyString(type))),
+  // Funding
   funding: (nodes) => nodes.map((node) => ({
     name: getText([node]),
     url: getAttribute([node], 'url'),
   })).filter(({ url, name }) => !(isEmptyString(name) || isEmptyString(url))),
+  // Host Identifier
   id: ([node]) => {
     if (!node) { return null; } // count = single
 

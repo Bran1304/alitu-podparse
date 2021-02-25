@@ -1,7 +1,6 @@
 /* eslint-disable no-unused-expressions */
 /* global describe,it */
 const chai = require('chai');
-const chaiAsPromised = require('chai-as-promised');
 const fs = require('fs');
 const path = require('path');
 const getPodcastFromFeed = require('../index');
@@ -9,8 +8,6 @@ const getPodcastFromFeed = require('../index');
 const { expect } = chai;
 
 const testFilesPath = path.join(__dirname, 'testfiles');
-
-chai.use(chaiAsPromised);
 
 const sampleFeed = fs.readFileSync(`${testFilesPath}/bc-sample.xml`, 'utf8').toString();
 const badSampleFeed = fs.readFileSync(`${testFilesPath}/bc-sample-bad.xml`, 'utf8').toString();
@@ -368,7 +365,9 @@ describe('Sorting when Type = Serial', () => {
 
   it('sorts in reverse chronological order', () => {
     const firstEpisodeDate = (new Date(riordan.episodes[0].pubDate)).valueOf();
-    const lastEpisodeDate = (new Date(riordan.episodes[riordan.episodes.length - 1].pubDate)).valueOf();
+    const lastEpisodeDate = (new Date(
+      riordan.episodes[riordan.episodes.length - 1].pubDate,
+    )).valueOf();
     expect(firstEpisodeDate).to.be.lessThan(lastEpisodeDate);
   });
 
@@ -389,7 +388,7 @@ describe('Sorting when Type = Serial', () => {
   });
 
   it('sorts episodes in order', () => {
-    for (let i = 1, e = riordan.episodes.length; i < e; i++) {
+    for (let i = 1, e = riordan.episodes.length; i < e; i += 1) {
       const a = riordan.episodes[i - 1];
       const b = riordan.episodes[i];
 

@@ -46,4 +46,4 @@ fs.writeFileSync(`${convertedPath}/riordans_desk.json`, JSON.stringify(getPodcas
 fs.writeFileSync(`${convertedPath}/podcast_example.json`, JSON.stringify(getPodcastFromFeed(podcastNamespaceEx), null, 2));
 fs.writeFileSync(`${convertedPath}/start_podcast.json`, JSON.stringify(getPodcastFromFeed(howToStart), null, 2));
 
-console.log(`Conversion complete in ${Date.now() - start}ms`);
+console.log(`Conversion complete in ${Date.now() - start}ms`); // eslint-disable-line no-console
