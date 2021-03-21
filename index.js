@@ -40,6 +40,7 @@ const entityMap = new Map([
   ['&Ccedil;', 'Ç'],
   ['&ccedil;', 'ç'],
   ['&Acirc;', 'Â'],
+  ['&euro;', '€'],
 ]);
 
 function fromEntries(entries) {
