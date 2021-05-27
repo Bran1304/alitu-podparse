@@ -455,6 +455,12 @@ describe('Supports Podcast Namespace', () => {
     expect(funding.name).to.eql('Support the show!');
   });
 
+  it('should include license element', () => {
+    const { license } = podcastNSExample.meta;
+    expect(license.url).to.eql('https://creativecommons.org/licenses/by/4.0/');
+    expect(license.slug).to.eql('cc-by-4.0');
+  });
+
   it('should include locked element', () => {
     expect(howToStartPodcast.meta.locked).to.equal(false);
     expect(podcastNSExample.meta.locked).to.equal(true);

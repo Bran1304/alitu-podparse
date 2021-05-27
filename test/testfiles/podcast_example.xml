@@ -22,6 +22,7 @@
         <podcast:funding url="https://example.com/donate">Support the show!</podcast:funding>
 
         <podcast:location geo="geo:30.2672,97.7431" osm="R113314">Austin, TX</podcast:location>
+        <podcast:license url="https://creativecommons.org/licenses/by/4.0/">cc-by-4.0</podcast:license>
 
         <itunes:author>John Doe</itunes:author>
         <itunes:explicit>no</itunes:explicit>

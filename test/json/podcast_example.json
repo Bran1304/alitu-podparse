@@ -35,6 +35,10 @@
         "url": "https://example.com/donate"
       }
     ],
+    "license": {
+      "slug": "cc-by-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
     "link": "http://example.com/podcast",
     "links": []
   },

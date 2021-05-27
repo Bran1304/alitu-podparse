@@ -347,7 +347,7 @@ const rssElements = Object.freeze({
     // i.e. '45.256 -71.92'
     return pt.split(' ').map(Number); // [45.256, -71.92]
   },
-  // === Podcast Namespace ===
+  // === Podcast 2.0 Namespace ===
   locked: isYes, // count = single
   // Location
   location: ([node]) => {
@@ -418,6 +418,20 @@ const rssElements = Object.freeze({
       platform,
       id,
       url,
+    };
+  },
+  // License
+  license: ([node]) => {
+    if (!node) { return null; } // count = single
+    const slug = getText([node]);
+    const url = getAttribute([node], 'url');
+
+    if (isEmptyString(slug) && isEmptyString(url)) {
+      return null;
+    }
+
+    return {
+      slug, url
     };
   },
 });

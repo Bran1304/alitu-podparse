@@ -39,8 +39,9 @@ declare module 'podparse' {
 
         person?: Person[];
         locked?: boolean;
-        funding?: Funding;
+        funding?: Funding[];
         location?: Location;
+        license?: License;
     }
 
     export interface Episode {
@@ -75,6 +76,7 @@ declare module 'podparse' {
         chapters?: Chapter[];
         soundbite?: Soundbite[];
         location?: Location;
+        license?: License;
     }
 
     export interface Enclosure {
@@ -117,6 +119,11 @@ declare module 'podparse' {
         name: string;
         geo?: number[];
         osm?: string;
+    }
+
+    export interface License {
+        slug: string;
+        url?: string;
     }
 
     export interface Author {
