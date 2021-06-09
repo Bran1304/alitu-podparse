@@ -55,6 +55,14 @@ function isEmptyString(str) {
 
 const isNotEmptyString = (str) => !isEmptyString(str);
 
+const removeEmpties = (obj) => Object.fromEntries(
+  Object.entries(obj).filter(([, v]) => v !== null
+    && v !== undefined
+    && !Number.isNaN(v)
+    && v !== ''
+    && !(Array.isArray(v) && v.length === 0)),
+);
+
 function isEmptyValue(v) {
   return (
     (v === null || v === undefined)
@@ -431,9 +439,53 @@ const rssElements = Object.freeze({
     }
 
     return {
-      slug, url
+      slug, url,
     };
   },
+  // See https://github.com/Podcastindex-org/podcast-namespace/blob/main/proposal-docs/alternateEnclosure/alternateEnclosure.md
+  alternateEnclosure: (nodes) => nodes.map((node) => {
+    // Required attributes
+    const type = getAttribute([node], 'type');
+    const length = Number.parseInt(getAttribute([node], 'length'), 10);
+
+    // Optional attributes
+    const bitrate = Number.parseInt(getAttribute([node], 'bitrate'), 10);
+    const height = Number.parseInt(getAttribute([node], 'height'), 10);
+    const lang = getAttribute([node], 'lang');
+    const title = getAttribute([node], 'title');
+    const rel = getAttribute([node], 'rel');
+    const codecs = getAttribute([node], 'codecs');
+    const isDefault = ['TRUE', 'true', true]
+      .includes(getAttribute([node], 'default'));
+
+    // Source elements
+    const sourceEls = findNodesLike(node, 'source');
+    const sources = sourceEls.map((source) => removeEmpties({
+      uri: getAttribute([source], 'uri'),
+      contentType: getAttribute([source], 'contentType'),
+    }));
+
+    // Integrity elements
+    const integrityEls = findNodesLike(node, 'integrity');
+    const integrities = integrityEls.map((integrity) => ({
+      type: getAttribute([integrity], 'type'),
+      value: getAttribute([integrity], 'value'),
+    }));
+
+    return removeEmpties({
+      type,
+      length,
+      bitrate,
+      height,
+      lang,
+      title,
+      rel,
+      codecs,
+      default: isDefault,
+      source: sources,
+      integrity: integrities,
+    });
+  }),
 });
 
 // List of supported element names

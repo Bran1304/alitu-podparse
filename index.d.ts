@@ -77,6 +77,7 @@ declare module 'podparse' {
         soundbite?: Soundbite[];
         location?: Location;
         license?: License;
+        alternateEnclosure?: AlternateEnclosure[];
     }
 
     export interface Enclosure {
@@ -124,6 +125,30 @@ declare module 'podparse' {
     export interface License {
         slug: string;
         url?: string;
+    }
+
+    export interface AlternateEnclosureSource {
+        uri: string;
+        contentType?: string;
+    }
+
+    export interface AlternateEnclosureIntegrity {
+        type: string;
+        value: string;
+    }
+
+    export interface AlternateEnclosure {
+        type: string;
+        length: number;
+        bitrate?: number;
+        height?: number;
+        lang?: string;
+        title?: string;
+        rel?: string;
+        codecs?: string;
+        default: boolean;
+        source?: AlternateEnclosureSource[];
+        integrity?: AlternateEnclosureIntegrity[];
     }
 
     export interface Author {

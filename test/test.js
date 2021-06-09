@@ -32,6 +32,7 @@ const tvillingpodden = fs.readFileSync(`${testFilesPath}/tvillingpodden.xml`, 'u
 const riordansDesk = fs.readFileSync(`${testFilesPath}/riordans_desk.xml`, 'utf8').toString();
 const podcastNamespaceEx = fs.readFileSync(`${testFilesPath}/podcast_example.xml`, 'utf8').toString();
 const howToStart = fs.readFileSync(`${testFilesPath}/start_podcast.xml`, 'utf8').toString();
+const podnews = fs.readFileSync(`${testFilesPath}/podnews.xml`, 'utf8').toString();
 
 describe('Reading files', () => {
   it('should read the file', () => {
@@ -428,6 +429,7 @@ describe('Options', () => {
 describe('Supports Podcast Namespace', () => {
   const howToStartPodcast = getPodcastFromFeed(howToStart);
   const podcastNSExample = getPodcastFromFeed(podcastNamespaceEx);
+  const podnewsFeed = getPodcastFromFeed(podnews);
 
   it('should include person elements', () => {
     const { person } = podcastNSExample.episodes[0];
@@ -494,5 +496,32 @@ describe('Supports Podcast Namespace', () => {
 
   it('should include id element', () => {
     expect(howToStartPodcast.meta.id.platform).to.eql('buzzsprout');
+  });
+
+  describe('alternateEnclosure tag', () => {
+    it('should include the alternateEnclosure element', () => {
+      expect(podnewsFeed.episodes[0].alternateEnclosure).to.be.an('array');
+    });
+
+    it('should include multiple alternateEnclosures, if present', () => {
+      expect(podnewsFeed.episodes[0].alternateEnclosure).not.to.be.empty;
+    });
+
+    it('should include alternateEnclosures attributes', () => {
+      const enclosure = podnewsFeed.episodes[0].alternateEnclosure[0];
+      expect(enclosure.default).to.eql(true);
+      expect(enclosure.type).to.eql('audio/aac');
+      expect(enclosure.bitrate).to.eql(64000);
+      expect(enclosure.length).to.eql(1880380);
+    });
+
+    it('should include alternateEnclosures sources', () => {
+      const source = podnewsFeed.episodes[0].alternateEnclosure[0].source[0];
+      expect(source.uri).to.eql('https://podnews.net/audio/podnews210609.m4a');
+    });
+
+    it('shouldn\'t include the alternateEnclosures, if it\'s not present', () => {
+      expect(howToStartPodcast.episodes[0]).not.to.have.property('alternateEnclosures');
+    });
   });
 });
