@@ -442,6 +442,49 @@ const rssElements = Object.freeze({
       slug, url,
     };
   },
+  // Medium
+  medium: ([node]) => {
+    if (!node) { return null; } // count = single
+    const medium = getText([node]);
+
+    if (isEmptyString(medium)) {
+      return null;
+    }
+
+    return medium.toLowerCase();
+  },
+  // Gateway
+  gateway: ([node]) => {
+    if (!node) { return null; } // count = single
+    const text = getText([node]);
+    const order = Number.parseInt(getAttribute([node], 'order'), 10);
+
+    if (isEmptyString(text)) {
+      return null;
+    }
+
+    if (Number.isNaN(order)) {
+      return { text };
+    }
+
+    return {
+      text, order,
+    };
+  },
+  images: ([node]) => {
+    if (!node) { return null; } // count = single
+    const srcset = getAttribute([node], 'srcset');
+
+    if (isEmptyString(srcset)) {
+      return null;
+    }
+
+    const normalizedSrcset = srcset.replaceAll(/,(\s+)?/gui, ',\n');
+
+    return {
+      srcset: normalizedSrcset,
+    };
+  },
   // See https://github.com/Podcastindex-org/podcast-namespace/blob/main/proposal-docs/alternateEnclosure/alternateEnclosure.md
   alternateEnclosure: (nodes) => nodes.map((node) => {
     // Required attributes

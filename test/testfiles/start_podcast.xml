@@ -12,6 +12,7 @@
   <copyright>© 2021 How to Start a Podcast</copyright>
   <podcast:id platform="buzzsprout" id="https://www.buzzsprout.com/1" />
   <podcast:locked owner="support@buzzsprout.com">no</podcast:locked>
+  <podcast:medium>podcast</podcast:medium>
   <podcast:location geo="geo:30.3321838,-81.65565099999999">Jacksonville, FL, USA</podcast:location>
   <itunes:subtitle><![CDATA[“How to Start a Podcast” is a serial podcast that teaches you how to create a podcast from scratch. Presented by Buzzsprout, this podcast is perfect for the newbie podcaster, the established podcaster who wants to make sure they have all their bases co...]]></itunes:subtitle>
   <itunes:author>Buzzsprout</itunes:author>
@@ -37,6 +38,11 @@
     <itunes:category text="Courses" />
   </itunes:category>
   <itunes:category text="Education" />
+  <podcast:images
+    srcset="https://example.com/images/ep1/pci_avatar-massive.jpg 1500w,
+            https://example.com/images/ep1/pci_avatar-middle.jpg 600w,
+            https://example.com/images/ep1/pci_avatar-small.jpg 300w,
+            https://example.com/images/ep1/pci_avatar-tiny.jpg 150w" />
   <item>
     <itunes:title>10 Things I Wish I Knew Before I Started a Podcast</itunes:title>
     <title>10 Things I Wish I Knew Before I Started a Podcast</title>
@@ -51,10 +57,16 @@
     <podcast:transcript url="https://feeds.buzzsprout.com/1/4969151/transcript.json" type="application/json" />
     <podcast:transcript url="https://feeds.buzzsprout.com/1/4969151/transcript.srt" type="application/srt" />
     <podcast:chapters url="https://feeds.buzzsprout.com/1/4969151/chapters.json" type="application/json" />
+    <podcast:gateway order="1">Start here!</podcast:gateway>
     <itunes:duration>754</itunes:duration>
     <itunes:keywords>podcasting</itunes:keywords>
     <itunes:episodeType>bonus</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
+    <podcast:images
+      srcset="https://example.com/images/ep1/pci_avatar-massive.jpg 1500w,
+              https://example.com/images/ep1/pci_avatar-middle.jpg 600w,
+              https://example.com/images/ep1/pci_avatar-small.jpg 300w,
+              https://example.com/images/ep1/pci_avatar-tiny.jpg 150w" />
   </item>
   <item>
     <itunes:title>The Key to Making Your Podcast Stand Out // Eric Nuzum</itunes:title>

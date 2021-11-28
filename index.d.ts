@@ -42,6 +42,8 @@ declare module 'podparse' {
         funding?: Funding[];
         location?: Location;
         license?: License;
+        medium?: Medium;
+        images?: Images;
     }
 
     export interface Episode {
@@ -78,6 +80,8 @@ declare module 'podparse' {
         location?: Location;
         license?: License;
         alternateEnclosure?: AlternateEnclosure[];
+        gateway?: Gateway;
+        images?: Images;
     }
 
     export interface Enclosure {
@@ -125,6 +129,25 @@ declare module 'podparse' {
     export interface License {
         slug: string;
         url?: string;
+    }
+
+    export enum Medium {
+        Podcast = "podcast",
+        Music = "music",
+        Video = "video",
+        Film = "film",
+        Audiobook = "audiobook",
+        Newsletter = "newsletter",
+        Blog = "blog",
+    }
+
+    export interface Gateway {
+        text: string;
+        order?: number;
+    }
+
+    export interface Images {
+        srcset: string;
     }
 
     export interface AlternateEnclosureSource {

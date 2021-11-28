@@ -100,6 +100,9 @@
           "type": "text/plain"
         }
       ],
+      "images": {
+        "srcset": "https://example.com/images/ep3/pci_avatar-massive.jpg 1500w,\nhttps://example.com/images/ep3/pci_avatar-middle.jpg 600w,\nhttps://example.com/images/ep3/pci_avatar-small.jpg 300w,\nhttps://example.com/images/ep3/pci_avatar-tiny.jpg 150w"
+      },
       "link": "https://example.com/podcast/ep0003"
     },
     {
@@ -159,6 +162,9 @@
           "type": "text/plain"
         }
       ],
+      "images": {
+        "srcset": "https://example.com/images/ep2/pci_avatar-massive.jpg 1500w,\nhttps://example.com/images/ep2/pci_avatar-middle.jpg 600w,\nhttps://example.com/images/ep2/pci_avatar-small.jpg 300w,\nhttps://example.com/images/ep2/pci_avatar-tiny.jpg 150w"
+      },
       "link": "https://example.com/podcast/ep0002"
     },
     {
@@ -218,6 +224,9 @@
           "type": "text/plain"
         }
       ],
+      "images": {
+        "srcset": "https://example.com/images/ep1/pci_avatar-massive.jpg 1500w,\nhttps://example.com/images/ep1/pci_avatar-middle.jpg 600w,\nhttps://example.com/images/ep1/pci_avatar-small.jpg 300w,\nhttps://example.com/images/ep1/pci_avatar-tiny.jpg 150w"
+      },
       "link": "https://example.com/podcast/ep0001"
     }
   ]

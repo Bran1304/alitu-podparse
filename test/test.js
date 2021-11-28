@@ -498,6 +498,29 @@ describe('Supports Podcast Namespace', () => {
     expect(howToStartPodcast.meta.id.platform).to.eql('buzzsprout');
   });
 
+  it('should include medium element', () => {
+    expect(howToStartPodcast.meta.medium).to.eql('podcast');
+  });
+
+  it('should include gateway element', () => {
+    const lastEpisode = howToStartPodcast.episodes[howToStartPodcast.episodes.length - 1];
+    expect(lastEpisode.gateway).to.be.an('object');
+    expect(lastEpisode.gateway.order).to.eql(1);
+    expect(lastEpisode.gateway.text).to.eql('Start here!');
+  });
+
+  describe('images tag', () => {
+    it('should include images element', () => {
+      const lastEpisode = howToStartPodcast.episodes[howToStartPodcast.episodes.length - 1];
+      expect(howToStartPodcast.meta.images).not.to.be.empty;
+      expect(lastEpisode.images).not.to.be.empty;
+    });
+
+    it('should include normalize srcset attribute', () => {
+      expect(howToStartPodcast.meta.images.srcset).to.eql('https://example.com/images/ep1/pci_avatar-massive.jpg 1500w,\nhttps://example.com/images/ep1/pci_avatar-middle.jpg 600w,\nhttps://example.com/images/ep1/pci_avatar-small.jpg 300w,\nhttps://example.com/images/ep1/pci_avatar-tiny.jpg 150w');
+    });
+  });
+
   describe('alternateEnclosure tag', () => {
     it('should include the alternateEnclosure element', () => {
       expect(podnewsFeed.episodes[0].alternateEnclosure).to.be.an('array');
