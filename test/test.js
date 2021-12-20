@@ -33,6 +33,7 @@ const riordansDesk = fs.readFileSync(`${testFilesPath}/riordans_desk.xml`, 'utf8
 const podcastNamespaceEx = fs.readFileSync(`${testFilesPath}/podcast_example.xml`, 'utf8').toString();
 const howToStart = fs.readFileSync(`${testFilesPath}/start_podcast.xml`, 'utf8').toString();
 const podnews = fs.readFileSync(`${testFilesPath}/podnews.xml`, 'utf8').toString();
+const podnewsDec21 = fs.readFileSync(`${testFilesPath}/podnews-dec21.xml`, 'utf8').toString();
 
 describe('Reading files', () => {
   it('should read the file', () => {
@@ -430,6 +431,7 @@ describe('Supports Podcast Namespace', () => {
   const howToStartPodcast = getPodcastFromFeed(howToStart);
   const podcastNSExample = getPodcastFromFeed(podcastNamespaceEx);
   const podnewsFeed = getPodcastFromFeed(podnews);
+  const podnewsFeed21 = getPodcastFromFeed(podnewsDec21);
 
   it('should include person elements', () => {
     const { person } = podcastNSExample.episodes[0];
@@ -518,6 +520,7 @@ describe('Supports Podcast Namespace', () => {
 
     it('should include normalize srcset attribute', () => {
       expect(howToStartPodcast.meta.images.srcset).to.eql('https://example.com/images/ep1/pci_avatar-massive.jpg 1500w,\nhttps://example.com/images/ep1/pci_avatar-middle.jpg 600w,\nhttps://example.com/images/ep1/pci_avatar-small.jpg 300w,\nhttps://example.com/images/ep1/pci_avatar-tiny.jpg 150w');
+      expect(podnewsFeed21.meta.images.srcset).to.eql('https://podnews.net/uploads/p3000.png 3000w,\nhttps://podnews.net/static/podnews-2000x2000.png 2000w,\nhttps://podnews.net/uploads/p1000.png 1000w,\nhttps://podnews.net/uploads/p500.png 500w,\nhttps://podnews.net/uploads/p250.png 250w,\nhttps://podnews.net/uploads/p125.png 125w');
     });
   });
 
