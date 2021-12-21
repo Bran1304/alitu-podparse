@@ -215,7 +215,7 @@ declare module 'podparse' {
     }
 
     export interface Owner {
-        name: Author;
+        name: string;
         email: string;
     }
 
