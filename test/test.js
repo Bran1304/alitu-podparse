@@ -34,6 +34,7 @@ const podcastNamespaceEx = fs.readFileSync(`${testFilesPath}/podcast_example.xml
 const howToStart = fs.readFileSync(`${testFilesPath}/start_podcast.xml`, 'utf8').toString();
 const podnews = fs.readFileSync(`${testFilesPath}/podnews.xml`, 'utf8').toString();
 const podnewsDec21 = fs.readFileSync(`${testFilesPath}/podnews-dec21.xml`, 'utf8').toString();
+const podland22 = fs.readFileSync(`${testFilesPath}/podland.xml`, 'utf8').toString();
 
 describe('Reading files', () => {
   it('should read the file', () => {
@@ -78,9 +79,20 @@ describe('Getting Podcast Object from Sample Feed', () => {
   describe('Checking Podcast Meta Information', () => {
     it('should be a valid object with all default fields', () => {
       expect(podcast.meta).to.be.an('object').that.contains.keys(
-        'title', 'description', 'image', 'lastBuildDate', 'link', 'links',
-        'language', 'managingEditor', 'author', 'summary', 'category', 'owner',
-        'explicit', 'generator',
+        'title',
+        'description',
+        'image',
+        'lastBuildDate',
+        'link',
+        'links',
+        'language',
+        'managingEditor',
+        'author',
+        'summary',
+        'category',
+        'owner',
+        'explicit',
+        'generator',
       );
     });
 
@@ -163,9 +175,20 @@ describe('Getting Podcast Object from Sample Feed', () => {
     describe('Checking Episode of Podcast', () => {
       it('should be a valid object with all default fields', () => {
         expect(podcast.episodes[0]).to.be.an('object').that.contains.keys(
-          'title', 'description', 'subtitle', 'image', 'pubDate',
-          'link', 'enclosure', 'duration', 'summary',
-          'explicit', 'guid', 'episode', 'episodeType', 'season',
+          'title', 
+'description', 
+'subtitle', 
+'image', 
+'pubDate',
+          'link', 
+'enclosure', 
+'duration', 
+'summary',
+          'explicit', 
+'guid', 
+'episode', 
+'episodeType', 
+'season',
         );
       });
 
@@ -548,6 +571,30 @@ describe('Supports Podcast Namespace', () => {
 
     it('shouldn\'t include the alternateEnclosures, if it\'s not present', () => {
       expect(howToStartPodcast.episodes[0]).not.to.have.property('alternateEnclosures');
+    });
+  });
+
+  describe('trailer tag', () => {
+    const podland = getPodcastFromFeed(podland22);
+    const podcast = getPodcastFromFeed(sampleFeed);
+
+    it('should include trailer attributes', () => {
+      expect(podland.meta.trailer).to.be.an('array');
+      expect(podland.meta.trailer[0]).to.be.an('object').that.contains.keys('url', 'title', 'type', 'length', 'season', 'pubDate');
+    });
+
+    it('shouldn\'t be present when not included', () => {
+      expect(podcast.meta.trailer).to.be.undefined;
+    });
+
+    it('should include trailer values', () => {
+      const trailer = podland.meta.trailer[0];
+      expect(trailer.url).to.eql('https://www.buzzsprout.com/1538779/6749611-all-about-podland-news.mp3');
+      expect(trailer.title).to.eql('All about Podland News');
+      expect(trailer.pubDate).to.eql('Sat, 28 Nov 2020 09:00:00 +0000');
+      expect(trailer.type).to.eql('audio/mpeg');
+      expect(trailer.season).to.eql(1);
+      expect(trailer.length).to.eql(1250447);
     });
   });
 });

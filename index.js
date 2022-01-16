@@ -166,6 +166,51 @@ function getChapterElements(chapterNode) {
   return chapter;
 }
 
+// Sorts episodes by order first, then sorts by date.
+// If multiple episodes were published at the same time,
+// they are then sorted by title.
+function episodeComparator(a, b) {
+  if (a.order === b.order) {
+    if (a.pubDate === b.pubDate) {
+      return (a.title > b.title) ? -1 : 1;
+    }
+    return (b.pubDate > a.pubDate) ? 1 : -1;
+  }
+
+  if (a.order && !b.order) { return 1; }
+  if (b.order && !a.order) { return -1; }
+
+  return (a.order > b.order) ? -1 : 1;
+}
+
+// For itunes:type = "serial", use reverse chronological order
+// to keep seasons in order
+function serialComparator(a, b) {
+  // Same season, sort by episode
+  if (a.season === b.season) {
+    if (!(a.episode && b.episode)) {
+      if (a.pubDate === b.pubDate) {
+        return (a.title > b.title) ? -1 : 1;
+      }
+
+      return (b.pubDate > a.pubDate) ? -1 : 1;
+    }
+
+    return (a.episode > b.episode) ? 1 : -1;
+  }
+
+  // Default to reverse chronological
+  if (!(a.season && b.season)) {
+    if (a.pubDate === b.pubDate) {
+      return (a.title > b.title) ? -1 : 1;
+    }
+
+    return (b.pubDate > a.pubDate) ? -1 : 1;
+  }
+
+  return (a.season > b.season) ? 1 : -1;
+}
+
 // === RSS Transformation ===
 
 const rssElements = Object.freeze({
@@ -204,10 +249,10 @@ const rssElements = Object.freeze({
       return null;
     }
 
-    return {
+    return removeEmpties({
       url,
       type,
-    };
+    });
   },
   thumbnail: (nodes) => (getAttribute(nodes, 'url') || getAttribute(nodes, 'href')),
   coverart: (nodes) => getAttribute(nodes, 'href'),
@@ -229,10 +274,10 @@ const rssElements = Object.freeze({
   },
   owner: ([node]) => {
     if (!(node && node.children && node.children.length)) { return null; }
-    return {
+    return removeEmpties({
       name: getText(findNodesLike(node, 'name')),
       email: getText(findNodesLike(node, 'email')),
-    };
+    });
   },
   image: ([node]) => {
     if (!(node && node.children)) { return null; }
@@ -240,11 +285,11 @@ const rssElements = Object.freeze({
     // i.e. <image><url>http://cdn.example.org/mylogo.png</url></image>
     const urlNode = findNode(node, 'url');
     if (urlNode) {
-      return {
+      return removeEmpties({
         url: getText([urlNode]),
         link: getText([findNode(node, 'link')]),
         title: getText([findNode(node, 'title')]),
-      };
+      });
     }
 
     // i.e. <itunes:image href="http://cdn.example.org/mylogo.png" />
@@ -304,11 +349,11 @@ const rssElements = Object.freeze({
     // i.e. <enclosure length="28882931" type="audio/mpeg" url="http://cdn.example.org/episode-1.mp3" />
     const url = getAttribute([node], 'url');
     if (isNotEmptyString(url)) {
-      return {
+      return removeEmpties({
         length: Number.parseInt(getAttribute([node], 'length'), 10),
         type: getAttribute([node], 'type'),
         url,
-      };
+      });
     }
 
     return null;
@@ -319,11 +364,11 @@ const rssElements = Object.freeze({
     // i.e. <media:content url="https://cdn.example.org/episode-1.mp3" fileSize="19745645" type="audio/mpeg" />
     const url = getAttribute([node], 'url');
     if (isNotEmptyString(url)) {
-      return {
+      return removeEmpties({
         fileSize: Number.parseInt(getAttribute([node], 'fileSize'), 10),
         type: getAttribute([node], 'type'),
         url,
-      };
+      });
     }
 
     return null;
@@ -377,20 +422,20 @@ const rssElements = Object.freeze({
       }
     }
 
-    return {
+    return removeEmpties({
       name, // Jacksonville, FL, USA
       geo: coords, // [ 30.3321838, -81.65565099999999 ]
       osm, // R113314
-    };
+    });
   },
   // Soundbites
-  soundbite: (nodes) => nodes.map((node) => ({
+  soundbite: (nodes) => nodes.map((node) => removeEmpties({
     name: getText([node]), // i.e. Why the Podcast Namespace Matters
     startTime: Number.parseFloat(getAttribute([node], 'startTime'), 10), // i.e. 73.0
     duration: Number.parseFloat(getAttribute([node], 'duration'), 10), // i.e. 60.0
   })).filter(({ startTime, duration }) => !(isEmptyValue(startTime) || isEmptyValue(duration))),
   // People
-  person: (nodes) => nodes.map((node) => ({
+  person: (nodes) => nodes.map((node) => removeEmpties({
     name: getText([node]), // i.e. Jane Doe
     role: getAttribute([node], 'role') || 'host',
     group: getAttribute([node], 'group') || 'cast',
@@ -398,14 +443,14 @@ const rssElements = Object.freeze({
     href: getAttribute([node], 'href'),
   })).filter(({ name }) => !isEmptyString(name)),
   // Transcripts
-  transcript: (nodes) => nodes.map((node) => ({
+  transcript: (nodes) => nodes.map((node) => removeEmpties({
     url: getAttribute([node], 'url'),
     type: getAttribute([node], 'type'),
     language: getAttribute([node], 'language'),
     rel: getAttribute([node], 'rel'),
   })).filter(({ url, type }) => !(isEmptyString(url) || isEmptyString(type))),
   // Funding
-  funding: (nodes) => nodes.map((node) => ({
+  funding: (nodes) => nodes.map((node) => removeEmpties({
     name: getText([node]),
     url: getAttribute([node], 'url'),
   })).filter(({ url, name }) => !(isEmptyString(name) || isEmptyString(url))),
@@ -422,11 +467,11 @@ const rssElements = Object.freeze({
       return null;
     }
 
-    return {
+    return removeEmpties({
       platform,
       id,
       url,
-    };
+    });
   },
   // License
   license: ([node]) => {
@@ -438,9 +483,9 @@ const rssElements = Object.freeze({
       return null;
     }
 
-    return {
+    return removeEmpties({
       slug, url,
-    };
+    });
   },
   // Medium
   medium: ([node]) => {
@@ -529,55 +574,21 @@ const rssElements = Object.freeze({
       integrity: integrities,
     });
   }),
+  // Trailer
+  trailer: (nodes) => nodes.map((node) => removeEmpties({
+    title: getText([node]),
+    url: getAttribute([node], 'url'),
+    pubDate: getAttribute([node], 'pubdate'),
+    length: Number.parseInt(getAttribute([node], 'length'), 10),
+    type: getAttribute([node], 'type'),
+    season: Number.parseInt(getAttribute([node], 'season'), 10),
+  }))
+    .filter(({ url, pubDate }) => !(isEmptyString(pubDate) || isEmptyString(url)))
+    .sort(episodeComparator).reverse(),
 });
 
 // List of supported element names
 const supportedElements = Object.keys(rssElements);
-
-// Sorts episodes by order first, then sorts by date.
-// If multiple episodes were published at the same time,
-// they are then sorted by title.
-function episodeComparator(a, b) {
-  if (a.order === b.order) {
-    if (a.pubDate === b.pubDate) {
-      return (a.title > b.title) ? -1 : 1;
-    }
-    return (b.pubDate > a.pubDate) ? 1 : -1;
-  }
-
-  if (a.order && !b.order) { return 1; }
-  if (b.order && !a.order) { return -1; }
-
-  return (a.order > b.order) ? -1 : 1;
-}
-
-// For itunes:type = "serial", use reverse chronological order
-// to keep seasons in order
-function serialComparator(a, b) {
-  // Same season, sort by episode
-  if (a.season === b.season) {
-    if (!(a.episode && b.episode)) {
-      if (a.pubDate === b.pubDate) {
-        return (a.title > b.title) ? -1 : 1;
-      }
-
-      return (b.pubDate > a.pubDate) ? -1 : 1;
-    }
-
-    return (a.episode > b.episode) ? 1 : -1;
-  }
-
-  // Default to reverse chronological
-  if (!(a.season && b.season)) {
-    if (a.pubDate === b.pubDate) {
-      return (a.title > b.title) ? -1 : 1;
-    }
-
-    return (b.pubDate > a.pubDate) ? -1 : 1;
-  }
-
-  return (a.season > b.season) ? 1 : -1;
-}
 
 // Get an array of links
 function getLinksFromChannel(channel) {

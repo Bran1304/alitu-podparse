@@ -243,7 +243,6 @@
       "pubDate": "2020-01-09T05:00:00.000Z",
       "soundbite": [
         {
-          "name": null,
           "startTime": 0,
           "duration": 15
         }
@@ -361,7 +360,6 @@
       "pubDate": "2020-01-12T05:00:00.000Z",
       "soundbite": [
         {
-          "name": null,
           "startTime": 0,
           "duration": 30
         }

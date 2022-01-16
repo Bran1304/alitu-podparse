@@ -44,6 +44,8 @@ declare module 'podparse' {
         license?: License;
         medium?: Medium;
         images?: Images;
+
+        trailer?: Trailer[];
     }
 
     export interface Episode {
@@ -196,6 +198,15 @@ declare module 'podparse' {
         Bonus = 'bonus',
         Full = 'full',
         Trailer = 'trailer',
+    }
+
+    export interface Trailer {
+        url: string;
+        title?: string;
+        pubDate: string; // RFC2822
+        length?: number;
+        type?: string;
+        season?: number;
     }
 
     export interface EpisodeImage {
