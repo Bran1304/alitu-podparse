@@ -73,7 +73,8 @@ By default, `podparse` will parse a podcast's xml feed and return an object with
         pubDate: '2018-11-28T10:30:00.000Z',
         // ...
       }
-    ]
+    ],
+    liveEpisodes: [ ] // Optional Podcast 2.0 Namespace
   }
 }
 ```
@@ -104,7 +105,7 @@ podcast.episodes.forEach( (episode) => {
 `podparse` currently supports the following options:
 
 * `includeEpisodes` (default: `true`)
-  * Whether to parse `<item>` elements for each episode.
+  * Whether to parse `<item>` and `<podcast:liveItem>` elements for each episode.
 
 Options are passed as an object to the `getPodcastFromFeed` function, for example:
 
@@ -176,4 +177,4 @@ To execute `mocha` tests run:
 npm run-script test
 ```
 
-`podparse` is tested every day against hundreds of thousands of real-world podcast RSS feeds as part of [PodLP](https://podlp.com/?utm_source=github).
+`podparse` is tested every day against hundreds of thousands of real-world podcast RSS feeds as part of [PodLP](https://podlp.com/?utm_source=github), a podcast app for [KaiOS](https://kaiostech.com/?utm_source=github) smart feature phones.

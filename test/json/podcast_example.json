@@ -39,6 +39,29 @@
       "slug": "cc-by-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
+    "value": [
+      {
+        "type": "lightning",
+        "method": "keysend",
+        "suggested": 5e-8,
+        "valueRecipient": [
+          {
+            "name": "podcaster",
+            "type": "node",
+            "address": "036557ea56b3b86f08be31bcd2557cae8021b0e3a9413f0c0e52625c6696972e57",
+            "split": 99,
+            "fee": false
+          },
+          {
+            "name": "hosting company",
+            "type": "node",
+            "address": "036557ea56b3b86f08be31bcd2557cae8021b0e3a9413f0c0e52625c6696972e57",
+            "split": 1,
+            "fee": false
+          }
+        ]
+      }
+    ],
     "link": "http://example.com/podcast",
     "links": []
   },

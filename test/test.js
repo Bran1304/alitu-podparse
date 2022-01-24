@@ -1,5 +1,5 @@
 /* eslint-disable no-unused-expressions */
-/* global describe,it */
+/* eslint-env node, mocha */
 const chai = require('chai');
 const fs = require('fs');
 const path = require('path');
@@ -35,6 +35,8 @@ const howToStart = fs.readFileSync(`${testFilesPath}/start_podcast.xml`, 'utf8')
 const podnews = fs.readFileSync(`${testFilesPath}/podnews.xml`, 'utf8').toString();
 const podnewsDec21 = fs.readFileSync(`${testFilesPath}/podnews-dec21.xml`, 'utf8').toString();
 const podland22 = fs.readFileSync(`${testFilesPath}/podland.xml`, 'utf8').toString();
+const noagenda22 = fs.readFileSync(`${testFilesPath}/no_agenda22.xml`, 'utf8').toString();
+const liveItem22 = fs.readFileSync(`${testFilesPath}/liveitem.xml`, 'utf8').toString();
 
 describe('Reading files', () => {
   it('should read the file', () => {
@@ -175,20 +177,20 @@ describe('Getting Podcast Object from Sample Feed', () => {
     describe('Checking Episode of Podcast', () => {
       it('should be a valid object with all default fields', () => {
         expect(podcast.episodes[0]).to.be.an('object').that.contains.keys(
-          'title', 
-'description', 
-'subtitle', 
-'image', 
-'pubDate',
-          'link', 
-'enclosure', 
-'duration', 
-'summary',
-          'explicit', 
-'guid', 
-'episode', 
-'episodeType', 
-'season',
+          'title',
+          'description',
+          'subtitle',
+          'image',
+          'pubDate',
+          'link',
+          'enclosure',
+          'duration',
+          'summary',
+          'explicit',
+          'guid',
+          'episode',
+          'episodeType',
+          'season',
         );
       });
 
@@ -455,6 +457,7 @@ describe('Supports Podcast Namespace', () => {
   const podcastNSExample = getPodcastFromFeed(podcastNamespaceEx);
   const podnewsFeed = getPodcastFromFeed(podnews);
   const podnewsFeed21 = getPodcastFromFeed(podnewsDec21);
+  const noagendaFeed22 = getPodcastFromFeed(noagenda22);
 
   it('should include person elements', () => {
     const { person } = podcastNSExample.episodes[0];
@@ -539,11 +542,87 @@ describe('Supports Podcast Namespace', () => {
       const lastEpisode = howToStartPodcast.episodes[howToStartPodcast.episodes.length - 1];
       expect(howToStartPodcast.meta.images).not.to.be.empty;
       expect(lastEpisode.images).not.to.be.empty;
+      expect(noagendaFeed22.meta.images).not.to.be.empty;
     });
 
     it('should include normalize srcset attribute', () => {
       expect(howToStartPodcast.meta.images.srcset).to.eql('https://example.com/images/ep1/pci_avatar-massive.jpg 1500w,\nhttps://example.com/images/ep1/pci_avatar-middle.jpg 600w,\nhttps://example.com/images/ep1/pci_avatar-small.jpg 300w,\nhttps://example.com/images/ep1/pci_avatar-tiny.jpg 150w');
       expect(podnewsFeed21.meta.images.srcset).to.eql('https://podnews.net/uploads/p3000.png 3000w,\nhttps://podnews.net/static/podnews-2000x2000.png 2000w,\nhttps://podnews.net/uploads/p1000.png 1000w,\nhttps://podnews.net/uploads/p500.png 500w,\nhttps://podnews.net/uploads/p250.png 250w,\nhttps://podnews.net/uploads/p125.png 125w');
+      expect(noagendaFeed22.meta.images.srcset).to.eql('https://noagendaassets.com/enc/1642969751.476_na-1419-art-feed.png 2000w');
+    });
+  });
+
+  describe('liveItem tag', () => {
+    const liveItemFeed = getPodcastFromFeed(liveItem22);
+    const { liveEpisodes } = liveItemFeed;
+    const liveItem = liveEpisodes[0];
+
+    it('should include liveItem tag', () => {
+      expect(liveEpisodes).to.be.an('array');
+      expect(liveEpisodes.length).to.eql(1);
+    });
+
+    it('should include required attributes', () => {
+      expect(liveItem.status).to.eql('live');
+      expect(liveItem.start).to.eql('2021-09-26T07:30:00.000-0600');
+      expect(liveItem.end).to.eql('2021-09-26T09:30:00.000-0600');
+    });
+
+    it('should include optional item attributes', () => {
+      expect(liveItem.title).to.eql('Podcasting 2.0 Live Show');
+      expect(liveItem.description).to.eql('A look into the future of podcasting and how we get to Podcasting 2.0!');
+      expect(liveItem.link).to.eql('https://example.com/podcast/live');
+      expect(liveItem.guid).to.eql('https://example.com/live');
+      expect(liveItem.author).to.eql('John Doe (john@example.com)');
+      expect(liveItem.enclosure).to.not.be.empty;
+    });
+
+    it('should include optional podcast namespace attributes', () => {
+      expect(liveItem.images).to.not.be.empty;
+      expect(liveItem.images.srcset).to.eql('https://example.com/images/live/pci_avatar-massive.jpg 1500w,\nhttps://example.com/images/live/pci_avatar-middle.jpg 600w,\nhttps://example.com/images/live/pci_avatar-small.jpg 300w,\nhttps://example.com/images/live/pci_avatar-tiny.jpg 150w');
+      expect(liveItem.person).to.be.an('array');
+      expect(liveItem.person.length).to.eql(3);
+      expect(liveItem.alternateEnclosure).to.be.an('array');
+      expect(liveItem.alternateEnclosure.length).to.eql(1);
+    });
+
+    it('should include the contentLink element', () => {
+      expect(liveItem.contentLink).to.be.an('array');
+      expect(liveItem.contentLink.length).to.eql(3);
+      expect(liveItem.contentLink[0].href).to.eql('https://youtube.com/pc20/livestream');
+      expect(liveItem.contentLink[0].text).to.eql('YouTube!');
+    });
+
+    it('shouldn\'t be included when not present in RSS feed', () => {
+      expect(howToStartPodcast.liveEpisodes).to.be.undefined;
+    });
+  });
+
+  describe('value tag', () => {
+    const { value } = noagendaFeed22.meta;
+    const { valueRecipient } = value[0];
+
+    it('should include the value element', () => {
+      expect(value).to.be.an('array');
+      expect(value.length).to.be.eql(1);
+    });
+
+    it('should include the valueRecipient element', () => {
+      expect(valueRecipient).to.be.an('array');
+      expect(valueRecipient.length).to.be.eql(5);
+    });
+
+    it('should include the value attributes', () => {
+      expect(value[0].type).to.eql('lightning');
+      expect(value[0].method).to.eql('keysend');
+      expect(value[0].suggested).to.eql(0.00000005000);
+    });
+
+    it('should include the valueRecipient attributes', () => {
+      expect(valueRecipient[0].name).to.eql('Value4Value');
+      expect(valueRecipient[0].type).to.eql('node');
+      expect(valueRecipient[0].address).to.eql('03ae9f91a0cb8ff43840e3c322c4c61f019d8c1c3cea15a25cfc425ac605e61a4a');
+      expect(valueRecipient[0].split).to.eql(80);
     });
   });
 

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md">
+	<channel>
+		<title>Podcast Podcast</title>
+
+		<podcast:liveItem status="live" start="2021-09-26T07:30:00.000-0600" end="2021-09-26T09:30:00.000-0600">
+			<title>Podcasting 2.0 Live Show</title>
+			<description>A look into the future of podcasting and how we get to Podcasting 2.0!</description>
+			<link>https://example.com/podcast/live</link>
+			<guid isPermaLink="true">https://example.com/live</guid>
+			<author>John Doe (john@example.com)</author>
+			<podcast:images srcset="https://example.com/images/live/pci_avatar-massive.jpg 1500w,
+				https://example.com/images/live/pci_avatar-middle.jpg 600w,
+				https://example.com/images/live/pci_avatar-small.jpg 300w,
+				https://example.com/images/live/pci_avatar-tiny.jpg 150w"
+			/>
+			<podcast:person href="https://www.podchaser.com/creators/adam-curry-107ZzmWE5f" img="https://example.com/images/adamcurry.jpg">Adam Curry</podcast:person>
+			<podcast:person role="guest" href="https://github.com/daveajones/" img="https://example.com/images/davejones.jpg">Dave Jones</podcast:person>
+			<podcast:person group="visuals" role="cover art designer" href="https://example.com/artist/beckysmith">Becky Smith</podcast:person>
+			<podcast:alternateEnclosure type="audio/mpeg" length="312" default="true">
+				<podcast:source uri="https://example.com/pc20/livestream" />
+			</podcast:alternateEnclosure>
+			<enclosure url="https://example.com/pc20/livestream?format=.mp3" type="audio/mpeg" length="312" />
+			<podcast:contentLink href="https://youtube.com/pc20/livestream">YouTube!</podcast:contentLink>
+			<podcast:contentLink href="https://twitch.com/pc20/livestream">Twitch!</podcast:contentLink>
+			<podcast:contentLink href="https://example.com/html/livestream">Listen Live!</podcast:contentLink>
+		</podcast:liveItem>
+
+		<item>
+			<title>Fiat Lux</title>
+			<link href="http://podlove.org/podcast/1"/>
+			<guid isPermaLink="false">urn:uuid:3241ace2-ca21-dd12-2341-1412ce31fad2</guid>
+			<pubDate>Fri, 23 Mar 2012 23:25:19 +0000</pubDate>
+			<description>First episode</description>
+			<link rel="enclosure" type="audio/mpeg" length="12345" href="http://podlove.org/files/fiatlux.mp3"/>
+			
+			<!-- specify chapter information -->
+			<psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+				<psc:chapter start="0" title="Welcome" />
+				<psc:chapter start="3:07" title="Introducing Podlove" href="http://podlove.org/" />
+				<psc:chapter start="8:26.250" title="Podlove WordPress Plugin" href="http://podlove.org/podlove-podcast-publisher" />
+				<psc:chapter start="12:42" title="Resumée" />
+			</psc:chapters>
+		</item>
+	</channel>
+</rss>

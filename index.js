@@ -1,3 +1,4 @@
+/* eslint-env node */
 const parseXml = require('@rgrove/parse-xml');
 
 // === Utilities ===
@@ -55,6 +56,11 @@ function isEmptyString(str) {
 
 const isNotEmptyString = (str) => !isEmptyString(str);
 
+// String#replaceAll introduced Node 15+
+function replaceAll(str, find, replace) {
+  return str.replace(new RegExp(find, 'g'), replace);
+}
+
 const removeEmpties = (obj) => Object.fromEntries(
   Object.entries(obj).filter(([, v]) => v !== null
     && v !== undefined
@@ -71,6 +77,18 @@ function isEmptyValue(v) {
     || (Array.isArray(v) && v.length === 0)
   );
 }
+
+const isTrue = (value) => ['TRUE', 'true', true, 1].includes(value);
+
+const isValidLiveStatus = (value) => ['pending', 'live', 'ended'].includes(value);
+
+const isValidLiveItem = (liveItem) => (
+  liveItem
+  && isNotEmptyString(liveItem.status)
+  && isValidLiveStatus(liveItem.status)
+  && isNotEmptyString(liveItem.start)
+  && isNotEmptyString(liveItem.end)
+);
 
 const uniq = (arr) => Array.from(new Set(arr));
 
@@ -520,11 +538,11 @@ const rssElements = Object.freeze({
     if (!node) { return null; } // count = single
     const srcset = getAttribute([node], 'srcset');
 
-    if (isEmptyString(srcset)) {
+    if (!srcset || isEmptyString(srcset)) {
       return null;
     }
 
-    const normalizedSrcset = srcset.replaceAll(/,(\s+)?/gui, ',\n');
+    const normalizedSrcset = replaceAll(srcset, /,(\s+)?/gui, ',\n');
 
     return {
       srcset: normalizedSrcset,
@@ -585,6 +603,39 @@ const rssElements = Object.freeze({
   }))
     .filter(({ url, pubDate }) => !(isEmptyString(pubDate) || isEmptyString(url)))
     .sort(episodeComparator).reverse(),
+  // Value4Value
+  value: (nodes) => nodes.map((node) => removeEmpties({
+    // Required
+    type: getAttribute([node], 'type'),
+    method: getAttribute([node], 'method'),
+    suggested: Number.parseFloat(getAttribute([node], 'suggested'), 10),
+    valueRecipient: findNodesLike(node, 'valueRecipient')
+      .map((recipientNode) => removeEmpties({
+        name: getAttribute([recipientNode], 'name'),
+        type: getAttribute([recipientNode], 'type'),
+        address: getAttribute([recipientNode], 'address'),
+        customKey: getAttribute([recipientNode], 'customKey'),
+        customValue: getAttribute([recipientNode], 'customValue'),
+        split: Number.parseFloat(getAttribute([recipientNode], 'split'), 10),
+        fee: isTrue(getAttribute([recipientNode], 'fee')) || false,
+      }))
+      .filter(({ type, address }) => (
+        isNotEmptyString(type)
+        && isNotEmptyString(address)
+      )),
+  }))
+    .filter(({
+      type, method, valueRecipient,
+    }) => (
+      isNotEmptyString(type)
+      && isNotEmptyString(method)
+      && Array.isArray(valueRecipient)
+      && valueRecipient.length > 0)),
+  // Content Link
+  contentLink: (nodes) => nodes.map((node) => removeEmpties({
+    text: getText([node]),
+    href: getAttribute([node], 'href'),
+  })).filter(({ text, href }) => isNotEmptyString(text) && isNotEmptyString(href)),
 });
 
 // List of supported element names
@@ -614,6 +665,17 @@ function parseElement(element) {
   return parsedElement;
 }
 
+// Parse an individual liveItem element
+function parseLiveElement(element) {
+  const liveItem = parseElement(element);
+
+  liveItem.status = getAttribute([element], 'status');
+  liveItem.start = getAttribute([element], 'start');
+  liveItem.end = getAttribute([element], 'end');
+
+  return liveItem;
+}
+
 // Parse main channel element
 function createMetaFromChannel(channel) {
   const metaObject = parseElement(channel);
@@ -624,6 +686,7 @@ function createMetaFromChannel(channel) {
 // Parse item elements
 const createEpisodesFromItems = (items) => items.map(parseElement).sort(episodeComparator);
 const createSeasonsFromItems = (items) => items.map(parseElement).sort(serialComparator);
+const createLiveEpisodesFromItems = (items) => items.map(parseLiveElement).sort(episodeComparator);
 
 // Resolve undefined entities
 const entityResolver = entityMap.get.bind(entityMap);
@@ -634,8 +697,10 @@ const DEFAULT_OPTIONS = Object.freeze({
   includeEpisodes: true,
 });
 
-module.exports = function getPodcastFromFeed(feed,
-  { includeEpisodes } = DEFAULT_OPTIONS) {
+module.exports = function getPodcastFromFeed(
+  feed,
+  { includeEpisodes } = DEFAULT_OPTIONS,
+) {
   const feedObject = parseXml(feed.trim(), {
     resolveUndefinedEntity: entityResolver,
   });
@@ -648,6 +713,20 @@ module.exports = function getPodcastFromFeed(feed,
     const isSerial = (meta && meta.type && meta.type.toLowerCase() === SERIAL);
     const items = findAllNodes(channel, 'item');
     const episodes = (isSerial) ? createSeasonsFromItems(items) : createEpisodesFromItems(items);
+
+    // Podcast Index liveItem
+    const liveItems = findNodesLike(channel, 'liveItem');
+    const hasLiveItems = (Array.isArray(liveItems) && liveItems.length > 0);
+
+    if (hasLiveItems) {
+      // Parse LiveItems like Items
+      const liveEpisodes = createLiveEpisodesFromItems(liveItems).filter(isValidLiveItem);
+      const hasLiveEpisodes = (Array.isArray(liveEpisodes) && liveEpisodes.length > 0);
+
+      if (hasLiveEpisodes) {
+        return { meta, episodes, liveEpisodes };
+      }
+    }
 
     return { meta, episodes };
   }

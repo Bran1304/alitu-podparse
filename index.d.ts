@@ -2,6 +2,7 @@ declare module 'podparse' {
     export interface Podcast {
         meta: Meta;
         episodes: Episode[];
+        liveEpisodes?: LiveItem[];
     }
 
     export interface Meta {
@@ -46,6 +47,7 @@ declare module 'podparse' {
         images?: Images;
 
         trailer?: Trailer[];
+        value?: Value[];
     }
 
     export interface Episode {
@@ -84,6 +86,23 @@ declare module 'podparse' {
         alternateEnclosure?: AlternateEnclosure[];
         gateway?: Gateway;
         images?: Images;
+
+        socialInteract?: SocialInteract[];
+        value?: Value[];
+    }
+
+    export type LiveItemStatus = 'pending' | 'live' | 'ended';
+
+    export interface LiveItem extends Episode {
+        status: LiveItemStatus;
+        start: string; // ISO8601
+        end: string; // ISO8601
+        contentLink?: ContentLink[];
+    }
+
+    export interface ContentLink {
+        href: string;
+        text: string;
     }
 
     export interface Enclosure {
@@ -131,6 +150,32 @@ declare module 'podparse' {
     export interface License {
         slug: string;
         url?: string;
+    }
+
+    export interface ValueRecipient {
+        name?: string;
+        type: string;
+        address: string;
+        customKey?: string;
+        customValue?: string;
+        split: number;
+        fee?: boolean;
+    }
+
+    export interface Value {
+        type: string;
+        method: string;
+        suggested?: number;
+        valueRecipient: ValueRecipient[];
+    }
+
+    export interface SocialInteract {
+        platform: string;
+        protocol: string;
+        accountId: string;
+        url: string;
+        pubDate?: string;
+        priority?: string;
     }
 
     export enum Medium {
