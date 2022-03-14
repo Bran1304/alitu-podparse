@@ -13,6 +13,8 @@ declare module 'podparse' {
         summary: string;
         type: string;
 
+        generator?: string;
+
         category?: string[];
         keywords?: string[];
 
@@ -109,14 +111,14 @@ declare module 'podparse' {
         url: string;
         type?: string;
         length?: number;
-        title?: string;
         duration?: number;
     }
 
     export interface Person {
         name: string;
         role: string;
-        group?: string;
+        group: string;
+        img?: string;
         href?: string;
     }
 
@@ -128,6 +130,8 @@ declare module 'podparse' {
     export interface Transcript {
         url: string;
         type: string;
+        language?: string;
+        rel?: string;
     }
 
     export interface Chapter {
