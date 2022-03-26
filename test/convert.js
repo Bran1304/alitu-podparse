@@ -26,6 +26,15 @@ const tvillingpodden = fs.readFileSync(`${testFilesPath}/tvillingpodden.xml`, 'u
 const riordansDesk = fs.readFileSync(`${testFilesPath}/riordans_desk.xml`, 'utf8').toString();
 const podcastNamespaceEx = fs.readFileSync(`${testFilesPath}/podcast_example.xml`, 'utf8').toString();
 const howToStart = fs.readFileSync(`${testFilesPath}/start_podcast.xml`, 'utf8').toString();
+const podnews = fs.readFileSync(`${testFilesPath}/podnews.xml`, 'utf8').toString();
+const podnewsDec21 = fs.readFileSync(`${testFilesPath}/podnews-dec21.xml`, 'utf8').toString();
+const podland22 = fs.readFileSync(`${testFilesPath}/podland.xml`, 'utf8').toString();
+const noagenda22 = fs.readFileSync(`${testFilesPath}/no_agenda22.xml`, 'utf8').toString();
+const liveItem22 = fs.readFileSync(`${testFilesPath}/liveitem.xml`, 'utf8').toString();
+const immediateMedia = fs.readFileSync(`${testFilesPath}/immediate-media.xml`, 'utf8').toString();
+const worldserviceradio = fs.readFileSync(`${testFilesPath}/worldserviceradio.xml`, 'utf8').toString();
+const gooaye = fs.readFileSync(`${testFilesPath}/gooaye.xml`, 'utf8').toString();
+const darencademy = fs.readFileSync(`${testFilesPath}/darencademy.xml`, 'utf8').toString();
 
 fs.writeFileSync(`${convertedPath}/bc-sample.json`, JSON.stringify(getPodcastFromFeed(sampleFeed), null, 2));
 fs.writeFileSync(`${convertedPath}/bc-sample-order.json`, JSON.stringify(getPodcastFromFeed(sampleFeedOrder), null, 2));
@@ -45,5 +54,15 @@ fs.writeFileSync(`${convertedPath}/tvillingpodden.json`, JSON.stringify(getPodca
 fs.writeFileSync(`${convertedPath}/riordans_desk.json`, JSON.stringify(getPodcastFromFeed(riordansDesk), null, 2));
 fs.writeFileSync(`${convertedPath}/podcast_example.json`, JSON.stringify(getPodcastFromFeed(podcastNamespaceEx), null, 2));
 fs.writeFileSync(`${convertedPath}/start_podcast.json`, JSON.stringify(getPodcastFromFeed(howToStart), null, 2));
+fs.writeFileSync(`${convertedPath}/podnews.json`, JSON.stringify(getPodcastFromFeed(podnews), null, 2));
+fs.writeFileSync(`${convertedPath}/podnews-dec21.json`, JSON.stringify(getPodcastFromFeed(podnewsDec21), null, 2));
+fs.writeFileSync(`${convertedPath}/podland.json`, JSON.stringify(getPodcastFromFeed(podland22), null, 2));
+fs.writeFileSync(`${convertedPath}/no_agenda22.json`, JSON.stringify(getPodcastFromFeed(noagenda22), null, 2));
+fs.writeFileSync(`${convertedPath}/liveitem.json`, JSON.stringify(getPodcastFromFeed(liveItem22), null, 2));
+fs.writeFileSync(`${convertedPath}/immediate-media.json`, JSON.stringify(getPodcastFromFeed(immediateMedia), null, 2));
+fs.writeFileSync(`${convertedPath}/podcast_example.json`, JSON.stringify(getPodcastFromFeed(podcastNamespaceEx), null, 2));
+fs.writeFileSync(`${convertedPath}/worldserviceradio.json`, JSON.stringify(getPodcastFromFeed(worldserviceradio), null, 2));
+fs.writeFileSync(`${convertedPath}/gooaye.json`, JSON.stringify(getPodcastFromFeed(gooaye), null, 2));
+fs.writeFileSync(`${convertedPath}/darencademy.json`, JSON.stringify(getPodcastFromFeed(darencademy), null, 2));
 
 console.log(`Conversion complete in ${Date.now() - start}ms`); // eslint-disable-line no-console

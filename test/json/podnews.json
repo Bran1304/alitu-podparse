@@ -1,0 +1,5276 @@
+{
+  "meta": {
+    "title": "Podnews podcasting news",
+    "description": "Daily news about the global podcasting and on-demand audio industry. Curated by James Cridland editor@podnews.net - visit https://podnews.net to get our free newsletter for all the links and more.",
+    "subtitle": "Daily news about the global podcasting and on-demand audio industry. Curated by James Cridland editor@podnews.net",
+    "language": "en",
+    "author": "Podnews LLC",
+    "managingEditor": "james@crid.land (James Cridland)",
+    "webMaster": "james@crid.land (James Cridland)",
+    "type": "episodic",
+    "guid": "9b024349-ccf0-5f69-a609-6b82873eab3c",
+    "generator": "This feed produced by Podnews LLC",
+    "keywords": [
+      "pod news",
+      "podcasting",
+      "radio"
+    ],
+    "category": [
+      "Business",
+      "Daily News",
+      "News",
+      "Technology",
+      "podcasting",
+      "radio"
+    ],
+    "owner": {
+      "name": "James Cridland",
+      "email": "james@crid.land"
+    },
+    "image": {
+      "url": "https://podnews.net/static/podnews-2000x2000.png"
+    },
+    "explicit": false,
+    "ttl": 30,
+    "lastBuildDate": "2021-06-09T11:09:01.000Z",
+    "pubDate": "2021-06-09T11:09:01.000Z",
+    "locked": true,
+    "person": [
+      {
+        "name": "James Cridland",
+        "role": "host",
+        "group": "cast",
+        "img": "https://podnews.net/uploads/james-cridland-400x400.jpg",
+        "href": "https://www.podchaser.com/creators/james-cridland-107Zzj6lDG"
+      }
+    ],
+    "funding": [
+      {
+        "name": "Support us",
+        "url": "https://podnews.net/article/advertising"
+      }
+    ],
+    "value": [
+      {
+        "type": "lightning",
+        "method": "keysend",
+        "suggested": 5e-8,
+        "valueRecipient": [
+          {
+            "name": "Podnews",
+            "type": "node",
+            "address": "03c457fafbc8b91b462ef0b8f61d4fd96577a4b58c18b50e59621fd0f41a8ae1a4",
+            "split": 100,
+            "fee": false
+          }
+        ]
+      }
+    ],
+    "link": "https://podnews.net",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://podnews.net/rss"
+      },
+      {
+        "rel": "hub",
+        "href": "https://amazinglybrilliant.superfeedr.com/"
+      },
+      {
+        "rel": "payment",
+        "href": "https://podnews.net/article/advertising"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "title": "Captivate upgrades to 2.0",
+      "description": "In Podnews today: Podcast trends, ad impressions vs downloads, and some research\n     \nVisit https://podnews.net/update/captivate-2 for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/captivate-2",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210609.jpeg"
+      },
+      "explicit": false,
+      "duration": 194,
+      "enclosure": {
+        "length": 2993330,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210609.mp3"
+      },
+      "episode": 1053,
+      "pubDate": "2021-06-09T11:08:58.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/captivate-2",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1880380,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210609.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 2993330,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210609.mp3"
+            }
+          ]
+        },
+        {
+          "type": "audio/opus",
+          "length": 797628,
+          "bitrate": 32000,
+          "title": "Low bitrate Opus",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210609.opus"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/captivate-2"
+    },
+    {
+      "title": "Apple to reveal where your podcast data goes",
+      "description": "In Podnews today: Facetime is coming to Android too. Apple Podcasts isn't.\n     \nVisit https://podnews.net/update/apple-privacy-podcasts for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/apple-privacy-podcasts",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210608.jpeg"
+      },
+      "explicit": false,
+      "duration": 218,
+      "enclosure": {
+        "length": 3214689,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210608.mp3"
+      },
+      "episode": 1052,
+      "pubDate": "2021-06-08T07:00:45.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/apple-privacy-podcasts",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1965494,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210608.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3214689,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210608.mp3"
+            }
+          ]
+        },
+        {
+          "type": "audio/opus",
+          "length": 897548,
+          "bitrate": 32000,
+          "title": "Low bitrate Opus",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210608.opus"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/apple-privacy-podcasts"
+    },
+    {
+      "title": "Podcast Day 24 currently underway",
+      "description": "In Podnews today: Worldwide podcast conference on now...\n     \nVisit https://podnews.net/update/pd24-underway for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/pd24-underway",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210607.jpeg"
+      },
+      "explicit": false,
+      "duration": 111,
+      "enclosure": {
+        "length": 1898383,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210607.mp3"
+      },
+      "episode": 1051,
+      "pubDate": "2021-06-07T13:08:45.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/pd24-underway",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1266420,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210607.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 1898383,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210607.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/pd24-underway"
+    },
+    {
+      "title": "Consumers prefer podcast ads to TV ads",
+      "description": "In Podnews today: Facebook turns on some podcast support; Overcast author accuses Apple of dishonesty and insult; Deezer shares podcast stats\n     \nVisit https://podnews.net/update/podcast-ads-vs-tv-ads for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/podcast-ads-vs-tv-ads",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210604.jpeg"
+      },
+      "explicit": false,
+      "duration": 219,
+      "enclosure": {
+        "length": 3512809,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210604.mp3"
+      },
+      "episode": 1050,
+      "pubDate": "2021-06-04T11:26:31.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/podcast-ads-vs-tv-ads",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2256679,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210604.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3512809,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210604.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/podcast-ads-vs-tv-ads"
+    },
+    {
+      "title": "How long should a podcast ad be?",
+      "description": "In Podnews today: Does size matter? Spotify launches a new algorithmic playlist or two; Podcast Day 24 announces BBC executive as speaker\n     \nVisit https://podnews.net/update/how-long-ads for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/how-long-ads",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210603.jpeg"
+      },
+      "explicit": false,
+      "duration": 240,
+      "enclosure": {
+        "length": 3572298,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210603.mp3"
+      },
+      "episode": 1049,
+      "pubDate": "2021-06-03T10:56:06.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/how-long-ads",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2193383,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210603.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3572298,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210603.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/how-long-ads"
+    },
+    {
+      "title": "Writing great podcast advertising copy",
+      "description": "In Podnews today: Resonate Hosting adds in-app storage; Ximalaya might not float on the NYSE after all; another Spotify exclusive\n     \nVisit https://podnews.net/update/great-podcast-advertising-copy for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/great-podcast-advertising-copy",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210602.jpeg"
+      },
+      "explicit": false,
+      "duration": 231,
+      "enclosure": {
+        "length": 3580693,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210602.mp3"
+      },
+      "episode": 1048,
+      "pubDate": "2021-06-02T10:45:20.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/great-podcast-advertising-copy",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2253496,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210602.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3580693,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210602.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/great-podcast-advertising-copy"
+    },
+    {
+      "title": "Overcast wins accessibility award",
+      "description": "In Podnews today: Stripe makes a tipjar easier; Himalaya lives; and why eating while doing your podcast is a bad thing\n     \nVisit https://podnews.net/update/overcast-accessibility for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/overcast-accessibility",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210601.jpeg"
+      },
+      "explicit": false,
+      "duration": 142,
+      "enclosure": {
+        "length": 2327735,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210601.mp3"
+      },
+      "episode": 1047,
+      "pubDate": "2021-06-01T09:32:01.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/overcast-accessibility",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1510411,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210601.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 2327735,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210601.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/overcast-accessibility"
+    },
+    {
+      "title": "Apple delays paid podcast launch; admits problems",
+      "description": "In Podnews today: Apple admits some problems with Podcasts Connect. Veritonic ranks audio logos, and podcast theme tunes\n     \nVisit https://podnews.net/update/apple-delays-paid-podcasts for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/apple-delays-paid-podcasts",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210531.jpeg"
+      },
+      "explicit": false,
+      "duration": 258,
+      "enclosure": {
+        "length": 3799594,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210531.mp3"
+      },
+      "episode": 1046,
+      "pubDate": "2021-05-31T07:58:21.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/apple-delays-paid-podcasts",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2319181,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210531.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3799594,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210531.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/apple-delays-paid-podcasts"
+    },
+    {
+      "title": "British Podcast Awards - watch the nominations",
+      "description": "In Podnews today: See the nominees live; and a month on, we look at how Apple Podcasts is doing\n     \nVisit https://podnews.net/update/bpa-noms-2021 for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/bpa-noms-2021",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210528.jpeg"
+      },
+      "explicit": false,
+      "duration": 149,
+      "enclosure": {
+        "length": 2283285,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210528.mp3"
+      },
+      "episode": 1045,
+      "pubDate": "2021-05-28T10:53:50.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/bpa-noms-2021",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1429396,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210528.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 2283285,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210528.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/bpa-noms-2021"
+    },
+    {
+      "title": "Podchaser launches an API",
+      "description": "In Podnews today: An analyst dismisses Apple's podcasting strategy; Megaphone is blocked again\n     \nVisit https://podnews.net/update/podchaser-api for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/podchaser-api",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210527.jpeg"
+      },
+      "explicit": false,
+      "duration": 152,
+      "enclosure": {
+        "length": 2208780,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210527.mp3"
+      },
+      "episode": 1044,
+      "pubDate": "2021-05-27T11:11:41.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/podchaser-api",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1339210,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210527.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 2208780,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210527.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/podchaser-api"
+    },
+    {
+      "title": "Keeping private podcasts private",
+      "description": "In Podnews today: A way to ensure your private podcasts aren't public. Plus, are celebrities ruining podcasting? And the NYT is apparently buying The Athletic\n     \nVisit https://podnews.net/update/private-podcasting-private for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/private-podcasting-private",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210526.jpeg"
+      },
+      "explicit": false,
+      "duration": 161,
+      "enclosure": {
+        "length": 2696154,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210526.mp3"
+      },
+      "episode": 1043,
+      "pubDate": "2021-05-26T09:10:07.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/private-podcasting-private",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1769490,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210526.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 2696154,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210526.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/private-podcasting-private"
+    },
+    {
+      "title": "Apple Podcasts Subscriptions are here",
+      "description": "In Podnews today: New Apple Podcasts features launch today; and so do new podcasts to subscribe to\n     \nVisit https://podnews.net/update/apple-podcast-subs-launch for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/apple-podcast-subs-launch",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210525.jpeg"
+      },
+      "explicit": false,
+      "duration": 171,
+      "enclosure": {
+        "length": 2623951,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210525.mp3"
+      },
+      "episode": 1042,
+      "pubDate": "2021-05-25T11:37:47.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/apple-podcast-subs-launch",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1646417,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210525.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 2623951,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210525.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/apple-podcast-subs-launch"
+    },
+    {
+      "title": "Samsung jumps into podcast advertising",
+      "description": "In Podnews today: \n     \nVisit https://podnews.net/update/samsung-podcast-advertising for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/samsung-podcast-advertising",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210524.jpeg"
+      },
+      "explicit": false,
+      "duration": 253,
+      "enclosure": {
+        "length": 3816530,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210524.mp3"
+      },
+      "episode": 1041,
+      "pubDate": "2021-05-24T04:36:42.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/samsung-podcast-advertising",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2359988,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210524.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3816530,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210524.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/samsung-podcast-advertising"
+    },
+    {
+      "title": "App that offers clips of podcast shows accused of theft",
+      "description": "In Podnews today: Clipping up podcasts seems to cut out revenue opportunities; and Apple Podcasts launches another new thing which doesn't work\n     \nVisit https://podnews.net/update/podclips-theft for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/podclips-theft",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210521.jpeg"
+      },
+      "explicit": false,
+      "duration": 193,
+      "enclosure": {
+        "length": 2879669,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210521.mp3"
+      },
+      "episode": 1040,
+      "pubDate": "2021-05-21T09:34:34.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/podclips-theft",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1773082,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210521.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 2879669,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210521.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/podclips-theft"
+    },
+    {
+      "title": "Getting with The Program: ads for a podcast in an unusual place",
+      "description": "In Podnews today: A podcaster takes advertising his podcast to a whole new audience. Apple Podcasts Connect - is it fixed? And Google adds more RSS\n     \nVisit https://podnews.net/update/podcast-advertising-in-an-unusual-place for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/podcast-advertising-in-an-unusual-place",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210520.jpeg"
+      },
+      "explicit": false,
+      "duration": 197,
+      "enclosure": {
+        "length": 3282761,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210520.mp3"
+      },
+      "episode": 1039,
+      "pubDate": "2021-05-20T10:54:56.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/podcast-advertising-in-an-unusual-place",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2151786,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210520.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3282761,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210520.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/podcast-advertising-in-an-unusual-place"
+    },
+    {
+      "title": "Spotify or Apple? Who's bigger for podcasts?",
+      "description": "In Podnews today: Who really is the big dog of aggregator apps? And are they quite as big as they seem? Plus, another CFO at Libsyn resigns, and Spotify to add transcripts to every podcast\n     \nVisit https://podnews.net/update/spot-apl-big-dog for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/spot-apl-big-dog",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210519.jpeg"
+      },
+      "explicit": false,
+      "duration": 211,
+      "enclosure": {
+        "length": 3304718,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210519.mp3"
+      },
+      "episode": 1038,
+      "pubDate": "2021-05-19T09:42:47.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/spot-apl-big-dog",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2095394,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210519.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3304718,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210519.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/spot-apl-big-dog"
+    },
+    {
+      "title": "Lossless audio comes to Apple, Spotify and Amazon",
+      "description": "In Podnews today: Lossless audio is coming for music, but what does it mean for podcasts? Sounder acquires Podnods, and Bob Garfield leaves NYPR.\n     \nVisit https://podnews.net/update/lossless-audio-coming for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/lossless-audio-coming",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210518.jpeg"
+      },
+      "explicit": false,
+      "duration": 221,
+      "enclosure": {
+        "length": 3668706,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210518.mp3"
+      },
+      "episode": 1037,
+      "pubDate": "2021-05-18T09:58:11.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/lossless-audio-coming",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2398528,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210518.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3668706,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210518.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/lossless-audio-coming"
+    },
+    {
+      "title": "The Ambies 2021: all the winners",
+      "description": "In Podnews today: A new TV streaming service for podcasts; Julep Hosting gains IAB certification; and a new podcast network in Australia\n     \nVisit https://podnews.net/update/ambies-2021-winners for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/ambies-2021-winners",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210517.jpeg"
+      },
+      "explicit": false,
+      "duration": 279,
+      "enclosure": {
+        "length": 4254279,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210517.mp3"
+      },
+      "episode": 1036,
+      "pubDate": "2021-05-17T06:12:58.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/ambies-2021-winners",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2654359,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210517.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4254279,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210517.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/ambies-2021-winners"
+    },
+    {
+      "title": "Canadians enjoy the taste of podcasts",
+      "description": "In Podnews today: More Canadians are listening to podcasts. Castbox are linking to subscriber-only feeds; Obama and Springsteen no longer a Spotify exclusive?\n     \nVisit https://podnews.net/update/infinite-dial-canada-2021 for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/infinite-dial-canada-2021",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210514.jpeg"
+      },
+      "explicit": false,
+      "duration": 152,
+      "enclosure": {
+        "length": 2408473,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210514.mp3"
+      },
+      "episode": 1035,
+      "pubDate": "2021-05-14T06:28:05.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/infinite-dial-canada-2021",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1534227,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210514.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 2408473,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210514.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/infinite-dial-canada-2021"
+    },
+    {
+      "title": "US Podcast Ad Revenues grew 19% in 2020",
+      "description": "In Podnews today: Dynamically-inserted ads now more than two-thirds of the market. Chartable launches a service for brands; Spotify buys another exclusive\n     \nVisit https://podnews.net/update/podcast-ad-revenues-2020 for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/podcast-ad-revenues-2020",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210513.jpeg"
+      },
+      "explicit": false,
+      "duration": 216,
+      "enclosure": {
+        "length": 3148359,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210513.mp3"
+      },
+      "episode": 1034,
+      "pubDate": "2021-05-13T10:06:26.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/podcast-ad-revenues-2020",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1905183,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210513.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3148359,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210513.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/podcast-ad-revenues-2020"
+    },
+    {
+      "title": "CNN Audio plans Apple Podcasts subscriptions",
+      "description": "In Podnews today: Acast's financial figures; people love ads in podcasts says company who sells ads in podcasts\n     \nVisit https://podnews.net/update/the-handoff-cnn for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/the-handoff-cnn",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210512.jpeg"
+      },
+      "explicit": false,
+      "duration": 181,
+      "enclosure": {
+        "length": 2915445,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210512.mp3"
+      },
+      "episode": 1033,
+      "pubDate": "2021-05-12T10:57:39.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/the-handoff-cnn",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1877890,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210512.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 2915445,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210512.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/the-handoff-cnn"
+    },
+    {
+      "title": "Spotify's new social-sharing features",
+      "description": "In Podnews today: A new podcast company for scripted shows; SiriusXM combines sales teams; a new, free, podcast awards\n     \nVisit https://podnews.net/update/spotify-social-sharing for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/spotify-social-sharing",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210511.jpeg"
+      },
+      "explicit": false,
+      "duration": 226,
+      "enclosure": {
+        "length": 3307043,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210511.mp3"
+      },
+      "episode": 1032,
+      "pubDate": "2021-05-11T11:20:09.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/spotify-social-sharing",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2009149,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210511.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3307043,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210511.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/spotify-social-sharing"
+    },
+    {
+      "title": "Up Next - a podcast up front - goes live",
+      "description": "In Podnews today: Where better to sell audio than… audio? Plus, the podcast ad brands most people remember, and Clubhouse comes to Android, for some people\n     \nVisit https://podnews.net/update/upnext-spring21 for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/upnext-spring21",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210510.jpeg"
+      },
+      "explicit": false,
+      "duration": 292,
+      "enclosure": {
+        "length": 4206487,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210510.mp3"
+      },
+      "episode": 1031,
+      "pubDate": "2021-05-10T10:36:09.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/upnext-spring21",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2523068,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210510.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4206487,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210510.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/upnext-spring21"
+    },
+    {
+      "title": "An end to AppleCoreMedia useragents?",
+      "description": "In Podnews today: Perhaps we can get better platform statistics now. A free BBC Podcast Festival. And more details about episode notes in different apps.\n     \nVisit https://podnews.net/update/apple-core-media-end for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/apple-core-media-end",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210507.jpeg"
+      },
+      "explicit": false,
+      "duration": 147,
+      "enclosure": {
+        "length": 2373368,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210507.mp3"
+      },
+      "episode": 1030,
+      "pubDate": "2021-05-07T08:52:32.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/apple-core-media-end",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1528187,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210507.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 2373368,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210507.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/apple-core-media-end"
+    },
+    {
+      "title": "Podcast Day 24 will be in-person in Sydney",
+      "description": "In Podnews today: Wavve is acquired; a new audio service for drama; Clubhouse makes new shows; another bug in Apple Podcasts\n     \nVisit https://podnews.net/update/podcast-day-24-australia for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/podcast-day-24-australia",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210506.jpeg"
+      },
+      "explicit": false,
+      "duration": 214,
+      "enclosure": {
+        "length": 3285583,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210506.mp3"
+      },
+      "episode": 1029,
+      "pubDate": "2021-05-06T10:40:58.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/podcast-day-24-australia",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2052348,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210506.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3285583,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210506.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/podcast-day-24-australia"
+    },
+    {
+      "title": "Apple Podcasts changes format for episode notes",
+      "description": "In Podnews today: The paid podcast subscriptions that more than 2,000 people use already; the NYT's results and Canada to get Infinite Dial data\n     \nVisit https://podnews.net/update/apple-podcasts-episode-notes-change for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/apple-podcasts-episode-notes-change",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210505.jpeg"
+      },
+      "explicit": false,
+      "duration": 164,
+      "enclosure": {
+        "length": 2562018,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210505.mp3"
+      },
+      "episode": 1028,
+      "pubDate": "2021-05-05T11:47:49.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/apple-podcasts-episode-notes-change",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1620380,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210505.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 2562018,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210505.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/apple-podcasts-episode-notes-change"
+    },
+    {
+      "title": "Ricky Gervais to sell subscription to new podcast",
+      "description": "In Podnews today: But who is he selling it through? Plus, Chartable gets demographics, and Apple Podcasts continues to be buggy.\n     \nVisit https://podnews.net/update/ricky-gervais-subs for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/ricky-gervais-subs",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210504.jpeg"
+      },
+      "explicit": false,
+      "duration": 202,
+      "enclosure": {
+        "length": 3076339,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210504.mp3"
+      },
+      "episode": 1027,
+      "pubDate": "2021-05-04T10:21:46.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/ricky-gervais-subs",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1912594,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210504.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3076339,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210504.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/ricky-gervais-subs"
+    },
+    {
+      "title": "A quarter of all Brits listen to podcasts every week",
+      "description": "In Podnews today: A new piece of software to edit out your ums and errs. Apple Podcasts continues to be rubbish. Ximlaya gives us glimpse into China.\n     \nVisit https://podnews.net/update/quarter-brits for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/quarter-brits",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210503.jpeg"
+      },
+      "explicit": false,
+      "duration": 286,
+      "enclosure": {
+        "length": 4320236,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210503.mp3"
+      },
+      "episode": 1026,
+      "pubDate": "2021-05-03T09:09:02.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/quarter-brits",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 0,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210503.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4320236,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210503.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/quarter-brits"
+    },
+    {
+      "title": "Why Apple Podcasts seems slower to get new episodes",
+      "description": "In Podnews today: There's change afoot - we take a look. Plus, Spotify's Clubhouse-clone has a new name, and the King of Sweden\n     \nVisit https://podnews.net/update/apple-podcasts-crawler-frequency for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/apple-podcasts-crawler-frequency",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210430.jpeg"
+      },
+      "explicit": false,
+      "duration": 226,
+      "enclosure": {
+        "length": 3684207,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210430.mp3"
+      },
+      "episode": 1025,
+      "pubDate": "2021-04-30T10:19:52.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/apple-podcasts-crawler-frequency",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2382501,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210430.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3684207,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210430.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/apple-podcasts-crawler-frequency"
+    },
+    {
+      "title": "SiriusXM revenue up, Spotify back in profit",
+      "description": "In Podnews today: Apple to phase out iTunes Site Manager too, and how to correct your work\n     \nVisit https://podnews.net/update/spot-profit for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/spot-profit",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210429.jpeg"
+      },
+      "explicit": false,
+      "duration": 201,
+      "enclosure": {
+        "length": 3274959,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210429.mp3"
+      },
+      "episode": 1024,
+      "pubDate": "2021-04-29T10:26:50.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/spot-profit",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2118858,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210429.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3274959,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210429.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/spot-profit"
+    },
+    {
+      "title": "Spotify launches Paid Subscriptions for podcasts",
+      "description": "In Podnews today: Now you can charge for your podcasts, if you want, in Spotify. We have full analysis, and everything you need to know.\n     \nVisit https://podnews.net/update/spotify-paid-podcast-subscriptions for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/spotify-paid-podcast-subscriptions",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210428.jpeg"
+      },
+      "explicit": false,
+      "duration": 214,
+      "enclosure": {
+        "length": 3106343,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210428.mp3"
+      },
+      "episode": 1023,
+      "pubDate": "2021-04-28T11:11:56.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/spotify-paid-podcast-subscriptions",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1877192,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210428.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3106343,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210428.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/spotify-paid-podcast-subscriptions"
+    },
+    {
+      "title": "99% Invisible bought by SiriusXM",
+      "description": "In Podnews today: SiriusXM takes a trip to radio row in beautiful downtown Oakland, California. Facebook adds podcasts to its app. Magellan AI launches a new podcast advertising report\n     \nVisit https://podnews.net/update/99pi-siriusxm for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/99pi-siriusxm",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210427.jpeg"
+      },
+      "explicit": false,
+      "duration": 195,
+      "enclosure": {
+        "length": 2856118,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210427.mp3"
+      },
+      "episode": 1022,
+      "pubDate": "2021-04-27T10:54:48.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/99pi-siriusxm",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1732884,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210427.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 2856118,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210427.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/99pi-siriusxm"
+    },
+    {
+      "title": "AppleCoreMedia: what it is, and isn't",
+      "description": "In Podnews today: \n     \nVisit https://podnews.net/update/applecoremedia-theyre-doing-it-wrong for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/applecoremedia-theyre-doing-it-wrong",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210426.jpeg"
+      },
+      "explicit": false,
+      "duration": 264,
+      "enclosure": {
+        "length": 3885864,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210426.mp3"
+      },
+      "episode": 1021,
+      "pubDate": "2021-04-26T09:40:40.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/applecoremedia-theyre-doing-it-wrong",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2366168,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210426.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3885864,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210426.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/applecoremedia-theyre-doing-it-wrong"
+    },
+    {
+      "title": "Riverside.fm launches new 'magic editor'",
+      "description": "In Podnews today: Riverside gets new funding, while Apple Podcasts slowly recovers from bugs: and their British spy station\n     \nVisit https://podnews.net/update/riverside-magic-editor for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/riverside-magic-editor",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210423.jpeg"
+      },
+      "explicit": false,
+      "duration": 159,
+      "enclosure": {
+        "length": 2592033,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210423.mp3"
+      },
+      "episode": 1020,
+      "pubDate": "2021-04-23T09:03:55.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/riverside-magic-editor",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1678719,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210423.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 2592033,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210423.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/riverside-magic-editor"
+    },
+    {
+      "title": "New Apple Podcasts system: shows disappear, multiple bugs",
+      "description": "In Podnews today: Disappearing podcasts! Changing categories! 24-hour waits for access! Breaking third party apps! Come and get it! Also - Himalaya gives up on podcasts and Reddit's Clubhouse clone\n     \nVisit https://podnews.net/update/apple-podcasts-bugs-disappearances for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/apple-podcasts-bugs-disappearances",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210422.jpeg"
+      },
+      "explicit": false,
+      "duration": 152,
+      "enclosure": {
+        "length": 2515196,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210422.mp3"
+      },
+      "episode": 1019,
+      "pubDate": "2021-04-22T10:15:09.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/apple-podcasts-bugs-disappearances",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1649056,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210422.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 2515196,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210422.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/apple-podcasts-bugs-disappearances"
+    },
+    {
+      "title": "Apple Podcasts Subscriptions is launched",
+      "description": "In Podnews today: Everything you need to know about Apple's new announcements: how you can benefit, and what might be next. And the bug that's pulled us off the platform entirely\n     \nVisit https://podnews.net/update/apple-podcast-subscriptions-hello for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/apple-podcast-subscriptions-hello",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210421.jpeg"
+      },
+      "explicit": false,
+      "duration": 212,
+      "enclosure": {
+        "length": 3253075,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210421.mp3"
+      },
+      "episode": 1018,
+      "pubDate": "2021-04-21T05:41:00.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/apple-podcast-subscriptions-hello",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2042563,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210421.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3253075,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210421.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/apple-podcast-subscriptions-hello"
+    },
+    {
+      "title": "Facebook to add a podcast player and recording tool",
+      "description": "In Podnews today: Facebook adds tons of new podcast features, as Apple prepares to announce new things too\n     \nVisit https://podnews.net/update/facebook-podcasts-player for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/facebook-podcasts-player",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210420.jpeg"
+      },
+      "explicit": false,
+      "duration": 239,
+      "enclosure": {
+        "length": 3601766,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210420.mp3"
+      },
+      "episode": 1017,
+      "pubDate": "2021-04-20T09:42:40.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/facebook-podcasts-player",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2226109,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210420.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3601766,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210420.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/facebook-podcasts-player"
+    },
+    {
+      "title": "Facebook to get serious about podcasting",
+      "description": "In Podnews today: Apple Podcasts Connect turns off new podcast submissions; Spotify's views on RSS - nice, but limited; Google Podcasts adds recommendations on the web\n     \nVisit https://podnews.net/update/facebook-is-coming for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/facebook-is-coming",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210419.jpeg"
+      },
+      "explicit": false,
+      "duration": 225,
+      "enclosure": {
+        "length": 3267727,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210419.mp3"
+      },
+      "episode": 1016,
+      "pubDate": "2021-04-19T06:40:25.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/facebook-is-coming",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1977080,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210419.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3267727,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210419.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/facebook-is-coming"
+    },
+    {
+      "title": "iVoox builds Spanish podcast ad marketplace",
+      "description": "In Podnews today: Apple Podcasts tweaks for iOS14.5; Resonate launches a Remote Recorder; we're giving away $400m of additional value; The Book Review is 15\n     \nVisit https://podnews.net/update/ivoox-spanish-ad-marketplace for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/ivoox-spanish-ad-marketplace",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210416.jpeg"
+      },
+      "explicit": false,
+      "duration": 192,
+      "enclosure": {
+        "length": 3034839,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210416.mp3"
+      },
+      "episode": 1015,
+      "pubDate": "2021-04-16T07:04:31.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/ivoox-spanish-ad-marketplace",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1935076,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210416.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3034839,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210416.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/ivoox-spanish-ad-marketplace"
+    },
+    {
+      "title": "Spotify announces new podcast charts",
+      "description": "In Podnews today: New charts; Feedburner - it's alive; Audioboom in profit; Backupmypodcast launches; Podthon'21 is happening; Wondery spills the Secret Sauce\n     \nVisit https://podnews.net/update/spotify-charts-how-they-work for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/spotify-charts-how-they-work",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210415.jpeg"
+      },
+      "explicit": false,
+      "duration": 213,
+      "enclosure": {
+        "length": 3331570,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210415.mp3"
+      },
+      "episode": 1014,
+      "pubDate": "2021-04-15T10:04:36.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/spotify-charts-how-they-work",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2112459,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210415.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3331570,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210415.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/spotify-charts-how-they-work"
+    },
+    {
+      "title": "Google Podcasts hits new installation milestone",
+      "description": "In Podnews today: Amazon Podcasts launches to another 1.5bn people. RØDE adds new software. Poductivity enters alpha mode. Who killed the radio star?\n     \nVisit https://podnews.net/update/google-podcasts-hits-100m for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/google-podcasts-hits-100m",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210414.jpeg"
+      },
+      "explicit": false,
+      "duration": 254,
+      "enclosure": {
+        "length": 3623010,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210414.mp3"
+      },
+      "episode": 1013,
+      "pubDate": "2021-04-14T10:37:10.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/google-podcasts-hits-100m",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2163337,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210414.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3623010,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210414.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/google-podcasts-hits-100m"
+    },
+    {
+      "title": "WTF - an award at The Ambies",
+      "description": "In Podnews today: Libsyn has been shopping again; a podcast-format UpFront from Sounds Profitable; Audioboom signs more agreements\n     \nVisit https://podnews.net/update/wtf-award-ambies-update for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/wtf-award-ambies-update",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210413.jpeg"
+      },
+      "explicit": false,
+      "duration": 204,
+      "enclosure": {
+        "length": 3186100,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210413.mp3"
+      },
+      "episode": 1012,
+      "pubDate": "2021-04-13T10:30:44.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/wtf-award-ambies-update",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2014145,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210413.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3186100,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210413.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/wtf-award-ambies-update"
+    },
+    {
+      "title": "Stay Tuned for a new Vox Media acquisition",
+      "description": "In Podnews today: The 36% of shows with more than 10 episodes. Audioboom's finances. Podcasting in France. Value4Value takes off\n     \nVisit https://podnews.net/update/stay-tuned-vox-media for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/stay-tuned-vox-media",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210412.jpeg"
+      },
+      "explicit": false,
+      "duration": 262,
+      "enclosure": {
+        "length": 3876125,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210412.mp3"
+      },
+      "episode": 1011,
+      "pubDate": "2021-04-12T11:16:16.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/stay-tuned-vox-media",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2366292,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210412.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3876125,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210412.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/stay-tuned-vox-media"
+    },
+    {
+      "title": "Union agreement at Gimlet, The Ringer",
+      "description": "In Podnews today: Podcasting is bigger than Pandora or Spotify; and a new Clubhouse-like app\n     \nVisit https://podnews.net/update/union-agreements for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/union-agreements",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210409.jpeg"
+      },
+      "explicit": false,
+      "duration": 152,
+      "enclosure": {
+        "length": 2334420,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210409.mp3"
+      },
+      "episode": 1010,
+      "pubDate": "2021-04-09T06:53:27.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/union-agreements",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1467282,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210409.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 2334420,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210409.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/union-agreements"
+    },
+    {
+      "title": "New features for the RØDECaster Pro",
+      "description": "In Podnews today: The NYT looks for student podcasters; Spotify removes more Joe Rogan shows\n     \nVisit https://podnews.net/update/rodecaster-firmware for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/rodecaster-firmware",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210408.jpeg"
+      },
+      "explicit": false,
+      "duration": 132,
+      "enclosure": {
+        "length": 3242362,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210408.mp3"
+      },
+      "episode": 1009,
+      "pubDate": "2021-04-08T10:47:27.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/rodecaster-firmware",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1365556,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210408.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3242362,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210408.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/rodecaster-firmware"
+    },
+    {
+      "title": "Time to rename the Apple Podcast Chart?",
+      "description": "In Podnews today: Google Podcasts tests 'heart' buttons for recommendations; Breez makes Bitcoin from your podcast a little easier; Casted raises $7m\n     \nVisit https://podnews.net/update/rename-apple-podcast-chart for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/rename-apple-podcast-chart",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210407.jpeg"
+      },
+      "explicit": false,
+      "duration": 158,
+      "enclosure": {
+        "length": 3874317,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210407.mp3"
+      },
+      "episode": 1008,
+      "pubDate": "2021-04-07T10:42:00.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/rename-apple-podcast-chart",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1289428,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210407.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3874317,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210407.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/rename-apple-podcast-chart"
+    },
+    {
+      "title": "The illusion of 2 million podcasts",
+      "description": "In Podnews today: Do we really have 2 million podcasts? Should we be counting shows with just 3 episodes or fewer?\n     \nVisit https://podnews.net/update/2-million-illusion for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/2-million-illusion",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210406.jpeg"
+      },
+      "explicit": false,
+      "duration": 153,
+      "enclosure": {
+        "length": 3746421,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210406.mp3"
+      },
+      "episode": 1007,
+      "pubDate": "2021-04-06T08:30:47.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/2-million-illusion",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1712096,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210406.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3746421,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210406.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/2-million-illusion"
+    },
+    {
+      "title": "Wondery to double in size this year",
+      "description": "In Podnews today: Reviews for good returns; Canadian Podcast Awards open; Spotify launches Daily Drive (without the drive) in France\n     \nVisit https://podnews.net/update/wondery-doubling for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/wondery-doubling",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210405.jpeg"
+      },
+      "explicit": false,
+      "duration": 241,
+      "enclosure": {
+        "length": 5862339,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210405.mp3"
+      },
+      "episode": 1006,
+      "pubDate": "2021-04-05T10:37:40.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/wondery-doubling",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1951892,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210405.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 5862339,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210405.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/wondery-doubling"
+    },
+    {
+      "title": "Libsyn buys podcast ad company",
+      "description": "In Podnews today: The latest acquisition from Libsyn; plus Audioburst adds podcasts into any app, and Godcasts no longer the no.1 format in Apple\n     \nVisit https://podnews.net/update/libsyn-advertisecast for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/libsyn-advertisecast",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210402.jpeg"
+      },
+      "explicit": false,
+      "duration": 195,
+      "enclosure": {
+        "length": 4750150,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210402.mp3"
+      },
+      "episode": 1005,
+      "pubDate": "2021-04-02T09:14:05.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/libsyn-advertisecast",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1703339,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210402.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4750150,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210402.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/libsyn-advertisecast"
+    },
+    {
+      "title": "New children's book aims to teach podcasting ad-tech",
+      "description": "In Podnews today: A new timely podcast; AccuRadio to switch to AM; Mark Cuban's Fireside; new podcaster's bracelet; and more\n     \nVisit https://podnews.net/update/kids-book-on-podcasting for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/kids-book-on-podcasting",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210401.jpeg"
+      },
+      "explicit": false,
+      "duration": 221,
+      "enclosure": {
+        "length": 5380224,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210401.mp3"
+      },
+      "episode": 1004,
+      "pubDate": "2021-04-01T05:46:18.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/kids-book-on-podcasting",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1790752,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210401.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 5380224,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210401.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/kids-book-on-podcasting"
+    },
+    {
+      "title": "Libsyn 5 available to all in beta",
+      "description": "In Podnews today: Spotify buys Clubhouse-a-like and launched new Sound Up programs. Entercom has a new name\n     \nVisit https://podnews.net/update/libsyn5-beta-launched for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/libsyn5-beta-launched",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210331.jpeg"
+      },
+      "explicit": false,
+      "duration": 201,
+      "enclosure": {
+        "length": 4908139,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210331.mp3"
+      },
+      "episode": 1003,
+      "pubDate": "2021-03-31T10:03:12.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/libsyn5-beta-launched",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1932621,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210331.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4908139,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210331.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/libsyn5-beta-launched"
+    },
+    {
+      "title": "The acclaimed West Cork now available for free",
+      "description": "In Podnews today: Acast+ launches, Apple Podcasts Connect is a bit broken, go and vote for The Ambies, and NPR's student finalists\n     \nVisit https://podnews.net/update/west-cork-free for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/west-cork-free",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210330.jpeg"
+      },
+      "explicit": false,
+      "duration": 195,
+      "enclosure": {
+        "length": 4755793,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210330.mp3"
+      },
+      "episode": 1002,
+      "pubDate": "2021-03-30T10:31:29.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/west-cork-free",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1578698,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210330.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4755793,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210330.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/west-cork-free"
+    },
+    {
+      "title": "The Ramsey Show hits a billion",
+      "description": "In Podnews today: Podcasters can now earn Bitcoin from their podcast. And, learn what a beignet is\n     \nVisit https://podnews.net/update/ramsey-billion for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/ramsey-billion",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210329.jpeg"
+      },
+      "explicit": false,
+      "duration": 215,
+      "enclosure": {
+        "length": 5245432,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210329.mp3"
+      },
+      "episode": 1001,
+      "pubDate": "2021-03-29T09:25:27.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/ramsey-billion",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2110295,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210329.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 5245432,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210329.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/ramsey-billion"
+    },
+    {
+      "title": "Samsung launches Samsung Podcasts",
+      "description": "In Podnews today: Blubrry and Libsyn are first to partner with the phone company. And Alex Jones is still podcasting\n     \nVisit https://podnews.net/update/samsung-podcasts for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/samsung-podcasts",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210326.jpeg"
+      },
+      "explicit": false,
+      "duration": 191,
+      "enclosure": {
+        "length": 4670529,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210326.mp3"
+      },
+      "episode": 1000,
+      "pubDate": "2021-03-26T10:53:58.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/samsung-podcasts",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1553601,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210326.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4670529,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210326.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/samsung-podcasts"
+    },
+    {
+      "title": "The female economy - podcast listening among women",
+      "description": "In Podnews today: Clubhouse - male and young, says research; The Podcast Academy to start sharing resource guides\n     \nVisit https://podnews.net/update/podcast-listening-women for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/podcast-listening-women",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210325.jpeg"
+      },
+      "explicit": false,
+      "duration": 197,
+      "enclosure": {
+        "length": 4816606,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210325.mp3"
+      },
+      "episode": 999,
+      "pubDate": "2021-03-25T10:27:34.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/podcast-listening-women",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1800067,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210325.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4816606,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210325.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/podcast-listening-women"
+    },
+    {
+      "title": "There are now 2 million podcasts",
+      "description": "In Podnews today: The total number of shows hit 2,004,462 overnight. And Bryan Barletta shows us how podcast prefix analytics work\n     \nVisit https://podnews.net/update/2-million-podcasts for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/2-million-podcasts",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210324.jpeg"
+      },
+      "explicit": false,
+      "duration": 192,
+      "enclosure": {
+        "length": 4673664,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210324.mp3"
+      },
+      "episode": 998,
+      "pubDate": "2021-03-24T09:55:03.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/2-million-podcasts",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1723870,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210324.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4673664,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210324.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/2-million-podcasts"
+    },
+    {
+      "title": "PodTV launches on smart TVs and the web",
+      "description": "In Podnews today: Podcasters don't want to pay to listen, claims some data. Dan Bongino owes his radio career to podcasting\n     \nVisit https://podnews.net/update/podtv-smart-tv for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/podtv-smart-tv",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210323.jpeg"
+      },
+      "explicit": false,
+      "duration": 150,
+      "enclosure": {
+        "length": 3674323,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210323.mp3"
+      },
+      "episode": 997,
+      "pubDate": "2021-03-23T09:38:29.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/podtv-smart-tv",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1626738,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210323.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3674323,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210323.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/podtv-smart-tv"
+    },
+    {
+      "title": "Podcasting: a billion dollar market in the US this year",
+      "description": "In Podnews today: iVoox celebrates Spanish-language success; religious podcasts publish the most episodes; the podcast with 12,000 episodes\n     \nVisit https://podnews.net/update/billion-dollars-podcasting for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/billion-dollars-podcasting",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210322.jpeg"
+      },
+      "explicit": false,
+      "duration": 236,
+      "enclosure": {
+        "length": 5733817,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210322.mp3"
+      },
+      "episode": 996,
+      "pubDate": "2021-03-22T10:20:34.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/billion-dollars-podcasting",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2320034,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210322.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 5733817,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210322.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/billion-dollars-podcasting"
+    },
+    {
+      "title": "Live captions for every podcast in Google Chrome",
+      "description": "In Podnews today: Spotify India advertises podcasts on TV; Triton Digital's new podcast ranker for the US\n     \nVisit https://podnews.net/update/google-live-captions-chrome for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/google-live-captions-chrome",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210319.jpeg"
+      },
+      "explicit": false,
+      "duration": 130,
+      "enclosure": {
+        "length": 3206000,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210319.mp3"
+      },
+      "episode": 995,
+      "pubDate": "2021-03-19T06:47:25.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/google-live-captions-chrome",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1310760,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210319.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3206000,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210319.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/google-live-captions-chrome"
+    },
+    {
+      "title": "It's a date! Podcast Movement confirms dates and venues for 2022",
+      "description": "In Podnews today: In-person events next year; a proposal for an incognito mode for podcast apps; Libsyn's new director and how he could help the company\n     \nVisit https://podnews.net/update/podcast-movement-2022-dates for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/podcast-movement-2022-dates",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210318.jpeg"
+      },
+      "explicit": false,
+      "duration": 197,
+      "enclosure": {
+        "length": 4817233,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210318.mp3"
+      },
+      "episode": 994,
+      "pubDate": "2021-03-18T10:42:48.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/podcast-movement-2022-dates",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1928939,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210318.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4817233,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210318.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/podcast-movement-2022-dates"
+    },
+    {
+      "title": "Overcast to skip stats services",
+      "description": "In Podnews today: City Cast launches in Chicago; data from France; and hello Blubrry\n     \nVisit https://podnews.net/update/overcast-skips-redirects for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/overcast-skips-redirects",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210317.jpeg"
+      },
+      "explicit": false,
+      "duration": 168,
+      "enclosure": {
+        "length": 4113807,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210317.mp3"
+      },
+      "episode": 993,
+      "pubDate": "2021-03-17T10:20:20.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/overcast-skips-redirects",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1487871,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210317.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4113807,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210317.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/overcast-skips-redirects"
+    },
+    {
+      "title": "When 1 second of listening means a 90 second download",
+      "description": "In Podnews today: More changes to Apple Podcasts, as it drops the word 'free'\n     \nVisit https://podnews.net/update/streaming-myth for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/streaming-myth",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210316.jpeg"
+      },
+      "explicit": false,
+      "duration": 165,
+      "enclosure": {
+        "length": 4042336,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210316.mp3"
+      },
+      "episode": 992,
+      "pubDate": "2021-03-16T11:14:54.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/streaming-myth",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1617223,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210316.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4042336,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210316.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/streaming-myth"
+    },
+    {
+      "title": "Free music packs for podcasts",
+      "description": "In Podnews today: Free tickets to Podbean's Finance Podcast Week, too; and why to invest in @libsyn \n     \nVisit https://podnews.net/update/free-music-podcasts for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/free-music-podcasts",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210315.jpeg"
+      },
+      "explicit": false,
+      "duration": 197,
+      "enclosure": {
+        "length": 4810336,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210315.mp3"
+      },
+      "episode": 991,
+      "pubDate": "2021-03-15T10:22:40.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/free-music-podcasts",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1774464,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210315.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4810336,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210315.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/free-music-podcasts"
+    },
+    {
+      "title": "Triton Digital and Edison Research: Podcast listening up to a new high",
+      "description": "In Podnews today: 41% of US adults 12+ now listen to podcasts monthly, says the data\n     \nVisit https://podnews.net/update/infinite-dial-21 for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/infinite-dial-21",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210312.jpeg"
+      },
+      "explicit": false,
+      "duration": 177,
+      "enclosure": {
+        "length": 4322578,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210312.mp3"
+      },
+      "episode": 990,
+      "pubDate": "2021-03-12T09:16:23.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/infinite-dial-21",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1556290,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210312.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4322578,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210312.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/infinite-dial-21"
+    },
+    {
+      "title": "How no commuting affected podcasts last year",
+      "description": "In Podnews today: Apple Podcasts isn't changing automatic downloads after all\n     \nVisit https://podnews.net/update/no-commuting-no for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/no-commuting-no",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210311.jpeg"
+      },
+      "explicit": false,
+      "duration": 139,
+      "enclosure": {
+        "length": 3419786,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210311.mp3"
+      },
+      "episode": 989,
+      "pubDate": "2021-03-11T09:40:03.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/no-commuting-no",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1697815,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210311.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3419786,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210311.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/no-commuting-no"
+    },
+    {
+      "title": "Entercom acquires podcast influencer marketplace Podcorn",
+      "description": "In Podnews today: The company valued at $22.5m. And Apple Podcasts will no longer automatically download new episodes by default.\n     \nVisit https://podnews.net/update/entercom-podcorn-up for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/entercom-podcorn-up",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210310.jpeg"
+      },
+      "explicit": false,
+      "duration": 197,
+      "enclosure": {
+        "length": 4800305,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210310.mp3"
+      },
+      "episode": 988,
+      "pubDate": "2021-03-10T10:36:55.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/entercom-podcorn-up",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1893939,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210310.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4800305,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210310.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/entercom-podcorn-up"
+    },
+    {
+      "title": "'Follow our podcast': Apple Podcasts to stop using 'subscribe'",
+      "description": "In Podnews today: The way we talk about podcasts will change forever: no more 'subscribe', a lot more 'follow', as Apple follows Spotify, Amazon and Stitcher\n     \nVisit https://podnews.net/update/follow-not-subscribe for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/follow-not-subscribe",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210309.jpeg"
+      },
+      "explicit": false,
+      "duration": 205,
+      "enclosure": {
+        "length": 5007822,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210309.mp3"
+      },
+      "episode": 987,
+      "pubDate": "2021-03-09T09:56:10.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/follow-not-subscribe",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1827300,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210309.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 5007822,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210309.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/follow-not-subscribe"
+    },
+    {
+      "title": "Spotify announces a new focus on women creators",
+      "description": "In Podnews today: Spotify's EQUAL; one new podcast episode every six seconds; Aussie podcast data; recording in Clubhouse is now easier; new Podcast Index API documentation\n     \nVisit https://podnews.net/update/spot-womn for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/spot-womn",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210308.jpeg"
+      },
+      "explicit": false,
+      "duration": 205,
+      "enclosure": {
+        "length": 5009076,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210308.mp3"
+      },
+      "episode": 986,
+      "pubDate": "2021-03-08T09:33:50.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/spot-womn",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1975744,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210308.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 5009076,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210308.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/spot-womn"
+    },
+    {
+      "title": "The Ambies 2021: the full nominations",
+      "description": "In Podnews today: The nominations in full for the Ambies; Google Podcasts and Apple Podcasts to both improve, Guy Raz on Clubhouse\n     \nVisit https://podnews.net/update/ambies-2021-noms-up for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/ambies-2021-noms-up",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210305.jpeg"
+      },
+      "explicit": false,
+      "duration": 177,
+      "enclosure": {
+        "length": 4321951,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210305.mp3"
+      },
+      "episode": 985,
+      "pubDate": "2021-03-05T10:32:33.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/ambies-2021-noms-up",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1580501,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210305.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4321951,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210305.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/ambies-2021-noms-up"
+    },
+    {
+      "title": "The first podcast to be released as an NFT?",
+      "description": "In Podnews today: More stories about Gimlet's working environment. People have been keeping their LinkedIn data updated. Pavarotti\n     \nVisit https://podnews.net/update/nft-wtf for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/nft-wtf",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210304.jpeg"
+      },
+      "explicit": false,
+      "duration": 193,
+      "enclosure": {
+        "length": 4704384,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210304.mp3"
+      },
+      "episode": 984,
+      "pubDate": "2021-03-04T10:07:05.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/nft-wtf",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1957303,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210304.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4704384,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210304.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/nft-wtf"
+    },
+    {
+      "title": "The road ahead: Spotify to overtake Apple?",
+      "description": "In Podnews today: Spotify to overtake Apple - for listeners, if not downloads - this year? And there's free RAIN in New York today\n     \nVisit https://podnews.net/update/the-road-ahead for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/the-road-ahead",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210303.jpeg"
+      },
+      "explicit": false,
+      "duration": 163,
+      "enclosure": {
+        "length": 3979015,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210303.mp3"
+      },
+      "episode": 983,
+      "pubDate": "2021-03-03T10:46:11.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/the-road-ahead",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1604623,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210303.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3979015,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210303.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/the-road-ahead"
+    },
+    {
+      "title": "Lady Bird Johnson's daily audio diaries make it to podcast",
+      "description": "In Podnews today: A new archive podcast. Plus: the IAB Tech Lab asks for public feedback to an email inbox that doesn't work\n     \nVisit https://podnews.net/update/johnson-iab for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/johnson-iab",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210302.jpeg"
+      },
+      "explicit": false,
+      "duration": 195,
+      "enclosure": {
+        "length": 4765824,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210302.mp3"
+      },
+      "episode": 982,
+      "pubDate": "2021-03-02T09:24:42.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/johnson-iab",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1905516,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210302.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4765824,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210302.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/johnson-iab"
+    },
+    {
+      "title": "Nielsen: US podcast listeners are more diverse than population",
+      "description": "In Podnews today: Harry and Meghan's podcast is worth $25m. Interviewee takes Spotify to court, alleging it cast doubt on her judgement. IPv6 is coming\n     \nVisit https://podnews.net/update/diversity-of-podcast-listeners for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/diversity-of-podcast-listeners",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210301.jpeg"
+      },
+      "explicit": false,
+      "duration": 185,
+      "enclosure": {
+        "length": 4518183,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210301.mp3"
+      },
+      "episode": 981,
+      "pubDate": "2021-03-01T06:25:58.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/diversity-of-podcast-listeners",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1732065,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210301.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4518183,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210301.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/diversity-of-podcast-listeners"
+    },
+    {
+      "title": "Android gains against iOS worldwide",
+      "description": "In Podnews today: iHeartMedia splits into two divisions; there's a podcast studio coming to the Wynn Las Vegas; Clubhouse dodginess\n     \nVisit https://podnews.net/update/android-gaining-on-ios for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/android-gaining-on-ios",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210226.jpeg"
+      },
+      "explicit": false,
+      "duration": 200,
+      "enclosure": {
+        "length": 4883688,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210226.mp3"
+      },
+      "episode": 980,
+      "pubDate": "2021-02-26T05:13:09.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/android-gaining-on-ios",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1727837,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210226.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4883688,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210226.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/android-gaining-on-ios"
+    },
+    {
+      "title": "BetterHelp spent $4.4m on podcasts in January",
+      "description": "In Podnews today: The #1 podcaster in the US, DAX goes for Canada-NPR-eh, iHeart goes for the UK\n     \nVisit https://podnews.net/update/betterhelp-jan for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/betterhelp-jan",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210225.jpeg"
+      },
+      "explicit": false,
+      "duration": 155,
+      "enclosure": {
+        "length": 3792188,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210225.mp3"
+      },
+      "episode": 979,
+      "pubDate": "2021-02-25T13:19:49.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/betterhelp-jan",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1555606,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210225.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3792188,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210225.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/betterhelp-jan"
+    },
+    {
+      "title": "Attacks briefly knock some podcast hosts offline",
+      "description": "In Podnews today: We speak to the hacker behind a set of DDoS attacks on podcast hosts. A company transcribes podcasts without permission. Cumulus Media sees 1bn downloads\n     \nVisit https://podnews.net/update/ddos-attacks for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/ddos-attacks",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210224.jpeg"
+      },
+      "explicit": false,
+      "duration": 192,
+      "enclosure": {
+        "length": 4688710,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210224.mp3"
+      },
+      "episode": 978,
+      "pubDate": "2021-02-24T08:15:22.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/ddos-attacks",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2587425,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210224.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4688710,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210224.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/ddos-attacks"
+    },
+    {
+      "title": "Subscriptions, new features and The Bosses: Spotify's big day",
+      "description": "In Podnews today: Spotify launches paid subscriptions, podcast advertising, better searching, video podcasting, new shows, more countries, etc etc etc\n     \nVisit https://podnews.net/update/spotify-stream-on for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/spotify-stream-on",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210223.jpeg"
+      },
+      "explicit": false,
+      "duration": 278,
+      "enclosure": {
+        "length": 6738800,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210223.mp3"
+      },
+      "episode": 977,
+      "pubDate": "2021-02-23T08:30:08.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/spotify-stream-on",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2448309,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210223.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 6738800,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210223.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/spotify-stream-on"
+    },
+    {
+      "title": "TED launches TED Audio Collective for podcasts",
+      "description": "In Podnews today: Buzzsprout suffers DDOS attack, Podimo attracts more funding, and the tech stuff\n     \nVisit https://podnews.net/update/ted-audio-collective-launched for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/ted-audio-collective-launched",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210222.jpeg"
+      },
+      "explicit": false,
+      "duration": 220,
+      "enclosure": {
+        "length": 5368312,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210222.mp3"
+      },
+      "episode": 976,
+      "pubDate": "2021-02-22T11:00:00.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/ted-audio-collective-launched",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2084888,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210222.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 5368312,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210222.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/ted-audio-collective-launched"
+    },
+    {
+      "title": "Who's moving where?",
+      "description": "In Podnews today: Live data to show the hosts that established podcasts are switching to. RadioPublic acquired by Acast. And, trouble at @replyall \n     \nVisit https://podnews.net/update/podcasters-choosing-new-hosts for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/podcasters-choosing-new-hosts",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210219.jpeg"
+      },
+      "explicit": false,
+      "duration": 173,
+      "enclosure": {
+        "length": 4235433,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210219.mp3"
+      },
+      "episode": 975,
+      "pubDate": "2021-02-19T11:00:00.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/podcasters-choosing-new-hosts",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1573382,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210219.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4235433,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210219.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/podcasters-choosing-new-hosts"
+    },
+    {
+      "title": "iHeartMedia to buy Triton Digital",
+      "description": "In Podnews today: The #1 in podcasting gets more #1-like. AdsWizz gets new IAB certification. PodcastOS, and Clubhouse\n     \nVisit https://podnews.net/update/iheart-triton for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/iheart-triton",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210218.jpeg"
+      },
+      "explicit": false,
+      "duration": 192,
+      "enclosure": {
+        "length": 4675544,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210218.mp3"
+      },
+      "episode": 974,
+      "pubDate": "2021-02-18T07:07:16.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/iheart-triton",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1923025,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210218.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4675544,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210218.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/iheart-triton"
+    },
+    {
+      "title": "Andy Bowers is co-founder of new podcast company",
+      "description": "In Podnews today: Amazon Music is hiring; Spotify is doing a live event thing; Buzzsprout imports podcast stats\n     \nVisit https://podnews.net/update/andy-bowers-pitaya for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/andy-bowers-pitaya",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210217.jpeg"
+      },
+      "explicit": false,
+      "duration": 119,
+      "enclosure": {
+        "length": 2930774,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210217.mp3"
+      },
+      "episode": 973,
+      "pubDate": "2021-02-17T04:19:28.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/andy-bowers-pitaya",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1290202,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210217.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 2930774,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210217.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/andy-bowers-pitaya"
+    },
+    {
+      "title": "Acast reaffirms commitment to open podcasting",
+      "description": "In Podnews today: Open podcasting is the thing, says Acast. Spotify posts clips of Joe Rogan on open RSS to entice listeners. MENA podcast listening data\n     \nVisit https://podnews.net/update/acast-open-podcasting for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/acast-open-podcasting",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210216.jpeg"
+      },
+      "explicit": false,
+      "duration": 169,
+      "enclosure": {
+        "length": 4124465,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210216.mp3"
+      },
+      "episode": 972,
+      "pubDate": "2021-02-16T10:48:32.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/acast-open-podcasting",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1526048,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210216.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4124465,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210216.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/acast-open-podcasting"
+    },
+    {
+      "title": "Who wants to moderate podcasts?",
+      "description": "In Podnews today: A new job at Apple; another French ranker; ffmpeg command line fun; iHeart's new collaboration with APM and the BBC\n     \nVisit https://podnews.net/update/podcasting-moderation for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/podcasting-moderation",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210215.jpeg"
+      },
+      "explicit": false,
+      "duration": 262,
+      "enclosure": {
+        "length": 6375175,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210215.mp3"
+      },
+      "episode": 971,
+      "pubDate": "2021-02-15T06:51:02.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/podcasting-moderation",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2339050,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210215.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 6375175,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210215.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/podcasting-moderation"
+    },
+    {
+      "title": "Libsyn acquires production platform Auxbus",
+      "description": "In Podnews today: Happy Africa Podcast Day! NPR listeners are getting more loyal; and money off Hindenburg tomorrow\n     \nVisit https://podnews.net/update/libsyn-auxbus for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/libsyn-auxbus",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210212.jpeg"
+      },
+      "explicit": false,
+      "duration": 236,
+      "enclosure": {
+        "length": 5731936,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210212.mp3"
+      },
+      "episode": 970,
+      "pubDate": "2021-02-12T08:55:14.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/libsyn-auxbus",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1907380,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210212.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 5731936,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210212.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/libsyn-auxbus"
+    },
+    {
+      "title": "iHeartRadio still No.1 in Australia",
+      "description": "In Podnews today: iHeart still No.1 For Podcasts; Podz launches; Libsyn5 in beta; and Austrian podcasts awarded\n     \nVisit https://podnews.net/update/iheart-australia-jan21 for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/iheart-australia-jan21",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210211.jpeg"
+      },
+      "explicit": false,
+      "duration": 182,
+      "enclosure": {
+        "length": 4447339,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210211.mp3"
+      },
+      "episode": 969,
+      "pubDate": "2021-02-11T10:50:07.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/iheart-australia-jan21",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1476661,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210211.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4447339,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210211.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/iheart-australia-jan21"
+    },
+    {
+      "title": "iHeart 3D Audio to make podcasts more immersive",
+      "description": "In Podnews today: Binaural podcasting to be more of a thing; Edison Research release top shows of 2020; Backtracks' new player SDK\n     \nVisit https://podnews.net/update/iheart-3d-audio-binaural for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/iheart-3d-audio-binaural",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210210.jpeg"
+      },
+      "explicit": false,
+      "duration": 195,
+      "enclosure": {
+        "length": 4760181,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210210.mp3"
+      },
+      "episode": 968,
+      "pubDate": "2021-02-10T06:38:50.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/iheart-3d-audio-binaural",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1580625,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210210.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4760181,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210210.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/iheart-3d-audio-binaural"
+    },
+    {
+      "title": "Mark Cuban's 'next-gen' podcasting platform",
+      "description": "In Podnews today: Cuban to launch Clubhousealike; Acast Norway sees 266% increase in revenue; and how to get another billion podcast listeners\n     \nVisit https://podnews.net/update/cuban-fireside-not-that-fireside for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/cuban-fireside-not-that-fireside",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210209.jpeg"
+      },
+      "explicit": false,
+      "duration": 224,
+      "enclosure": {
+        "length": 5442290,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210209.mp3"
+      },
+      "episode": 967,
+      "pubDate": "2021-02-09T10:34:32.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/cuban-fireside-not-that-fireside",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 476696,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210209.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 5442290,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210209.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/cuban-fireside-not-that-fireside"
+    },
+    {
+      "title": "Fair use - what it means for podcasters",
+      "description": "In Podnews today: Fair use and you; Andy Mills resigns from the NYT; Paris Hilton and Mike Pence to make (separate) podcasts\n     \nVisit https://podnews.net/update/fair-use-podcasters-mills for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/fair-use-podcasters-mills",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210208.jpeg"
+      },
+      "explicit": false,
+      "duration": 242,
+      "enclosure": {
+        "length": 5895567,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210208.mp3"
+      },
+      "episode": 966,
+      "pubDate": "2021-02-08T10:47:06.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/fair-use-podcasters-mills",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1958015,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210208.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 5895567,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210208.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/fair-use-podcasters-mills"
+    },
+    {
+      "title": "The New York Times made $36m from podcast ads in 2020",
+      "description": "In Podnews today: Michael Barbaro apologises; Google Podcasts tweaks; Lantigua-Williams launches; Joe Budden confusion\n     \nVisit https://podnews.net/update/nyt-q2020 for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/nyt-q2020",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210205.jpeg"
+      },
+      "explicit": false,
+      "duration": 141,
+      "enclosure": {
+        "length": 3471822,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210205.mp3"
+      },
+      "episode": 965,
+      "pubDate": "2021-02-05T08:30:21.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/nyt-q2020",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1150317,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210205.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 3471822,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210205.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/nyt-q2020"
+    },
+    {
+      "title": "A quarter of Spotify users now use podcasts there too",
+      "description": "In Podnews today: Podcast consumption in Denmark grows; support for podcast:location tag, and Radio France does a deal\n     \nVisit https://podnews.net/update/spotify-q42020 for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/spotify-q42020",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210204.jpeg"
+      },
+      "explicit": false,
+      "duration": 194,
+      "enclosure": {
+        "length": 4731342,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210204.mp3"
+      },
+      "episode": 964,
+      "pubDate": "2021-02-04T10:20:31.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/spotify-q42020",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1572412,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210204.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4731342,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210204.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/spotify-q42020"
+    },
+    {
+      "title": "There were two new podcasts every minute in 2020",
+      "description": "In Podnews today: Amazon Music launches in Canada; iHeartRadio still #1; Resistance returns\n     \nVisit https://podnews.net/update/two-a-second for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/two-a-second",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210203.jpeg"
+      },
+      "explicit": false,
+      "duration": 241,
+      "enclosure": {
+        "length": 5866728,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210203.mp3"
+      },
+      "episode": 963,
+      "pubDate": "2021-02-03T10:32:16.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/two-a-second",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1948960,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210203.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 5866728,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210203.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/two-a-second"
+    },
+    {
+      "title": "New podcast shows off DAI building blocks",
+      "description": "In Podnews today: New version of SquadCast; Apple Podcasts to get a redesign; and when 'forever free' isn't forever\n     \nVisit https://podnews.net/update/dai-podcast for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/dai-podcast",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210202.jpeg"
+      },
+      "explicit": false,
+      "duration": 197,
+      "enclosure": {
+        "length": 4795917,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210202.mp3"
+      },
+      "episode": 962,
+      "pubDate": "2021-02-02T10:35:23.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/dai-podcast",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1581227,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210202.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4795917,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210202.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/dai-podcast"
+    },
+    {
+      "title": "New Spotify book, and  patent for mood detection by voice",
+      "description": "In Podnews today: A new microphone for under $100; 1-in-10 podcasts using the new podcast namespace tags; and Sounds Profitable starts a new podcast\n     \nVisit https://podnews.net/update/spotify-book for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/spotify-book",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210201.jpeg"
+      },
+      "explicit": false,
+      "duration": 276,
+      "enclosure": {
+        "length": 6697422,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210201.mp3"
+      },
+      "episode": 961,
+      "pubDate": "2021-02-01T10:53:58.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/spotify-book",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2210700,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210201.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 6697422,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210201.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/spotify-book"
+    },
+    {
+      "title": "New global podcasting conference announced",
+      "description": "In Podnews today: Spotify is #1 in Spain; the NYT's audio department gets a supervisor; and the meaning of the Anchor logo\n     \nVisit https://podnews.net/update/podcastday24-conference for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/podcastday24-conference",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210129.jpeg"
+      },
+      "explicit": false,
+      "duration": 171,
+      "enclosure": {
+        "length": 4188413,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210129.mp3"
+      },
+      "episode": 960,
+      "pubDate": "2021-01-29T05:46:32.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/podcastday24-conference",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1376932,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210129.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4188413,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210129.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/podcastday24-conference"
+    },
+    {
+      "title": "PodcastOne: 'Podcasting to grow to $5-10bn through video'",
+      "description": "In Podnews today: Transistor's Justin Jackson says podcasting's slow and steady growth is right for the industry, though. Downloads slump almost 10% during holiday season.\n     \nVisit https://podnews.net/update/podcast-one-video for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/podcast-one-video",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210128.jpeg"
+      },
+      "explicit": false,
+      "duration": 177,
+      "enclosure": {
+        "length": 4320697,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210128.mp3"
+      },
+      "episode": 959,
+      "pubDate": "2021-01-28T06:38:20.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/podcast-one-video",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1424798,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210128.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4320697,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210128.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/podcast-one-video"
+    },
+    {
+      "title": "Anchor gets a new look",
+      "description": "In Podnews today: Spotify adds audiobooks. New players for Backtracks and Shuffle. Libsyn adds Podcast Index namespace. The podcasts earning the big bucks from Patreon.\n     \nVisit https://podnews.net/update/new-look-for-anchor for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/new-look-for-anchor",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210127.jpeg"
+      },
+      "explicit": false,
+      "duration": 182,
+      "enclosure": {
+        "length": 4447966,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210127.mp3"
+      },
+      "episode": 958,
+      "pubDate": "2021-01-27T04:44:15.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/new-look-for-anchor",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1466613,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210127.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4447966,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210127.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/new-look-for-anchor"
+    },
+    {
+      "title": "How Jordan Harbinger buys $40,000 of host-read ads a month",
+      "description": "In Podnews today: What a podcast advertiser is looking for in a good host-read ad. Podmetrics launches monetisation for podcasts of all sizes. Podcast ad growth. A new big podcast\n     \nVisit https://podnews.net/update/jordan-harbinger-host-read for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/jordan-harbinger-host-read",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210126.jpeg"
+      },
+      "explicit": false,
+      "duration": 201,
+      "enclosure": {
+        "length": 4895600,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210126.mp3"
+      },
+      "episode": 957,
+      "pubDate": "2021-01-26T06:45:17.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/jordan-harbinger-host-read",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1613269,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210126.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4895600,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210126.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/jordan-harbinger-host-read"
+    },
+    {
+      "title": "Magellan AI launch 'Really Good Podcast Ads'",
+      "description": "In Podnews today: A place to find really good podcast ads. Andrew Yang sells bidets. Larry King on interviewing. How to get great show notes\n     \nVisit https://podnews.net/update/really-good-podcast-ads for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/really-good-podcast-ads",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210125.jpeg"
+      },
+      "explicit": false,
+      "duration": 266,
+      "enclosure": {
+        "length": 6467962,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210125.mp3"
+      },
+      "episode": 956,
+      "pubDate": "2021-01-25T09:33:41.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/really-good-podcast-ads",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 2136763,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210125.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 6467962,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210125.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/really-good-podcast-ads"
+    },
+    {
+      "title": "Office Ladies is Podcast of the Year at the iHeart Podcast Awards",
+      "description": "In Podnews today: Spotify launches Streaming Ad Insertion in the UK and Germany. Anchor buys ads for itself on its own service; and more on podcasting's 20th anniversary.\n     \nVisit https://podnews.net/update/office-ladies-podcast-of-the-year for all the podcasting news, and to get our daily newsletter.",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "full",
+      "guid": "https://podnews.net/update/office-ladies-podcast-of-the-year",
+      "image": {
+        "url": "https://podnews.net/audio/podnews210122.jpeg"
+      },
+      "explicit": false,
+      "duration": 199,
+      "enclosure": {
+        "length": 4845445,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnews210122.mp3"
+      },
+      "episode": 955,
+      "pubDate": "2021-01-22T08:36:25.000Z",
+      "transcript": [
+        {
+          "url": "https://podnews.net/update/office-ladies-podcast-of-the-year",
+          "type": "text/html"
+        }
+      ],
+      "alternateEnclosure": [
+        {
+          "type": "audio/aac",
+          "length": 1596878,
+          "bitrate": 64000,
+          "title": "AAC",
+          "default": true,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210122.m4a"
+            }
+          ]
+        },
+        {
+          "type": "audio/mpeg",
+          "length": 4845445,
+          "bitrate": 112000,
+          "title": "MP3",
+          "default": false,
+          "source": [
+            {
+              "uri": "https://podnews.net/audio/podnews210122.mp3"
+            }
+          ]
+        }
+      ],
+      "link": "https://podnews.net/update/office-ladies-podcast-of-the-year"
+    },
+    {
+      "title": "Podnews - your daily briefing for podcasting and on-demand",
+      "description": "Visit podnews.net to get our newsletter",
+      "subtitle": "Visit podnews.net to get our newsletter",
+      "author": "james@crid.land (James Cridland)",
+      "episodeType": "trailer",
+      "guid": "https://podnews.net",
+      "explicit": false,
+      "duration": 24,
+      "enclosure": {
+        "length": 646836,
+        "type": "audio/mpeg",
+        "url": "https://podnews.net/audio/podnewspromov2.mp3"
+      },
+      "pubDate": "2018-09-28T00:00:00.000Z",
+      "link": "https://podnews.net/"
+    }
+  ]
+}

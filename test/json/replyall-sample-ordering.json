@@ -26,8 +26,6 @@
       "title": "Reply All"
     },
     "explicit": true,
-    "lastBuildDate": "1970-01-01T00:00:00.000Z",
-    "pubDate": "1970-01-01T00:00:00.000Z",
     "link": "http://gimletmedia.com/shows/reply-all",
     "links": [
       {
@@ -65,7 +63,6 @@
         "type": "audio/mpeg",
         "url": "https://traffic.megaphone.fm/GLT5626794585.mp3"
       },
-      "lastBuildDate": "1970-01-01T00:00:00.000Z",
       "pubDate": "2014-11-24T13:00:00.000Z"
     },
     {
@@ -91,7 +88,6 @@
         "type": "audio/mpeg",
         "url": "https://traffic.megaphone.fm/GLT4726279763.mp3"
       },
-      "lastBuildDate": "1970-01-01T00:00:00.000Z",
       "pubDate": "2014-11-24T13:00:00.000Z"
     },
     {
@@ -117,7 +113,6 @@
         "type": "audio/mpeg",
         "url": "https://traffic.megaphone.fm/GLT8886497634.mp3"
       },
-      "lastBuildDate": "1970-01-01T00:00:00.000Z",
       "pubDate": "2014-11-06T23:25:29.000Z"
     }
   ]

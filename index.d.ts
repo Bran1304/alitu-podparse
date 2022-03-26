@@ -50,6 +50,15 @@ declare module 'podparse' {
 
         trailer?: Trailer[];
         value?: Value[];
+
+        network?: Network;
+        seriesDetails?: SeriesDetails;
+
+        importFeedUrl?: string;
+        updatedAt?: string;
+        createdAt?: string;
+        deleted?: boolean;
+        exclusive?: string;
     }
 
     export interface Episode {
@@ -91,6 +100,12 @@ declare module 'podparse' {
 
         socialInteract?: SocialInteract[];
         value?: Value[];
+
+        updatedAt?: string;
+        createdAt?: string;
+        exclusive?: string;
+
+        cta?: CTA[];
     }
 
     export type LiveItemStatus = 'pending' | 'live' | 'ended';
@@ -154,6 +169,30 @@ declare module 'podparse' {
     export interface License {
         slug: string;
         url?: string;
+    }
+
+    export interface Network {
+        name: string;
+        slug?: string;
+        id?: string;
+    }
+
+    export interface SeriesDetails {
+        frequency?: string;
+        daysLive?: number;
+    }
+
+    export interface CTA {
+        headline?: string;
+        subtitle?: string;
+        actions?: CTAActions[];
+    }
+
+    export interface CTAActions {
+        class?: string;
+        disposition?: string;
+        href?: string;
+        label?: string;
     }
 
     export interface ValueRecipient {

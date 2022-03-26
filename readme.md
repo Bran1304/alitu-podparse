@@ -47,7 +47,12 @@ This package:
 * GeoRSS (`http://www.georss.org/georss`)
 * Omny (`https://omny.fm/rss-extensions`)
 * Acast (`https://schema.acast.com/1.0/`)
+  * Podaccess (`https://access.acast.com/schema/1.0/`)
 * Podping (`https://podping.info/specification/1`)
+* Anchor (`https://anchor.fm/xmlns`)
+* SoundOn (`http://soundon.fm/spec/podcast-1.0`)
+* RadioPublic (`https://w3id.org/rp/v1`)
+* BBC (`http://bbc.co.uk/2009/01/ppgRss`)
 * [Podcast Namespace](https://github.com/Podcastindex-org/podcast-namespace) (`https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md`)
 
 ## Overview

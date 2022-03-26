@@ -25,6 +25,10 @@
     "pubDate": "2020-08-10T00:00:16.000Z",
     "showId": "2b0d74ba-ec2d-4b08-93c1-ed0941812903",
     "showUrl": "tvillingpodden",
+    "network": {
+      "name": "Tvillingpodden",
+      "id": "aad26fb8-ff06-befb-55af-12f20c16b85b"
+    },
     "receiver": "https://interaction.acast.com/pingback",
     "link": "https://play.acast.com/s/tvillingpodden",
     "links": [
@@ -53,7 +57,6 @@
         "type": "audio/mpeg",
         "url": "https://sphinx.acast.com/tvillingpodden/292.ostsnippa/media.mp3"
       },
-      "lastBuildDate": "1970-01-01T00:00:00.000Z",
       "pubDate": "2020-08-10T00:00:16.000Z",
       "episodeUrl": "292.ostsnippa",
       "episodeId": "c0622b11-f879-4a28-adea-25bc81b532d6",

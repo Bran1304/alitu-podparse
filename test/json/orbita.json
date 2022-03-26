@@ -20,8 +20,6 @@
       "title": "Fora de órbita"
     },
     "explicit": false,
-    "lastBuildDate": "1970-01-01T00:00:00.000Z",
-    "pubDate": "1970-01-01T00:00:00.000Z",
     "link": "https://www.spreaker.com/show/no-mundo-da-lua",
     "links": [
       {
@@ -61,7 +59,6 @@
         "type": "audio/mpeg",
         "url": "https://api.spreaker.com/download/episode/24186372/primeiro_epis_dio_no_mundo_da_lua.mp3"
       },
-      "lastBuildDate": "1970-01-01T00:00:00.000Z",
       "pubDate": "2020-03-24T08:00:00.000Z",
       "link": "https://www.spreaker.com/user/papierpodcast/ep1-mundo-da-lua"
     },
@@ -80,7 +77,6 @@
         "type": "audio/mpeg",
         "url": "https://api.spreaker.com/download/episode/24268390/a.mp3"
       },
-      "lastBuildDate": "1970-01-01T00:00:00.000Z",
       "pubDate": "2020-03-22T23:21:00.000Z",
       "link": "https://www.spreaker.com/user/papierpodcast/teaser-fora"
     }

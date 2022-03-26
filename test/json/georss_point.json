@@ -2,16 +2,12 @@
   "meta": {
     "title": "Earthquakes",
     "subtitle": "International earthquake observation labs",
-    "lastBuildDate": "1970-01-01T00:00:00.000Z",
-    "pubDate": "1970-01-01T00:00:00.000Z",
     "links": []
   },
   "episodes": [
     {
       "title": "M 3.2, Mona Passage",
       "summary": "We just had a big one.",
-      "lastBuildDate": "1970-01-01T00:00:00.000Z",
-      "pubDate": "1970-01-01T00:00:00.000Z",
       "clipId": "bd6e1cae-b8fe-4c39-a947-ab7d00020c51",
       "point": [
         45.256,

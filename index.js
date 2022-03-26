@@ -29,6 +29,7 @@ const entityMap = new Map([
   ['&trade;', '™'],
   ['&larr;', '←'],
   ['&cent;', '¢'],
+  ['&pound;', '£'],
   ['&rsquo;', '’'],
   ['&lsquo;', '‘'],
   ['&zwnj;', String.fromCodePoint(8204)],
@@ -44,6 +45,9 @@ const entityMap = new Map([
   ['&euro;', '€'],
   ['&Oslash;', 'Ø'],
   ['&oslash;', 'ø'],
+  ['&middot;', '·'],
+  ['&Auml;', 'Ä'],
+  ['&auml;', 'ä'],
 ]);
 
 function fromEntries(entries) {
@@ -96,20 +100,20 @@ const uniq = (arr) => Array.from(new Set(arr));
 
 // Get text content for a given node
 function getTextForNode({ children }) {
-  if (!children || children.length === 0) { return null; }
+  if (!children || children.length === 0) { return undefined; }
   const textNode = children.find(({ type }) => type === 'text');
   return (textNode) ? textNode.text.trim() : textNode;
 }
 
 // Get text content for a the first node
 function getText([node]) {
-  if (!node) { return null; }
+  if (!node) { return undefined; }
   return getTextForNode(node);
 }
 
 // Get attribute from first node
 function getAttribute([node], attrName) {
-  if (!node) { return null; }
+  if (!node) { return undefined; }
   return node.attributes[attrName];
 }
 
@@ -129,7 +133,7 @@ const getFloat = (nodes) => Number.parseFloat(getText(nodes), 10);
 
 function isYes(nodes) {
   const string = getText(nodes);
-  if (isEmptyString(string)) { return null; }
+  if (isEmptyString(string)) { return undefined; }
   return (string.toLowerCase() === 'yes');
 }
 
@@ -246,11 +250,11 @@ const rssElements = Object.freeze({
   generator: getText,
   countryOfOrigin: getText, // spotify
   limit: ([node]) => { // spotify
-    if (!(node && node.children)) { return null; }
+    if (!(node && node.children)) { return undefined; }
     return Number.parseInt(getAttribute([node], 'recentCount'), 10);
   },
   chapters: ([node]) => {
-    if (!node) { return null; }
+    if (!node) { return undefined; }
 
     // PodLove Chapters
     if (node.children && node.children.length > 0) {
@@ -264,7 +268,7 @@ const rssElements = Object.freeze({
 
     // Both url and type are required
     if (isEmptyString(url) || isEmptyString(type)) {
-      return null;
+      return undefined;
     }
 
     return removeEmpties({
@@ -291,14 +295,14 @@ const rssElements = Object.freeze({
     ).sort();
   },
   owner: ([node]) => {
-    if (!(node && node.children && node.children.length)) { return null; }
+    if (!(node && node.children && node.children.length)) { return undefined; }
     return removeEmpties({
       name: getText(findNodesLike(node, 'name')),
       email: getText(findNodesLike(node, 'email')),
     });
   },
   image: ([node]) => {
-    if (!(node && node.children)) { return null; }
+    if (!(node && node.children)) { return undefined; }
 
     // i.e. <image><url>http://cdn.example.org/mylogo.png</url></image>
     const urlNode = findNode(node, 'url');
@@ -324,7 +328,7 @@ const rssElements = Object.freeze({
   },
   explicit: (nodes) => {
     const nodeStr = getText(nodes);
-    if (isEmptyString(nodeStr)) { return null; }
+    if (isEmptyString(nodeStr)) { return undefined; }
     const explicitString = nodeStr.toLowerCase();
 
     // Values meaning explicit
@@ -337,16 +341,16 @@ const rssElements = Object.freeze({
       return false;
     }
 
-    return null;
+    return undefined;
   },
   complete: isYes,
   blocked: isYes,
   isClosedCaptioned: isYes,
   duration: ([node]) => {
-    if (!node) { return null; }
+    if (!node) { return undefined; }
 
     const dur = getText([node]);
-    if (isEmptyString(dur)) { return null; }
+    if (isEmptyString(dur)) { return undefined; }
 
     const times = dur.split(':').map(Number);
     const [h, m, s] = times;
@@ -362,7 +366,7 @@ const rssElements = Object.freeze({
     }
   },
   enclosure: ([node]) => {
-    if (!(node && node.children)) { return null; }
+    if (!(node && node.children)) { return undefined; }
 
     // i.e. <enclosure length="28882931" type="audio/mpeg" url="http://cdn.example.org/episode-1.mp3" />
     const url = getAttribute([node], 'url');
@@ -374,10 +378,10 @@ const rssElements = Object.freeze({
       });
     }
 
-    return null;
+    return undefined;
   },
   content: ([node]) => {
-    if (!(node && node.children)) { return null; }
+    if (!(node && node.children)) { return undefined; }
 
     // i.e. <media:content url="https://cdn.example.org/episode-1.mp3" fileSize="19745645" type="audio/mpeg" />
     const url = getAttribute([node], 'url');
@@ -389,7 +393,7 @@ const rssElements = Object.freeze({
       });
     }
 
-    return null;
+    return undefined;
   },
   order: getInteger,
   season: getInteger,
@@ -399,21 +403,83 @@ const rssElements = Object.freeze({
   pubDate: getDate,
   // Omny
   clipId: getText,
-  // Acast (excluding settings, signature, and network)
+  // Acast (excluding settings, signature)
+  // See https://learn.acast.com/en/articles/4465740-flex-advanced-encrypted-xml
   showId: getText,
   showUrl: getText,
   episodeUrl: getText,
   episodeId: getText,
+  importedFeed: getText,
+  // Acast or BBC
+  network: ([node]) => {
+    if (!node) { return undefined; }
+
+    const nameAttr = getAttribute([node], 'name');
+    const text = getText([node]);
+    if (isEmptyString(nameAttr) && isEmptyString(text)) { return undefined; }
+    const name = (nameAttr || text);
+
+    const slug = getAttribute([node], 'slug');
+    const id = getAttribute([node], 'id');
+
+    return removeEmpties({
+      name,
+      slug: (isEmptyString(slug) ? undefined : slug),
+      id: (isEmptyString(id) ? undefined : id),
+    });
+  },
+  // BBC (excluding canonical, enclosureSecure, enclosureLegacy, systemRef)
+  seriesDetails: ([node]) => {
+    if (!node) { return undefined; }
+
+    const frequency = getAttribute([node], 'frequency');
+    const daysLive = Number.parseInt(getAttribute([node], 'daysLive'), 10);
+
+    return removeEmpties({
+      frequency: (isEmptyString(frequency) ? undefined : frequency),
+      daysLive: (Number.isNaN(daysLive) ? undefined : daysLive),
+    });
+  },
+  // SoundOn
+  importFeedUrl: getText,
+  updatedAt: getDate,
+  createdAt: getDate,
+  deleted: isYes,
+  exclusive: getText,
+  facebookUrl: getText,
+  youtubeUrl: getText,
+  instagramUrl: getText,
+  // RadioPublic
+  cta: (nodes) => nodes.map((node) => {
+    const headline = getAttribute([node], 'headline');
+    const subtitle = getAttribute([node], 'subtitle');
+    const actions = findNodesLike(node, 'action');
+
+    if (isEmptyString(headline) && isEmptyString(subtitle)) {
+      return undefined;
+    }
+
+    return removeEmpties({
+      headline,
+      subtitle,
+      actions: actions.map((action) => removeEmpties({
+        class: getAttribute([action], 'class'),
+        disposition: getAttribute([action], 'disposition'),
+        href: getAttribute([action], 'href'),
+        label: getAttribute([action], 'label'),
+      })),
+    });
+  }),
   // Pingback
   receiver: getText,
   // GeoRSS
   lat: getFloat,
   long: getFloat,
   point: ([node]) => {
-    if (!node) { return null; }
+    if (!node) { return undefined; }
 
     const pt = getText([node]);
-    if (isEmptyString(pt)) { return null; }
+    if (isEmptyString(pt)) { return undefined; }
 
     // i.e. '45.256 -71.92'
     return pt.split(' ').map(Number); // [45.256, -71.92]
@@ -422,7 +488,7 @@ const rssElements = Object.freeze({
   locked: isYes, // count = single
   // Location
   location: ([node]) => {
-    if (!node) { return null; } // count = single
+    if (!node) { return undefined; } // count = single
 
     const name = getText([node]); // i.e. Jacksonville, FL, USA
 
@@ -474,7 +540,7 @@ const rssElements = Object.freeze({
   })).filter(({ url, name }) => !(isEmptyString(name) || isEmptyString(url))),
   // Host Identifier
   id: ([node]) => {
-    if (!node) { return null; } // count = single
+    if (!node) { return undefined; } // count = single
 
     // See list of service slugs: https://github.com/Podcastindex-org/podcast-namespace/blob/main/serviceslugs.txt
     const platform = getAttribute([node], 'platform');
@@ -482,7 +548,7 @@ const rssElements = Object.freeze({
     const url = getAttribute([node], 'url');
 
     if (isEmptyString(platform) || isEmptyString(id)) {
-      return null;
+      return undefined;
     }
 
     return removeEmpties({
@@ -493,12 +559,12 @@ const rssElements = Object.freeze({
   },
   // License
   license: ([node]) => {
-    if (!node) { return null; } // count = single
+    if (!node) { return undefined; } // count = single
     const slug = getText([node]);
     const url = getAttribute([node], 'url');
 
     if (isEmptyString(slug) && isEmptyString(url)) {
-      return null;
+      return undefined;
     }
 
     return removeEmpties({
@@ -507,23 +573,23 @@ const rssElements = Object.freeze({
   },
   // Medium
   medium: ([node]) => {
-    if (!node) { return null; } // count = single
+    if (!node) { return undefined; } // count = single
     const medium = getText([node]);
 
     if (isEmptyString(medium)) {
-      return null;
+      return undefined;
     }
 
     return medium.toLowerCase();
   },
   // Gateway
   gateway: ([node]) => {
-    if (!node) { return null; } // count = single
+    if (!node) { return undefined; } // count = single
     const text = getText([node]);
     const order = Number.parseInt(getAttribute([node], 'order'), 10);
 
     if (isEmptyString(text)) {
-      return null;
+      return undefined;
     }
 
     if (Number.isNaN(order)) {
@@ -535,11 +601,11 @@ const rssElements = Object.freeze({
     };
   },
   images: ([node]) => {
-    if (!node) { return null; } // count = single
+    if (!node) { return undefined; } // count = single
     const srcset = getAttribute([node], 'srcset');
 
     if (!srcset || isEmptyString(srcset)) {
-      return null;
+      return undefined;
     }
 
     const normalizedSrcset = replaceAll(srcset, /,(\s+)?/gui, ',\n');

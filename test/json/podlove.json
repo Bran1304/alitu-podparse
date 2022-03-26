@@ -3,8 +3,6 @@
     "title": "Podlove Podcast",
     "countryOfOrigin": "us",
     "limit": 1,
-    "lastBuildDate": "1970-01-01T00:00:00.000Z",
-    "pubDate": "1970-01-01T00:00:00.000Z",
     "links": []
   },
   "episodes": [
@@ -32,7 +30,6 @@
           "title": "Resumée"
         }
       ],
-      "lastBuildDate": "1970-01-01T00:00:00.000Z",
       "pubDate": "2012-03-23T23:25:19.000Z"
     }
   ]

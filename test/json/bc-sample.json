@@ -54,7 +54,6 @@
       },
       "season": 1,
       "episode": 3,
-      "lastBuildDate": "1970-01-01T00:00:00.000Z",
       "pubDate": "2018-11-29T10:30:00.000Z",
       "link": "http://allthingschemical.libsyn.com/confidential-business-information-under-tsca"
     },
@@ -77,7 +76,6 @@
       },
       "season": 1,
       "episode": 2,
-      "lastBuildDate": "1970-01-01T00:00:00.000Z",
       "pubDate": "2018-11-15T05:00:00.000Z",
       "link": "http://allthingschemical.libsyn.com/chemical-regulation-in-the-middle-east"
     },
@@ -101,7 +99,6 @@
       },
       "season": 1,
       "episode": 1,
-      "lastBuildDate": "1970-01-01T00:00:00.000Z",
       "pubDate": "2018-11-01T00:44:55.000Z",
       "link": "http://allthingschemical.libsyn.com/animal-testing-and-new-tsca-0"
     },
@@ -122,7 +119,6 @@
         "type": "audio/mpeg",
         "url": "https://traffic.libsyn.com/secure/allthingschemical/BC_Pod_Teaser_mixdown.mp3?dest-id=814653"
       },
-      "lastBuildDate": "1970-01-01T00:00:00.000Z",
       "pubDate": "2018-10-23T17:09:31.000Z",
       "link": "http://allthingschemical.libsyn.com/introducing-all-things-chemical"
     }

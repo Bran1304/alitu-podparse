@@ -1,0 +1,671 @@
+{
+  "meta": {
+    "title": "No Agenda",
+    "description": "A show about politics with No Agenda, by Adam Curry and John C. Dvorak",
+    "language": "en",
+    "author": "Adam Curry & John C. Dvorak",
+    "summary": "A show about politics with No Agenda, by Adam Curry and John C. Dvorak",
+    "managingEditor": "adam@curry.com (Adam Curry)",
+    "webMaster": "adam@curry.com (Adam Curry)",
+    "guid": "856cd618-7f34-57ea-9b84-3600f1f65e7f",
+    "generator": "Freedom Controller",
+    "keywords": [
+      "agenda",
+      "curry",
+      "dvorak",
+      "elections",
+      "government",
+      "legislation",
+      "news",
+      "politics"
+    ],
+    "category": [
+      "Comedy",
+      "News & Politics"
+    ],
+    "owner": {
+      "name": "Adam Curry",
+      "email": "adam@curry.com"
+    },
+    "image": {
+      "url": "https://noagendaassets.com/enc/1642969751.476_na-1419-art-feed.png",
+      "link": "http://noagendashow.com",
+      "title": "No Agenda"
+    },
+    "explicit": true,
+    "lastBuildDate": "2022-01-23T20:41:11.000Z",
+    "pubDate": "2022-01-23T20:41:11.000Z",
+    "locked": true,
+    "funding": [
+      {
+        "name": "Support the Show!",
+        "url": "https://dvorak.org/na"
+      }
+    ],
+    "medium": "podcast",
+    "images": {
+      "srcset": "https://noagendaassets.com/enc/1642969751.476_na-1419-art-feed.png 2000w"
+    },
+    "value": [
+      {
+        "type": "lightning",
+        "method": "keysend",
+        "suggested": 5e-8,
+        "valueRecipient": [
+          {
+            "name": "Value4Value",
+            "type": "node",
+            "address": "03ae9f91a0cb8ff43840e3c322c4c61f019d8c1c3cea15a25cfc425ac605e61a4a",
+            "split": 80,
+            "fee": false
+          },
+          {
+            "name": "Dreb Scott (Chapter Architect)",
+            "type": "node",
+            "address": "033868c219bdb51a33560d854d500fe7d3898a1ad9e05dd89d0007e11313588500",
+            "customKey": "112111100",
+            "customValue": "wal_j39hpWOkxCDUYg",
+            "split": 5,
+            "fee": false
+          },
+          {
+            "name": "Clip Custodian (LNpay.co)",
+            "type": "node",
+            "address": "033868c219bdb51a33560d854d500fe7d3898a1ad9e05dd89d0007e11313588500",
+            "customKey": "112111100",
+            "customValue": "wal_aMZ509T2lnpWvN",
+            "split": 5,
+            "fee": false
+          },
+          {
+            "name": "CurioCaster RSS Generator",
+            "type": "node",
+            "address": "033868c219bdb51a33560d854d500fe7d3898a1ad9e05dd89d0007e11313588500",
+            "customKey": "112111100",
+            "customValue": "wal_MB9T45QHGyW",
+            "split": 5,
+            "fee": false
+          },
+          {
+            "name": "Umbrel V4V Node",
+            "type": "node",
+            "address": "038399372001f2741d58d6ec4846fccb78daa1a485e69e2eebc5aadba047d35956",
+            "split": 5,
+            "fee": false
+          }
+        ]
+      }
+    ],
+    "link": "http://noagendashow.com",
+    "links": []
+  },
+  "episodes": [
+    {
+      "title": "1419: \"Sleep Equity\"",
+      "description": "<h2>No Agenda Episode 1419 - \"Sleep Equity\"</h2>\n<div>\n<div>\n<div id=\"tabcredits\">\n<p><strong>\"Sleep Equity\"</strong></p>\n<p>Executive Producers:</p>\n<p>Jason Pangerl</p>\n<p>Sir Adam of Hooverville</p>\n<p>James Murray</p>\n<p>Associate Executive Producers:</p>\n<p>Amy Mullin</p>\n<p>Abhilash Kumar</p>\n<p>Tim Lange</p>\n<p>Gregory DiBernardo</p>\n<p>Jonathan Crowe</p>\n<p>Chuck Bennett</p>\n<p>Become a member of the 1420 Club, support the show&nbsp;<a href=\"http://dvorak.org/na\">here</a></p>\n<p>Boost us with with Podcasting 2.0 Certified apps:&nbsp;<a href=\"https://www.podfriend.fm/\">Podfriend&nbsp;</a>-&nbsp;<a href=\"https://breez.technology/\">Breez&nbsp;</a>-&nbsp;<a href=\"https://sphinx.chat/\">Sphinx&nbsp;</a>-&nbsp;<a href=\"https://podstation.github.io/\">Podstation</a>&nbsp;-&nbsp;<a href=\"http://curiocaster.com/\">Curiocaster</a>&nbsp;-&nbsp;<a href=\"http://fountain.fm/\">Fountain</a></p>\n<p><a href=\"https://noagendaartgenerator.com/artist/1014\" target=\"_blank\" rel=\"noopener\">Art By: Mike Riley</a></p>\n<p>End of Show Mixes: Rolando Gonzalez - Tidewater Architect</p>\n<p>Engineering, Stream Management &amp; Wizardry</p>\n<p>Mark van Dijk - Systems Master</p>\n<p>Ryan Bemrose - Program Director</p>\n<p>Back Office Aric Mackey</p>\n<p>Chapters: Dreb Scott</p>\n<p>Clip Custodian: Neal Jones</p>\n<p><strong>NEW:</strong>&nbsp;and soon on Netflix:&nbsp;<a href=\"https://www.youtube.com/channel/UCihyXCKCTKZ0H6OQRpKN5qQ\">Animated No Agenda</a></p>\n<p><a href=\"https://noagendasocial.com/invite/fnBmg2P6\" target=\"_blank\" rel=\"noopener\">No Agenda Social Registration</a></p>\n<p><strong>Sign Up</strong>&nbsp;for the&nbsp;<a href=\"http://www.dvorak.org/blog/no-agenda-mailing-list-signup-here/\">newsletter</a></p>\n<p><a href=\"http://dvorak.org/peerage\" target=\"_blank\" rel=\"noopener\">No Agenda Peerage</a></p>\n<p>ShowNotes Archive of links and Assets (clips etc)&nbsp;<a href=\"http://1419.noagendanotes.com/\">1419.noagendanotes.com</a></p>\n<p>New: Directory Archive of Shownotes (includes all audio and video assets used)&nbsp;<a href=\"http://archive.noagendanotes.com/\">archive.noagendanotes.com</a></p>\n<p>RSS Podcast<a href=\"http://feed.nashownotes.com/rss.xml\">&nbsp;Feed</a></p>\n<p><a href=\"https://www.blugs.com/na/NASummaries.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Full Summaries in PDF</strong></a></p>\n<p><a href=\"http://itm.im/opus\">No Agenda Lite</a>&nbsp;in opus format</p>\n<p><a href=\"http://noagendatorrents.com/\">NoAgendaTorrents.com</a>&nbsp;has an RSS feed or show torrents</p>\n<p><span>Last Modified 01/23/2022 14:29:57</span><br /><a href=\"http://freedomcontroller.com/\"><span>This page created with the FreedomController</span></a></p>\n</div>\n</div>\n</div>\n<div><small>Last Modified 01/23/2022 14:29:57 by&nbsp;<a href=\"http://freedomcontroller.com/\">Freedom Controller</a></small>&nbsp;<a title=\"Link to the opml for this document.\" href=\"http://adam.curry.com/opml/NoAgendaEpisode1419S-q7PlblnsZR8zddM7SLLlWn2B23pL9V.opml\">&nbsp;</a></div>",
+      "subtitle": "1419: \"Sleep Equity\"",
+      "author": "Adam Curry & John C. Dvorak",
+      "summary": "<h2>No Agenda Episode 1419 - \"Sleep Equity\"</h2>\n<div>\n<div>\n<div id=\"tabcredits\">\n<p><strong>\"Sleep Equity\"</strong></p>\n<p>Executive Producers:</p>\n<p>Jason Pangerl</p>\n<p>Sir Adam of Hooverville</p>\n<p>James Murray</p>\n<p>Associate Executive Producers:</p>\n<p>Amy Mullin</p>\n<p>Abhilash Kumar</p>\n<p>Tim Lange</p>\n<p>Gregory DiBernardo</p>\n<p>Jonathan Crowe</p>\n<p>Chuck Bennett</p>\n<p>Become a member of the 1420 Club, support the show&nbsp;<a href=\"http://dvorak.org/na\">here</a></p>\n<p>Boost us with with Podcasting 2.0 Certified apps:&nbsp;<a href=\"https://www.podfriend.fm/\">Podfriend&nbsp;</a>-&nbsp;<a href=\"https://breez.technology/\">Breez&nbsp;</a>-&nbsp;<a href=\"https://sphinx.chat/\">Sphinx&nbsp;</a>-&nbsp;<a href=\"https://podstation.github.io/\">Podstation</a>&nbsp;-&nbsp;<a href=\"http://curiocaster.com/\">Curiocaster</a>&nbsp;-&nbsp;<a href=\"http://fountain.fm/\">Fountain</a></p>\n<p><a href=\"https://noagendaartgenerator.com/artist/1014\" target=\"_blank\" rel=\"noopener\">Art By: Mike Riley</a></p>\n<p>End of Show Mixes: Rolando Gonzalez - Tidewater Architect</p>\n<p>Engineering, Stream Management &amp; Wizardry</p>\n<p>Mark van Dijk - Systems Master</p>\n<p>Ryan Bemrose - Program Director</p>\n<p>Back Office Aric Mackey</p>\n<p>Chapters: Dreb Scott</p>\n<p>Clip Custodian: Neal Jones</p>\n<p><strong>NEW:</strong>&nbsp;and soon on Netflix:&nbsp;<a href=\"https://www.youtube.com/channel/UCihyXCKCTKZ0H6OQRpKN5qQ\">Animated No Agenda</a></p>\n<p><a href=\"https://noagendasocial.com/invite/fnBmg2P6\" target=\"_blank\" rel=\"noopener\">No Agenda Social Registration</a></p>\n<p><strong>Sign Up</strong>&nbsp;for the&nbsp;<a href=\"http://www.dvorak.org/blog/no-agenda-mailing-list-signup-here/\">newsletter</a></p>\n<p><a href=\"http://dvorak.org/peerage\" target=\"_blank\" rel=\"noopener\">No Agenda Peerage</a></p>\n<p>ShowNotes Archive of links and Assets (clips etc)&nbsp;<a href=\"http://1419.noagendanotes.com/\">1419.noagendanotes.com</a></p>\n<p>New: Directory Archive of Shownotes (includes all audio and video assets used)&nbsp;<a href=\"http://archive.noagendanotes.com/\">archive.noagendanotes.com</a></p>\n<p>RSS Podcast<a href=\"http://feed.nashownotes.com/rss.xml\">&nbsp;Feed</a></p>\n<p><a href=\"https://www.blugs.com/na/NASummaries.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Full Summaries in PDF</strong></a></p>\n<p><a href=\"http://itm.im/opus\">No Agenda Lite</a>&nbsp;in opus format</p>\n<p><a href=\"http://noagendatorrents.com/\">NoAgendaTorrents.com</a>&nbsp;has an RSS feed or show torrents</p>\n<p><span>Last Modified 01/23/2022 14:29:57</span><br /><a href=\"http://freedomcontroller.com/\"><span>This page created with the FreedomController</span></a></p>\n</div>\n</div>\n</div>\n<div><small>Last Modified 01/23/2022 14:29:57 by&nbsp;<a href=\"http://freedomcontroller.com/\">Freedom Controller</a></small>&nbsp;<a title=\"Link to the opml for this document.\" href=\"http://adam.curry.com/opml/NoAgendaEpisode1419S-q7PlblnsZR8zddM7SLLlWn2B23pL9V.opml\">&nbsp;</a></div>",
+      "guid": "http://1419.noagendanotes.com",
+      "chapters": {
+        "url": "http://34.117.70.159/http%3Afeed.nashownotes.comrss.xml/http:1419.noagendanotes.com",
+        "type": "application/json"
+      },
+      "keywords": [
+        "agenda",
+        "curry",
+        "douchebag",
+        "dvorak",
+        "no",
+        "noagenda",
+        "politics"
+      ],
+      "image": {
+        "url": "https://noagendaassets.com/enc/1642969751.476_na-1419-art-feed.png"
+      },
+      "explicit": false,
+      "enclosure": {
+        "length": 147710373,
+        "type": "audio/mpeg",
+        "url": "https://mp3s.nashownotes.com/NA-1419-2022-01-23-Final.mp3"
+      },
+      "pubDate": "2022-01-23T20:31:27.000Z",
+      "person": [
+        {
+          "name": "Adam Curry",
+          "role": "host",
+          "group": "cast",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Adam_Curry_2016.jpg/440px-Adam_Curry_2016.jpg",
+          "href": "http://curry.com/"
+        },
+        {
+          "name": "John C Dvorak",
+          "role": "host",
+          "group": "cast",
+          "img": "https://speaking.com/wp-content/uploads/2018/09/John-Dvorak.jpg",
+          "href": "http://dvorak.org/blog"
+        }
+      ],
+      "transcript": [
+        {
+          "url": "https://mp3s.nashownotes.com/NA-1419-Captions.srt",
+          "type": "application/srt"
+        }
+      ],
+      "images": {
+        "srcset": "https://noagendaassets.com/enc/1642969751.476_na-1419-art-feed.png 2000w"
+      },
+      "link": "http://1419.noagendanotes.com"
+    },
+    {
+      "title": "1418: \"Homeless Apocalypse\"",
+      "description": "<h2>No Agenda Episode 1418 - \"Homeless Apocalypse\"</h2>\n<div>\n<div>\n<div id=\"tabcredits\">\n<p><strong>\"Homeless Apocalypse\"</strong></p>\n<p>Executive Producers:</p>\n<p>Tony Cabrera,&nbsp;<a href=\"https://noagendashop.com/\">No Agenda Shop</a></p>\n<p>Sir Ed Kammeyer</p>\n<p>Barron Husky Bottom \"Sheriff of Liepers Fork\"</p>\n<p>Grand Duke Sir Dwayne Melancon</p>\n<p>Sir Kyle, Baronet</p>\n<p>Tidewater Architect</p>\n<p>Associate Executive Producers:</p>\n<p>Baroness Dame Meowdison</p>\n<p>Sir DH Slammer</p>\n<p>Viscount dirty dick bangs of dc</p>\n<p>Eddie Jennings</p>\n<p>Adam Alamano</p>\n<p>Lindsey Fox</p>\n<p>Become a member of the 1419 Club, support the show&nbsp;<a href=\"http://dvorak.org/na\">here</a></p>\n<p>Boost us with with Podcasting 2.0 Certified apps:&nbsp;<a href=\"https://www.podfriend.fm/\">Podfriend&nbsp;</a>-&nbsp;<a href=\"https://breez.technology/\">Breez&nbsp;</a>-&nbsp;<a href=\"https://sphinx.chat/\">Sphinx&nbsp;</a>-&nbsp;<a href=\"https://podstation.github.io/\">Podstation</a>&nbsp;-&nbsp;<a href=\"http://curiocaster.com/\">Curiocaster</a>&nbsp;-&nbsp;<a href=\"http://fountain.fm/\">Fountain</a></p>\n<p>Knights &amp; Dames</p>\n<p>Title Changes</p>\n<p>Dame Meowdison -&gt; Baroness</p>\n<p>Sir Anonymous Cop -&gt; Baron Anonymous Cop of the S.F. Peninsula</p>\n<p><a href=\"https://noagendaartgenerator.com/artist/1701\" target=\"_blank\" rel=\"noopener\">Art By: Tante Neel</a></p>\n<p>End of Show Mixes: Tom Starkweather - Sir ALF</p>\n<p>Engineering, Stream Management &amp; Wizardry</p>\n<p>Mark van Dijk - Systems Master</p>\n<p>Ryan Bemrose - Program Director</p>\n<p>Back Office Aric Mackey</p>\n<p>Chapters: Dreb Scott</p>\n<p>Clip Custodian: Neal Jones</p>\n<p><strong>NEW:</strong>&nbsp;and soon on Netflix:&nbsp;<a href=\"https://www.youtube.com/channel/UCihyXCKCTKZ0H6OQRpKN5qQ\">Animated No Agenda</a></p>\n<p><a href=\"https://noagendasocial.com/invite/fnBmg2P6\" target=\"_blank\" rel=\"noopener\">No Agenda Social Registration</a></p>\n<p><strong>Sign Up</strong>&nbsp;for the&nbsp;<a href=\"http://www.dvorak.org/blog/no-agenda-mailing-list-signup-here/\">newsletter</a></p>\n<p><a href=\"http://dvorak.org/peerage\" target=\"_blank\" rel=\"noopener\">No Agenda Peerage</a></p>\n<p>ShowNotes Archive of links and Assets (clips etc)&nbsp;<a href=\"http://1418.noagendanotes.com/\">1418.noagendanotes.com</a></p>\n<p>New: Directory Archive of Shownotes (includes all audio and video assets used)&nbsp;<a href=\"http://archive.noagendanotes.com/\">archive.noagendanotes.com</a></p>\n<p>RSS Podcast<a href=\"http://feed.nashownotes.com/rss.xml\">&nbsp;Feed</a></p>\n<p><a href=\"https://www.blugs.com/na/NASummaries.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Full Summaries in PDF</strong></a></p>\n<p><a href=\"http://itm.im/opus\">No Agenda Lite</a>&nbsp;in opus format</p>\n<p><a href=\"http://noagendatorrents.com/\">NoAgendaTorrents.com</a>&nbsp;has an RSS feed or show torrents</p>\n<p><span>Last Modified 01/20/2022 15:06:34</span><br /><a href=\"http://freedomcontroller.com/\"><span>This page created with the FreedomController</span></a></p>\n</div>\n</div>\n</div>\n<div><small>Last Modified 01/20/2022 15:06:34 by&nbsp;<a href=\"http://freedomcontroller.com/\">Freedom Controller</a></small>&nbsp;<a title=\"Link to the opml for this document.\" href=\"http://adam.curry.com/opml/NoAgendaEpisode1418H-g8JhllvHKcgvkZTr6QttHtlSMv1dB9.opml\">&nbsp;</a></div>",
+      "subtitle": "1418: \"Homeless Apocalypse\"",
+      "author": "Adam Curry & John C. Dvorak",
+      "summary": "<h2>No Agenda Episode 1418 - \"Homeless Apocalypse\"</h2>\n<div>\n<div>\n<div id=\"tabcredits\">\n<p><strong>\"Homeless Apocalypse\"</strong></p>\n<p>Executive Producers:</p>\n<p>Tony Cabrera,&nbsp;<a href=\"https://noagendashop.com/\">No Agenda Shop</a></p>\n<p>Sir Ed Kammeyer</p>\n<p>Barron Husky Bottom \"Sheriff of Liepers Fork\"</p>\n<p>Grand Duke Sir Dwayne Melancon</p>\n<p>Sir Kyle, Baronet</p>\n<p>Tidewater Architect</p>\n<p>Associate Executive Producers:</p>\n<p>Baroness Dame Meowdison</p>\n<p>Sir DH Slammer</p>\n<p>Viscount dirty dick bangs of dc</p>\n<p>Eddie Jennings</p>\n<p>Adam Alamano</p>\n<p>Lindsey Fox</p>\n<p>Become a member of the 1419 Club, support the show&nbsp;<a href=\"http://dvorak.org/na\">here</a></p>\n<p>Boost us with with Podcasting 2.0 Certified apps:&nbsp;<a href=\"https://www.podfriend.fm/\">Podfriend&nbsp;</a>-&nbsp;<a href=\"https://breez.technology/\">Breez&nbsp;</a>-&nbsp;<a href=\"https://sphinx.chat/\">Sphinx&nbsp;</a>-&nbsp;<a href=\"https://podstation.github.io/\">Podstation</a>&nbsp;-&nbsp;<a href=\"http://curiocaster.com/\">Curiocaster</a>&nbsp;-&nbsp;<a href=\"http://fountain.fm/\">Fountain</a></p>\n<p>Knights &amp; Dames</p>\n<p>Title Changes</p>\n<p>Dame Meowdison -&gt; Baroness</p>\n<p>Sir Anonymous Cop -&gt; Baron Anonymous Cop of the S.F. Peninsula</p>\n<p><a href=\"https://noagendaartgenerator.com/artist/1701\" target=\"_blank\" rel=\"noopener\">Art By: Tante Neel</a></p>\n<p>End of Show Mixes: Tom Starkweather - Sir ALF</p>\n<p>Engineering, Stream Management &amp; Wizardry</p>\n<p>Mark van Dijk - Systems Master</p>\n<p>Ryan Bemrose - Program Director</p>\n<p>Back Office Aric Mackey</p>\n<p>Chapters: Dreb Scott</p>\n<p>Clip Custodian: Neal Jones</p>\n<p><strong>NEW:</strong>&nbsp;and soon on Netflix:&nbsp;<a href=\"https://www.youtube.com/channel/UCihyXCKCTKZ0H6OQRpKN5qQ\">Animated No Agenda</a></p>\n<p><a href=\"https://noagendasocial.com/invite/fnBmg2P6\" target=\"_blank\" rel=\"noopener\">No Agenda Social Registration</a></p>\n<p><strong>Sign Up</strong>&nbsp;for the&nbsp;<a href=\"http://www.dvorak.org/blog/no-agenda-mailing-list-signup-here/\">newsletter</a></p>\n<p><a href=\"http://dvorak.org/peerage\" target=\"_blank\" rel=\"noopener\">No Agenda Peerage</a></p>\n<p>ShowNotes Archive of links and Assets (clips etc)&nbsp;<a href=\"http://1418.noagendanotes.com/\">1418.noagendanotes.com</a></p>\n<p>New: Directory Archive of Shownotes (includes all audio and video assets used)&nbsp;<a href=\"http://archive.noagendanotes.com/\">archive.noagendanotes.com</a></p>\n<p>RSS Podcast<a href=\"http://feed.nashownotes.com/rss.xml\">&nbsp;Feed</a></p>\n<p><a href=\"https://www.blugs.com/na/NASummaries.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Full Summaries in PDF</strong></a></p>\n<p><a href=\"http://itm.im/opus\">No Agenda Lite</a>&nbsp;in opus format</p>\n<p><a href=\"http://noagendatorrents.com/\">NoAgendaTorrents.com</a>&nbsp;has an RSS feed or show torrents</p>\n<p><span>Last Modified 01/20/2022 15:06:34</span><br /><a href=\"http://freedomcontroller.com/\"><span>This page created with the FreedomController</span></a></p>\n</div>\n</div>\n</div>\n<div><small>Last Modified 01/20/2022 15:06:34 by&nbsp;<a href=\"http://freedomcontroller.com/\">Freedom Controller</a></small>&nbsp;<a title=\"Link to the opml for this document.\" href=\"http://adam.curry.com/opml/NoAgendaEpisode1418H-g8JhllvHKcgvkZTr6QttHtlSMv1dB9.opml\">&nbsp;</a></div>",
+      "guid": "http://1418.noagendanotes.com",
+      "chapters": {
+        "url": "http://34.117.70.159/http%3Afeed.nashownotes.comrss.xml/http:1418.noagendanotes.com",
+        "type": "application/json"
+      },
+      "keywords": [
+        "agenda",
+        "curry",
+        "douchebag",
+        "dvorak",
+        "no",
+        "noagenda",
+        "politics"
+      ],
+      "image": {
+        "url": "https://noagendaassets.com/enc/1642712657.923_na-1418-art-feed.png"
+      },
+      "explicit": false,
+      "enclosure": {
+        "length": 147710373,
+        "type": "audio/mpeg",
+        "url": "https://mp3s.nashownotes.com/NA-1418-2022-01-20-Final.mp3"
+      },
+      "pubDate": "2022-01-20T21:07:52.000Z",
+      "person": [
+        {
+          "name": "Adam Curry",
+          "role": "host",
+          "group": "cast",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Adam_Curry_2016.jpg/440px-Adam_Curry_2016.jpg",
+          "href": "http://curry.com/"
+        },
+        {
+          "name": "John C Dvorak",
+          "role": "host",
+          "group": "cast",
+          "img": "https://speaking.com/wp-content/uploads/2018/09/John-Dvorak.jpg",
+          "href": "http://dvorak.org/blog"
+        }
+      ],
+      "transcript": [
+        {
+          "url": "https://mp3s.nashownotes.com/NA-1418-Captions.srt",
+          "type": "application/srt"
+        }
+      ],
+      "images": {
+        "srcset": "https://noagendaassets.com/enc/1642712657.923_na-1418-art-feed.png 2000w"
+      },
+      "link": "http://1418.noagendanotes.com"
+    },
+    {
+      "title": "1417: \"Get Boris!\"",
+      "description": "<div>\n<div>\n<div id=\"tabcredits\">\n<p><strong>\"Get Boris!\"</strong></p>\n<p>MLK Day Special Executive Producers:</p>\n<p>Dame Zephyr</p>\n<p>Sir Stephen, Viscount of the Fox River Valley and Chicago Suburbs</p>\n<p>Sir Silent Knight</p>\n<p>Sir Jack of the Heartland</p>\n<p>Christopher Sullivan</p>\n<p><a href=\"https://www.battlegroundmelbourne.com/\" target=\"_blank\" rel=\"noopener\">Sir Stephen Visscher</a></p>\n<p>Lawrence Moran</p>\n<p>Associate Executive Producers:</p>\n<p>Ray Grill</p>\n<p><a href=\"https://grimericaoutlawed.ca/\" target=\"_blank\" rel=\"noopener\">Sir Gray of Grimerica</a></p>\n<p>Sir Dorus, Knight of The Wild Boar Mountains</p>\n<p>Adam Naus</p>\n<p>Become a member of the 1418 Club, support the show&nbsp;<a href=\"http://dvorak.org/na\">here</a></p>\n<p>Boost us with with Podcasting 2.0 Certified apps:&nbsp;<a href=\"https://www.podfriend.fm/\">Podfriend&nbsp;</a>-&nbsp;<a href=\"https://breez.technology/\">Breez&nbsp;</a>-&nbsp;<a href=\"https://sphinx.chat/\">Sphinx&nbsp;</a>-&nbsp;<a href=\"https://podstation.github.io/\">Podstation</a>&nbsp;-&nbsp;<a href=\"http://curiocaster.com/\">Curiocaster</a>&nbsp;-&nbsp;<a href=\"http://fountain.fm/\">Fountain</a></p>\n<p>Title Changes</p>\n<p>Sir Silent Knight -&gt; Sir Franco</p>\n<p>Sir Stephen, Baron of the Fox River Valley -&gt; Sir Stephen, Viscount of the Fox River Valley and Chicago Suburbs</p>\n<p>Sir Stephen Visscher -&gt; Baronet</p>\n<p>Knights &amp; Dames</p>\n<p>Travis -&gt; Sir Mun of the Greener Pastors</p>\n<p>Smitty -&gt; Sir Smitty, The Burning River Coastie</p>\n<p><a href=\"https://noagendaartgenerator.com/artist/2517\" target=\"_blank\" rel=\"noopener\">Art By: Roger Roundy</a></p>\n<p>End of Show Mixes: Rolando Gonzalez</p>\n<p>Engineering, Stream Management &amp; Wizardry</p>\n<p>Mark van Dijk - Systems Master</p>\n<p>Ryan Bemrose - Program Director</p>\n<p>Back Office Aric Mackey</p>\n<p>Chapters: Dreb Scott</p>\n<p>Clip Custodian: Neal Jones</p>\n<p><strong>NEW:</strong>&nbsp;and soon on Netflix:&nbsp;<a href=\"https://www.youtube.com/channel/UCihyXCKCTKZ0H6OQRpKN5qQ\">Animated No Agenda</a></p>\n<p><a href=\"https://noagendasocial.com/invite/fnBmg2P6\" target=\"_blank\" rel=\"noopener\">No Agenda Social Registration</a></p>\n<p><strong>Sign Up</strong>&nbsp;for the&nbsp;<a href=\"http://www.dvorak.org/blog/no-agenda-mailing-list-signup-here/\">newsletter</a></p>\n<p><a href=\"http://dvorak.org/peerage\" target=\"_blank\" rel=\"noopener\">No Agenda Peerage</a></p>\n<p>ShowNotes Archive of links and Assets (clips etc)&nbsp;<a href=\"http://1417.noagendanotes.com/\">1417.noagendanotes.com</a></p>\n<p>New: Directory Archive of Shownotes (includes all audio and video assets used)&nbsp;<a href=\"http://archive.noagendanotes.com/\">archive.noagendanotes.com</a></p>\n<p>RSS Podcast<a href=\"http://feed.nashownotes.com/rss.xml\">&nbsp;Feed</a></p>\n<p><a href=\"https://www.blugs.com/na/NASummaries.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Full Summaries in PDF</strong></a></p>\n<p><a href=\"http://itm.im/opus\">No Agenda Lite</a>&nbsp;in opus format</p>\n<p><a href=\"http://noagendatorrents.com/\">NoAgendaTorrents.com</a>&nbsp;has an RSS feed or show torrents</p>\n<p><span>Last Modified 01/16/2022 14:55:10</span><br /><a href=\"http://freedomcontroller.com/\"><span>This page created with the FreedomController</span></a></p>\n</div>\n</div>\n</div>\n<div><small>Last Modified 01/16/2022 14:55:10 by&nbsp;<a href=\"http://freedomcontroller.com/\">Freedom Controller</a></small>&nbsp;<a title=\"Link to the opml for this document.\" href=\"http://adam.curry.com/opml/NoAgendaEpisode1417G-SkBmMqQP2zNjwNDSKVv3gG8t5K2G8Z.opml\">&nbsp;</a></div>",
+      "subtitle": "1417: \"Get Boris!\"",
+      "author": "Adam Curry & John C. Dvorak",
+      "summary": "<div>\n<div>\n<div id=\"tabcredits\">\n<p><strong>\"Get Boris!\"</strong></p>\n<p>MLK Day Special Executive Producers:</p>\n<p>Dame Zephyr</p>\n<p>Sir Stephen, Viscount of the Fox River Valley and Chicago Suburbs</p>\n<p>Sir Silent Knight</p>\n<p>Sir Jack of the Heartland</p>\n<p>Christopher Sullivan</p>\n<p><a href=\"https://www.battlegroundmelbourne.com/\" target=\"_blank\" rel=\"noopener\">Sir Stephen Visscher</a></p>\n<p>Lawrence Moran</p>\n<p>Associate Executive Producers:</p>\n<p>Ray Grill</p>\n<p><a href=\"https://grimericaoutlawed.ca/\" target=\"_blank\" rel=\"noopener\">Sir Gray of Grimerica</a></p>\n<p>Sir Dorus, Knight of The Wild Boar Mountains</p>\n<p>Adam Naus</p>\n<p>Become a member of the 1418 Club, support the show&nbsp;<a href=\"http://dvorak.org/na\">here</a></p>\n<p>Boost us with with Podcasting 2.0 Certified apps:&nbsp;<a href=\"https://www.podfriend.fm/\">Podfriend&nbsp;</a>-&nbsp;<a href=\"https://breez.technology/\">Breez&nbsp;</a>-&nbsp;<a href=\"https://sphinx.chat/\">Sphinx&nbsp;</a>-&nbsp;<a href=\"https://podstation.github.io/\">Podstation</a>&nbsp;-&nbsp;<a href=\"http://curiocaster.com/\">Curiocaster</a>&nbsp;-&nbsp;<a href=\"http://fountain.fm/\">Fountain</a></p>\n<p>Title Changes</p>\n<p>Sir Silent Knight -&gt; Sir Franco</p>\n<p>Sir Stephen, Baron of the Fox River Valley -&gt; Sir Stephen, Viscount of the Fox River Valley and Chicago Suburbs</p>\n<p>Sir Stephen Visscher -&gt; Baronet</p>\n<p>Knights &amp; Dames</p>\n<p>Travis -&gt; Sir Mun of the Greener Pastors</p>\n<p>Smitty -&gt; Sir Smitty, The Burning River Coastie</p>\n<p><a href=\"https://noagendaartgenerator.com/artist/2517\" target=\"_blank\" rel=\"noopener\">Art By: Roger Roundy</a></p>\n<p>End of Show Mixes: Rolando Gonzalez</p>\n<p>Engineering, Stream Management &amp; Wizardry</p>\n<p>Mark van Dijk - Systems Master</p>\n<p>Ryan Bemrose - Program Director</p>\n<p>Back Office Aric Mackey</p>\n<p>Chapters: Dreb Scott</p>\n<p>Clip Custodian: Neal Jones</p>\n<p><strong>NEW:</strong>&nbsp;and soon on Netflix:&nbsp;<a href=\"https://www.youtube.com/channel/UCihyXCKCTKZ0H6OQRpKN5qQ\">Animated No Agenda</a></p>\n<p><a href=\"https://noagendasocial.com/invite/fnBmg2P6\" target=\"_blank\" rel=\"noopener\">No Agenda Social Registration</a></p>\n<p><strong>Sign Up</strong>&nbsp;for the&nbsp;<a href=\"http://www.dvorak.org/blog/no-agenda-mailing-list-signup-here/\">newsletter</a></p>\n<p><a href=\"http://dvorak.org/peerage\" target=\"_blank\" rel=\"noopener\">No Agenda Peerage</a></p>\n<p>ShowNotes Archive of links and Assets (clips etc)&nbsp;<a href=\"http://1417.noagendanotes.com/\">1417.noagendanotes.com</a></p>\n<p>New: Directory Archive of Shownotes (includes all audio and video assets used)&nbsp;<a href=\"http://archive.noagendanotes.com/\">archive.noagendanotes.com</a></p>\n<p>RSS Podcast<a href=\"http://feed.nashownotes.com/rss.xml\">&nbsp;Feed</a></p>\n<p><a href=\"https://www.blugs.com/na/NASummaries.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Full Summaries in PDF</strong></a></p>\n<p><a href=\"http://itm.im/opus\">No Agenda Lite</a>&nbsp;in opus format</p>\n<p><a href=\"http://noagendatorrents.com/\">NoAgendaTorrents.com</a>&nbsp;has an RSS feed or show torrents</p>\n<p><span>Last Modified 01/16/2022 14:55:10</span><br /><a href=\"http://freedomcontroller.com/\"><span>This page created with the FreedomController</span></a></p>\n</div>\n</div>\n</div>\n<div><small>Last Modified 01/16/2022 14:55:10 by&nbsp;<a href=\"http://freedomcontroller.com/\">Freedom Controller</a></small>&nbsp;<a title=\"Link to the opml for this document.\" href=\"http://adam.curry.com/opml/NoAgendaEpisode1417G-SkBmMqQP2zNjwNDSKVv3gG8t5K2G8Z.opml\">&nbsp;</a></div>",
+      "guid": "http://1417.noagendanotes.com",
+      "chapters": {
+        "url": "http://34.117.70.159/http%3Afeed.nashownotes.comrss.xml/http:1417.noagendanotes.com",
+        "type": "application/json"
+      },
+      "keywords": [
+        "agenda",
+        "curry",
+        "douchebag",
+        "dvorak",
+        "no",
+        "noagenda",
+        "politics"
+      ],
+      "image": {
+        "url": "https://noagendaassets.com/enc/1642366212.571_na-1417-art-sm.png"
+      },
+      "explicit": false,
+      "enclosure": {
+        "length": 147710373,
+        "type": "audio/mpeg",
+        "url": "https://mp3s.nashownotes.com/NA-1417-2022-01-16-Final.mp3"
+      },
+      "pubDate": "2022-01-16T20:56:42.000Z",
+      "person": [
+        {
+          "name": "Adam Curry",
+          "role": "host",
+          "group": "cast",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Adam_Curry_2016.jpg/440px-Adam_Curry_2016.jpg",
+          "href": "http://curry.com/"
+        },
+        {
+          "name": "John C Dvorak",
+          "role": "host",
+          "group": "cast",
+          "img": "https://speaking.com/wp-content/uploads/2018/09/John-Dvorak.jpg",
+          "href": "http://dvorak.org/blog"
+        }
+      ],
+      "transcript": [
+        {
+          "url": "https://mp3s.nashownotes.com/NA-1417-Captions.srt",
+          "type": "application/srt"
+        }
+      ],
+      "images": {
+        "srcset": "https://noagendaassets.com/enc/1642366212.571_na-1417-art-sm.png 256w"
+      },
+      "link": "http://1417.noagendanotes.com"
+    },
+    {
+      "title": "1416: \"Endemicity\"",
+      "description": "<h2>No Agenda Episode 1416 - \"Endemicity\"</h2>\n<div>\n<div>\n<div id=\"tabcredits\">\n<p><strong>\"Endemicity\"</strong></p>\n<p>Executive Producers:</p>\n<p>Sir MFNFT of the north coast</p>\n<p>Dame Bear of Bend and Sir Knight Ryan of Central Oregon</p>\n<p>SirTakie</p>\n<p>Sir Donald of the Firebottles - Duke of the lands of Idaho north of the lost trail pass</p>\n<p>Sir-Nonymous Cop of the Bay Area</p>\n<p>Gene Morphis, Knight of Neurogenesls</p>\n<p>Dustin Saner</p>\n<p>Dame Kim Keeper of the Nutty Flufflers</p>\n<p>Chap Williams</p>\n<p>Khalil Saman</p>\n<p>Guy Lambert</p>\n<p>Joshua Gridley</p>\n<p>Baronet Nate Wilson</p>\n<p>Associate Executive Producers:</p>\n<p>Chris K</p>\n<p>Baron of the Gitmo Nation Coffee Pot</p>\n<p>Paul Bedau</p>\n<p>Erick Senkmajer</p>\n<p>Alexander Van Abel</p>\n<p>Nick Dice</p>\n<p>Anonymous</p>\n<p>Become a member of the 1417 Club, support the show&nbsp;<a href=\"http://dvorak.org/na\">here</a></p>\n<p>Boost us with with Podcasting 2.0 Certified apps:&nbsp;<a href=\"https://www.podfriend.fm/\">Podfriend&nbsp;</a>-&nbsp;<a href=\"https://breez.technology/\">Breez&nbsp;</a>-&nbsp;<a href=\"https://sphinx.chat/\">Sphinx&nbsp;</a>-&nbsp;<a href=\"https://podstation.github.io/\">Podstation</a>&nbsp;-&nbsp;<a href=\"http://curiocaster.com/\">Curiocaster</a>&nbsp;-&nbsp;<a href=\"http://fountain.fm/\">Fountain</a></p>\n<p>Title Changes</p>\n<p>Sir Eric Hoff -&gt; Baron of the Gitmo Nation Coffee Pot</p>\n<p>Dame Bear of Bend - Baronettess</p>\n<p>Sir Donald of the Firebottles - Duke of the lands of Idaho north of the lost trail pass</p>\n<p>Knights &amp; Dames</p>\n<p>Michael Forney -&gt; Sir MFNFT of the North Coast</p>\n<p><a href=\"https://noagendaartgenerator.com/artist/2471\" target=\"_blank\" rel=\"noopener\">Art By: Rick Harris</a></p>\n<p>End of Show Mixes: John Fletcher - Tom Starkweather</p>\n<p>Engineering, Stream Management &amp; Wizardry</p>\n<p>Mark van Dijk - Systems Master</p>\n<p>Ryan Bemrose - Program Director</p>\n<p>Back Office Aric Mackey</p>\n<p>Chapters: Dreb Scott</p>\n<p>Clip Custodian: Neal Jones</p>\n<p><strong>NEW:</strong>&nbsp;and soon on Netflix:&nbsp;<a href=\"https://www.youtube.com/channel/UCihyXCKCTKZ0H6OQRpKN5qQ\">Animated No Agenda</a></p>\n<p><a href=\"https://noagendasocial.com/invite/fnBmg2P6\" target=\"_blank\" rel=\"noopener\">No Agenda Social Registration</a></p>\n<p><strong>Sign Up</strong>&nbsp;for the&nbsp;<a href=\"http://www.dvorak.org/blog/no-agenda-mailing-list-signup-here/\">newsletter</a></p>\n<p><a href=\"http://dvorak.org/peerage\" target=\"_blank\" rel=\"noopener\">No Agenda Peerage</a></p>\n<p>ShowNotes Archive of links and Assets (clips etc)&nbsp;<a href=\"http://1416.noagendanotes.com/\">1416.noagendanotes.com</a></p>\n<p>New: Directory Archive of Shownotes (includes all audio and video assets used)&nbsp;<a href=\"http://archive.noagendanotes.com/\">archive.noagendanotes.com</a></p>\n<p>RSS Podcast<a href=\"http://feed.nashownotes.com/rss.xml\">&nbsp;Feed</a></p>\n<p><a href=\"https://www.blugs.com/na/NASummaries.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Full Summaries in PDF</strong></a></p>\n<p><a href=\"http://itm.im/opus\">No Agenda Lite</a>&nbsp;in opus format</p>\n<p><a href=\"http://noagendatorrents.com/\">NoAgendaTorrents.com</a>&nbsp;has an RSS feed or show torrents</p>\n<p><span>Last Modified 01/13/2022 15:13:15</span><br /><a href=\"http://freedomcontroller.com/\"><span>This page created with the FreedomController</span></a></p>\n</div>\n</div>\n</div>\n<div><small>Last Modified 01/13/2022 15:13:15 by&nbsp;<a href=\"http://freedomcontroller.com/\">Freedom Controller</a></small>&nbsp;<a title=\"Link to the opml for this document.\" href=\"http://adam.curry.com/opml/NoAgendaEpisode1416E-BNN8C90vwzxVgBFxPKv3b5dpZhB1Hm.opml\">&nbsp;</a></div>",
+      "subtitle": "1416: \"Endemicity\"",
+      "author": "Adam Curry & John C. Dvorak",
+      "summary": "<h2>No Agenda Episode 1416 - \"Endemicity\"</h2>\n<div>\n<div>\n<div id=\"tabcredits\">\n<p><strong>\"Endemicity\"</strong></p>\n<p>Executive Producers:</p>\n<p>Sir MFNFT of the north coast</p>\n<p>Dame Bear of Bend and Sir Knight Ryan of Central Oregon</p>\n<p>SirTakie</p>\n<p>Sir Donald of the Firebottles - Duke of the lands of Idaho north of the lost trail pass</p>\n<p>Sir-Nonymous Cop of the Bay Area</p>\n<p>Gene Morphis, Knight of Neurogenesls</p>\n<p>Dustin Saner</p>\n<p>Dame Kim Keeper of the Nutty Flufflers</p>\n<p>Chap Williams</p>\n<p>Khalil Saman</p>\n<p>Guy Lambert</p>\n<p>Joshua Gridley</p>\n<p>Baronet Nate Wilson</p>\n<p>Associate Executive Producers:</p>\n<p>Chris K</p>\n<p>Baron of the Gitmo Nation Coffee Pot</p>\n<p>Paul Bedau</p>\n<p>Erick Senkmajer</p>\n<p>Alexander Van Abel</p>\n<p>Nick Dice</p>\n<p>Anonymous</p>\n<p>Become a member of the 1417 Club, support the show&nbsp;<a href=\"http://dvorak.org/na\">here</a></p>\n<p>Boost us with with Podcasting 2.0 Certified apps:&nbsp;<a href=\"https://www.podfriend.fm/\">Podfriend&nbsp;</a>-&nbsp;<a href=\"https://breez.technology/\">Breez&nbsp;</a>-&nbsp;<a href=\"https://sphinx.chat/\">Sphinx&nbsp;</a>-&nbsp;<a href=\"https://podstation.github.io/\">Podstation</a>&nbsp;-&nbsp;<a href=\"http://curiocaster.com/\">Curiocaster</a>&nbsp;-&nbsp;<a href=\"http://fountain.fm/\">Fountain</a></p>\n<p>Title Changes</p>\n<p>Sir Eric Hoff -&gt; Baron of the Gitmo Nation Coffee Pot</p>\n<p>Dame Bear of Bend - Baronettess</p>\n<p>Sir Donald of the Firebottles - Duke of the lands of Idaho north of the lost trail pass</p>\n<p>Knights &amp; Dames</p>\n<p>Michael Forney -&gt; Sir MFNFT of the North Coast</p>\n<p><a href=\"https://noagendaartgenerator.com/artist/2471\" target=\"_blank\" rel=\"noopener\">Art By: Rick Harris</a></p>\n<p>End of Show Mixes: John Fletcher - Tom Starkweather</p>\n<p>Engineering, Stream Management &amp; Wizardry</p>\n<p>Mark van Dijk - Systems Master</p>\n<p>Ryan Bemrose - Program Director</p>\n<p>Back Office Aric Mackey</p>\n<p>Chapters: Dreb Scott</p>\n<p>Clip Custodian: Neal Jones</p>\n<p><strong>NEW:</strong>&nbsp;and soon on Netflix:&nbsp;<a href=\"https://www.youtube.com/channel/UCihyXCKCTKZ0H6OQRpKN5qQ\">Animated No Agenda</a></p>\n<p><a href=\"https://noagendasocial.com/invite/fnBmg2P6\" target=\"_blank\" rel=\"noopener\">No Agenda Social Registration</a></p>\n<p><strong>Sign Up</strong>&nbsp;for the&nbsp;<a href=\"http://www.dvorak.org/blog/no-agenda-mailing-list-signup-here/\">newsletter</a></p>\n<p><a href=\"http://dvorak.org/peerage\" target=\"_blank\" rel=\"noopener\">No Agenda Peerage</a></p>\n<p>ShowNotes Archive of links and Assets (clips etc)&nbsp;<a href=\"http://1416.noagendanotes.com/\">1416.noagendanotes.com</a></p>\n<p>New: Directory Archive of Shownotes (includes all audio and video assets used)&nbsp;<a href=\"http://archive.noagendanotes.com/\">archive.noagendanotes.com</a></p>\n<p>RSS Podcast<a href=\"http://feed.nashownotes.com/rss.xml\">&nbsp;Feed</a></p>\n<p><a href=\"https://www.blugs.com/na/NASummaries.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Full Summaries in PDF</strong></a></p>\n<p><a href=\"http://itm.im/opus\">No Agenda Lite</a>&nbsp;in opus format</p>\n<p><a href=\"http://noagendatorrents.com/\">NoAgendaTorrents.com</a>&nbsp;has an RSS feed or show torrents</p>\n<p><span>Last Modified 01/13/2022 15:13:15</span><br /><a href=\"http://freedomcontroller.com/\"><span>This page created with the FreedomController</span></a></p>\n</div>\n</div>\n</div>\n<div><small>Last Modified 01/13/2022 15:13:15 by&nbsp;<a href=\"http://freedomcontroller.com/\">Freedom Controller</a></small>&nbsp;<a title=\"Link to the opml for this document.\" href=\"http://adam.curry.com/opml/NoAgendaEpisode1416E-BNN8C90vwzxVgBFxPKv3b5dpZhB1Hm.opml\">&nbsp;</a></div>",
+      "guid": "http://1416.noagendanotes.com",
+      "chapters": {
+        "url": "http://34.117.70.159/http%3Afeed.nashownotes.comrss.xml/http:1416.noagendanotes.com",
+        "type": "application/json"
+      },
+      "keywords": [
+        "agenda",
+        "curry",
+        "douchebag",
+        "dvorak",
+        "no",
+        "noagenda",
+        "politics"
+      ],
+      "image": {
+        "url": "https://noagendaassets.com/enc/1642108303.24_na-1416-art-sm.png"
+      },
+      "explicit": false,
+      "enclosure": {
+        "length": 147710373,
+        "type": "audio/mpeg",
+        "url": "https://mp3s.nashownotes.com/NA-1416-2022-01-13-Final.mp3"
+      },
+      "pubDate": "2022-01-13T21:19:10.000Z",
+      "person": [
+        {
+          "name": "Adam Curry",
+          "role": "host",
+          "group": "cast",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Adam_Curry_2016.jpg/440px-Adam_Curry_2016.jpg",
+          "href": "http://curry.com/"
+        },
+        {
+          "name": "John C Dvorak",
+          "role": "host",
+          "group": "cast",
+          "img": "https://speaking.com/wp-content/uploads/2018/09/John-Dvorak.jpg",
+          "href": "http://dvorak.org/blog"
+        }
+      ],
+      "transcript": [
+        {
+          "url": "https://mp3s.nashownotes.com/NA-1416-Captions.srt",
+          "type": "application/srt"
+        }
+      ],
+      "images": {
+        "srcset": "https://noagendaassets.com/enc/1642108303.24_na-1416-art-sm.png 256w"
+      },
+      "link": "http://1416.noagendanotes.com"
+    },
+    {
+      "title": "1415: \"Equity Hotel\"",
+      "description": "<h2>No Agenda Episode 1415 - \"Equity Hotel\"</h2>\n<div>\n<div>\n<div id=\"tabcredits\">\n<p><strong>\"Equity Hotel\"</strong></p>\n<p>Executive Producers:</p>\n<p>Sir Mainframe</p>\n<p>Ella Kopistecki</p>\n<p>Sir NBS</p>\n<p>Sir Fists! Keeper of Coin and Processor of Bank Cards!</p>\n<p>William Wild</p>\n<p>Sir Tees</p>\n<p>Renee Roig</p>\n<p>Associate Executive Producers:</p>\n<p>Jean-Paul De La Haye</p>\n<p>Craig Kohler, Sir 8-Bit Ben</p>\n<p>Anonymous</p>\n<p>Mike Nijman</p>\n<p>David Chaney</p>\n<p>Vincent Visconti</p>\n<p>Christopher Kessler</p>\n<p>Nick Paquette</p>\n<p>Eric Laird</p>\n<p>Become a member of the 1416 Club, support the show&nbsp;<a href=\"http://dvorak.org/na\">here</a></p>\n<p>Boost us with with Podcasting 2.0 Certified apps:&nbsp;<a href=\"https://www.podfriend.fm/\">Podfriend&nbsp;</a>-&nbsp;<a href=\"https://breez.technology/\">Breez&nbsp;</a>-&nbsp;<a href=\"https://sphinx.chat/\">Sphinx&nbsp;</a>-&nbsp;<a href=\"https://podstation.github.io/\">Podstation</a>&nbsp;-&nbsp;<a href=\"http://curiocaster.com/\">Curiocaster</a>&nbsp;-&nbsp;<a href=\"http://fountain.fm/\">Fountain</a></p>\n<p>Knights &amp; Dames</p>\n<p>Vance Cotier -&gt; Sir Mainframe</p>\n<p>Tyler Hall -&gt; Sir Fists, Keeper of Coin and Processor of Bank Cards</p>\n<p>Tiese Barrell -&gt; Sir Tees</p>\n<p><a href=\"https://noagendaartgenerator.com/artist/1360\" target=\"_blank\" rel=\"noopener\">Art By: Sir Net Ned</a></p>\n<p>End of Show Mixes: Tom Starkweather</p>\n<p>Engineering, Stream Management &amp; Wizardry</p>\n<p>Back Office Aric Mackey</p>\n<p>Chapters: Dreb Scott</p>\n<p>Clip Custodian: Neal Jones</p>\n<p><strong>NEW:</strong>&nbsp;and soon on Netflix:&nbsp;<a href=\"https://www.youtube.com/channel/UCihyXCKCTKZ0H6OQRpKN5qQ\">Animated No Agenda</a></p>\n<p><a href=\"https://noagendasocial.com/invite/fnBmg2P6\" target=\"_blank\" rel=\"noopener\">No Agenda Social Registration</a></p>\n<p><strong>Sign Up</strong>&nbsp;for the&nbsp;<a href=\"http://www.dvorak.org/blog/no-agenda-mailing-list-signup-here/\">newsletter</a></p>\n<p><a href=\"http://dvorak.org/peerage\" target=\"_blank\" rel=\"noopener\">No Agenda Peerage</a></p>\n<p>ShowNotes Archive of links and Assets (clips etc)&nbsp;<a href=\"http://1415.noagendanotes.com/\">1415.noagendanotes.com</a></p>\n<p>New: Directory Archive of Shownotes (includes all audio and video assets used)&nbsp;<a href=\"http://archive.noagendanotes.com/\">archive.noagendanotes.com</a></p>\n<p>RSS Podcast<a href=\"http://feed.nashownotes.com/rss.xml\">&nbsp;Feed</a></p>\n<p><a href=\"https://www.blugs.com/na/NASummaries.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Full Summaries in PDF</strong></a></p>\n<p><a href=\"http://itm.im/opus\">No Agenda Lite</a>&nbsp;in opus format</p>\n<p><a href=\"http://noagendatorrents.com/\">NoAgendaTorrents.com</a>&nbsp;has an RSS feed or show torrents</p>\n<p><span>Last Modified 01/09/2022 14:35:00</span><br /><a href=\"http://freedomcontroller.com/\"><span>This page created with the FreedomController</span></a></p>\n</div>\n</div>\n</div>\n<div><small>Last Modified 01/09/2022 14:35:00 by&nbsp;<a href=\"http://freedomcontroller.com/\">Freedom Controller</a></small>&nbsp;<a title=\"Link to the opml for this document.\" href=\"http://adam.curry.com/opml/NoAgendaEpisode1415E-gKZtJFnNCcnMjpg8xnB0zmThGJL4SG.opml\">&nbsp;</a></div>",
+      "subtitle": "1415: \"Equity Hotel\"",
+      "author": "Adam Curry & John C. Dvorak",
+      "summary": "<h2>No Agenda Episode 1415 - \"Equity Hotel\"</h2>\n<div>\n<div>\n<div id=\"tabcredits\">\n<p><strong>\"Equity Hotel\"</strong></p>\n<p>Executive Producers:</p>\n<p>Sir Mainframe</p>\n<p>Ella Kopistecki</p>\n<p>Sir NBS</p>\n<p>Sir Fists! Keeper of Coin and Processor of Bank Cards!</p>\n<p>William Wild</p>\n<p>Sir Tees</p>\n<p>Renee Roig</p>\n<p>Associate Executive Producers:</p>\n<p>Jean-Paul De La Haye</p>\n<p>Craig Kohler, Sir 8-Bit Ben</p>\n<p>Anonymous</p>\n<p>Mike Nijman</p>\n<p>David Chaney</p>\n<p>Vincent Visconti</p>\n<p>Christopher Kessler</p>\n<p>Nick Paquette</p>\n<p>Eric Laird</p>\n<p>Become a member of the 1416 Club, support the show&nbsp;<a href=\"http://dvorak.org/na\">here</a></p>\n<p>Boost us with with Podcasting 2.0 Certified apps:&nbsp;<a href=\"https://www.podfriend.fm/\">Podfriend&nbsp;</a>-&nbsp;<a href=\"https://breez.technology/\">Breez&nbsp;</a>-&nbsp;<a href=\"https://sphinx.chat/\">Sphinx&nbsp;</a>-&nbsp;<a href=\"https://podstation.github.io/\">Podstation</a>&nbsp;-&nbsp;<a href=\"http://curiocaster.com/\">Curiocaster</a>&nbsp;-&nbsp;<a href=\"http://fountain.fm/\">Fountain</a></p>\n<p>Knights &amp; Dames</p>\n<p>Vance Cotier -&gt; Sir Mainframe</p>\n<p>Tyler Hall -&gt; Sir Fists, Keeper of Coin and Processor of Bank Cards</p>\n<p>Tiese Barrell -&gt; Sir Tees</p>\n<p><a href=\"https://noagendaartgenerator.com/artist/1360\" target=\"_blank\" rel=\"noopener\">Art By: Sir Net Ned</a></p>\n<p>End of Show Mixes: Tom Starkweather</p>\n<p>Engineering, Stream Management &amp; Wizardry</p>\n<p>Back Office Aric Mackey</p>\n<p>Chapters: Dreb Scott</p>\n<p>Clip Custodian: Neal Jones</p>\n<p><strong>NEW:</strong>&nbsp;and soon on Netflix:&nbsp;<a href=\"https://www.youtube.com/channel/UCihyXCKCTKZ0H6OQRpKN5qQ\">Animated No Agenda</a></p>\n<p><a href=\"https://noagendasocial.com/invite/fnBmg2P6\" target=\"_blank\" rel=\"noopener\">No Agenda Social Registration</a></p>\n<p><strong>Sign Up</strong>&nbsp;for the&nbsp;<a href=\"http://www.dvorak.org/blog/no-agenda-mailing-list-signup-here/\">newsletter</a></p>\n<p><a href=\"http://dvorak.org/peerage\" target=\"_blank\" rel=\"noopener\">No Agenda Peerage</a></p>\n<p>ShowNotes Archive of links and Assets (clips etc)&nbsp;<a href=\"http://1415.noagendanotes.com/\">1415.noagendanotes.com</a></p>\n<p>New: Directory Archive of Shownotes (includes all audio and video assets used)&nbsp;<a href=\"http://archive.noagendanotes.com/\">archive.noagendanotes.com</a></p>\n<p>RSS Podcast<a href=\"http://feed.nashownotes.com/rss.xml\">&nbsp;Feed</a></p>\n<p><a href=\"https://www.blugs.com/na/NASummaries.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Full Summaries in PDF</strong></a></p>\n<p><a href=\"http://itm.im/opus\">No Agenda Lite</a>&nbsp;in opus format</p>\n<p><a href=\"http://noagendatorrents.com/\">NoAgendaTorrents.com</a>&nbsp;has an RSS feed or show torrents</p>\n<p><span>Last Modified 01/09/2022 14:35:00</span><br /><a href=\"http://freedomcontroller.com/\"><span>This page created with the FreedomController</span></a></p>\n</div>\n</div>\n</div>\n<div><small>Last Modified 01/09/2022 14:35:00 by&nbsp;<a href=\"http://freedomcontroller.com/\">Freedom Controller</a></small>&nbsp;<a title=\"Link to the opml for this document.\" href=\"http://adam.curry.com/opml/NoAgendaEpisode1415E-gKZtJFnNCcnMjpg8xnB0zmThGJL4SG.opml\">&nbsp;</a></div>",
+      "guid": "http://1415.noagendanotes.com",
+      "chapters": {
+        "url": "http://34.117.70.159/http%3Afeed.nashownotes.comrss.xml/http:1415.noagendanotes.com",
+        "type": "application/json"
+      },
+      "keywords": [
+        "agenda",
+        "curry",
+        "douchebag",
+        "dvorak",
+        "no",
+        "noagenda",
+        "politics"
+      ],
+      "image": {
+        "url": "https://noagendaassets.com/enc/1641760406.103_na-1415-art-feed.png"
+      },
+      "explicit": false,
+      "enclosure": {
+        "length": 147710373,
+        "type": "audio/mpeg",
+        "url": "https://mp3s.nashownotes.com/NA-1415-2022-01-09-Final.mp3"
+      },
+      "pubDate": "2022-01-09T20:40:17.000Z",
+      "person": [
+        {
+          "name": "Adam Curry",
+          "role": "host",
+          "group": "cast",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Adam_Curry_2016.jpg/440px-Adam_Curry_2016.jpg",
+          "href": "http://curry.com/"
+        },
+        {
+          "name": "John C Dvorak",
+          "role": "host",
+          "group": "cast",
+          "img": "https://speaking.com/wp-content/uploads/2018/09/John-Dvorak.jpg",
+          "href": "http://dvorak.org/blog"
+        }
+      ],
+      "transcript": [
+        {
+          "url": "https://mp3s.nashownotes.com/NA-1415-Captions.srt",
+          "type": "application/srt"
+        }
+      ],
+      "images": {
+        "srcset": "https://noagendaassets.com/enc/1641760406.103_na-1415-art-feed.png 2000w"
+      },
+      "link": "http://1415.noagendanotes.com"
+    },
+    {
+      "title": "1414: \"Coof Croup\"",
+      "description": "<h2>No Agenda Episode 1414 - \"Coof Croup\"</h2>\n<div>\n<div>\n<div id=\"tabcredits\">\n<p><strong>\"Coof Croup\"</strong></p>\n<p>Executive Producers:</p>\n<p>Sir Macanudo de La Paz and Dame Sparkler</p>\n<p>Mike Neumann</p>\n<p>Jason Ohrum</p>\n<p>Britton Sprouse</p>\n<p>Chap Williams</p>\n<p>Sir Paul Branum</p>\n<p>Jessey Noble</p>\n<p>Tony</p>\n<p>Associate Executive Producers:</p>\n<p>Jonathan Peckham</p>\n<p>Nestor Molina</p>\n<p>Baronet Sir Cycle Path</p>\n<p>Baroness Monica</p>\n<p>Sir Charles of the Coin-Operated Laundromat</p>\n<p>JT</p>\n<p>Jim Razzano (aka Vinny)</p>\n<p>Matthew Wilson</p>\n<p>Simon James</p>\n<p>Become a member of the 1415 Club, support the show&nbsp;<a href=\"http://dvorak.org/na\">here</a></p>\n<p>Boost us with with Podcasting 2.0 Certified apps:&nbsp;<a href=\"https://www.podfriend.fm/\">Podfriend&nbsp;</a>-&nbsp;<a href=\"https://breez.technology/\">Breez&nbsp;</a>-&nbsp;<a href=\"https://sphinx.chat/\">Sphinx&nbsp;</a>-&nbsp;<a href=\"https://podstation.github.io/\">Podstation</a>&nbsp;-&nbsp;<a href=\"http://curiocaster.com/\">Curiocaster</a>&nbsp;-&nbsp;<a href=\"http://fountain.fm/\">Fountain</a></p>\n<p>Knights &amp; Dames</p>\n<p>Paul Branum -&gt; Sir Paul Branum</p>\n<p><a href=\"https://noagendaartgenerator.com/artist/1701\" target=\"_blank\" rel=\"noopener\">Art By: Tante Neel</a></p>\n<p>End of Show Mixes: Dustin Jones - Phantomville</p>\n<p>Engineering, Stream Management &amp; Wizardry</p>\n<p>Mark van Dijk - Systems Master</p>\n<p>Ryan Bemrose - Program Director</p>\n<p>Back Office Aric Mackey</p>\n<p>Chapters: Dreb Scott</p>\n<p>Clip Custodian: Neal Jones</p>\n<p><strong>NEW:</strong>&nbsp;and soon on Netflix:&nbsp;<a href=\"https://www.youtube.com/channel/UCihyXCKCTKZ0H6OQRpKN5qQ\">Animated No Agenda</a></p>\n<p><a href=\"https://noagendasocial.com/invite/fnBmg2P6\" target=\"_blank\" rel=\"noopener\">No Agenda Social Registration</a></p>\n<p><strong>Sign Up</strong>&nbsp;for the&nbsp;<a href=\"http://www.dvorak.org/blog/no-agenda-mailing-list-signup-here/\">newsletter</a></p>\n<p><a href=\"http://dvorak.org/peerage\" target=\"_blank\" rel=\"noopener\">No Agenda Peerage</a></p>\n<p>ShowNotes Archive of links and Assets (clips etc)&nbsp;<a href=\"http://1414.noagendanotes.com/\">1414.noagendanotes.com</a></p>\n<p>New: Directory Archive of Shownotes (includes all audio and video assets used)&nbsp;<a href=\"http://archive.noagendanotes.com/\">archive.noagendanotes.com</a></p>\n<p>RSS Podcast<a href=\"http://feed.nashownotes.com/rss.xml\">&nbsp;Feed</a></p>\n<p><a href=\"https://www.blugs.com/na/NASummaries.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Full Summaries in PDF</strong></a></p>\n<p><a href=\"http://itm.im/opus\">No Agenda Lite</a>&nbsp;in opus format</p>\n<p><a href=\"http://noagendatorrents.com/\">NoAgendaTorrents.com</a>&nbsp;has an RSS feed or show torrents</p>\n<p><span>Last Modified 01/06/2022 14:58:44</span><br /><a href=\"http://freedomcontroller.com/\"><span>This page created with the FreedomController</span></a></p>\n</div>\n</div>\n</div>\n<div><small>Last Modified 01/06/2022 14:58:44 by&nbsp;<a href=\"http://freedomcontroller.com/\">Freedom Controller</a></small>&nbsp;<a title=\"Link to the opml for this document.\" href=\"http://adam.curry.com/opml/NoAgendaEpisode1414C-bLwPsWKk9SPmQwSVBXlbfPMqsfzL1H.opml\">&nbsp;</a></div>",
+      "subtitle": "1414: \"Coof Croup\"",
+      "author": "Adam Curry & John C. Dvorak",
+      "summary": "<h2>No Agenda Episode 1414 - \"Coof Croup\"</h2>\n<div>\n<div>\n<div id=\"tabcredits\">\n<p><strong>\"Coof Croup\"</strong></p>\n<p>Executive Producers:</p>\n<p>Sir Macanudo de La Paz and Dame Sparkler</p>\n<p>Mike Neumann</p>\n<p>Jason Ohrum</p>\n<p>Britton Sprouse</p>\n<p>Chap Williams</p>\n<p>Sir Paul Branum</p>\n<p>Jessey Noble</p>\n<p>Tony</p>\n<p>Associate Executive Producers:</p>\n<p>Jonathan Peckham</p>\n<p>Nestor Molina</p>\n<p>Baronet Sir Cycle Path</p>\n<p>Baroness Monica</p>\n<p>Sir Charles of the Coin-Operated Laundromat</p>\n<p>JT</p>\n<p>Jim Razzano (aka Vinny)</p>\n<p>Matthew Wilson</p>\n<p>Simon James</p>\n<p>Become a member of the 1415 Club, support the show&nbsp;<a href=\"http://dvorak.org/na\">here</a></p>\n<p>Boost us with with Podcasting 2.0 Certified apps:&nbsp;<a href=\"https://www.podfriend.fm/\">Podfriend&nbsp;</a>-&nbsp;<a href=\"https://breez.technology/\">Breez&nbsp;</a>-&nbsp;<a href=\"https://sphinx.chat/\">Sphinx&nbsp;</a>-&nbsp;<a href=\"https://podstation.github.io/\">Podstation</a>&nbsp;-&nbsp;<a href=\"http://curiocaster.com/\">Curiocaster</a>&nbsp;-&nbsp;<a href=\"http://fountain.fm/\">Fountain</a></p>\n<p>Knights &amp; Dames</p>\n<p>Paul Branum -&gt; Sir Paul Branum</p>\n<p><a href=\"https://noagendaartgenerator.com/artist/1701\" target=\"_blank\" rel=\"noopener\">Art By: Tante Neel</a></p>\n<p>End of Show Mixes: Dustin Jones - Phantomville</p>\n<p>Engineering, Stream Management &amp; Wizardry</p>\n<p>Mark van Dijk - Systems Master</p>\n<p>Ryan Bemrose - Program Director</p>\n<p>Back Office Aric Mackey</p>\n<p>Chapters: Dreb Scott</p>\n<p>Clip Custodian: Neal Jones</p>\n<p><strong>NEW:</strong>&nbsp;and soon on Netflix:&nbsp;<a href=\"https://www.youtube.com/channel/UCihyXCKCTKZ0H6OQRpKN5qQ\">Animated No Agenda</a></p>\n<p><a href=\"https://noagendasocial.com/invite/fnBmg2P6\" target=\"_blank\" rel=\"noopener\">No Agenda Social Registration</a></p>\n<p><strong>Sign Up</strong>&nbsp;for the&nbsp;<a href=\"http://www.dvorak.org/blog/no-agenda-mailing-list-signup-here/\">newsletter</a></p>\n<p><a href=\"http://dvorak.org/peerage\" target=\"_blank\" rel=\"noopener\">No Agenda Peerage</a></p>\n<p>ShowNotes Archive of links and Assets (clips etc)&nbsp;<a href=\"http://1414.noagendanotes.com/\">1414.noagendanotes.com</a></p>\n<p>New: Directory Archive of Shownotes (includes all audio and video assets used)&nbsp;<a href=\"http://archive.noagendanotes.com/\">archive.noagendanotes.com</a></p>\n<p>RSS Podcast<a href=\"http://feed.nashownotes.com/rss.xml\">&nbsp;Feed</a></p>\n<p><a href=\"https://www.blugs.com/na/NASummaries.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Full Summaries in PDF</strong></a></p>\n<p><a href=\"http://itm.im/opus\">No Agenda Lite</a>&nbsp;in opus format</p>\n<p><a href=\"http://noagendatorrents.com/\">NoAgendaTorrents.com</a>&nbsp;has an RSS feed or show torrents</p>\n<p><span>Last Modified 01/06/2022 14:58:44</span><br /><a href=\"http://freedomcontroller.com/\"><span>This page created with the FreedomController</span></a></p>\n</div>\n</div>\n</div>\n<div><small>Last Modified 01/06/2022 14:58:44 by&nbsp;<a href=\"http://freedomcontroller.com/\">Freedom Controller</a></small>&nbsp;<a title=\"Link to the opml for this document.\" href=\"http://adam.curry.com/opml/NoAgendaEpisode1414C-bLwPsWKk9SPmQwSVBXlbfPMqsfzL1H.opml\">&nbsp;</a></div>",
+      "guid": "http://1414.noagendanotes.com",
+      "chapters": {
+        "url": "http://34.117.70.159/http%3Afeed.nashownotes.comrss.xml/http:1414.noagendanotes.com",
+        "type": "application/json"
+      },
+      "keywords": [
+        "agenda",
+        "curry",
+        "douchebag",
+        "dvorak",
+        "no",
+        "noagenda",
+        "politics"
+      ],
+      "image": {
+        "url": "https://noagendaassets.com/enc/1641501734.048_na-1414-art-feed.png"
+      },
+      "explicit": false,
+      "enclosure": {
+        "length": 147710373,
+        "type": "audio/mpeg",
+        "url": "https://mp3s.nashownotes.com/NA-1414-2022-01-06-Final.mp3"
+      },
+      "pubDate": "2022-01-06T20:57:36.000Z",
+      "person": [
+        {
+          "name": "Adam Curry",
+          "role": "host",
+          "group": "cast",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Adam_Curry_2016.jpg/440px-Adam_Curry_2016.jpg",
+          "href": "http://curry.com/"
+        },
+        {
+          "name": "John C Dvorak",
+          "role": "host",
+          "group": "cast",
+          "img": "https://speaking.com/wp-content/uploads/2018/09/John-Dvorak.jpg",
+          "href": "http://dvorak.org/blog"
+        }
+      ],
+      "transcript": [
+        {
+          "url": "https://mp3s.nashownotes.com/NA-1414-Captions.srt",
+          "type": "application/srt"
+        }
+      ],
+      "images": {
+        "srcset": "https://noagendaassets.com/enc/1641501734.048_na-1414-art-feed.png 2000w"
+      },
+      "link": "http://1414.noagendanotes.com"
+    },
+    {
+      "title": "1413: \"Flurona\"",
+      "description": "<h2>No Agenda Episode 1413 - \"Flurona\"</h2>\n\t  Executive Producers:\n\tSir Craig Porter the Ronin, N7FSN\n\tSir George of the Southern Carpathians\n\tPaul Hobbs\n\tSir Fur - Baronet\n\tKyle Stephano\n\tCheryl Wetzel\n\tSir JD, Baron of Silicon Valley\n\tChris Johnson\n\tAssociate Executive Producers:\n\tDane Frost\n\tSir Cah, Craig Allen Harms\n\tTrish Petrat\n\tBecky Passfield\n\tJoe\n\tGordon Walton\n\tCynthia Scholte\n\tTimothy Hiller\n\tJames Williams\n\tBecome a member of the 1414 Club, support the show here\n\tBoost us with with Podcasting 2.0 Certified apps: Podfriend - Breez - Sphinx - Podstation - Curiocaster - Fountain\n\tTitle Changes\n\tSir Fur -> Baronet\n\tKnights & Dames\n\tSir Chad -> Sir Chad Farrow of the Sats streamers\n\tArt By: Parker Paulie\n\tEnd of Show Mixes: Unknown - Gus Augustine\n\tEngineering, Stream Management & Wizardry\n\tMark van Dijk - Systems Master\n\tRyan Bemrose - Program Director\n\tBack Office Aric Mackey\n\tChapters: Dreb Scott\n\tClip Custodian: Neal Jones",
+      "subtitle": "1412: \"Flurona\"",
+      "author": "Adam Curry & John C. Dvorak",
+      "summary": "<h2>No Agenda Episode 1413 - \"Flurona\"</h2>",
+      "guid": "http://1413.noagendanotes.com",
+      "chapters": {
+        "url": "http://34.117.70.159/http%3Afeed.nashownotes.comrss.xml/http:1413.noagendanotes.com",
+        "type": "application/json"
+      },
+      "keywords": [
+        "agenda",
+        "curry",
+        "douchebag",
+        "dvorak",
+        "no",
+        "noagenda",
+        "politics"
+      ],
+      "image": {
+        "url": "https://noagendaassets.com/enc/1641157944.997_na-1413-art-feed.png"
+      },
+      "explicit": false,
+      "enclosure": {
+        "length": 147710373,
+        "type": "audio/mpeg",
+        "url": "https://mp3s.nashownotes.com/NA-1413-2022-01-02-Final.mp3"
+      },
+      "pubDate": "2022-01-02T21:37:03.000Z",
+      "person": [
+        {
+          "name": "Adam Curry",
+          "role": "host",
+          "group": "cast",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Adam_Curry_2016.jpg/440px-Adam_Curry_2016.jpg",
+          "href": "http://curry.com/"
+        },
+        {
+          "name": "John C Dvorak",
+          "role": "host",
+          "group": "cast",
+          "img": "https://speaking.com/wp-content/uploads/2018/09/John-Dvorak.jpg",
+          "href": "http://dvorak.org/blog"
+        }
+      ],
+      "transcript": [
+        {
+          "url": "https://mp3s.nashownotes.com/NA-1413-Captions.srt",
+          "type": "application/srt"
+        }
+      ],
+      "images": {
+        "srcset": "https://noagendaassets.com/enc/1641157944.997_na-1413-art-feed.png 2000w"
+      },
+      "link": "http://1413.noagendanotes.com"
+    },
+    {
+      "title": "1412: \"Oil Ball Panic\"",
+      "description": "<h2>No Agenda Episode 1412 - \"Oil Ball Panic\"</h2>\n<div>\n<div>\n<div id=\"tabcredits\">\n<p><strong>\"Oil Ball Panic\"</strong></p>\n<p>Executive Producers:</p>\n<p>Sir Onymous of Dogpatch and Lower Slobbovia</p>\n<p>Patrick Remensperger</p>\n<p>Blake Michigan</p>\n<p>SIr Borislav Marinov</p>\n<p>Sir Infinitus, The Chivalrous CRNA &amp; Surgical Positioning Master of North Carolina</p>\n<p>Sir Jon Helmer - Baron of Belle Fourche</p>\n<p>John Grumling aka Sir ReadyKilowatt</p>\n<p>Sir B of the New Republic of Flor'exas</p>\n<p>Sir Cal and the gang of Lavender Blossoms (. org)</p>\n<p>Michael Brahy</p>\n<p>Nick Ames</p>\n<p>Sir Michaelanthony</p>\n<p>Owen Marsh</p>\n<p>Matthew Price</p>\n<p>Dame Kendra Jo</p>\n<p>Augustine Cost</p>\n<p>Alex Van Der Hengst</p>\n<p>Associate Executive Producers:</p>\n<p>Matthew Clark</p>\n<p>Korey Getty</p>\n<p>Lukas Teijema</p>\n<p>Sir Karys, Viscount of Greater Boston</p>\n<p>Jacob Warburton</p>\n<p>Mike Bateman</p>\n<p>Sir Rob from Bear</p>\n<p>Michael Day</p>\n<p>Dame Leesa K</p>\n<p>Robert Rose</p>\n<p>Viscount - Sir Christopher Kessler</p>\n<p>Become a member of the 1413 Club, support the show&nbsp;<a href=\"http://dvorak.org/na\">here</a></p>\n<p>Boost us with with Podcasting 2.0 Certified apps:&nbsp;<a href=\"https://www.podfriend.fm/\">Podfriend&nbsp;</a>-&nbsp;<a href=\"https://breez.technology/\">Breez&nbsp;</a>-&nbsp;<a href=\"https://sphinx.chat/\">Sphinx&nbsp;</a>-&nbsp;<a href=\"https://podstation.github.io/\">Podstation</a>&nbsp;-&nbsp;<a href=\"http://curiocaster.com/\">Curiocaster</a>&nbsp;-&nbsp;<a href=\"http://fountain.fm/\">Fountain</a></p>\n<p>Title Changes</p>\n<p>Sir Jon Helmer -&gt; Baron Jon Helmer of Shawnee, KS</p>\n<p>Knights &amp; Dames</p>\n<p>Rob Romeo -&gt; Sir Rob from Bear</p>\n<p>David Gomez -&gt; Sir Infinitus, The Chivalrous CRNA &amp; Surgical Positioning Master of North Carolina</p>\n<p><a href=\"https://noagendaartgenerator.com/artist/2093\" target=\"_blank\" rel=\"noopener\">Art By: Dame Kenny-Ben</a></p>\n<p>End of Show Mixes: Boobs Mixer - Sir Alf - Rolando Gonzalez - Guspacho</p>\n<p>Engineering, Stream Management &amp; Wizardry</p>\n<p>Mark van Dijk - Systems Master</p>\n<p>Ryan Bemrose - Program Director</p>\n<p>Back Office Aric Mackey</p>\n<p>Chapters: Dreb Scott</p>\n<p>Clip Custodian: Neal Jones</p>\n<p><strong>NEW:</strong>&nbsp;and soon on Netflix:&nbsp;<a href=\"https://www.youtube.com/channel/UCihyXCKCTKZ0H6OQRpKN5qQ\">Animated No Agenda</a></p>\n<p><a href=\"https://noagendasocial.com/invite/fnBmg2P6\" target=\"_blank\" rel=\"noopener\">No Agenda Social Registration</a></p>\n<p><strong>Sign Up</strong>&nbsp;for the&nbsp;<a href=\"http://www.dvorak.org/blog/no-agenda-mailing-list-signup-here/\">newsletter</a></p>\n<p><a href=\"http://dvorak.org/peerage\" target=\"_blank\" rel=\"noopener\">No Agenda Peerage</a></p>\n<p>ShowNotes Archive of links and Assets (clips etc)&nbsp;<a href=\"http://1412.noagendanotes.com/\">1412.noagendanotes.com</a></p>\n<p>New: Directory Archive of Shownotes (includes all audio and video assets used)&nbsp;<a href=\"http://archive.noagendanotes.com/\">archive.noagendanotes.com</a></p>\n<p>RSS Podcast<a href=\"http://feed.nashownotes.com/rss.xml\">&nbsp;Feed</a></p>\n<p><a href=\"https://www.blugs.com/na/NASummaries.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Full Summaries in PDF</strong></a></p>\n<p><a href=\"http://itm.im/opus\">No Agenda Lite</a>&nbsp;in opus format</p>\n<p><a href=\"http://noagendatorrents.com/\">NoAgendaTorrents.com</a>&nbsp;has an RSS feed or show torrents</p>\n<p><span>Last Modified 12/30/2021 15:22:47</span><br /><a href=\"http://freedomcontroller.com/\"><span>This page created with the FreedomController</span></a></p>\n</div>\n</div>\n</div>\n<div><small>Last Modified 12/30/2021 15:22:47 by&nbsp;<a href=\"http://freedomcontroller.com/\">Freedom Controller</a></small>&nbsp;<a title=\"Link to the opml for this document.\" href=\"http://adam.curry.com/opml/NoAgendaEpisode1412O-bGSvKzsNwzNkw3x2n1Z0ks5K1ZBCrb.opml\">&nbsp;</a></div>",
+      "subtitle": "1412: \"Oil Ball Panic\"",
+      "author": "Adam Curry & John C. Dvorak",
+      "summary": "<h2>No Agenda Episode 1412 - \"Oil Ball Panic\"</h2>\n<div>\n<div>\n<div id=\"tabcredits\">\n<p><strong>\"Oil Ball Panic\"</strong></p>\n<p>Executive Producers:</p>\n<p>Sir Onymous of Dogpatch and Lower Slobbovia</p>\n<p>Patrick Remensperger</p>\n<p>Blake Michigan</p>\n<p>SIr Borislav Marinov</p>\n<p>Sir Infinitus, The Chivalrous CRNA &amp; Surgical Positioning Master of North Carolina</p>\n<p>Sir Jon Helmer - Baron of Belle Fourche</p>\n<p>John Grumling aka Sir ReadyKilowatt</p>\n<p>Sir B of the New Republic of Flor'exas</p>\n<p>Sir Cal and the gang of Lavender Blossoms (. org)</p>\n<p>Michael Brahy</p>\n<p>Nick Ames</p>\n<p>Sir Michaelanthony</p>\n<p>Owen Marsh</p>\n<p>Matthew Price</p>\n<p>Dame Kendra Jo</p>\n<p>Augustine Cost</p>\n<p>Alex Van Der Hengst</p>\n<p>Associate Executive Producers:</p>\n<p>Matthew Clark</p>\n<p>Korey Getty</p>\n<p>Lukas Teijema</p>\n<p>Sir Karys, Viscount of Greater Boston</p>\n<p>Jacob Warburton</p>\n<p>Mike Bateman</p>\n<p>Sir Rob from Bear</p>\n<p>Michael Day</p>\n<p>Dame Leesa K</p>\n<p>Robert Rose</p>\n<p>Viscount - Sir Christopher Kessler</p>\n<p>Become a member of the 1413 Club, support the show&nbsp;<a href=\"http://dvorak.org/na\">here</a></p>\n<p>Boost us with with Podcasting 2.0 Certified apps:&nbsp;<a href=\"https://www.podfriend.fm/\">Podfriend&nbsp;</a>-&nbsp;<a href=\"https://breez.technology/\">Breez&nbsp;</a>-&nbsp;<a href=\"https://sphinx.chat/\">Sphinx&nbsp;</a>-&nbsp;<a href=\"https://podstation.github.io/\">Podstation</a>&nbsp;-&nbsp;<a href=\"http://curiocaster.com/\">Curiocaster</a>&nbsp;-&nbsp;<a href=\"http://fountain.fm/\">Fountain</a></p>\n<p>Title Changes</p>\n<p>Sir Jon Helmer -&gt; Baron Jon Helmer of Shawnee, KS</p>\n<p>Knights &amp; Dames</p>\n<p>Rob Romeo -&gt; Sir Rob from Bear</p>\n<p>David Gomez -&gt; Sir Infinitus, The Chivalrous CRNA &amp; Surgical Positioning Master of North Carolina</p>\n<p><a href=\"https://noagendaartgenerator.com/artist/2093\" target=\"_blank\" rel=\"noopener\">Art By: Dame Kenny-Ben</a></p>\n<p>End of Show Mixes: Boobs Mixer - Sir Alf - Rolando Gonzalez - Guspacho</p>\n<p>Engineering, Stream Management &amp; Wizardry</p>\n<p>Mark van Dijk - Systems Master</p>\n<p>Ryan Bemrose - Program Director</p>\n<p>Back Office Aric Mackey</p>\n<p>Chapters: Dreb Scott</p>\n<p>Clip Custodian: Neal Jones</p>\n<p><strong>NEW:</strong>&nbsp;and soon on Netflix:&nbsp;<a href=\"https://www.youtube.com/channel/UCihyXCKCTKZ0H6OQRpKN5qQ\">Animated No Agenda</a></p>\n<p><a href=\"https://noagendasocial.com/invite/fnBmg2P6\" target=\"_blank\" rel=\"noopener\">No Agenda Social Registration</a></p>\n<p><strong>Sign Up</strong>&nbsp;for the&nbsp;<a href=\"http://www.dvorak.org/blog/no-agenda-mailing-list-signup-here/\">newsletter</a></p>\n<p><a href=\"http://dvorak.org/peerage\" target=\"_blank\" rel=\"noopener\">No Agenda Peerage</a></p>\n<p>ShowNotes Archive of links and Assets (clips etc)&nbsp;<a href=\"http://1412.noagendanotes.com/\">1412.noagendanotes.com</a></p>\n<p>New: Directory Archive of Shownotes (includes all audio and video assets used)&nbsp;<a href=\"http://archive.noagendanotes.com/\">archive.noagendanotes.com</a></p>\n<p>RSS Podcast<a href=\"http://feed.nashownotes.com/rss.xml\">&nbsp;Feed</a></p>\n<p><a href=\"https://www.blugs.com/na/NASummaries.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Full Summaries in PDF</strong></a></p>\n<p><a href=\"http://itm.im/opus\">No Agenda Lite</a>&nbsp;in opus format</p>\n<p><a href=\"http://noagendatorrents.com/\">NoAgendaTorrents.com</a>&nbsp;has an RSS feed or show torrents</p>\n<p><span>Last Modified 12/30/2021 15:22:47</span><br /><a href=\"http://freedomcontroller.com/\"><span>This page created with the FreedomController</span></a></p>\n</div>\n</div>\n</div>\n<div><small>Last Modified 12/30/2021 15:22:47 by&nbsp;<a href=\"http://freedomcontroller.com/\">Freedom Controller</a></small>&nbsp;<a title=\"Link to the opml for this document.\" href=\"http://adam.curry.com/opml/NoAgendaEpisode1412O-bGSvKzsNwzNkw3x2n1Z0ks5K1ZBCrb.opml\">&nbsp;</a></div>",
+      "guid": "http://1412.noagendanotes.com",
+      "chapters": {
+        "url": "http://34.117.70.159/http%3Afeed.nashownotes.comrss.xml/http:1412.noagendanotes.com",
+        "type": "application/json"
+      },
+      "keywords": [
+        "agenda",
+        "curry",
+        "douchebag",
+        "dvorak",
+        "no",
+        "noagenda",
+        "politics"
+      ],
+      "image": {
+        "url": "https://noagendaassets.com/enc/1640898655.713_na-1412-art-feed.png"
+      },
+      "explicit": false,
+      "enclosure": {
+        "length": 138752044,
+        "type": "audio/mpeg",
+        "url": "https://mp3s.nashownotes.com/NA-1412-2021-12-30-Final.mp3"
+      },
+      "pubDate": "2021-12-30T21:25:36.000Z",
+      "person": [
+        {
+          "name": "Adam Curry",
+          "role": "host",
+          "group": "cast",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Adam_Curry_2016.jpg/440px-Adam_Curry_2016.jpg",
+          "href": "http://curry.com/"
+        },
+        {
+          "name": "John C Dvorak",
+          "role": "host",
+          "group": "cast",
+          "img": "https://speaking.com/wp-content/uploads/2018/09/John-Dvorak.jpg",
+          "href": "http://dvorak.org/blog"
+        }
+      ],
+      "transcript": [
+        {
+          "url": "https://mp3s.nashownotes.com/NA-1412-Captions.srt",
+          "type": "application/srt"
+        }
+      ],
+      "images": {
+        "srcset": "https://noagendaassets.com/enc/1640898655.713_na-1412-art-feed.png 2000w"
+      },
+      "link": "http://1412.noagendanotes.com"
+    },
+    {
+      "title": "1411: \"Norgay\"",
+      "description": "<h2>No Agenda Episode 1411 - \"Norgay\"</h2>\n<div>\n<div>\n<div id=\"tabcredits\">\n<p><strong>\"Norgay\"</strong></p>\n<p>Executive Producers:</p>\n<p>Kevin Fisher</p>\n<p>Scott Bagwell</p>\n<p>Doug Salmon</p>\n<p>Anonymous</p>\n<p>Anonymous</p>\n<p>David Arell</p>\n<p>Becky CHINNI</p>\n<p>Dreb Scott, Duke of the Southern California MegaRegion</p>\n<p>Nicole McCarter</p>\n<p>Sir Zonz AKA Rolando Gonzalez, Dame Sara, Maya &amp; Alice</p>\n<p>Charity Jennings - Dame Charity the Wise Wizard</p>\n<p>Oztunan</p>\n<p>Erinn Shaw</p>\n<p>Joshua Blakeman</p>\n<p>Caitlin Greene</p>\n<p>Associate Executive Producers:</p>\n<p>Jake Stowe - SIR JAKE THE SNAKE OF BITTER LAKE</p>\n<p>Tony &amp; Metta</p>\n<p>Don Myers</p>\n<p>Jennifer Gardner</p>\n<p>Katie Chopper</p>\n<p>Sir Phil of the Bluegrass</p>\n<p>Erin Patterson</p>\n<p>Sir Ever of the What</p>\n<p>Raymond Samori</p>\n<p>James Dozier</p>\n<p>1411 Club Members:</p>\n<p>Kevin Fisher</p>\n<p>Become a member of the 1412 Club, support the show&nbsp;<a href=\"http://dvorak.org/na\">here</a></p>\n<p>Boost us with with Podcasting 2.0 Certified apps:&nbsp;<a href=\"https://www.podfriend.fm/\">Podfriend&nbsp;</a>-&nbsp;<a href=\"https://breez.technology/\">Breez&nbsp;</a>-&nbsp;<a href=\"https://sphinx.chat/\">Sphinx&nbsp;</a>-&nbsp;<a href=\"https://podstation.github.io/\">Podstation</a>&nbsp;-&nbsp;<a href=\"http://curiocaster.com/\">Curiocaster</a>&nbsp;-&nbsp;<a href=\"http://fountain.fm/\">Fountain</a></p>\n<p>Knights &amp; Dames</p>\n<p>Charity Jennings -&gt; Dame Charity the Wise Wizard</p>\n<p>Doctor Jonathan Boom of the North Land -&gt; Sir Doctor Jonathan Boom of the North Land</p>\n<p>Paul Zimmerman -&gt; Sir 1% of the GTFO</p>\n<p>Jake -&gt; SIR JAKE THE SNAKE OF BITTER LAKE</p>\n<p>Phillip Ballou -&gt; Sir Phil of the Bluegrass</p>\n<p><a href=\"https://noagendaartgenerator.com/artist/2093\" target=\"_blank\" rel=\"noopener\">Art By: Dame Kenny-Ben</a></p>\n<p>End of Show Mixes: Jesse Coy Nelson - Tom Starkweather - Neal Jones (Clip Custodian)</p>\n<p>Engineering, Stream Management &amp; Wizardry</p>\n<p>Mark van Dijk - Systems Master</p>\n<p>Ryan Bemrose - Program Director</p>\n<p>Back Office Aric Mackey</p>\n<p>Chapters: Dreb Scott</p>\n<p>Clip Custodian: Neal Jones</p>\n<p><strong>NEW:</strong>&nbsp;and soon on Netflix:&nbsp;<a href=\"https://www.youtube.com/channel/UCihyXCKCTKZ0H6OQRpKN5qQ\">Animated No Agenda</a></p>\n<p><a href=\"https://noagendasocial.com/invite/fnBmg2P6\" target=\"_blank\" rel=\"noopener\">No Agenda Social Registration</a></p>\n<p><strong>Sign Up</strong>&nbsp;for the&nbsp;<a href=\"http://www.dvorak.org/blog/no-agenda-mailing-list-signup-here/\">newsletter</a></p>\n<p><a href=\"http://dvorak.org/peerage\" target=\"_blank\" rel=\"noopener\">No Agenda Peerage</a></p>\n<p>ShowNotes Archive of links and Assets (clips etc)&nbsp;<a href=\"http://1411.noagendanotes.com/\">1411.noagendanotes.com</a></p>\n<p>New: Directory Archive of Shownotes (includes all audio and video assets used)&nbsp;<a href=\"http://archive.noagendanotes.com/\">archive.noagendanotes.com</a></p>\n<p>RSS Podcast<a href=\"http://feed.nashownotes.com/rss.xml\">&nbsp;Feed</a></p>\n<p><a href=\"https://www.blugs.com/na/NASummaries.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Full Summaries in PDF</strong></a></p>\n<p><a href=\"http://itm.im/opus\">No Agenda Lite</a>&nbsp;in opus format</p>\n<p><a href=\"http://noagendatorrents.com/\">NoAgendaTorrents.com</a>&nbsp;has an RSS feed or show torrents</p>\n<p><span>Last Modified 12/26/2021 15:03:44</span><br /><a href=\"http://freedomcontroller.com/\"><span>This page created with the FreedomController</span></a></p>\n</div>\n</div>\n</div>\n<div><small>Last Modified 12/26/2021 15:03:44 by&nbsp;<a href=\"http://freedomcontroller.com/\">Freedom Controller</a></small>&nbsp;<a title=\"Link to the opml for this document.\" href=\"http://adam.curry.com/opml/NoAgendaEpisode1411N-tZMKMPlXCGtnS0xfPwNl53DFLcG3nN.opml\">&nbsp;</a></div>",
+      "subtitle": "1411: \"Norgay\"",
+      "author": "Adam Curry & John C. Dvorak",
+      "summary": "<h2>No Agenda Episode 1411 - \"Norgay\"</h2>\n<div>\n<div>\n<div id=\"tabcredits\">\n<p><strong>\"Norgay\"</strong></p>\n<p>Executive Producers:</p>\n<p>Kevin Fisher</p>\n<p>Scott Bagwell</p>\n<p>Doug Salmon</p>\n<p>Anonymous</p>\n<p>Anonymous</p>\n<p>David Arell</p>\n<p>Becky CHINNI</p>\n<p>Dreb Scott, Duke of the Southern California MegaRegion</p>\n<p>Nicole McCarter</p>\n<p>Sir Zonz AKA Rolando Gonzalez, Dame Sara, Maya &amp; Alice</p>\n<p>Charity Jennings - Dame Charity the Wise Wizard</p>\n<p>Oztunan</p>\n<p>Erinn Shaw</p>\n<p>Joshua Blakeman</p>\n<p>Caitlin Greene</p>\n<p>Associate Executive Producers:</p>\n<p>Jake Stowe - SIR JAKE THE SNAKE OF BITTER LAKE</p>\n<p>Tony &amp; Metta</p>\n<p>Don Myers</p>\n<p>Jennifer Gardner</p>\n<p>Katie Chopper</p>\n<p>Sir Phil of the Bluegrass</p>\n<p>Erin Patterson</p>\n<p>Sir Ever of the What</p>\n<p>Raymond Samori</p>\n<p>James Dozier</p>\n<p>1411 Club Members:</p>\n<p>Kevin Fisher</p>\n<p>Become a member of the 1412 Club, support the show&nbsp;<a href=\"http://dvorak.org/na\">here</a></p>\n<p>Boost us with with Podcasting 2.0 Certified apps:&nbsp;<a href=\"https://www.podfriend.fm/\">Podfriend&nbsp;</a>-&nbsp;<a href=\"https://breez.technology/\">Breez&nbsp;</a>-&nbsp;<a href=\"https://sphinx.chat/\">Sphinx&nbsp;</a>-&nbsp;<a href=\"https://podstation.github.io/\">Podstation</a>&nbsp;-&nbsp;<a href=\"http://curiocaster.com/\">Curiocaster</a>&nbsp;-&nbsp;<a href=\"http://fountain.fm/\">Fountain</a></p>\n<p>Knights &amp; Dames</p>\n<p>Charity Jennings -&gt; Dame Charity the Wise Wizard</p>\n<p>Doctor Jonathan Boom of the North Land -&gt; Sir Doctor Jonathan Boom of the North Land</p>\n<p>Paul Zimmerman -&gt; Sir 1% of the GTFO</p>\n<p>Jake -&gt; SIR JAKE THE SNAKE OF BITTER LAKE</p>\n<p>Phillip Ballou -&gt; Sir Phil of the Bluegrass</p>\n<p><a href=\"https://noagendaartgenerator.com/artist/2093\" target=\"_blank\" rel=\"noopener\">Art By: Dame Kenny-Ben</a></p>\n<p>End of Show Mixes: Jesse Coy Nelson - Tom Starkweather - Neal Jones (Clip Custodian)</p>\n<p>Engineering, Stream Management &amp; Wizardry</p>\n<p>Mark van Dijk - Systems Master</p>\n<p>Ryan Bemrose - Program Director</p>\n<p>Back Office Aric Mackey</p>\n<p>Chapters: Dreb Scott</p>\n<p>Clip Custodian: Neal Jones</p>\n<p><strong>NEW:</strong>&nbsp;and soon on Netflix:&nbsp;<a href=\"https://www.youtube.com/channel/UCihyXCKCTKZ0H6OQRpKN5qQ\">Animated No Agenda</a></p>\n<p><a href=\"https://noagendasocial.com/invite/fnBmg2P6\" target=\"_blank\" rel=\"noopener\">No Agenda Social Registration</a></p>\n<p><strong>Sign Up</strong>&nbsp;for the&nbsp;<a href=\"http://www.dvorak.org/blog/no-agenda-mailing-list-signup-here/\">newsletter</a></p>\n<p><a href=\"http://dvorak.org/peerage\" target=\"_blank\" rel=\"noopener\">No Agenda Peerage</a></p>\n<p>ShowNotes Archive of links and Assets (clips etc)&nbsp;<a href=\"http://1411.noagendanotes.com/\">1411.noagendanotes.com</a></p>\n<p>New: Directory Archive of Shownotes (includes all audio and video assets used)&nbsp;<a href=\"http://archive.noagendanotes.com/\">archive.noagendanotes.com</a></p>\n<p>RSS Podcast<a href=\"http://feed.nashownotes.com/rss.xml\">&nbsp;Feed</a></p>\n<p><a href=\"https://www.blugs.com/na/NASummaries.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Full Summaries in PDF</strong></a></p>\n<p><a href=\"http://itm.im/opus\">No Agenda Lite</a>&nbsp;in opus format</p>\n<p><a href=\"http://noagendatorrents.com/\">NoAgendaTorrents.com</a>&nbsp;has an RSS feed or show torrents</p>\n<p><span>Last Modified 12/26/2021 15:03:44</span><br /><a href=\"http://freedomcontroller.com/\"><span>This page created with the FreedomController</span></a></p>\n</div>\n</div>\n</div>\n<div><small>Last Modified 12/26/2021 15:03:44 by&nbsp;<a href=\"http://freedomcontroller.com/\">Freedom Controller</a></small>&nbsp;<a title=\"Link to the opml for this document.\" href=\"http://adam.curry.com/opml/NoAgendaEpisode1411N-tZMKMPlXCGtnS0xfPwNl53DFLcG3nN.opml\">&nbsp;</a></div>",
+      "guid": "http://1411.noagendanotes.com",
+      "chapters": {
+        "url": "http://34.117.70.159/http%3Afeed.nashownotes.comrss.xml/http:1411.noagendanotes.com",
+        "type": "application/json"
+      },
+      "keywords": [
+        "agenda",
+        "curry",
+        "douchebag",
+        "dvorak",
+        "no",
+        "noagenda",
+        "politics"
+      ],
+      "image": {
+        "url": "https://noagendaassets.com/enc/1640552094.13_na-1411-art-big.png"
+      },
+      "explicit": false,
+      "enclosure": {
+        "length": 138752044,
+        "type": "audio/mpeg",
+        "url": "https://mp3s.nashownotes.com/NA-1411-2021-12-26-Final.mp3"
+      },
+      "pubDate": "2021-12-26T21:07:51.000Z",
+      "person": [
+        {
+          "name": "Adam Curry",
+          "role": "host",
+          "group": "cast",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Adam_Curry_2016.jpg/440px-Adam_Curry_2016.jpg",
+          "href": "http://curry.com/"
+        },
+        {
+          "name": "John C Dvorak",
+          "role": "host",
+          "group": "cast",
+          "img": "https://speaking.com/wp-content/uploads/2018/09/John-Dvorak.jpg",
+          "href": "http://dvorak.org/blog"
+        }
+      ],
+      "transcript": [
+        {
+          "url": "https://mp3s.nashownotes.com/NA-1411-Captions.srt",
+          "type": "application/srt"
+        }
+      ],
+      "images": {
+        "srcset": "https://noagendaassets.com/enc/1640552094.13_na-1411-art-big.png 512w"
+      },
+      "link": "http://1411.noagendanotes.com"
+    },
+    {
+      "title": "1410: \"Spock Tiled\"",
+      "description": "<h2>No Agenda Episode 1410 - \"Spock Tiled\"</h2>\n<div>\n<div>\n<div id=\"tabcredits\">\n<p><strong>\"Spock Tiled\"</strong></p>\n<p>Executive Producers:</p>\n<p>Sir Rob of the Dusty Singletrack</p>\n<p>Courtney Mathias</p>\n<p>Viscount of Hamilton and The Two Pennies</p>\n<p>Randy Carlson</p>\n<p>Dean \"Deano Monkey Boy With Curley Hair\" Desimone</p>\n<p>Devin O'Connell</p>\n<p>Sir Chris of Carmel-By-The-Sea</p>\n<p>Sir Paul Zimmerman</p>\n<p>Mike Saliba</p>\n<p>Maxwell Reeves</p>\n<p>Ross Easterling</p>\n<p>Jim Riley</p>\n<p>Sir Layron</p>\n<p>Tom Runciman</p>\n<p>Loretta Vandenberg</p>\n<p>William Westcott</p>\n<p>Chap Williams</p>\n<p>Scott Salamango</p>\n<p>Sir Dave Goes</p>\n<p>Nick Foster</p>\n<p>Nikki Morris</p>\n<p>Associate Executive Producers:</p>\n<p>Karen Samuel</p>\n<p>CyborgDave</p>\n<p>k h</p>\n<p>Gabe &amp; Ann Grider -&gt; David Conarroe</p>\n<p>Martin Mcintire</p>\n<p>Arthur Saint</p>\n<p>Kelly Flanagan</p>\n<p>Become a member of the 1411 Club, support the show&nbsp;<a href=\"http://dvorak.org/na\">here</a></p>\n<p>Boost us with with Podcasting 2.0 Certified apps:&nbsp;<a href=\"https://www.podfriend.fm/\">Podfriend&nbsp;</a>-&nbsp;<a href=\"https://breez.technology/\">Breez&nbsp;</a>-&nbsp;<a href=\"https://sphinx.chat/\">Sphinx&nbsp;</a>-&nbsp;<a href=\"https://podstation.github.io/\">Podstation</a>&nbsp;-&nbsp;<a href=\"http://curiocaster.com/\">Curiocaster</a>&nbsp;-&nbsp;<a href=\"http://fountain.fm/\">Fountain</a></p>\n<p>Title Changes</p>\n<p>Sir Amen Fistbump -&gt; Viscount of Montgomery County, Texas</p>\n<p>Sir Anthonyseven, Viscount of Hamilton -&gt; \"Viscount of Hamilton and The Two Pennies\"</p>\n<p>Knights &amp; Dames</p>\n<p>Loretta Vandenberg -&gt; Dame Ladybird, Eagle of Toledo Bend</p>\n<p>Sarah Hamro -&gt; Dame Hamr of the Crow Kingdome</p>\n<p>Randy Carlson -&gt; Sir Codesalot of Southern Nye County</p>\n<p>Robert Patch -&gt; Sir Rob of the Dusty Singletrack</p>\n<p>Josh Jackson -&gt; Sir Renity-Now, Knight of the Imports/Exports and Master of His Domain</p>\n<p>Paul Zimmerman -&gt; Sir Paul Zimmerman (?)</p>\n<p>Jeff Bird -&gt; Sir Pop of Ivan and Ellie</p>\n<p><a href=\"https://noagendaartgenerator.com/artist/1701\" target=\"_blank\" rel=\"noopener\">Art By: Tante Neel</a></p>\n<p>End of Show Mixes: Sir Dewcifer - Chris Wilson - Neal Jones - Prof JJ</p>\n<p>Engineering, Stream Management &amp; Wizardry</p>\n<p>Mark van Dijk - Systems Master</p>\n<p>Ryan Bemrose - Program Director</p>\n<p>Back Office Aric Mackey</p>\n<p>Chapters: Dreb Scott</p>\n<p>Clip Custodian: Neal Jones</p>\n<p><strong>NEW:</strong>&nbsp;and soon on Netflix:&nbsp;<a href=\"https://www.youtube.com/channel/UCihyXCKCTKZ0H6OQRpKN5qQ\">Animated No Agenda</a></p>\n<p><a href=\"https://noagendasocial.com/invite/fnBmg2P6\" target=\"_blank\" rel=\"noopener\">No Agenda Social Registration</a></p>\n<p><strong>Sign Up</strong>&nbsp;for the&nbsp;<a href=\"http://www.dvorak.org/blog/no-agenda-mailing-list-signup-here/\">newsletter</a></p>\n<p><a href=\"http://dvorak.org/peerage\" target=\"_blank\" rel=\"noopener\">No Agenda Peerage</a></p>\n<p>ShowNotes Archive of links and Assets (clips etc)&nbsp;<a href=\"http://1410.noagendanotes.com/\">1410.noagendanotes.com</a></p>\n<p>New: Directory Archive of Shownotes (includes all audio and video assets used)&nbsp;<a href=\"http://archive.noagendanotes.com/\">archive.noagendanotes.com</a></p>\n<p>RSS Podcast<a href=\"http://feed.nashownotes.com/rss.xml\">&nbsp;Feed</a></p>\n<p><a href=\"https://www.blugs.com/na/NASummaries.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Full Summaries in PDF</strong></a></p>\n<p><a href=\"http://itm.im/opus\">No Agenda Lite</a>&nbsp;in opus format</p>\n<p><a href=\"http://noagendatorrents.com/\">NoAgendaTorrents.com</a>&nbsp;has an RSS feed or show torrents</p>\n<p><span>Last Modified 12/23/2021 15:14:33</span><br /><a href=\"http://freedomcontroller.com/\"><span>This page created with the FreedomController</span></a></p>\n</div>\n</div>\n</div>\n<div><small>Last Modified 12/23/2021 15:14:33 by&nbsp;<a href=\"http://freedomcontroller.com/\">Freedom Controller</a></small>&nbsp;<a title=\"Link to the opml for this document.\" href=\"http://adam.curry.com/opml/NoAgendaEpisode1410S-xBptzwnZgj9tMNLhbzt5BCm9Hbb8Df.opml\">&nbsp;</a></div>",
+      "subtitle": "1410: \"Spock Tiled\"",
+      "author": "Adam Curry & John C. Dvorak",
+      "summary": "<h2>No Agenda Episode 1410 - \"Spock Tiled\"</h2>\n<div>\n<div>\n<div id=\"tabcredits\">\n<p><strong>\"Spock Tiled\"</strong></p>\n<p>Executive Producers:</p>\n<p>Sir Rob of the Dusty Singletrack</p>\n<p>Courtney Mathias</p>\n<p>Viscount of Hamilton and The Two Pennies</p>\n<p>Randy Carlson</p>\n<p>Dean \"Deano Monkey Boy With Curley Hair\" Desimone</p>\n<p>Devin O'Connell</p>\n<p>Sir Chris of Carmel-By-The-Sea</p>\n<p>Sir Paul Zimmerman</p>\n<p>Mike Saliba</p>\n<p>Maxwell Reeves</p>\n<p>Ross Easterling</p>\n<p>Jim Riley</p>\n<p>Sir Layron</p>\n<p>Tom Runciman</p>\n<p>Loretta Vandenberg</p>\n<p>William Westcott</p>\n<p>Chap Williams</p>\n<p>Scott Salamango</p>\n<p>Sir Dave Goes</p>\n<p>Nick Foster</p>\n<p>Nikki Morris</p>\n<p>Associate Executive Producers:</p>\n<p>Karen Samuel</p>\n<p>CyborgDave</p>\n<p>k h</p>\n<p>Gabe &amp; Ann Grider -&gt; David Conarroe</p>\n<p>Martin Mcintire</p>\n<p>Arthur Saint</p>\n<p>Kelly Flanagan</p>\n<p>Become a member of the 1411 Club, support the show&nbsp;<a href=\"http://dvorak.org/na\">here</a></p>\n<p>Boost us with with Podcasting 2.0 Certified apps:&nbsp;<a href=\"https://www.podfriend.fm/\">Podfriend&nbsp;</a>-&nbsp;<a href=\"https://breez.technology/\">Breez&nbsp;</a>-&nbsp;<a href=\"https://sphinx.chat/\">Sphinx&nbsp;</a>-&nbsp;<a href=\"https://podstation.github.io/\">Podstation</a>&nbsp;-&nbsp;<a href=\"http://curiocaster.com/\">Curiocaster</a>&nbsp;-&nbsp;<a href=\"http://fountain.fm/\">Fountain</a></p>\n<p>Title Changes</p>\n<p>Sir Amen Fistbump -&gt; Viscount of Montgomery County, Texas</p>\n<p>Sir Anthonyseven, Viscount of Hamilton -&gt; \"Viscount of Hamilton and The Two Pennies\"</p>\n<p>Knights &amp; Dames</p>\n<p>Loretta Vandenberg -&gt; Dame Ladybird, Eagle of Toledo Bend</p>\n<p>Sarah Hamro -&gt; Dame Hamr of the Crow Kingdome</p>\n<p>Randy Carlson -&gt; Sir Codesalot of Southern Nye County</p>\n<p>Robert Patch -&gt; Sir Rob of the Dusty Singletrack</p>\n<p>Josh Jackson -&gt; Sir Renity-Now, Knight of the Imports/Exports and Master of His Domain</p>\n<p>Paul Zimmerman -&gt; Sir Paul Zimmerman (?)</p>\n<p>Jeff Bird -&gt; Sir Pop of Ivan and Ellie</p>\n<p><a href=\"https://noagendaartgenerator.com/artist/1701\" target=\"_blank\" rel=\"noopener\">Art By: Tante Neel</a></p>\n<p>End of Show Mixes: Sir Dewcifer - Chris Wilson - Neal Jones - Prof JJ</p>\n<p>Engineering, Stream Management &amp; Wizardry</p>\n<p>Mark van Dijk - Systems Master</p>\n<p>Ryan Bemrose - Program Director</p>\n<p>Back Office Aric Mackey</p>\n<p>Chapters: Dreb Scott</p>\n<p>Clip Custodian: Neal Jones</p>\n<p><strong>NEW:</strong>&nbsp;and soon on Netflix:&nbsp;<a href=\"https://www.youtube.com/channel/UCihyXCKCTKZ0H6OQRpKN5qQ\">Animated No Agenda</a></p>\n<p><a href=\"https://noagendasocial.com/invite/fnBmg2P6\" target=\"_blank\" rel=\"noopener\">No Agenda Social Registration</a></p>\n<p><strong>Sign Up</strong>&nbsp;for the&nbsp;<a href=\"http://www.dvorak.org/blog/no-agenda-mailing-list-signup-here/\">newsletter</a></p>\n<p><a href=\"http://dvorak.org/peerage\" target=\"_blank\" rel=\"noopener\">No Agenda Peerage</a></p>\n<p>ShowNotes Archive of links and Assets (clips etc)&nbsp;<a href=\"http://1410.noagendanotes.com/\">1410.noagendanotes.com</a></p>\n<p>New: Directory Archive of Shownotes (includes all audio and video assets used)&nbsp;<a href=\"http://archive.noagendanotes.com/\">archive.noagendanotes.com</a></p>\n<p>RSS Podcast<a href=\"http://feed.nashownotes.com/rss.xml\">&nbsp;Feed</a></p>\n<p><a href=\"https://www.blugs.com/na/NASummaries.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Full Summaries in PDF</strong></a></p>\n<p><a href=\"http://itm.im/opus\">No Agenda Lite</a>&nbsp;in opus format</p>\n<p><a href=\"http://noagendatorrents.com/\">NoAgendaTorrents.com</a>&nbsp;has an RSS feed or show torrents</p>\n<p><span>Last Modified 12/23/2021 15:14:33</span><br /><a href=\"http://freedomcontroller.com/\"><span>This page created with the FreedomController</span></a></p>\n</div>\n</div>\n</div>\n<div><small>Last Modified 12/23/2021 15:14:33 by&nbsp;<a href=\"http://freedomcontroller.com/\">Freedom Controller</a></small>&nbsp;<a title=\"Link to the opml for this document.\" href=\"http://adam.curry.com/opml/NoAgendaEpisode1410S-xBptzwnZgj9tMNLhbzt5BCm9Hbb8Df.opml\">&nbsp;</a></div>",
+      "guid": "http://1410.noagendanotes.com",
+      "chapters": {
+        "url": "http://34.117.70.159/http%3Afeed.nashownotes.comrss.xml/http:1410.noagendanotes.com",
+        "type": "application/json"
+      },
+      "keywords": [
+        "agenda",
+        "curry",
+        "douchebag",
+        "dvorak",
+        "no",
+        "noagenda",
+        "politics"
+      ],
+      "image": {
+        "url": "https://noagendaassets.com/enc/1640293693.358_na-1410-art-feed.png"
+      },
+      "explicit": false,
+      "enclosure": {
+        "length": 138752044,
+        "type": "audio/mpeg",
+        "url": "https://mp3s.nashownotes.com/NA-1410-2021-12-23-Final.mp3"
+      },
+      "pubDate": "2021-12-23T21:15:43.000Z",
+      "person": [
+        {
+          "name": "Adam Curry",
+          "role": "host",
+          "group": "cast",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Adam_Curry_2016.jpg/440px-Adam_Curry_2016.jpg",
+          "href": "http://curry.com/"
+        },
+        {
+          "name": "John C Dvorak",
+          "role": "host",
+          "group": "cast",
+          "img": "https://speaking.com/wp-content/uploads/2018/09/John-Dvorak.jpg",
+          "href": "http://dvorak.org/blog"
+        }
+      ],
+      "transcript": [
+        {
+          "url": "https://mp3s.nashownotes.com/NA-1410-Captions.srt",
+          "type": "application/srt"
+        }
+      ],
+      "link": "http://1410.noagendanotes.com"
+    }
+  ]
+}

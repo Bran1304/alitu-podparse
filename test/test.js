@@ -37,6 +37,11 @@ const podnewsDec21 = fs.readFileSync(`${testFilesPath}/podnews-dec21.xml`, 'utf8
 const podland22 = fs.readFileSync(`${testFilesPath}/podland.xml`, 'utf8').toString();
 const noagenda22 = fs.readFileSync(`${testFilesPath}/no_agenda22.xml`, 'utf8').toString();
 const liveItem22 = fs.readFileSync(`${testFilesPath}/liveitem.xml`, 'utf8').toString();
+const immediateMedia = fs.readFileSync(`${testFilesPath}/immediate-media.xml`, 'utf8').toString();
+const worldserviceradio = fs.readFileSync(`${testFilesPath}/worldserviceradio.xml`, 'utf8').toString();
+const gooaye = fs.readFileSync(`${testFilesPath}/gooaye.xml`, 'utf8').toString();
+const darencademy = fs.readFileSync(`${testFilesPath}/darencademy.xml`, 'utf8').toString();
+const sitwl5r = fs.readFileSync(`${testFilesPath}/sitwl5r.xml`, 'utf8').toString();
 
 describe('Reading files', () => {
   it('should read the file', () => {
@@ -330,6 +335,7 @@ describe('Supports Podping Namespace', () => {
 
 describe('Supports Acast Namespace', () => {
   const podden = getPodcastFromFeed(tvillingpodden);
+  const immediate = getPodcastFromFeed(immediateMedia);
 
   it('should include showId and showUrl', () => {
     expect(podden.meta.showId).to.equal('2b0d74ba-ec2d-4b08-93c1-ed0941812903');
@@ -339,6 +345,72 @@ describe('Supports Acast Namespace', () => {
   it('should include episodeId and episodeUrl', () => {
     expect(podden.episodes[0].episodeId).to.equal('c0622b11-f879-4a28-adea-25bc81b532d6');
     expect(podden.episodes[0].episodeUrl).to.equal('292.ostsnippa');
+  });
+
+  it('should include importedFeed', () => {
+    expect(immediate.meta.importedFeed).to.equal('https://rss.acast.com/radio-times-podcast');
+  });
+
+  it('should include network', () => {
+    expect(immediate.meta.network).to.be.an('object');
+    expect(immediate.meta.network.name).to.equal('Immediate Media Radio Times');
+    expect(immediate.meta.network.id).to.equal('102959f3-c3f2-58be-4119-38e6d4415a15');
+  });
+});
+
+describe('Supports RadioPublic Namespace', () => {
+  const sitwl5rFeed = getPodcastFromFeed(sitwl5r);
+
+  it('should include call to action (CTA)', () => {
+    expect(sitwl5rFeed.meta.cta).to.be.an('array');
+    expect(sitwl5rFeed.meta.cta[0].headline).to.equal('Support Shadows in the West');
+    expect(sitwl5rFeed.meta.cta[0].subtitle).to.equal('Give back to your favorite content creators.');
+    expect(sitwl5rFeed.meta.cta[0].actions).to.be.an('array');
+    expect(sitwl5rFeed.meta.cta[0].actions[0]).to.be.an('object');
+    expect(sitwl5rFeed.meta.cta[0].actions[0].class).to.equal('financial');
+    expect(sitwl5rFeed.meta.cta[0].actions[0].disposition).to.equal('positive');
+    expect(sitwl5rFeed.meta.cta[0].actions[0].href).to.equal('https://tips.pinecast.com/jar/sitwl5r');
+    expect(sitwl5rFeed.meta.cta[0].actions[0].label).to.equal('Contribute');
+  });
+});
+
+describe('Supports SoundOn Namespace', () => {
+  const gooayeFeed = getPodcastFromFeed(gooaye);
+  const darencademyFeed = getPodcastFromFeed(darencademy);
+
+  it('should include createdAt and updatedAt', () => {
+    expect(gooayeFeed.meta.createdAt).to.equal('2020-03-24T06:05:47.063Z');
+    expect(gooayeFeed.meta.updatedAt).to.equal('2021-10-22T16:53:58.423Z');
+  });
+
+  it('should include importFeedUrl', () => {
+    expect(gooayeFeed.meta.importFeedUrl).to.equal('https://api.soundon.fm/v2/podcasts/954689a5-3096-43a4-a80b-7810b219cef3/feed.xml');
+  });
+
+  it('should include deleted', () => {
+    expect(gooayeFeed.meta.deleted).to.equal(false);
+  });
+
+  it('should include social media links', () => {
+    expect(darencademyFeed.meta.facebookUrl).to.equal('https://www.facebook.com/darencademy');
+    expect(darencademyFeed.meta.youtubeUrl).to.equal('https://www.youtube.com/channel/UCCg4fgr3pQNiof8_Hxu9Xbw');
+    expect(darencademyFeed.meta.instagramUrl).to.equal('https://www.instagram.com/da.ren.cademy/');
+  });
+});
+
+describe('Supports BBC Namespace', () => {
+  const worldservice = getPodcastFromFeed(worldserviceradio);
+
+  it('should include seriesDetails', () => {
+    expect(worldservice.meta.seriesDetails).to.be.an('object');
+    expect(worldservice.meta.seriesDetails.frequency).to.equal('daily');
+    expect(worldservice.meta.seriesDetails.daysLive).to.equal(30);
+  });
+
+  it('should include network', () => {
+    expect(worldservice.meta.network).to.be.an('object');
+    expect(worldservice.meta.network.name).to.equal('BBC World Service');
+    expect(worldservice.meta.network.id).to.equal('worldserviceradio');
   });
 });
 

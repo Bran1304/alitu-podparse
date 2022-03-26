@@ -1,0 +1,654 @@
+{
+  "meta": {
+    "title": "The Radio Times Podcast",
+    "description": "Each week Jane Garvey hosts the Radio Times podcast to talk TV – and more. From interviews with the small screen’s biggest names to recommendations of the shows you must not miss. Jane, our resident TV critic Rhianna Dhillon and their guests will mark your card for the week ahead. Whether you want to listen to Jodie Comer and Stephen Graham discussing Help!, Prue Leith chatting all things Bake Off or Gillian Anderson on Sex Education, the best of the box is here. Join us every Wednesday for a whistle stop tour of the finest treats the entertainment world has to offer.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+    "subtitle": "Each week Jane Garvey hosts the Radio Times podcast to talk TV – and more. From interviews with the small screen’s biggest names to recommendations of the shows you must not miss, Jane and her guests will mark your card for the week ahead.",
+    "language": "en",
+    "author": "Immediate Media",
+    "summary": "Each week Jane Garvey hosts the Radio Times podcast to talk TV – and more. From interviews with the small screen’s biggest names to recommendations of the shows you must not miss. Jane, our resident TV critic Rhianna Dhillon and their guests will mark your card for the week ahead. Whether you want to listen to Jodie Comer and Stephen Graham discussing Help!, Prue Leith chatting all things Bake Off or Gillian Anderson on Sex Education, the best of the box is here. Join us every Wednesday for a whistle stop tour of the finest treats the entertainment world has to offer.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+    "type": "episodic",
+    "generator": "pippa.io",
+    "category": [
+      "Arts",
+      "Performing Arts"
+    ],
+    "owner": {
+      "email": "info+98bf241d-e981-4e22-886c-1497e5a9db35@mg.pippa.io"
+    },
+    "image": {
+      "url": "https://assets.pippa.io/shows/621f59194892fda43124d457/show-cover.png"
+    },
+    "explicit": false,
+    "ttl": 60,
+    "showId": "98bf241d-e981-4e22-886c-1497e5a9db35",
+    "showUrl": "radio-times-podcast",
+    "importedFeed": "https://rss.acast.com/radio-times-podcast",
+    "network": {
+      "name": "Immediate Media Radio Times",
+      "id": "102959f3-c3f2-58be-4119-38e6d4415a15"
+    },
+    "link": "https://www.radiotimes.com/",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://feeds.acast.com/public/shows/98bf241d-e981-4e22-886c-1497e5a9db35",
+        "type": "application/rss+xml"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "title": "Awards rundown, Bridgerton, Falklands War: The Untold Story, The Adam Project and Gordon Ramsey’s Future Food Stars.",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week. </p><br><p>This episode:</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jane discovers where we can watch Oscar-nominated films and Rhianna reviews&nbsp;Bridgerton, Falklands War: The Untold Story, The Adam Project and Gordon Ramsey’s Future Food Stars.</p><br><p>You can find the programmes mentioned as follows:&nbsp;</p><ul><li>Bridgerton&nbsp;</li></ul><p>Netflix, Fri 25th March</p><ul><li>Falklands War: The Untold Story</li></ul><p>Channel 4, Sun 27th March 9pm</p><ul><li>The Adam Project&nbsp;</li></ul><p>Netflix</p><ul><li>Gordon Ramsey’s Future Food Stars&nbsp;</li></ul><p>BBC1, Thurs 31st 9pm</p><br><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes </p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp; </p><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week. </p><br><p>This episode:</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jane discovers where we can watch Oscar-nominated films and Rhianna reviews&nbsp;Bridgerton, Falklands War: The Untold Story, The Adam Project and Gordon Ramsey’s Future Food Stars.</p><br><p>You can find the programmes mentioned as follows:&nbsp;</p><ul><li>Bridgerton&nbsp;</li></ul><p>Netflix, Fri 25th March</p><ul><li>Falklands War: The Untold Story</li></ul><p>Channel 4, Sun 27th March 9pm</p><ul><li>The Adam Project&nbsp;</li></ul><p>Netflix</p><ul><li>Gordon Ramsey’s Future Food Stars&nbsp;</li></ul><p>BBC1, Thurs 31st 9pm</p><br><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes </p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp; </p><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "6239ecfe3414c10012eb4fc8",
+      "image": {
+        "url": "https://assets.pippa.io/shows/621f59194892fda43124d457/show-cover.png"
+      },
+      "explicit": true,
+      "duration": 2443,
+      "enclosure": {
+        "length": 97751248,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/p/acast/s/radio-times-podcast/e/6239ecfe3414c10012eb4fc8/media.mp3"
+      },
+      "season": 1,
+      "episode": 28,
+      "pubDate": "2022-03-23T00:00:59.000Z",
+      "episodeUrl": "awards-rundown-bridgerton-falklands-war-the-untold-story-the",
+      "episodeId": "6239ecfe3414c10012eb4fc8",
+      "link": "https://shows.acast.com/radio-times-podcast/episodes/awards-rundown-bridgerton-falklands-war-the-untold-story-the"
+    },
+    {
+      "title": "Ruth Madeley, Then Barbara Met Alan, Master, The Simpler Life and Bad Vegan",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week. </p><br><p>This episode:</p><ul><li>Jane interviews the star of Then Barbara Met Alan, Ruth Madeley.&nbsp;</li><li>Rhianna reviews&nbsp;Master, The Simpler Life and Bad Vegan.</li></ul><p><br></p><p>You can find the programmes mentioned as follows:&nbsp;</p><ul><li>The Simpler Life </li></ul><p>Channel 4 at 9.15pm on 22nd March, and the second episode will be the following night (23rd March). Episodes will be available on 4OD after broadcast.</p><ul><li>Master </li></ul><p>Amazon Prime from 18th March.</p><ul><li>Then Barbara Met Alan </li></ul><p>BBC2 at 9pm on Monday 21st March.</p><ul><li>Bad Vegan </li></ul><p>Netflix from today (16th March) </p><br><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes </p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week. </p><br><p>This episode:</p><ul><li>Jane interviews the star of Then Barbara Met Alan, Ruth Madeley.&nbsp;</li><li>Rhianna reviews&nbsp;Master, The Simpler Life and Bad Vegan.</li></ul><p><br></p><p>You can find the programmes mentioned as follows:&nbsp;</p><ul><li>The Simpler Life </li></ul><p>Channel 4 at 9.15pm on 22nd March, and the second episode will be the following night (23rd March). Episodes will be available on 4OD after broadcast.</p><ul><li>Master </li></ul><p>Amazon Prime from 18th March.</p><ul><li>Then Barbara Met Alan </li></ul><p>BBC2 at 9pm on Monday 21st March.</p><ul><li>Bad Vegan </li></ul><p>Netflix from today (16th March) </p><br><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes </p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "6230a870e23a6d0012c87652",
+      "image": {
+        "url": "https://assets.pippa.io/shows/621f59194892fda43124d457/show-cover.png"
+      },
+      "explicit": true,
+      "duration": 2780,
+      "enclosure": {
+        "length": 111228342,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/p/acast/s/radio-times-podcast/e/6230a870e23a6d0012c87652/media.mp3"
+      },
+      "season": 1,
+      "episode": 27,
+      "pubDate": "2022-03-16T00:00:37.000Z",
+      "episodeUrl": "ruth-madeley-then-barbara-met-alan-master-the-simpler-life-a",
+      "episodeId": "6230a870e23a6d0012c87652",
+      "link": "https://shows.acast.com/radio-times-podcast/episodes/ruth-madeley-then-barbara-met-alan-master-the-simpler-life-a"
+    },
+    {
+      "title": "Inventing Anna, Turning Red, Top Boy, Holding, Walter Presents: Snow Angels",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week. </p><br><p>This episode: </p><ul><li>Rhianna reviews Inventing Anna, Turning Red, Top Boy, Holding and Walter Presents: Snow Angels. </li></ul><p><br></p><p>You can find the programmes mentioned as follows: </p><ul><li>Inventing Anna </li></ul><p>Netflix </p><ul><li>Turning Red </li></ul><p>Disney+ Friday 11th March </p><ul><li>Top Boy </li></ul><p>Netflix, from Friday 18th March </p><ul><li>Holding </li></ul><p>ITV, starts Monday 14th March 9pm, weekly for four weeks </p><ul><li>Walter Presents: Snow Angels </li></ul><p>Available on All4 from 11 March; first episode will be shown on C4 on Sunday 13th March at 11.45pm </p><br><p>We’d love to hear from you. You can send us an email anytime to podcast@radiotimes.com or find us on Twitter, Facebook and Instagram @Radiotimes </p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week. </p><br><p>This episode: </p><ul><li>Rhianna reviews Inventing Anna, Turning Red, Top Boy, Holding and Walter Presents: Snow Angels. </li></ul><p><br></p><p>You can find the programmes mentioned as follows: </p><ul><li>Inventing Anna </li></ul><p>Netflix </p><ul><li>Turning Red </li></ul><p>Disney+ Friday 11th March </p><ul><li>Top Boy </li></ul><p>Netflix, from Friday 18th March </p><ul><li>Holding </li></ul><p>ITV, starts Monday 14th March 9pm, weekly for four weeks </p><ul><li>Walter Presents: Snow Angels </li></ul><p>Available on All4 from 11 March; first episode will be shown on C4 on Sunday 13th March at 11.45pm </p><br><p>We’d love to hear from you. You can send us an email anytime to podcast@radiotimes.com or find us on Twitter, Facebook and Instagram @Radiotimes </p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "622784d225b4e4001295b892",
+      "image": {
+        "url": "https://assets.pippa.io/shows/621f59194892fda43124d457/show-cover.png"
+      },
+      "explicit": true,
+      "duration": 2341,
+      "enclosure": {
+        "length": 93675101,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/p/acast/s/radio-times-podcast/e/622784d225b4e4001295b892/media.mp3"
+      },
+      "season": 1,
+      "episode": 26,
+      "pubDate": "2022-03-09T00:00:11.000Z",
+      "episodeUrl": "inventing-anna-turning-red-top-boy-holding-walter-presents-s",
+      "episodeId": "622784d225b4e4001295b892",
+      "link": "https://shows.acast.com/radio-times-podcast/episodes/inventing-anna-turning-red-top-boy-holding-walter-presents-s"
+    },
+    {
+      "title": "Tuppence Middleton and Martin Compston on Our House. Killing Eve, Peaky Blinders, The Ipcress File and Murder in Provence.",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>This episode:</p><ul><li>Jane and Rhianna are joined by Tuppence Middleton and Martin Compston to talk ‘Our House’&nbsp;</li><li>Rhianna also reviews Killing Eve, The Ipcress File, Murder in Provence and the final series of Peaky Blinders.&nbsp;</li></ul><p><br></p><p>You can find the programmes mentioned as follows:&nbsp;</p><ul><li>Killing Eve</li></ul><p>BBC1, Sat 5th March, 9pm (released on iPlayer from 8th Feb)</p><ul><li>Peaky Blinders&nbsp;</li></ul><p>BBC1, Sundays, 9pm</p><ul><li>The Ipcress File&nbsp;</li></ul><p>ITV, Sun 6th&nbsp;March, 9pm. TX's weekly and the entire series will be available as a boxset on ITV Hub after the first episode has aired&nbsp;</p><ul><li>Our House&nbsp;</li></ul><p>ITV, Mon 7th&nbsp;to Thurs 10th&nbsp;March, 9pm (four eps over consecutive nights)&nbsp;</p><ul><li>Murder in Provence&nbsp;</li></ul><p>Britbox, Tues 1st&nbsp;March</p><br><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.This episode: - Jane and Rhianna are joined by Tuppence Middleton and Martin Compston to talk ‘Our House’...",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>This episode:</p><ul><li>Jane and Rhianna are joined by Tuppence Middleton and Martin Compston to talk ‘Our House’&nbsp;</li><li>Rhianna also reviews Killing Eve, The Ipcress File, Murder in Provence and the final series of Peaky Blinders.&nbsp;</li></ul><p><br></p><p>You can find the programmes mentioned as follows:&nbsp;</p><ul><li>Killing Eve</li></ul><p>BBC1, Sat 5th March, 9pm (released on iPlayer from 8th Feb)</p><ul><li>Peaky Blinders&nbsp;</li></ul><p>BBC1, Sundays, 9pm</p><ul><li>The Ipcress File&nbsp;</li></ul><p>ITV, Sun 6th&nbsp;March, 9pm. TX's weekly and the entire series will be available as a boxset on ITV Hub after the first episode has aired&nbsp;</p><ul><li>Our House&nbsp;</li></ul><p>ITV, Mon 7th&nbsp;to Thurs 10th&nbsp;March, 9pm (four eps over consecutive nights)&nbsp;</p><ul><li>Murder in Provence&nbsp;</li></ul><p>Britbox, Tues 1st&nbsp;March</p><br><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "86c26272-6ca2-45f9-a58b-e77fdbb0b92c",
+      "explicit": false,
+      "duration": 2872,
+      "enclosure": {
+        "length": 114922056,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/tuppencemiddletonandmartincompstononourhouse.killingeve-peakyblinders-theipcressfileandmurderinprovence-/media.mp3"
+      },
+      "season": 1,
+      "episode": 25,
+      "pubDate": "2022-03-02T00:00:37.000Z",
+      "episodeUrl": "tuppencemiddletonandmartincompstononourhouse.killingeve-peakyblinders-theipcressfileandmurderinprovence-",
+      "episodeId": "86c26272-6ca2-45f9-a58b-e77fdbb0b92c",
+      "link": "https://play.acast.com/s/radio-times-podcast/tuppencemiddletonandmartincompstononourhouse.killingeve-peakyblinders-theipcressfileandmurderinprovence-"
+    },
+    {
+      "title": "Peaky Blinders, Rooney, The Fear Index, Magpie Murders and Fantastic Beasts: A Natural History",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>This episode:</p><ul><li>Jane and Rhianna are joined by Radio Times writer David Butcher for Butcher’s Choice Cuts. David talks through the five greatest moments of Peaky Blinders, ahead of the sixth and final series coming out.&nbsp;&nbsp;</li><li>Rhianna also reviews&nbsp;Rooney, The Fear Index, Magpie Murders and Fantastic Beasts: A Natural History.&nbsp;</li></ul><p><br></p><p>You can find the programmes mentioned as follows:&nbsp;</p><ul><li>Magpie Murders</li></ul><p>Available to watch on Britbox now</p><ul><li>Rooney</li></ul><p>Available to watch on Prime Video now</p><ul><li>The Fear Index</li></ul><p>Airs weekly on Sky Atlantic on Thursdays at 9pm and the final episode will be on 3rd March. It is also available as a boxset on Sky Media Village now.</p><ul><li>Fantastic Beasts: A Natural History</li></ul><p>Sunday 27th February at 7pm on BBC1</p><br><p><strong>Butcher’s Choice Cut:</strong>&nbsp;Peaky Blinders Greatest Moments</p><p><a href=\"https://www.bbc.co.uk/iplayer/episode/m0008clx/peaky-blinders-series-5-4-the-loop\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.bbc.co.uk/iplayer/episode/m0008clx/peaky-blinders-series-5-4-the-loop</a></p><p><a href=\"https://www.bbc.co.uk/iplayer/episode/b04l8zyp/peaky-blinders-series-2-episode-2?seriesId=b04kkm8q\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.bbc.co.uk/iplayer/episode/b04l8zyp/peaky-blinders-series-2-episode-2?seriesId=b04kkm8q</a></p><p><a href=\"https://www.bbc.co.uk/iplayer/episode/b07fg86c/peaky-blinders-series-3-episode-6?seriesId=b079vp14\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.bbc.co.uk/iplayer/episode/b07fg86c/peaky-blinders-series-3-episode-6?seriesId=b079vp14</a></p><p><a href=\"https://www.bbc.co.uk/iplayer/episode/b07dwngq/peaky-blinders-series-3-episode-5?seriesId=b079vp14\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.bbc.co.uk/iplayer/episode/b07dwngq/peaky-blinders-series-3-episode-5?seriesId=b079vp14</a></p><br><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.This episode: - Jane and Rhianna are joined by Radio Times writer David Butcher for Butcher’s Choice Cuts. Dav...",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>This episode:</p><ul><li>Jane and Rhianna are joined by Radio Times writer David Butcher for Butcher’s Choice Cuts. David talks through the five greatest moments of Peaky Blinders, ahead of the sixth and final series coming out.&nbsp;&nbsp;</li><li>Rhianna also reviews&nbsp;Rooney, The Fear Index, Magpie Murders and Fantastic Beasts: A Natural History.&nbsp;</li></ul><p><br></p><p>You can find the programmes mentioned as follows:&nbsp;</p><ul><li>Magpie Murders</li></ul><p>Available to watch on Britbox now</p><ul><li>Rooney</li></ul><p>Available to watch on Prime Video now</p><ul><li>The Fear Index</li></ul><p>Airs weekly on Sky Atlantic on Thursdays at 9pm and the final episode will be on 3rd March. It is also available as a boxset on Sky Media Village now.</p><ul><li>Fantastic Beasts: A Natural History</li></ul><p>Sunday 27th February at 7pm on BBC1</p><br><p><strong>Butcher’s Choice Cut:</strong>&nbsp;Peaky Blinders Greatest Moments</p><p><a href=\"https://www.bbc.co.uk/iplayer/episode/m0008clx/peaky-blinders-series-5-4-the-loop\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.bbc.co.uk/iplayer/episode/m0008clx/peaky-blinders-series-5-4-the-loop</a></p><p><a href=\"https://www.bbc.co.uk/iplayer/episode/b04l8zyp/peaky-blinders-series-2-episode-2?seriesId=b04kkm8q\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.bbc.co.uk/iplayer/episode/b04l8zyp/peaky-blinders-series-2-episode-2?seriesId=b04kkm8q</a></p><p><a href=\"https://www.bbc.co.uk/iplayer/episode/b07fg86c/peaky-blinders-series-3-episode-6?seriesId=b079vp14\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.bbc.co.uk/iplayer/episode/b07fg86c/peaky-blinders-series-3-episode-6?seriesId=b079vp14</a></p><p><a href=\"https://www.bbc.co.uk/iplayer/episode/b07dwngq/peaky-blinders-series-3-episode-5?seriesId=b079vp14\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.bbc.co.uk/iplayer/episode/b07dwngq/peaky-blinders-series-3-episode-5?seriesId=b079vp14</a></p><br><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "bcd8f826-8215-41d0-9861-dec80340d1b7",
+      "explicit": true,
+      "duration": 2730,
+      "enclosure": {
+        "length": 109228407,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/peakyblinders-rooney-thefearindex-magpiemurdersandfantasticbeasts-anaturalhistory/media.mp3"
+      },
+      "season": 1,
+      "episode": 24,
+      "pubDate": "2022-02-23T00:00:47.000Z",
+      "episodeUrl": "peakyblinders-rooney-thefearindex-magpiemurdersandfantasticbeasts-anaturalhistory",
+      "episodeId": "bcd8f826-8215-41d0-9861-dec80340d1b7",
+      "link": "https://play.acast.com/s/radio-times-podcast/peakyblinders-rooney-thefearindex-magpiemurdersandfantasticbeasts-anaturalhistory"
+    },
+    {
+      "title": "Heidi Thomas, Call The Midwife, Sandi Toksvig, Extraordinary Escapes, Couples Therapy and I Want You Back",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>This episode:</p><ul><li>Jane interviews creator of Call the Midwife - Heidi Thomas, and Extraordinary Escapes presenter - Sandi Toksvig.&nbsp;</li><li>Rhianna also reviews Couples Therapy and I Want You Back.</li></ul><p><br></p><p>You can find the programmes mentioned as follows:&nbsp;</p><ul><li>Couples Therapy</li></ul><p>Available on BBC iPlayer</p><ul><li>I Want You Back</li></ul><p>Available on Prime Video</p><ul><li>Call The Midwife</li></ul><p>Catch up on all 11 series on BBC iPlayer – episode 8 of the current series is on Sunday 20th February at 8pm on BBC1</p><ul><li>Extraordinary Escapes</li></ul><p>Episode 2 is on Thursday 24th February, at 9pm on Channel 4. Catch up on previous episodes on All4.</p><br><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media. </p><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.This episode: - Jane interviews creator of Call the Midwife - Heidi Thomas, and Extraordinary Escapes presente...",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>This episode:</p><ul><li>Jane interviews creator of Call the Midwife - Heidi Thomas, and Extraordinary Escapes presenter - Sandi Toksvig.&nbsp;</li><li>Rhianna also reviews Couples Therapy and I Want You Back.</li></ul><p><br></p><p>You can find the programmes mentioned as follows:&nbsp;</p><ul><li>Couples Therapy</li></ul><p>Available on BBC iPlayer</p><ul><li>I Want You Back</li></ul><p>Available on Prime Video</p><ul><li>Call The Midwife</li></ul><p>Catch up on all 11 series on BBC iPlayer – episode 8 of the current series is on Sunday 20th February at 8pm on BBC1</p><ul><li>Extraordinary Escapes</li></ul><p>Episode 2 is on Thursday 24th February, at 9pm on Channel 4. Catch up on previous episodes on All4.</p><br><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media. </p><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "ff1b6424-eaf1-49f2-94e3-2e3e9bfc67d8",
+      "explicit": true,
+      "duration": 2667,
+      "enclosure": {
+        "length": 106707068,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/heidithomas-callthemidwife-sanditoksvig-extraordinaryescapes-couplestherapyandiwantyouback/media.mp3"
+      },
+      "season": 1,
+      "episode": 23,
+      "pubDate": "2022-02-16T00:00:00.000Z",
+      "episodeUrl": "heidithomas-callthemidwife-sanditoksvig-extraordinaryescapes-couplestherapyandiwantyouback",
+      "episodeId": "ff1b6424-eaf1-49f2-94e3-2e3e9bfc67d8",
+      "link": "https://play.acast.com/s/radio-times-podcast/heidithomas-callthemidwife-sanditoksvig-extraordinaryescapes-couplestherapyandiwantyouback"
+    },
+    {
+      "title": "Martin Freeman and Tony Schumacher, The Responder, Munich – The Edge of War and Inside Dubai",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.&nbsp;</p><br><p>This episode:&nbsp;</p><ul><li>Jane interviews the star of The Responder – Martin Freeman, alongside the show’s writer Tony Schumacher.&nbsp;</li><li>&nbsp;Rhianna also reviews ‘Munich - The Edge of War’, ‘Inside Dubai’ and ‘Ant and Dec’s Limitless Win’.&nbsp;</li></ul><p><br></p><p>You can find the programmes mentioned as follows:&nbsp;&nbsp;</p><ul><li>Inside Dubai</li></ul><p>All episodes available on the BBC iPlayer&nbsp;</p><ul><li>Munich – The Edge of War</li></ul><p>Netflix from Friday 21st&nbsp;January&nbsp;</p><ul><li>The Responder</li></ul><p>Starts Monday 24th&nbsp;January at 9pm, and&nbsp;the&nbsp;entire series released as a boxset on iPlayer after the first episode has gone out&nbsp;</p><ul><li>Ant and Dec’s Limitless Win</li></ul><p>Two episodes available on the ITV hub, and episode three&nbsp;goes out at 8.30pm on Saturday night (22nd&nbsp;Jan)&nbsp;</p><p>&nbsp;</p><p>We’d love to hear from you. You can send us an email anytime to podcast@radiotimes.com or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.&nbsp;This episode:&nbsp; - Jane interviews the star of The Responder – Martin Freeman, alongside the ...",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.&nbsp;</p><br><p>This episode:&nbsp;</p><ul><li>Jane interviews the star of The Responder – Martin Freeman, alongside the show’s writer Tony Schumacher.&nbsp;</li><li>&nbsp;Rhianna also reviews ‘Munich - The Edge of War’, ‘Inside Dubai’ and ‘Ant and Dec’s Limitless Win’.&nbsp;</li></ul><p><br></p><p>You can find the programmes mentioned as follows:&nbsp;&nbsp;</p><ul><li>Inside Dubai</li></ul><p>All episodes available on the BBC iPlayer&nbsp;</p><ul><li>Munich – The Edge of War</li></ul><p>Netflix from Friday 21st&nbsp;January&nbsp;</p><ul><li>The Responder</li></ul><p>Starts Monday 24th&nbsp;January at 9pm, and&nbsp;the&nbsp;entire series released as a boxset on iPlayer after the first episode has gone out&nbsp;</p><ul><li>Ant and Dec’s Limitless Win</li></ul><p>Two episodes available on the ITV hub, and episode three&nbsp;goes out at 8.30pm on Saturday night (22nd&nbsp;Jan)&nbsp;</p><p>&nbsp;</p><p>We’d love to hear from you. You can send us an email anytime to podcast@radiotimes.com or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "44fb7eba-59c3-44a7-95be-ce22dae48d7a",
+      "explicit": true,
+      "duration": 2734,
+      "enclosure": {
+        "length": 109397680,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/martinfreemanandtonyschumacher-theresponder-munch-theedgeofwarandinsidedubai/media.mp3"
+      },
+      "season": 1,
+      "episode": 19,
+      "pubDate": "2022-02-11T16:34:05.000Z",
+      "episodeUrl": "martinfreemanandtonyschumacher-theresponder-munch-theedgeofwarandinsidedubai",
+      "episodeId": "44fb7eba-59c3-44a7-95be-ce22dae48d7a",
+      "link": "https://play.acast.com/s/radio-times-podcast/martinfreemanandtonyschumacher-theresponder-munch-theedgeofwarandinsidedubai"
+    },
+    {
+      "title": "Louis Theroux: Forbidden America, Starstruck, The Millionairess and Me and The Teacher",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>This episode:</p><ul><li>Jane interviews Louis Theroux.</li><li>Rhianna also reviews Starstruck, The Millionairess and Me, The Teacher and Forbidden America.&nbsp;</li></ul><p><br></p><p>You can find the programmes mentioned as follows:&nbsp;</p><ul><li>Starstruck</li></ul><p>Available as a boxset on BBC iPlayer</p><ul><li>The Millionairess and Me</li></ul><p>Monday 14 Feb at 10pm on C4</p><ul><li>The Teacher</li></ul><p>All 4 episodes available on My5</p><ul><li>Forbidden America</li></ul><p>Sunday 13 Feb at 9pm on BBC2</p><br><p><strong>David Butcher’s Choice Cuts: Louis Theroux (all in BBC iPlayer)﻿</strong></p><p><strong>Dark States: 1. Heroin Town</strong></p><p><a href=\"https://www.bbc.co.uk/iplayer/episode/b0991fsb/louis-theroux-dark-states-1-heroin-town\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.bbc.co.uk/iplayer/episode/b0991fsb/louis-theroux-dark-states-1-heroin-town</a></p><p><strong>Dark States: 3. Murder in Milwaukee</strong></p><p><a href=\"https://www.bbc.co.uk/iplayer/episode/b09c4ppc/louis-theroux-dark-states-3-murder-in-milwaukee\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.bbc.co.uk/iplayer/episode/b09c4ppc/louis-theroux-dark-states-3-murder-in-milwaukee</a></p><p><strong>Altered States: 1. Love Without Limits</strong></p><p><a href=\"https://www.bbc.co.uk/iplayer/episode/b0br9vrx/louis-theroux-altered-states-1-love-without-limits\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.bbc.co.uk/iplayer/episode/b0br9vrx/louis-theroux-altered-states-1-love-without-limits</a></p><p><strong>When Louis Met...: The Hamiltons</strong></p><p><a href=\"https://www.bbc.co.uk/iplayer/episode/p06jng0z/louis-theroux-when-louis-met-the-hamiltons\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.bbc.co.uk/iplayer/episode/p06jng0z/louis-theroux-when-louis-met-the-hamiltons</a></p><p><strong>Louis Theroux - Savile</strong></p><p><a href=\"https://www.bbc.co.uk/iplayer/episode/b07yc9zh/louis-theroux-savile\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.bbc.co.uk/iplayer/episode/b07yc9zh/louis-theroux-savile</a></p><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.This episode: - Jane interviews Louis Theroux. - Rhianna also reviews Starstruck, The Millionairess and Me, T...",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>This episode:</p><ul><li>Jane interviews Louis Theroux.</li><li>Rhianna also reviews Starstruck, The Millionairess and Me, The Teacher and Forbidden America.&nbsp;</li></ul><p><br></p><p>You can find the programmes mentioned as follows:&nbsp;</p><ul><li>Starstruck</li></ul><p>Available as a boxset on BBC iPlayer</p><ul><li>The Millionairess and Me</li></ul><p>Monday 14 Feb at 10pm on C4</p><ul><li>The Teacher</li></ul><p>All 4 episodes available on My5</p><ul><li>Forbidden America</li></ul><p>Sunday 13 Feb at 9pm on BBC2</p><br><p><strong>David Butcher’s Choice Cuts: Louis Theroux (all in BBC iPlayer)﻿</strong></p><p><strong>Dark States: 1. Heroin Town</strong></p><p><a href=\"https://www.bbc.co.uk/iplayer/episode/b0991fsb/louis-theroux-dark-states-1-heroin-town\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.bbc.co.uk/iplayer/episode/b0991fsb/louis-theroux-dark-states-1-heroin-town</a></p><p><strong>Dark States: 3. Murder in Milwaukee</strong></p><p><a href=\"https://www.bbc.co.uk/iplayer/episode/b09c4ppc/louis-theroux-dark-states-3-murder-in-milwaukee\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.bbc.co.uk/iplayer/episode/b09c4ppc/louis-theroux-dark-states-3-murder-in-milwaukee</a></p><p><strong>Altered States: 1. Love Without Limits</strong></p><p><a href=\"https://www.bbc.co.uk/iplayer/episode/b0br9vrx/louis-theroux-altered-states-1-love-without-limits\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.bbc.co.uk/iplayer/episode/b0br9vrx/louis-theroux-altered-states-1-love-without-limits</a></p><p><strong>When Louis Met...: The Hamiltons</strong></p><p><a href=\"https://www.bbc.co.uk/iplayer/episode/p06jng0z/louis-theroux-when-louis-met-the-hamiltons\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.bbc.co.uk/iplayer/episode/p06jng0z/louis-theroux-when-louis-met-the-hamiltons</a></p><p><strong>Louis Theroux - Savile</strong></p><p><a href=\"https://www.bbc.co.uk/iplayer/episode/b07yc9zh/louis-theroux-savile\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.bbc.co.uk/iplayer/episode/b07yc9zh/louis-theroux-savile</a></p><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "83efc328-d4c3-4f09-ab4d-50c393e643d0",
+      "explicit": true,
+      "duration": 3316,
+      "enclosure": {
+        "length": 132643525,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/louistheroux-forbiddenamerica-starstruck-themillionairessandmeandtheteacher/media.mp3"
+      },
+      "season": 1,
+      "episode": 22,
+      "pubDate": "2022-02-09T00:00:00.000Z",
+      "episodeUrl": "louistheroux-forbiddenamerica-starstruck-themillionairessandmeandtheteacher",
+      "episodeId": "83efc328-d4c3-4f09-ab4d-50c393e643d0",
+      "link": "https://play.acast.com/s/radio-times-podcast/louistheroux-forbiddenamerica-starstruck-themillionairessandmeandtheteacher"
+    },
+    {
+      "title": "This Is Going To Hurt, Dear Rider, The Curse, Chloe and The Winter Olympics",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>This episode:</p><ul><li>Jane interviews the Radio Times Sports Editor Simon Barnes about what to watch in the Winter Olympics 2022.</li><li>Rhianna also reviews ‘This Is Going To Hurt’, ‘Dear Rider’, ‘The Curse’ and ‘Chloe’.</li></ul><p><br></p><p>You can find the programmes mentioned as follows:&nbsp;</p><ul><li>The Curse</li></ul><p>Sunday 6th&nbsp;February at 10pm on Channel 4 and will be available as a boxset after this first episode has gone out</p><ul><li>Dear Rider</li></ul><p>Available to download on all major outlets including iTunes and Amazon</p><ul><li>Winter Olympics</li></ul><p>Live coverage runs on BBC1 and BBC2 throughout the week plus highlights on BBC2 and BBC3</p><ul><li>Chloe</li></ul><p>Sunday 6th February at 9pm on BBC1 and will be available as a boxset after this first episode has gone out</p><ul><li>This Is Going To Hurt</li></ul><p>Tuesday 8th February at 9pm on BBC1 and will be available as a boxset after the first episode has gone out</p><br><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.This episode: - Jane interviews the Radio Times Sports Editor Simon Barnes about what to watch in the Winter O...",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>This episode:</p><ul><li>Jane interviews the Radio Times Sports Editor Simon Barnes about what to watch in the Winter Olympics 2022.</li><li>Rhianna also reviews ‘This Is Going To Hurt’, ‘Dear Rider’, ‘The Curse’ and ‘Chloe’.</li></ul><p><br></p><p>You can find the programmes mentioned as follows:&nbsp;</p><ul><li>The Curse</li></ul><p>Sunday 6th&nbsp;February at 10pm on Channel 4 and will be available as a boxset after this first episode has gone out</p><ul><li>Dear Rider</li></ul><p>Available to download on all major outlets including iTunes and Amazon</p><ul><li>Winter Olympics</li></ul><p>Live coverage runs on BBC1 and BBC2 throughout the week plus highlights on BBC2 and BBC3</p><ul><li>Chloe</li></ul><p>Sunday 6th February at 9pm on BBC1 and will be available as a boxset after this first episode has gone out</p><ul><li>This Is Going To Hurt</li></ul><p>Tuesday 8th February at 9pm on BBC1 and will be available as a boxset after the first episode has gone out</p><br><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "b00656ac-900b-4633-9636-8a38ad91e02f",
+      "explicit": true,
+      "duration": 2496,
+      "enclosure": {
+        "length": 99856717,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/thisisgoingtohurt-dearrider-thecurse-chloeandthewinterolympics/media.mp3"
+      },
+      "season": 1,
+      "episode": 21,
+      "pubDate": "2022-02-02T00:00:00.000Z",
+      "episodeUrl": "thisisgoingtohurt-dearrider-thecurse-chloeandthewinterolympics",
+      "episodeId": "b00656ac-900b-4633-9636-8a38ad91e02f",
+      "link": "https://play.acast.com/s/radio-times-podcast/thisisgoingtohurt-dearrider-thecurse-chloeandthewinterolympics"
+    },
+    {
+      "title": "Ed Gamble, The Afterparty, Trigger Point, Great British Menu and Dancing on Ice",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.&nbsp;</p><br><p>This episode:&nbsp;</p><ul><li>Jane interviews one of the new judges on Great British Menu – Ed Gamble.&nbsp;&nbsp;</li><li>&nbsp;Rhianna also reviews ‘The Afterparty, Trigger Point and Dancing on Ice.’</li></ul><p><br></p><p>You can find the programmes mentioned as follows:&nbsp;&nbsp;</p><ul><li>The Afterparty</li></ul><p>Friday 28th January and released as weekly episodes&nbsp;on Apple TV+&nbsp;</p><ul><li>Trigger Point</li></ul><p>Sunday 23rd January at 9pm and continues for six weeks on ITV&nbsp;</p><ul><li>Great British Menu</li></ul><p>Tuesday 1 February at 8pm, continues Wednesday 2nd &amp; Thursday 3rd February on BBC Two&nbsp;</p><ul><li>Dancing on Ice</li></ul><p>Sunday 30th&nbsp;January at 6.30pm is episode 3 on ITV. Catch up on ITV Hub.&nbsp;</p><br><p>We’d love to hear from you. You can send us an email anytime to podcast@radiotimes.com or find us on Twitter, Facebook and Instagram @Radiotimes&nbsp;</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.&nbsp;This episode:&nbsp; - Jane interviews one of the new judges on Great British Menu – Ed Gamble....",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.&nbsp;</p><br><p>This episode:&nbsp;</p><ul><li>Jane interviews one of the new judges on Great British Menu – Ed Gamble.&nbsp;&nbsp;</li><li>&nbsp;Rhianna also reviews ‘The Afterparty, Trigger Point and Dancing on Ice.’</li></ul><p><br></p><p>You can find the programmes mentioned as follows:&nbsp;&nbsp;</p><ul><li>The Afterparty</li></ul><p>Friday 28th January and released as weekly episodes&nbsp;on Apple TV+&nbsp;</p><ul><li>Trigger Point</li></ul><p>Sunday 23rd January at 9pm and continues for six weeks on ITV&nbsp;</p><ul><li>Great British Menu</li></ul><p>Tuesday 1 February at 8pm, continues Wednesday 2nd &amp; Thursday 3rd February on BBC Two&nbsp;</p><ul><li>Dancing on Ice</li></ul><p>Sunday 30th&nbsp;January at 6.30pm is episode 3 on ITV. Catch up on ITV Hub.&nbsp;</p><br><p>We’d love to hear from you. You can send us an email anytime to podcast@radiotimes.com or find us on Twitter, Facebook and Instagram @Radiotimes&nbsp;</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "37acc902-035f-4c85-8f06-96464c0b7cac",
+      "explicit": true,
+      "duration": 2767,
+      "enclosure": {
+        "length": 110720521,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/edgamble-theafterparty-triggerpoint-greatbritishmenuanddancingonice/media.mp3"
+      },
+      "season": 1,
+      "episode": 20,
+      "pubDate": "2022-01-26T00:00:00.000Z",
+      "episodeUrl": "edgamble-theafterparty-triggerpoint-greatbritishmenuanddancingonice",
+      "episodeId": "37acc902-035f-4c85-8f06-96464c0b7cac",
+      "link": "https://play.acast.com/s/radio-times-podcast/edgamble-theafterparty-triggerpoint-greatbritishmenuanddancingonice"
+    },
+    {
+      "title": "Ricky Gervais, After Life, Four Lives, The Man Who Bought Cricket, The Language of Love and Screw",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.&nbsp;</p><br><p>This episode:&nbsp;</p><ul><li>Jane interviews Ricky Gervais about Season 3 of After Life on Netflix.&nbsp;</li></ul><p>&nbsp;Rhianna also reviews ‘Four Lives’, ‘The Man Who Bought Cricket’, ‘The Language of Love’ and ‘Screw’.&nbsp;</p><br><p>You can find the programmes mentioned as follows:&nbsp;&nbsp;</p><ul><li>After Life</li></ul><p>Netflix&nbsp;</p><ul><li>Four Lives</li></ul><p>BBC iPlayer&nbsp;</p><ul><li>The Man Who Bought Cricket</li></ul><p>Sky documentaries&nbsp;</p><ul><li>The Language of Love</li></ul><p>All 4&nbsp;</p><ul><li>Screw</li></ul><p>All 4&nbsp;&nbsp;</p><br><p>We’d love to hear from you. You can send us an email anytime to podcast@radiotimes.com or find us on Twitter, Facebook and Instagram @Radiotimes&nbsp;</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.&nbsp;This episode:&nbsp; - Jane interviews Ricky Gervais about Season 3 of After Life on Netflix....",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.&nbsp;</p><br><p>This episode:&nbsp;</p><ul><li>Jane interviews Ricky Gervais about Season 3 of After Life on Netflix.&nbsp;</li></ul><p>&nbsp;Rhianna also reviews ‘Four Lives’, ‘The Man Who Bought Cricket’, ‘The Language of Love’ and ‘Screw’.&nbsp;</p><br><p>You can find the programmes mentioned as follows:&nbsp;&nbsp;</p><ul><li>After Life</li></ul><p>Netflix&nbsp;</p><ul><li>Four Lives</li></ul><p>BBC iPlayer&nbsp;</p><ul><li>The Man Who Bought Cricket</li></ul><p>Sky documentaries&nbsp;</p><ul><li>The Language of Love</li></ul><p>All 4&nbsp;</p><ul><li>Screw</li></ul><p>All 4&nbsp;&nbsp;</p><br><p>We’d love to hear from you. You can send us an email anytime to podcast@radiotimes.com or find us on Twitter, Facebook and Instagram @Radiotimes&nbsp;</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "e07e692f-f74b-434d-bf5f-e0ab7c9daa12",
+      "explicit": true,
+      "duration": 3092,
+      "enclosure": {
+        "length": 123712782,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/rickygervais-afterlife-fourlives-themanwhoboughtcricket-thelanguageofloveandscrew/media.mp3"
+      },
+      "season": 1,
+      "episode": 18,
+      "pubDate": "2022-01-12T00:00:00.000Z",
+      "episodeUrl": "rickygervais-afterlife-fourlives-themanwhoboughtcricket-thelanguageofloveandscrew",
+      "episodeId": "e07e692f-f74b-434d-bf5f-e0ab7c9daa12",
+      "link": "https://play.acast.com/s/radio-times-podcast/rickygervais-afterlife-fourlives-themanwhoboughtcricket-thelanguageofloveandscrew"
+    },
+    {
+      "title": "Shazad Latif, writer Kevin Sampson, The Lost Daughter, The Tourist, Toast of Tinseltown and Anne",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.&nbsp;</p><br><p>This episode:&nbsp;</p><ul><li>Rhianna interviews Shazad Latif (who plays the much-loved ‘Clem Fandango’) about the new BBC comedy ‘Toast of Tinseltown’. Plus Kevin Sampson – who has written ‘Anne’ the ITV drama starring Maxine Peake as Anne Williams, a mother who spent years fighting for justice following the tragic death of her son at the Hillsborough disaster in 1989.&nbsp;</li><li>&nbsp;Rhianna also reviews ‘The Lost Daughter’ which stars Olivia Colman and new BBC thriller starring Jamie Dornan, ‘The Tourist’.&nbsp;</li></ul><p><br></p><p>You can find the programmes mentioned as follows:&nbsp;&nbsp;</p><ul><li>The Lost Daughter</li></ul><p>Available on Netflix&nbsp;</p><ul><li>Toast of Tinseltown</li></ul><p>All episodes available on BBC iPlayer&nbsp;&nbsp;</p><ul><li>The Tourist</li></ul><p>All episodes available on BBC iPlayer&nbsp;</p><ul><li>Anne</li></ul><p>Available on the ITV hub, with the final episode going out tonight - Wednesday 5th January at 9pm on ITV&nbsp;&nbsp;</p><br><p>We’d love to hear from you. You can send us an email anytime to podcast@radiotimes.com or find us on Twitter, Facebook and Instagram @Radiotimes&nbsp;</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.&nbsp;This episode:&nbsp; - Rhianna interviews Shazad Latif (who plays the much-loved ‘Clem Fandango’)...",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.&nbsp;</p><br><p>This episode:&nbsp;</p><ul><li>Rhianna interviews Shazad Latif (who plays the much-loved ‘Clem Fandango’) about the new BBC comedy ‘Toast of Tinseltown’. Plus Kevin Sampson – who has written ‘Anne’ the ITV drama starring Maxine Peake as Anne Williams, a mother who spent years fighting for justice following the tragic death of her son at the Hillsborough disaster in 1989.&nbsp;</li><li>&nbsp;Rhianna also reviews ‘The Lost Daughter’ which stars Olivia Colman and new BBC thriller starring Jamie Dornan, ‘The Tourist’.&nbsp;</li></ul><p><br></p><p>You can find the programmes mentioned as follows:&nbsp;&nbsp;</p><ul><li>The Lost Daughter</li></ul><p>Available on Netflix&nbsp;</p><ul><li>Toast of Tinseltown</li></ul><p>All episodes available on BBC iPlayer&nbsp;&nbsp;</p><ul><li>The Tourist</li></ul><p>All episodes available on BBC iPlayer&nbsp;</p><ul><li>Anne</li></ul><p>Available on the ITV hub, with the final episode going out tonight - Wednesday 5th January at 9pm on ITV&nbsp;&nbsp;</p><br><p>We’d love to hear from you. You can send us an email anytime to podcast@radiotimes.com or find us on Twitter, Facebook and Instagram @Radiotimes&nbsp;</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "e9defd05-d298-4c2c-abe9-f445aaeec3b5",
+      "explicit": true,
+      "duration": 2756,
+      "enclosure": {
+        "length": 110268080,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/shazadlatif-writerkevinsampson-thelostdaughter-thetourist-toastoftinseltownandanne/media.mp3"
+      },
+      "season": 1,
+      "episode": 17,
+      "pubDate": "2022-01-05T00:00:00.000Z",
+      "episodeUrl": "shazadlatif-writerkevinsampson-thelostdaughter-thetourist-toastoftinseltownandanne",
+      "episodeId": "e9defd05-d298-4c2c-abe9-f445aaeec3b5",
+      "link": "https://play.acast.com/s/radio-times-podcast/shazadlatif-writerkevinsampson-thelostdaughter-thetourist-toastoftinseltownandanne"
+    },
+    {
+      "title": "David Tennant, Lin-Manuel Miranda, A Very British Scandal, Don’t Look Up, Encanto and so much more!",
+      "description": "<p>The Radio Times Podcast is the place for your trusted TV recommendations each week. This week hosted by TV expert Rhianna Dhillon and David Butcher (standing in for Jane Garvey for this episode).</p><br><p>This episode:</p><ul><li>In this Christmas bumper episode, Rhianna talks to guests David Tennant about his new BBC series ‘Around the World in 80 Days’ AND the creator of Hamilton, Lin-Manuel Miranda about his new film Encanto. Reviews from David Butcher, who’s standing in for Jane, include; BBC drama ‘A Very British Scandal’, Netflix film ‘Don’t Look Up’ and Sky’s ‘Amazing Mr Blundon’. Rhianna and David also discuss their top three shows of 2021.</li></ul><p><br></p><p>You can find the programmes mentioned as follows:&nbsp;</p><ul><li>A Very British Scandal&nbsp;</li></ul><p>BBC1, on three consecutive nights, starting on Boxing Day at 9pm (and all episodes available on iPlayer after the first episode has gone out)</p><ul><li>Don’t Look Up</li></ul><p>In selected cinemas now, then on Netflix from Christmas Eve</p><ul><li>Encanto</li></ul><p>In cinemas now, then available on Disney+ from Christmas Eve</p><ul><li>Amazing Mr Blundon</li></ul><p>Sky Max, on Christmas Eve at 7pm</p><ul><li>Around The World in 80 Days&nbsp;</li></ul><p>BBC1, starting with a double episode on Boxing Day at 5.50pm and 6.40pm</p><br><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The Radio Times Podcast is the place for your trusted TV recommendations each week. This week hosted by TV expert Rhianna Dhillon and David Butcher (standing in for Jane Garvey for this episode).This episode: - In this Christmas bumper episode, Rhi...",
+      "summary": "<p>The Radio Times Podcast is the place for your trusted TV recommendations each week. This week hosted by TV expert Rhianna Dhillon and David Butcher (standing in for Jane Garvey for this episode).</p><br><p>This episode:</p><ul><li>In this Christmas bumper episode, Rhianna talks to guests David Tennant about his new BBC series ‘Around the World in 80 Days’ AND the creator of Hamilton, Lin-Manuel Miranda about his new film Encanto. Reviews from David Butcher, who’s standing in for Jane, include; BBC drama ‘A Very British Scandal’, Netflix film ‘Don’t Look Up’ and Sky’s ‘Amazing Mr Blundon’. Rhianna and David also discuss their top three shows of 2021.</li></ul><p><br></p><p>You can find the programmes mentioned as follows:&nbsp;</p><ul><li>A Very British Scandal&nbsp;</li></ul><p>BBC1, on three consecutive nights, starting on Boxing Day at 9pm (and all episodes available on iPlayer after the first episode has gone out)</p><ul><li>Don’t Look Up</li></ul><p>In selected cinemas now, then on Netflix from Christmas Eve</p><ul><li>Encanto</li></ul><p>In cinemas now, then available on Disney+ from Christmas Eve</p><ul><li>Amazing Mr Blundon</li></ul><p>Sky Max, on Christmas Eve at 7pm</p><ul><li>Around The World in 80 Days&nbsp;</li></ul><p>BBC1, starting with a double episode on Boxing Day at 5.50pm and 6.40pm</p><br><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "63970fc6-f5ad-403a-b678-448a1b317ea3",
+      "explicit": true,
+      "duration": 4279,
+      "enclosure": {
+        "length": 171175182,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/davidtennant-lin-manuelmiranda-averybritishscandal-don-tlookup-encantoandsomuchmore-/media.mp3"
+      },
+      "season": 1,
+      "episode": 16,
+      "pubDate": "2021-12-22T00:00:59.000Z",
+      "episodeUrl": "davidtennant-lin-manuelmiranda-averybritishscandal-don-tlookup-encantoandsomuchmore-",
+      "episodeId": "63970fc6-f5ad-403a-b678-448a1b317ea3",
+      "link": "https://play.acast.com/s/radio-times-podcast/davidtennant-lin-manuelmiranda-averybritishscandal-don-tlookup-encantoandsomuchmore-"
+    },
+    {
+      "title": "Strictly’s John and Johannes, The Girl Before, And Just Like That..., Being the Ricardos, Last Train to Christmas",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>This episode:</p><ul><li>Jane talks to Strictly finalists John and Johannes about their experience as the first ever male same sex couple dancing on the show. Rhianna reviews new BBC1 drama ‘The Girl Before’, the new series of Sex and the City ‘And Just Like That...’, the biographical drama about&nbsp;<a href=\"https://en.wikipedia.org/wiki/Lucille_Ball\" rel=\"noopener noreferrer\" target=\"_blank\">Lucille Ball</a>&nbsp;‘Being the Ricardos’<a href=\"https://en.wikipedia.org/wiki/Lucille_Ball\" rel=\"noopener noreferrer\" target=\"_blank\">,</a>&nbsp;and finally ‘Last Train to Christmas’ with Michael Sheen.&nbsp;</li></ul><p><br></p><p>You can find the programmes mentioned as follows:</p><ul><li>The Girl Before</li></ul><p>Available on BBC1 and BBC iPlayer at 9pm from&nbsp;Sunday 19th December. The entire series will be available on BBC iPlayer following the broadcast of the first episode.</p><ul><li>And Just Like That...</li></ul><p>First two episodes available on Sky Comedy and Now TV, then weekly episodes released on a Thursday</p><ul><li>Being the Ricardos</li></ul><p>In Cinemas now and available on Amazon Prime Video from Tuesday 21st December</p><ul><li>Last Train to Christmas</li></ul><p>Available on Sky Cinema and Now TV from Saturday 18th December</p><br><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;</p><br><p>See acast.com/privacy for privacy and opt-out information</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.This episode: - Jane talks to Strictly finalists John and Johannes about their experience as the first ever ma...",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>This episode:</p><ul><li>Jane talks to Strictly finalists John and Johannes about their experience as the first ever male same sex couple dancing on the show. Rhianna reviews new BBC1 drama ‘The Girl Before’, the new series of Sex and the City ‘And Just Like That...’, the biographical drama about&nbsp;<a href=\"https://en.wikipedia.org/wiki/Lucille_Ball\" rel=\"noopener noreferrer\" target=\"_blank\">Lucille Ball</a>&nbsp;‘Being the Ricardos’<a href=\"https://en.wikipedia.org/wiki/Lucille_Ball\" rel=\"noopener noreferrer\" target=\"_blank\">,</a>&nbsp;and finally ‘Last Train to Christmas’ with Michael Sheen.&nbsp;</li></ul><p><br></p><p>You can find the programmes mentioned as follows:</p><ul><li>The Girl Before</li></ul><p>Available on BBC1 and BBC iPlayer at 9pm from&nbsp;Sunday 19th December. The entire series will be available on BBC iPlayer following the broadcast of the first episode.</p><ul><li>And Just Like That...</li></ul><p>First two episodes available on Sky Comedy and Now TV, then weekly episodes released on a Thursday</p><ul><li>Being the Ricardos</li></ul><p>In Cinemas now and available on Amazon Prime Video from Tuesday 21st December</p><ul><li>Last Train to Christmas</li></ul><p>Available on Sky Cinema and Now TV from Saturday 18th December</p><br><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;</p><br><p>See acast.com/privacy for privacy and opt-out information</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "46cb329b-a662-4dec-9c1b-0183ecd21161",
+      "explicit": true,
+      "duration": 2804,
+      "enclosure": {
+        "length": 112198007,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/strictly-sjohnandjohannes-thegirlbefore-andjustlikethat...-beingthericardos-lasttraintochristmas/media.mp3"
+      },
+      "season": 1,
+      "episode": 15,
+      "pubDate": "2021-12-15T00:00:00.000Z",
+      "episodeUrl": "strictly-sjohnandjohannes-thegirlbefore-andjustlikethat...-beingthericardos-lasttraintochristmas",
+      "episodeId": "46cb329b-a662-4dec-9c1b-0183ecd21161",
+      "link": "https://play.acast.com/s/radio-times-podcast/strictly-sjohnandjohannes-thegirlbefore-andjustlikethat...-beingthericardos-lasttraintochristmas"
+    },
+    {
+      "title": "Julie Walters, The Unforgivable, Welcome to Earth, David Baddiel: Social Media, Anger and Us, The Abominable Snowbaby",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>This episode:</p><ul><li>Jane talks to Julie Walters about the new animation she stars in - The Abominable Snowbaby. Rhianna reviews Will Smith’s new documentary ‘Welcome to Earth’, BBC documentary ‘David Baddiel: Social Media, Anger and Us’, and ‘The Unforgiveable’ which is on Netflix.&nbsp;</li></ul><p>You can find the programmes mentioned as follows:</p><ul><li>Welcome to Earth</li></ul><p>Available on Disney+</p><ul><li>David Baddiel: Social Media, Anger and Us</li></ul><p>BBC Two and iPlayer, Monday 13th December at 9pm</p><ul><li>The Abominable Snowbaby</li></ul><p>Channel 4, Christmas Day at 7.30pm</p><ul><li>Netflix on 10th December</li></ul><p>Amazon Prime, Friday 19th November</p><br><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.</p><br><p>See acast.com/privacy for privacy and opt-out information</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.This episode: - Jane talks to Julie Walters about the new animation she stars in - The Abominable Snowbaby. Rh...",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>This episode:</p><ul><li>Jane talks to Julie Walters about the new animation she stars in - The Abominable Snowbaby. Rhianna reviews Will Smith’s new documentary ‘Welcome to Earth’, BBC documentary ‘David Baddiel: Social Media, Anger and Us’, and ‘The Unforgiveable’ which is on Netflix.&nbsp;</li></ul><p>You can find the programmes mentioned as follows:</p><ul><li>Welcome to Earth</li></ul><p>Available on Disney+</p><ul><li>David Baddiel: Social Media, Anger and Us</li></ul><p>BBC Two and iPlayer, Monday 13th December at 9pm</p><ul><li>The Abominable Snowbaby</li></ul><p>Channel 4, Christmas Day at 7.30pm</p><ul><li>Netflix on 10th December</li></ul><p>Amazon Prime, Friday 19th November</p><br><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.</p><br><p>See acast.com/privacy for privacy and opt-out information</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "18adb5fc-395e-4d65-a6e0-eec2becfe9f3",
+      "explicit": true,
+      "duration": 2361,
+      "enclosure": {
+        "length": 37777657,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/juliewalters-theunforgivable-welcometoearth-davidbaddiel-socialmedia-angerandus-theabominablesnowbaby/media.mp3"
+      },
+      "season": 1,
+      "episode": 14,
+      "pubDate": "2021-12-09T10:05:50.000Z",
+      "episodeUrl": "juliewalters-theunforgivable-welcometoearth-davidbaddiel-socialmedia-angerandus-theabominablesnowbaby",
+      "episodeId": "18adb5fc-395e-4d65-a6e0-eec2becfe9f3",
+      "link": "https://play.acast.com/s/radio-times-podcast/juliewalters-theunforgivable-welcometoearth-davidbaddiel-socialmedia-angerandus-theabominablesnowbaby"
+    },
+    {
+      "title": "Landscapers, The Beatles: Get Back, The Power of the Dog, Hawkeye, Paddy and Christine McGuiness: Our Family and Autism",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.&nbsp;&nbsp;</p><br><p>This episode:&nbsp;</p><ul><li>Jane and&nbsp;Rhianna review&nbsp;Sky Atlantic’s Landscapers, starring Olivia Colman and David Thewlis, The Beatles: Get Back, Netflix’s The Power of the Dog, new Marvel series Hawkeye and&nbsp;Paddy and Christine McGuiness: Our Family and Autism.&nbsp;</li></ul><p><br></p><p>You can find the programmes mentioned as follows:&nbsp;</p><ul><li>Landscapers&nbsp;</li></ul><p>&nbsp;All episodes available on Sky Atlantic on Tuesday 7th December&nbsp;</p><ul><li>The Beatles: Get Back&nbsp;&nbsp;</li></ul><p>Available to watch on Disney Plus now&nbsp;</p><ul><li>The Power of the Dog&nbsp;</li></ul><p>Available to watch on Netflix&nbsp;</p><ul><li>Hawkeye&nbsp;&nbsp;</li></ul><p>Out now on Disney Plus&nbsp;</p><ul><li>Paddy and Christine McGuiness: Our Family and Autism&nbsp;</li></ul><p>Available on&nbsp;BBCiPlayer</p><br><p>We’d love to hear from you. You can send us an email anytime to&nbsp;podcast@radiotimes.com&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes&nbsp;</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;&nbsp;</p><br><p>See acast.com/privacy for privacy and opt-out information&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.&nbsp;&nbsp;This episode:&nbsp; - Jane and&nbsp;Rhianna review&nbsp;Sky Atlantic’s Landsca...",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.&nbsp;&nbsp;</p><br><p>This episode:&nbsp;</p><ul><li>Jane and&nbsp;Rhianna review&nbsp;Sky Atlantic’s Landscapers, starring Olivia Colman and David Thewlis, The Beatles: Get Back, Netflix’s The Power of the Dog, new Marvel series Hawkeye and&nbsp;Paddy and Christine McGuiness: Our Family and Autism.&nbsp;</li></ul><p><br></p><p>You can find the programmes mentioned as follows:&nbsp;</p><ul><li>Landscapers&nbsp;</li></ul><p>&nbsp;All episodes available on Sky Atlantic on Tuesday 7th December&nbsp;</p><ul><li>The Beatles: Get Back&nbsp;&nbsp;</li></ul><p>Available to watch on Disney Plus now&nbsp;</p><ul><li>The Power of the Dog&nbsp;</li></ul><p>Available to watch on Netflix&nbsp;</p><ul><li>Hawkeye&nbsp;&nbsp;</li></ul><p>Out now on Disney Plus&nbsp;</p><ul><li>Paddy and Christine McGuiness: Our Family and Autism&nbsp;</li></ul><p>Available on&nbsp;BBCiPlayer</p><br><p>We’d love to hear from you. You can send us an email anytime to&nbsp;podcast@radiotimes.com&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes&nbsp;</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;&nbsp;</p><br><p>See acast.com/privacy for privacy and opt-out information&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "e3009e8a-99a7-4d09-95b5-ee896fbca155",
+      "explicit": true,
+      "duration": 2261,
+      "enclosure": {
+        "length": 90444276,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/landscapers-thebeatles-getback-thepowerofthedog-hawkeye-paddyandchristinemcguiness-ourfamilyandautism/media.mp3"
+      },
+      "season": 1,
+      "episode": 13,
+      "pubDate": "2021-12-01T00:00:00.000Z",
+      "episodeUrl": "landscapers-thebeatles-getback-thepowerofthedog-hawkeye-paddyandchristinemcguiness-ourfamilyandautism",
+      "episodeId": "e3009e8a-99a7-4d09-95b5-ee896fbca155",
+      "link": "https://play.acast.com/s/radio-times-podcast/landscapers-thebeatles-getback-thepowerofthedog-hawkeye-paddyandchristinemcguiness-ourfamilyandautism"
+    },
+    {
+      "title": "Tiger King 2, Finch, Tick, Tick... Boom! and Zara McDermott",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>This episode:</p><p><br></p><ul><li>We hear from ex Love Island contestant and Made in Chelsea star, Zara McDermott about her new BBC documentary ‘Uncovering: Rape Culture’. Rhianna and Jane review Finch, on Apple TV+, Lin-Manuel Miranda’s new musical film ‘Tick, Tick... Boom!’ on Netflix, and the highly anticipated ‘Tiger King 2’.</li></ul><p><br></p><p>You can find the programmes mentioned as follows:</p><ul><li>Tick, Tick... Boom!</li></ul><p>Available now on Netflix</p><ul><li>Uncovering: Rape Culture</li></ul><p>BBC1 at 10.35pm on 24th November, then available on BBC3 and iPlayer</p><ul><li>Finch</li></ul><p>Available on Apple TV+</p><ul><li>Tiger King 2</li></ul><p>Available now on Netflix</p><br><p>We’d love to hear from you. You can send us an email anytime to podcast@radiotimes.com or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.</p><br><p>See acast.com/privacy for privacy and opt-out information</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.This episode: - We hear from ex Love Island contestant and Made in Chelsea star, Zara McDermott about her ne...",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>This episode:</p><p><br></p><ul><li>We hear from ex Love Island contestant and Made in Chelsea star, Zara McDermott about her new BBC documentary ‘Uncovering: Rape Culture’. Rhianna and Jane review Finch, on Apple TV+, Lin-Manuel Miranda’s new musical film ‘Tick, Tick... Boom!’ on Netflix, and the highly anticipated ‘Tiger King 2’.</li></ul><p><br></p><p>You can find the programmes mentioned as follows:</p><ul><li>Tick, Tick... Boom!</li></ul><p>Available now on Netflix</p><ul><li>Uncovering: Rape Culture</li></ul><p>BBC1 at 10.35pm on 24th November, then available on BBC3 and iPlayer</p><ul><li>Finch</li></ul><p>Available on Apple TV+</p><ul><li>Tiger King 2</li></ul><p>Available now on Netflix</p><br><p>We’d love to hear from you. You can send us an email anytime to podcast@radiotimes.com or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.</p><br><p>See acast.com/privacy for privacy and opt-out information</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "c4b16e36-ab50-4783-b50c-18afb5577f07",
+      "explicit": true,
+      "duration": 2734,
+      "enclosure": {
+        "length": 109388276,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/tigerking2-finch-tikticboomandzaramcdermott/media.mp3"
+      },
+      "season": 1,
+      "episode": 12,
+      "pubDate": "2021-11-24T00:00:00.000Z",
+      "episodeUrl": "tigerking2-finch-tikticboomandzaramcdermott",
+      "episodeId": "c4b16e36-ab50-4783-b50c-18afb5577f07",
+      "link": "https://play.acast.com/s/radio-times-podcast/tigerking2-finch-tikticboomandzaramcdermott"
+    },
+    {
+      "title": "Sathnam Sanghera, The Tower, The Wheel of Time, Empire State of Mind, The Shrink Next Door",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>This episode:&nbsp;</p><ul><li>We hear from journalist&nbsp;Sathnam&nbsp;Sanghera about his new two-part Channel 4 series&nbsp;‘Empire State of Mind’.&nbsp;David Hepworth discusses new ‘The Beatles: Get Back’ series, having spoken to director Peter Jackson. Rhianna reviews&nbsp;ITV’s The Tower, The Wheel of Time&nbsp;and The Shrink Next Door on Apple TV+.&nbsp;&nbsp;</li></ul><p><br></p><p>You can find the programmes mentioned as follows:</p><ul><li>The Shrink Next Door&nbsp;</li></ul><p>&nbsp;Apple+ TV, Friday 12th&nbsp;November&nbsp;&nbsp;</p><ul><li>The&nbsp;Tower&nbsp;</li></ul><p>All three episodes available on the ITV hub now&nbsp;</p><ul><li>Empire State of Mind&nbsp;</li></ul><p>Channel 4 at 9pm on Saturday 20th November&nbsp;</p><ul><li>The Wheel of Time&nbsp;</li></ul><p>Amazon Prime on Friday 19th November&nbsp;</p><br><p>We’d love to hear from you. You can send us an email anytime to&nbsp;podcast@radiotimes.com&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes&nbsp;</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;&nbsp;</p><br><p>See acast.com/privacy for privacy and opt-out information&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.This episode:&nbsp; - We hear from journalist&nbsp;Sathnam&nbsp;Sanghera about his new two-part Ch...",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>This episode:&nbsp;</p><ul><li>We hear from journalist&nbsp;Sathnam&nbsp;Sanghera about his new two-part Channel 4 series&nbsp;‘Empire State of Mind’.&nbsp;David Hepworth discusses new ‘The Beatles: Get Back’ series, having spoken to director Peter Jackson. Rhianna reviews&nbsp;ITV’s The Tower, The Wheel of Time&nbsp;and The Shrink Next Door on Apple TV+.&nbsp;&nbsp;</li></ul><p><br></p><p>You can find the programmes mentioned as follows:</p><ul><li>The Shrink Next Door&nbsp;</li></ul><p>&nbsp;Apple+ TV, Friday 12th&nbsp;November&nbsp;&nbsp;</p><ul><li>The&nbsp;Tower&nbsp;</li></ul><p>All three episodes available on the ITV hub now&nbsp;</p><ul><li>Empire State of Mind&nbsp;</li></ul><p>Channel 4 at 9pm on Saturday 20th November&nbsp;</p><ul><li>The Wheel of Time&nbsp;</li></ul><p>Amazon Prime on Friday 19th November&nbsp;</p><br><p>We’d love to hear from you. You can send us an email anytime to&nbsp;podcast@radiotimes.com&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes&nbsp;</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.&nbsp;&nbsp;</p><br><p>See acast.com/privacy for privacy and opt-out information&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "5330a5b5-7976-453f-8638-2ec84d77cead",
+      "explicit": true,
+      "duration": 2647,
+      "enclosure": {
+        "length": 105910856,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/sathnamsanghera-thetower-thewheeloftime-empirestateofmind-theshinknextdoor/media.mp3"
+      },
+      "season": 1,
+      "episode": 11,
+      "pubDate": "2021-11-17T00:00:58.000Z",
+      "episodeUrl": "sathnamsanghera-thetower-thewheeloftime-empirestateofmind-theshinknextdoor",
+      "episodeId": "5330a5b5-7976-453f-8638-2ec84d77cead",
+      "link": "https://play.acast.com/s/radio-times-podcast/sathnamsanghera-thetower-thewheeloftime-empirestateofmind-theshinknextdoor"
+    },
+    {
+      "title": "Aimee Lou Wood, Dopesick, In My Skin, Crime and Bump",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>This episode:</p><ul><li>We hear from&nbsp;‘Sex Education’ star Aimee Lou Wood about ‘Mincemeat’ part of the Bafta nominated ‘On the Edge’ Channel 4 dramas. Plus reviews of ‘Dopesick’ the new gripping star-studded Disney miniseries; BBC coming of age drama ‘In My Skin’, Crime - the new Irvine Welsh adaptation and ‘Bump’ an Australian teen comedy.</li></ul><p><br></p><p>You can find the programmes mentioned as follows:</p><ul><li>Dopesick</li></ul><p>Disney, Friday 12th November&nbsp;</p><ul><li>In My Skin</li></ul><p>Released as a boxset on BBC3/iPlayer</p><ul><li>Crime</li></ul><p>ITV Britbox released as a boxset on Thursday 18th November</p><ul><li>Bump, Available now on BBC iPlayer</li></ul><p><br></p><p>We’d love to hear from you. You can send us an email anytime to&nbsp;podcast@radiotimes.com&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by&nbsp;Somethin’ Else for Immediate Media.</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.This episode: - We hear from&nbsp;‘Sex Education’ star Aimee Lou Wood about ‘Mincemeat’ part of the Bafta ...",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>This episode:</p><ul><li>We hear from&nbsp;‘Sex Education’ star Aimee Lou Wood about ‘Mincemeat’ part of the Bafta nominated ‘On the Edge’ Channel 4 dramas. Plus reviews of ‘Dopesick’ the new gripping star-studded Disney miniseries; BBC coming of age drama ‘In My Skin’, Crime - the new Irvine Welsh adaptation and ‘Bump’ an Australian teen comedy.</li></ul><p><br></p><p>You can find the programmes mentioned as follows:</p><ul><li>Dopesick</li></ul><p>Disney, Friday 12th November&nbsp;</p><ul><li>In My Skin</li></ul><p>Released as a boxset on BBC3/iPlayer</p><ul><li>Crime</li></ul><p>ITV Britbox released as a boxset on Thursday 18th November</p><ul><li>Bump, Available now on BBC iPlayer</li></ul><p><br></p><p>We’d love to hear from you. You can send us an email anytime to&nbsp;podcast@radiotimes.com&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by&nbsp;Somethin’ Else for Immediate Media.</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "c1dea4fd-24d0-4510-9b13-cb323277eada",
+      "explicit": true,
+      "duration": 2322,
+      "enclosure": {
+        "length": 92896652,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/aimeelouwood-dopesick-inmyskin-crimeandbump/media.mp3"
+      },
+      "season": 1,
+      "episode": 10,
+      "pubDate": "2021-11-10T00:00:27.000Z",
+      "episodeUrl": "aimeelouwood-dopesick-inmyskin-crimeandbump",
+      "episodeId": "c1dea4fd-24d0-4510-9b13-cb323277eada",
+      "link": "https://play.acast.com/s/radio-times-podcast/aimeelouwood-dopesick-inmyskin-crimeandbump"
+    },
+    {
+      "title": "Nadiya Hussain, Phoebe Dynevor, David Morrissey, The Colour Room, Dr Who and more!",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.&nbsp;&nbsp;</p><br><p>This episode:&nbsp;</p><ul><li>We hear from&nbsp;Bridgerton star Phoebe&nbsp;Dynevor&nbsp;and David Morrissey about their new film&nbsp;‘The Colour Room,’&nbsp;as well as Bake Off winner and author Nadiya Hussain,&nbsp;about her new BBC series&nbsp;‘Fast Flavours’.&nbsp;Jane and Rhianna also discuss the new series of Dr Who, Channel 4’s ‘On&nbsp;The&nbsp;Edge’ and black and white film, ‘Passing’.&nbsp;&nbsp;</li></ul><p><br></p><p>You can find the programmes mentioned as follows:</p><p><br></p><ul><li>On The Edge&nbsp;&nbsp;</li></ul><p>&nbsp;Channel 4, Sunday 7th November (Mincemeat 10pm, Cradled 10.30pm and&nbsp;Superdad&nbsp;11pm)&nbsp;&nbsp;</p><p><br></p><ul><li>The Colour Room&nbsp;</li></ul><p>Sky Cinema Premiere, Friday 12 November at 8pm&nbsp;</p><p>&nbsp;&nbsp;</p><ul><li>Dr Who (series 13)&nbsp;</li></ul><p>BBC1, Sunday 7th November 6.15pm&nbsp;</p><p>&nbsp;</p><ul><li>Fast Flavours&nbsp;</li></ul><p>BBC2 Thursday 11th November 8.30pm&nbsp;</p><p>&nbsp;</p><ul><li>Passing&nbsp;&nbsp;</li></ul><p>Netflix from Wednesday 10th November&nbsp;</p><p>&nbsp;</p><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes&nbsp;</p><br><p>The Radio Times Podcast is produced by&nbsp;Somethin' Else for Immediate Media.&nbsp;&nbsp;</p><br><p>See acast.com/privacy for privacy and opt-out information&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.&nbsp;&nbsp;This episode:&nbsp; - We hear from&nbsp;Bridgerton star Phoebe&nbsp;Dynevor...",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.&nbsp;&nbsp;</p><br><p>This episode:&nbsp;</p><ul><li>We hear from&nbsp;Bridgerton star Phoebe&nbsp;Dynevor&nbsp;and David Morrissey about their new film&nbsp;‘The Colour Room,’&nbsp;as well as Bake Off winner and author Nadiya Hussain,&nbsp;about her new BBC series&nbsp;‘Fast Flavours’.&nbsp;Jane and Rhianna also discuss the new series of Dr Who, Channel 4’s ‘On&nbsp;The&nbsp;Edge’ and black and white film, ‘Passing’.&nbsp;&nbsp;</li></ul><p><br></p><p>You can find the programmes mentioned as follows:</p><p><br></p><ul><li>On The Edge&nbsp;&nbsp;</li></ul><p>&nbsp;Channel 4, Sunday 7th November (Mincemeat 10pm, Cradled 10.30pm and&nbsp;Superdad&nbsp;11pm)&nbsp;&nbsp;</p><p><br></p><ul><li>The Colour Room&nbsp;</li></ul><p>Sky Cinema Premiere, Friday 12 November at 8pm&nbsp;</p><p>&nbsp;&nbsp;</p><ul><li>Dr Who (series 13)&nbsp;</li></ul><p>BBC1, Sunday 7th November 6.15pm&nbsp;</p><p>&nbsp;</p><ul><li>Fast Flavours&nbsp;</li></ul><p>BBC2 Thursday 11th November 8.30pm&nbsp;</p><p>&nbsp;</p><ul><li>Passing&nbsp;&nbsp;</li></ul><p>Netflix from Wednesday 10th November&nbsp;</p><p>&nbsp;</p><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes&nbsp;</p><br><p>The Radio Times Podcast is produced by&nbsp;Somethin' Else for Immediate Media.&nbsp;&nbsp;</p><br><p>See acast.com/privacy for privacy and opt-out information&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "db1b523f-3369-4e09-92ee-b830ad23fd33",
+      "explicit": true,
+      "duration": 2818,
+      "enclosure": {
+        "length": 45090271,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/nadiyahussain-phoebedynevor-davidmorrissey-thecolourroom-drwhoandmore/media.mp3"
+      },
+      "season": 1,
+      "episode": 9,
+      "pubDate": "2021-11-03T00:00:00.000Z",
+      "episodeUrl": "nadiyahussain-phoebedynevor-davidmorrissey-thecolourroom-drwhoandmore",
+      "episodeId": "db1b523f-3369-4e09-92ee-b830ad23fd33",
+      "link": "https://play.acast.com/s/radio-times-podcast/nadiyahussain-phoebedynevor-davidmorrissey-thecolourroom-drwhoandmore"
+    },
+    {
+      "title": "Jodie Whittaker, Sarah Snook, Showtrial, The Harder They Fall, Stath Lets Flats",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><p>&nbsp;&nbsp;</p><p>This episode:&nbsp;</p><ul><li>We hear from Jodie Whittaker about what it was like to film her last ever series as The Doctor, as well as Sarah Snook, who stars as Shiv in HBO series ‘Succession’.&nbsp;Plus&nbsp;reviews&nbsp;of gripping BBC drama&nbsp;Showtrial,&nbsp;‘The Harder They Fall’&nbsp;&nbsp;starring&nbsp;Idris Elba and Regina King, and the latest on&nbsp;Channel 4 series&nbsp;‘Stath Lets Flats’.&nbsp;</li></ul><p><br></p><p>You can find the programmes mentioned as follows:</p><p><br></p><ul><li>Showtrial&nbsp;</li></ul><p>BBC1, Sunday 31st October at 9pm&nbsp;</p><p>&nbsp;</p><ul><li>The Harder They Fall&nbsp;</li></ul><p>Wednesday 3rd November Netflix&nbsp;(and in cinemas from Fri 22nd October)&nbsp;</p><p>&nbsp;&nbsp;</p><ul><li>Dr Who, series 13&nbsp;&nbsp;</li></ul><p>BBC1, Sunday 31st October 6.25pm&nbsp;</p><p>&nbsp;</p><ul><li>Stath Lets Flats&nbsp;</li></ul><p>Channel 4, Tuesday 26th 10.15pm&nbsp;&nbsp;</p><p>&nbsp;&nbsp;&nbsp;</p><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes&nbsp;</p><br><p>The Radio Times Podcast is produced by&nbsp;Somethin' Else for Immediate Media.&nbsp;&nbsp;</p><br><p>See acast.com/privacy for privacy and opt-out information&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.&nbsp;&nbsp;This episode:&nbsp; - We hear from Jodie Whittaker about what it was like to film her l...",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><p>&nbsp;&nbsp;</p><p>This episode:&nbsp;</p><ul><li>We hear from Jodie Whittaker about what it was like to film her last ever series as The Doctor, as well as Sarah Snook, who stars as Shiv in HBO series ‘Succession’.&nbsp;Plus&nbsp;reviews&nbsp;of gripping BBC drama&nbsp;Showtrial,&nbsp;‘The Harder They Fall’&nbsp;&nbsp;starring&nbsp;Idris Elba and Regina King, and the latest on&nbsp;Channel 4 series&nbsp;‘Stath Lets Flats’.&nbsp;</li></ul><p><br></p><p>You can find the programmes mentioned as follows:</p><p><br></p><ul><li>Showtrial&nbsp;</li></ul><p>BBC1, Sunday 31st October at 9pm&nbsp;</p><p>&nbsp;</p><ul><li>The Harder They Fall&nbsp;</li></ul><p>Wednesday 3rd November Netflix&nbsp;(and in cinemas from Fri 22nd October)&nbsp;</p><p>&nbsp;&nbsp;</p><ul><li>Dr Who, series 13&nbsp;&nbsp;</li></ul><p>BBC1, Sunday 31st October 6.25pm&nbsp;</p><p>&nbsp;</p><ul><li>Stath Lets Flats&nbsp;</li></ul><p>Channel 4, Tuesday 26th 10.15pm&nbsp;&nbsp;</p><p>&nbsp;&nbsp;&nbsp;</p><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes&nbsp;</p><br><p>The Radio Times Podcast is produced by&nbsp;Somethin' Else for Immediate Media.&nbsp;&nbsp;</p><br><p>See acast.com/privacy for privacy and opt-out information&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "3d4655ba-2c46-4043-80b1-7088775bd640",
+      "explicit": true,
+      "duration": 2790,
+      "enclosure": {
+        "length": 111642121,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/jodiewhittaker-sarahsnook-showtrial-thehardertheyfall-stathletsflats/media.mp3"
+      },
+      "season": 1,
+      "episode": 8,
+      "pubDate": "2021-10-26T23:00:00.000Z",
+      "episodeUrl": "jodiewhittaker-sarahsnook-showtrial-thehardertheyfall-stathletsflats",
+      "episodeId": "3d4655ba-2c46-4043-80b1-7088775bd640",
+      "link": "https://play.acast.com/s/radio-times-podcast/jodiewhittaker-sarahsnook-showtrial-thehardertheyfall-stathletsflats"
+    },
+    {
+      "title": "Stephen Merchant, Professor Brian Cox, The Long Call and Scenes from a Marriage",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>In this episode:</p><ul><li>We hear from Professor Brian Cox about his new documentary series ‘Universe’ and Stephen Merchant on his new comedy thriller ‘The Outlaws’ which also stars Christopher Walken. Plus ‘Scenes from a Marriage’ with Jessica Chastain and Oscar Isaac and new ITV drama The Long Call.&nbsp;&nbsp;</li></ul><p><br></p><p>You can find the programmes mentioned as follows:</p><ul><li><strong>The Outlaws</strong>&nbsp;</li></ul><p>BBC1, Mon 25th October, 9pm</p><p>&nbsp;</p><ul><li><strong>Scenes from a Marriage</strong></li></ul><p>Sky Atlantic, Mon 25th October, 10.05pm (this will be episode 3)</p><p>&nbsp;</p><ul><li><strong>The Long Call</strong></li></ul><p>ITV, Mon 25th - Thurs 28th October, 9pm</p><p>&nbsp;</p><ul><li><strong>Universe</strong></li></ul><p>BBC2, Weds 27th October, 9pm</p><p>&nbsp;&nbsp;</p><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.</p><br><p>See acast.com/privacy for privacy and opt-out information</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.In this episode: - We hear from Professor Brian Cox about his new documentary series ‘Universe’ and Stephen Me...",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>In this episode:</p><ul><li>We hear from Professor Brian Cox about his new documentary series ‘Universe’ and Stephen Merchant on his new comedy thriller ‘The Outlaws’ which also stars Christopher Walken. Plus ‘Scenes from a Marriage’ with Jessica Chastain and Oscar Isaac and new ITV drama The Long Call.&nbsp;&nbsp;</li></ul><p><br></p><p>You can find the programmes mentioned as follows:</p><ul><li><strong>The Outlaws</strong>&nbsp;</li></ul><p>BBC1, Mon 25th October, 9pm</p><p>&nbsp;</p><ul><li><strong>Scenes from a Marriage</strong></li></ul><p>Sky Atlantic, Mon 25th October, 10.05pm (this will be episode 3)</p><p>&nbsp;</p><ul><li><strong>The Long Call</strong></li></ul><p>ITV, Mon 25th - Thurs 28th October, 9pm</p><p>&nbsp;</p><ul><li><strong>Universe</strong></li></ul><p>BBC2, Weds 27th October, 9pm</p><p>&nbsp;&nbsp;</p><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.</p><br><p>See acast.com/privacy for privacy and opt-out information</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "7a3ad127-6b87-420b-8175-b42e286bd81c",
+      "explicit": true,
+      "duration": 2729,
+      "enclosure": {
+        "length": 109179297,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/stephenmerchant-professorbriancox-thelongcallandscenesfromamarriage/media.mp3"
+      },
+      "season": 1,
+      "episode": 7,
+      "pubDate": "2021-10-19T23:00:00.000Z",
+      "episodeUrl": "stephenmerchant-professorbriancox-thelongcallandscenesfromamarriage",
+      "episodeId": "7a3ad127-6b87-420b-8175-b42e286bd81c",
+      "link": "https://play.acast.com/s/radio-times-podcast/stephenmerchant-professorbriancox-thelongcallandscenesfromamarriage"
+    },
+    {
+      "title": "Succession, Mel Giedroyc on Handmade: Britain’s Best Woodworker, Squid Game and Impeachment: An American Crime Story",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>In this episode:</p><p><br></p><ul><li>We hear from presenter Mel Giedroyc about the&nbsp;new ‘Handmade: Britain’s Best Woodworker’&nbsp;&nbsp;</li><li>Jane and Rhianna review&nbsp;Succession, Handmade: Britain’s Best Woodworker, Squid Game and Impeachment: An American Crime Story&nbsp;</li><li>We also hear&nbsp;from&nbsp;Made in Chelsea / Strictly star Jamie Laing on his new show ‘I Like&nbsp;The&nbsp;Way U Move’&nbsp;</li><li>‘What We Watched’ sparks our TV memories of panel shows of the past with future world leaders as guests&nbsp;</li></ul><p>&nbsp;</p><p>You can find the programmes mentioned as follows:</p><ul><li><strong>Succession (series 3)</strong>&nbsp;</li></ul><p>&nbsp;Sky Atlantic Monday 18th October 9pm&nbsp;</p><p>&nbsp;&nbsp;</p><ul><li><strong>Hand Made: Britain’s Best Woodworker</strong>&nbsp;</li></ul><p>Channel 4 and All 4 Thursday 21st October, 8pm,</p><p>&nbsp;</p><ul><li><strong>Squid Game</strong>&nbsp;</li></ul><p>Season 1 available on Netflix (nine episodes)&nbsp;</p><p>&nbsp;</p><ul><li><strong>I Like&nbsp;The&nbsp;Way U Move&nbsp;</strong>&nbsp;</li></ul><p>Boxset available from Sunday 17th on BBC3/iplayer&nbsp;and weekly eps on BBC1 Tuesdays&nbsp;&nbsp;10.35pm&nbsp;</p><p>&nbsp;&nbsp;</p><ul><li><strong>Impeachment: An American Crime Story</strong>&nbsp;</li></ul><p>BBC2 Tuesday 19th October 9.15pm&nbsp;</p><p>&nbsp;</p><p>&nbsp;&nbsp;</p><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes&nbsp;</p><br><p>The Radio Times Podcast is produced by&nbsp;Somethin' Else for Immediate Media.&nbsp;&nbsp;</p><br><p>See acast.com/privacy for privacy and opt-out information.&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.In this episode: - We hear from presenter Mel Giedroyc about the&nbsp;new ‘Handmade: Britain’s Best Wood...",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>In this episode:</p><p><br></p><ul><li>We hear from presenter Mel Giedroyc about the&nbsp;new ‘Handmade: Britain’s Best Woodworker’&nbsp;&nbsp;</li><li>Jane and Rhianna review&nbsp;Succession, Handmade: Britain’s Best Woodworker, Squid Game and Impeachment: An American Crime Story&nbsp;</li><li>We also hear&nbsp;from&nbsp;Made in Chelsea / Strictly star Jamie Laing on his new show ‘I Like&nbsp;The&nbsp;Way U Move’&nbsp;</li><li>‘What We Watched’ sparks our TV memories of panel shows of the past with future world leaders as guests&nbsp;</li></ul><p>&nbsp;</p><p>You can find the programmes mentioned as follows:</p><ul><li><strong>Succession (series 3)</strong>&nbsp;</li></ul><p>&nbsp;Sky Atlantic Monday 18th October 9pm&nbsp;</p><p>&nbsp;&nbsp;</p><ul><li><strong>Hand Made: Britain’s Best Woodworker</strong>&nbsp;</li></ul><p>Channel 4 and All 4 Thursday 21st October, 8pm,</p><p>&nbsp;</p><ul><li><strong>Squid Game</strong>&nbsp;</li></ul><p>Season 1 available on Netflix (nine episodes)&nbsp;</p><p>&nbsp;</p><ul><li><strong>I Like&nbsp;The&nbsp;Way U Move&nbsp;</strong>&nbsp;</li></ul><p>Boxset available from Sunday 17th on BBC3/iplayer&nbsp;and weekly eps on BBC1 Tuesdays&nbsp;&nbsp;10.35pm&nbsp;</p><p>&nbsp;&nbsp;</p><ul><li><strong>Impeachment: An American Crime Story</strong>&nbsp;</li></ul><p>BBC2 Tuesday 19th October 9.15pm&nbsp;</p><p>&nbsp;</p><p>&nbsp;&nbsp;</p><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes&nbsp;</p><br><p>The Radio Times Podcast is produced by&nbsp;Somethin' Else for Immediate Media.&nbsp;&nbsp;</p><br><p>See acast.com/privacy for privacy and opt-out information.&nbsp;</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "ced867da-f9f9-41d4-b860-d8e2981c481e",
+      "explicit": true,
+      "duration": 2314,
+      "enclosure": {
+        "length": 92588407,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/succession-melgiedroyconhandmade-britain-sbestwoodworker-squidgameandimpeachment-anamericancrimestory/media.mp3"
+      },
+      "season": 1,
+      "episode": 6,
+      "pubDate": "2021-10-12T23:00:00.000Z",
+      "episodeUrl": "succession-melgiedroyconhandmade-britain-sbestwoodworker-squidgameandimpeachment-anamericancrimestory",
+      "episodeId": "ced867da-f9f9-41d4-b860-d8e2981c481e",
+      "link": "https://play.acast.com/s/radio-times-podcast/succession-melgiedroyconhandmade-britain-sbestwoodworker-squidgameandimpeachment-anamericancrimestory"
+    },
+    {
+      "title": "Will.i.am, Attenborough, Who Do You Think You Are, Paul Merson: Football, Gambling and Me and The Little Things",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>In this episode:</p><p><br></p><ul><li>We hear from Will.i.am about his new documentary ‘will.i.am: The&nbsp;Blackprint’ on ITV, where he meets civil rights heroes, leaders in tech and the odd celebrity friend to find out about events that have shaped Black Britain.&nbsp;</li><li>Jane and Rhianna review ‘Attenborough: The Mating Game’, ‘Paul Merson: Football, Gambling and Me’, Who Do You Think You Are? and The Little Things, as well as looking at this week’s radio highlights.&nbsp;&nbsp;</li><li>What We Watched’ sparks our TV memories of panel shows of the past with future world leaders as guests.&nbsp;</li></ul><p>&nbsp;&nbsp;</p><p>You can find the programmes mentioned as follows:&nbsp;</p><ul><li><strong>Attenborough: The Mating Game&nbsp;&nbsp;&nbsp;</strong></li></ul><p>&nbsp;BBC1 Sun 10 Oct 8pm&nbsp;</p><p>&nbsp;&nbsp;</p><ul><li><strong>Paul Merson: Football, Gambling and Me&nbsp;&nbsp;&nbsp;</strong></li></ul><p>BBC1 Mon 11th October 9pm&nbsp;&nbsp;</p><p>&nbsp;&nbsp;</p><ul><li><strong>Will.i.am: The&nbsp;Blackprint’&nbsp;&nbsp;</strong></li></ul><p>ITV Thurs 14th October 9pm&nbsp;</p><p>&nbsp;&nbsp;</p><ul><li><strong>Who Do You Think You Are: Josh Widdicombe&nbsp;&nbsp;</strong></li></ul><p>Tues 12th October 9pm&nbsp;&nbsp;</p><p>&nbsp;&nbsp;</p><ul><li><strong>The Little Things&nbsp;&nbsp;&nbsp;</strong></li></ul><p>(£8.99) HD Amazon&nbsp;</p><p>&nbsp;&nbsp;</p><p>&nbsp;&nbsp;</p><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes&nbsp;</p><br><p>The Radio Times Podcast is produced by&nbsp;Somethin' Else for Immediate Media.</p><br><p>See acast.com/privacy for privacy and opt-out information</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.In this episode: - We hear from Will.i.am about his new documentary ‘will.i.am: The&nbsp;Blackprint’ on ...",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>In this episode:</p><p><br></p><ul><li>We hear from Will.i.am about his new documentary ‘will.i.am: The&nbsp;Blackprint’ on ITV, where he meets civil rights heroes, leaders in tech and the odd celebrity friend to find out about events that have shaped Black Britain.&nbsp;</li><li>Jane and Rhianna review ‘Attenborough: The Mating Game’, ‘Paul Merson: Football, Gambling and Me’, Who Do You Think You Are? and The Little Things, as well as looking at this week’s radio highlights.&nbsp;&nbsp;</li><li>What We Watched’ sparks our TV memories of panel shows of the past with future world leaders as guests.&nbsp;</li></ul><p>&nbsp;&nbsp;</p><p>You can find the programmes mentioned as follows:&nbsp;</p><ul><li><strong>Attenborough: The Mating Game&nbsp;&nbsp;&nbsp;</strong></li></ul><p>&nbsp;BBC1 Sun 10 Oct 8pm&nbsp;</p><p>&nbsp;&nbsp;</p><ul><li><strong>Paul Merson: Football, Gambling and Me&nbsp;&nbsp;&nbsp;</strong></li></ul><p>BBC1 Mon 11th October 9pm&nbsp;&nbsp;</p><p>&nbsp;&nbsp;</p><ul><li><strong>Will.i.am: The&nbsp;Blackprint’&nbsp;&nbsp;</strong></li></ul><p>ITV Thurs 14th October 9pm&nbsp;</p><p>&nbsp;&nbsp;</p><ul><li><strong>Who Do You Think You Are: Josh Widdicombe&nbsp;&nbsp;</strong></li></ul><p>Tues 12th October 9pm&nbsp;&nbsp;</p><p>&nbsp;&nbsp;</p><ul><li><strong>The Little Things&nbsp;&nbsp;&nbsp;</strong></li></ul><p>(£8.99) HD Amazon&nbsp;</p><p>&nbsp;&nbsp;</p><p>&nbsp;&nbsp;</p><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes&nbsp;</p><br><p>The Radio Times Podcast is produced by&nbsp;Somethin' Else for Immediate Media.</p><br><p>See acast.com/privacy for privacy and opt-out information</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "1b084d80-f107-4cc6-b8df-6bf6809026a2",
+      "explicit": true,
+      "duration": 2967,
+      "enclosure": {
+        "length": 118717125,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/will.i.am-attenborough-whodoyouthinkyouare-paulmerson-football-gamblingandmeandthelittlethings/media.mp3"
+      },
+      "season": 1,
+      "episode": 5,
+      "pubDate": "2021-10-05T23:00:03.000Z",
+      "episodeUrl": "will.i.am-attenborough-whodoyouthinkyouare-paulmerson-football-gamblingandmeandthelittlethings",
+      "episodeId": "1b084d80-f107-4cc6-b8df-6bf6809026a2",
+      "link": "https://play.acast.com/s/radio-times-podcast/will.i.am-attenborough-whodoyouthinkyouare-paulmerson-football-gamblingandmeandthelittlethings"
+    },
+    {
+      "title": "Sarah Solemani, Sex Actually, Prince Phillip: The Royal Family Remembers, Brassic",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>In this episode:</p><p><br></p><ul><li>We speak to Sarah Solemani who wrote and adapted the gripping new thriller ‘Ridley Road’ on BBC One.</li><li>Jane and TV expert Rhianna Dhillon review ‘Sex Actually’, ‘Brassic’ and Prince Phillip: The Royal Family Remembers.</li><li>‘What We Watched’ sparks our TV memories of panel shows of the past with future world leaders as guests.</li></ul><p><br></p><p>You can find the programmes mentioned as follows:&nbsp;</p><ul><li><strong>Ridley Road</strong></li></ul><p>BBC1 Sunday 3rd October 9pm</p><p><br></p><ul><li><strong>Sex Actually with Alice Levine</strong></li></ul><p>Channel 4, Wednesday 6th October 10pm</p><p><br></p><ul><li><strong>Brassic </strong></li></ul><p>Sky Max Wednesday 6th October 10pm</p><p><br></p><ul><li><strong>Prince Phillip: The Royal Family Remembers</strong></li></ul><p>BBC iPlayer</p><br><p>We’d love to hear from you. You can send us an email anytime to&nbsp;podcast@radiotimes.com&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.In this episode: - We speak to Sarah Solemani who wrote and adapted the gripping new thriller ‘Ridley Road’ ...",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>In this episode:</p><p><br></p><ul><li>We speak to Sarah Solemani who wrote and adapted the gripping new thriller ‘Ridley Road’ on BBC One.</li><li>Jane and TV expert Rhianna Dhillon review ‘Sex Actually’, ‘Brassic’ and Prince Phillip: The Royal Family Remembers.</li><li>‘What We Watched’ sparks our TV memories of panel shows of the past with future world leaders as guests.</li></ul><p><br></p><p>You can find the programmes mentioned as follows:&nbsp;</p><ul><li><strong>Ridley Road</strong></li></ul><p>BBC1 Sunday 3rd October 9pm</p><p><br></p><ul><li><strong>Sex Actually with Alice Levine</strong></li></ul><p>Channel 4, Wednesday 6th October 10pm</p><p><br></p><ul><li><strong>Brassic </strong></li></ul><p>Sky Max Wednesday 6th October 10pm</p><p><br></p><ul><li><strong>Prince Phillip: The Royal Family Remembers</strong></li></ul><p>BBC iPlayer</p><br><p>We’d love to hear from you. You can send us an email anytime to&nbsp;podcast@radiotimes.com&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media.</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "edf00b47-f0c0-4d7b-bf68-7adfd3608c11",
+      "explicit": true,
+      "duration": 2652,
+      "enclosure": {
+        "length": 106098937,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/sarahsolemani-sexactually-princephillip-theroyalfamilyremembers-brassic/media.mp3"
+      },
+      "season": 1,
+      "episode": 4,
+      "pubDate": "2021-09-28T23:00:00.000Z",
+      "episodeUrl": "sarahsolemani-sexactually-princephillip-theroyalfamilyremembers-brassic",
+      "episodeId": "edf00b47-f0c0-4d7b-bf68-7adfd3608c11",
+      "link": "https://play.acast.com/s/radio-times-podcast/sarahsolemani-sexactually-princephillip-theroyalfamilyremembers-brassic"
+    },
+    {
+      "title": "Gillian Anderson & Jason Isaacs, Gunpowder Milkshake, 28 UP, Hollington Drive, The Goes Wrong Show",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>In this episode:</p><p><br></p><ul><li>We speak to 'Sex Education' stars Gillian Anderson and Jason Isaacs as the third series launches on Netflix</li><li>Jane and TV expert Rhianna Dhillon review 'Gunpowder Milkshake', '28 Up', 'Hollington Drive' and 'The Goes Wrong Show'</li><li>'What We Watched' takes us down a TV gameshow memory lane.... Contenders ready! Gladiators ready!</li></ul><p><br></p><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.In this episode: - We speak to 'Sex Education' stars Gillian Anderson and Jason Isaacs as the thir...",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>In this episode:</p><p><br></p><ul><li>We speak to 'Sex Education' stars Gillian Anderson and Jason Isaacs as the third series launches on Netflix</li><li>Jane and TV expert Rhianna Dhillon review 'Gunpowder Milkshake', '28 Up', 'Hollington Drive' and 'The Goes Wrong Show'</li><li>'What We Watched' takes us down a TV gameshow memory lane.... Contenders ready! Gladiators ready!</li></ul><p><br></p><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "225b0ccc-9325-4f23-9251-38be24a71556",
+      "explicit": true,
+      "duration": 2655,
+      "enclosure": {
+        "length": 106145454,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/gilliananderson-jasonisaacs-gunpowdermilkshake-28up-hollingtondrive-thegoeswrongshow/media.mp3"
+      },
+      "season": 1,
+      "episode": 3,
+      "pubDate": "2021-09-21T23:00:00.000Z",
+      "episodeUrl": "gilliananderson-jasonisaacs-gunpowdermilkshake-28up-hollingtondrive-thegoeswrongshow",
+      "episodeId": "225b0ccc-9325-4f23-9251-38be24a71556",
+      "link": "https://play.acast.com/s/radio-times-podcast/gilliananderson-jasonisaacs-gunpowdermilkshake-28up-hollingtondrive-thegoeswrongshow"
+    },
+    {
+      "title": "Prue Leith, Strictly, Everybody's Talking About Jamie, The Spice Girls",
+      "description": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>In this episode:</p><p><br></p><ul><li>Jane speaks to Prue Leith ahead of the new series of the Great British Bake Off</li><li>Anton Du-Beke reveals what kind of judge Strictly judge he's going to be</li><li>Jane and TV critic Rhianna Dhillon review 'Spice Girls: How Girl Power Changed Britain', 'Never Mind The Buzzcocks', 'Everybody's Talking About Jamie'</li><li>Our end of show nostalgia drenched feature 'What We Watched' comes from the year daytime tv institution 'Homes Under The Hammer Launched'</li></ul><p><br></p><p>We’d love to hear from you. You can send us an email anytime to podcast@radiotimes.com or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.In this episode: - Jane speaks to Prue Leith ahead of the new series of the Great British Bake Off - Anton ...",
+      "summary": "<p>The Radio Times Podcast, hosted by Jane Garvey with TV expert Rhianna Dhillon, is the place for your trusted TV recommendations each week.</p><br><p>In this episode:</p><p><br></p><ul><li>Jane speaks to Prue Leith ahead of the new series of the Great British Bake Off</li><li>Anton Du-Beke reveals what kind of judge Strictly judge he's going to be</li><li>Jane and TV critic Rhianna Dhillon review 'Spice Girls: How Girl Power Changed Britain', 'Never Mind The Buzzcocks', 'Everybody's Talking About Jamie'</li><li>Our end of show nostalgia drenched feature 'What We Watched' comes from the year daytime tv institution 'Homes Under The Hammer Launched'</li></ul><p><br></p><p>We’d love to hear from you. You can send us an email anytime to podcast@radiotimes.com or find us on Twitter, Facebook and Instagram @Radiotimes</p><br><p>The Radio Times Podcast is produced by Somethin' Else for Immediate Media</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "bbac6f3a-2705-4048-8452-255c385b61d6",
+      "explicit": true,
+      "duration": 3139,
+      "enclosure": {
+        "length": 125456564,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/prueleith-strictly-everybodystalkingaboutjamie-thespicegirls/media.mp3"
+      },
+      "season": 1,
+      "episode": 2,
+      "pubDate": "2021-09-14T23:00:00.000Z",
+      "episodeUrl": "prueleith-strictly-everybodystalkingaboutjamie-thespicegirls",
+      "episodeId": "bbac6f3a-2705-4048-8452-255c385b61d6",
+      "link": "https://play.acast.com/s/radio-times-podcast/prueleith-strictly-everybodystalkingaboutjamie-thespicegirls"
+    },
+    {
+      "title": "Stephen Graham and Jodie Comer Special: Help!",
+      "description": "<p>The brand-new Radio Times Podcast is here! Hosted by Jane Garvey, this is the place&nbsp;for&nbsp;trusted TV recommendations each week.&nbsp;In&nbsp;the first episode Jane speaks to two of the most sought-after names in TV and film right now, Jodie Comer and Stephen Graham, about the new Channel 4 drama 'Help!'</p><br><p>TV critic Rhianna Dhillon helps Jane pick apart the week's TV.&nbsp;The shows being talked about this week are ‘The Cleaner’ starring Greg Davies, Jamie Oliver’s new cooking show ‘Together’ and the highly anticipated BBC drama ‘The North Water’,&nbsp;starring Colin Farrell and the very busy Stephen Graham.</p><p>&nbsp;</p><p>If you love a bit of nostalgia, we end each show with ‘What We Watched’. This is where we pick a year and chat about iconic TV shows and&nbsp;the&nbsp;moments that we all remember.</p><p>&nbsp;</p><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "The new Radio Times Podcast hosted by Jane Garvey is here! Jane speaks to two of the most sought-after names in TV and film right now, Jodie Comer and Stephen Graham about the new Channel 4 drama 'Help!",
+      "summary": "<p>The brand-new Radio Times Podcast is here! Hosted by Jane Garvey, this is the place&nbsp;for&nbsp;trusted TV recommendations each week.&nbsp;In&nbsp;the first episode Jane speaks to two of the most sought-after names in TV and film right now, Jodie Comer and Stephen Graham, about the new Channel 4 drama 'Help!'</p><br><p>TV critic Rhianna Dhillon helps Jane pick apart the week's TV.&nbsp;The shows being talked about this week are ‘The Cleaner’ starring Greg Davies, Jamie Oliver’s new cooking show ‘Together’ and the highly anticipated BBC drama ‘The North Water’,&nbsp;starring Colin Farrell and the very busy Stephen Graham.</p><p>&nbsp;</p><p>If you love a bit of nostalgia, we end each show with ‘What We Watched’. This is where we pick a year and chat about iconic TV shows and&nbsp;the&nbsp;moments that we all remember.</p><p>&nbsp;</p><p>We’d love to hear from you. You can send us an email anytime to&nbsp;<a href=\"mailto:podcast@radiotimes.com\" rel=\"noopener noreferrer\" target=\"_blank\">podcast@radiotimes.com</a>&nbsp;or find us on Twitter, Facebook and Instagram @Radiotimes</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "full",
+      "guid": "4d193d55-1083-4b0f-8257-46e5f093e1a4",
+      "explicit": false,
+      "duration": 3119,
+      "enclosure": {
+        "length": 124722691,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/stephengrahamandjodiecomerspecial-help-/media.mp3"
+      },
+      "season": 1,
+      "episode": 1,
+      "pubDate": "2021-09-07T23:00:00.000Z",
+      "episodeUrl": "stephengrahamandjodiecomerspecial-help-",
+      "episodeId": "4d193d55-1083-4b0f-8257-46e5f093e1a4",
+      "link": "https://play.acast.com/s/radio-times-podcast/stephengrahamandjodiecomerspecial-help-"
+    },
+    {
+      "title": "Radio Times Podcast Trailer",
+      "description": "<strong><em>Each week Jane Garvey hosts the Radio Times podcast to talk TV – and more. From interviews with the small screen’s biggest names to recommendations of the shows you must not miss, Jane and her guests will mark your card for the week ahead. Whether you want to watch Jodie Comer in Help! or Nicole Kidman in Nine Perfect Strangers, enjoy a slice of Bake Off or simply want to binge Sex Education, followed by Succession, the best of the box is here. Join us every Wednesday for a whistle stop tour of the finest treats the entertainment world has to offer. Starts 8th&nbsp;September.</em></strong><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "subtitle": "Each week Jane Garvey hosts the Radio Times podcast to talk TV – and more. From interviews with the small screen’s biggest names to recommendations of the shows you must not miss, Jane and her guests will mark your card for the week ahead.",
+      "summary": "<strong><em>Each week Jane Garvey hosts the Radio Times podcast to talk TV – and more. From interviews with the small screen’s biggest names to recommendations of the shows you must not miss, Jane and her guests will mark your card for the week ahead. Whether you want to watch Jodie Comer in Help! or Nicole Kidman in Nine Perfect Strangers, enjoy a slice of Bake Off or simply want to binge Sex Education, followed by Succession, the best of the box is here. Join us every Wednesday for a whistle stop tour of the finest treats the entertainment world has to offer. Starts 8th&nbsp;September.</em></strong><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+      "episodeType": "trailer",
+      "guid": "4e14dcbd-4d3d-4980-8b26-a270b90bcfc3",
+      "explicit": false,
+      "duration": 37,
+      "enclosure": {
+        "length": 1512001,
+        "type": "audio/mpeg",
+        "url": "https://sphinx.acast.com/radio-times-podcast/radiotimespodcasttrailer/media.mp3"
+      },
+      "pubDate": "2021-08-10T23:00:43.000Z",
+      "episodeUrl": "radiotimespodcasttrailer",
+      "episodeId": "4e14dcbd-4d3d-4980-8b26-a270b90bcfc3",
+      "link": "https://play.acast.com/s/radio-times-podcast/radiotimespodcasttrailer"
+    }
+  ]
+}

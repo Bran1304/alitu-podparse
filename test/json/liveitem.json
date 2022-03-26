@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "title": "Podcast Podcast",
+    "links": []
+  },
+  "episodes": [
+    {
+      "title": "Fiat Lux",
+      "description": "First episode",
+      "guid": "urn:uuid:3241ace2-ca21-dd12-2341-1412ce31fad2",
+      "chapters": [
+        {
+          "start": "0",
+          "title": "Welcome"
+        },
+        {
+          "start": "3:07",
+          "title": "Introducing Podlove",
+          "href": "http://podlove.org/"
+        },
+        {
+          "start": "8:26.250",
+          "title": "Podlove WordPress Plugin",
+          "href": "http://podlove.org/podlove-podcast-publisher"
+        },
+        {
+          "start": "12:42",
+          "title": "Resumée"
+        }
+      ],
+      "pubDate": "2012-03-23T23:25:19.000Z"
+    }
+  ],
+  "liveEpisodes": [
+    {
+      "title": "Podcasting 2.0 Live Show",
+      "description": "A look into the future of podcasting and how we get to Podcasting 2.0!",
+      "author": "John Doe (john@example.com)",
+      "guid": "https://example.com/live",
+      "enclosure": {
+        "length": 312,
+        "type": "audio/mpeg",
+        "url": "https://example.com/pc20/livestream?format=.mp3"
+      },
+      "person": [
+        {
+          "name": "Adam Curry",
+          "role": "host",
+          "group": "cast",
+          "img": "https://example.com/images/adamcurry.jpg",
+          "href": "https://www.podchaser.com/creators/adam-curry-107ZzmWE5f"
+        },
+        {
+          "name": "Dave Jones",
+          "role": "guest",
+          "group": "cast",
+          "img": "https://example.com/images/davejones.jpg",
+          "href": "https://github.com/daveajones/"
+        },
+        {
+          "name": "Becky Smith",
+          "role": "cover art designer",
+          "group": "visuals",
+          "href": "https://example.com/artist/beckysmith"
+        }
+      ],
+      "images": {
+        "srcset": "https://example.com/images/live/pci_avatar-massive.jpg 1500w,\nhttps://example.com/images/live/pci_avatar-middle.jpg 600w,\nhttps://example.com/images/live/pci_avatar-small.jpg 300w,\nhttps://example.com/images/live/pci_avatar-tiny.jpg 150w"
+      },
+      "alternateEnclosure": [
+        {
+          "type": "audio/mpeg",
+          "length": 312,
+          "default": true,
+          "source": [
+            {
+              "uri": "https://example.com/pc20/livestream"
+            }
+          ]
+        }
+      ],
+      "contentLink": [
+        {
+          "text": "YouTube!",
+          "href": "https://youtube.com/pc20/livestream"
+        },
+        {
+          "text": "Twitch!",
+          "href": "https://twitch.com/pc20/livestream"
+        },
+        {
+          "text": "Listen Live!",
+          "href": "https://example.com/html/livestream"
+        }
+      ],
+      "link": "https://example.com/podcast/live",
+      "status": "live",
+      "start": "2021-09-26T07:30:00.000-0600",
+      "end": "2021-09-26T09:30:00.000-0600"
+    }
+  ]
+}

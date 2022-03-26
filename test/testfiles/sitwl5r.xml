@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/static/rss.xsl"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:rp="https://w3id.org/rp/v1"
+     version="2.0">
+<channel>
+<title>Shadows in the West</title>
+<link>http://www.sitwl5r.com</link>
+<atom:link href="https://pinecast.com/feed/sitwl5r" rel="self" type="application/rss+xml" />
+<generator>Pinecast (https://pinecast.com)</generator>
+<language>en-US</language><itunes:author>@sitwl5r</itunes:author>
+<description><![CDATA[An audio-drama style retelling of a 4th Edition Legend of the Five Rings campaign. Tensions are high between the clans of Lion and Crane. As other clans seek to tug their strings, courtiers whisper of dark magic, of Bloodspeaker activity far to the west. The Togashi Empire has slipped into a time of great unrest, and it’s up to a group of unlikely samurai to band together and help restore the balance.]]></description>
+<itunes:owner>
+<itunes:name>@sitwl5r</itunes:name>
+<itunes:email>sitwl5r@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="https://storage.pinecast.net/podcasts/covers/4fb1e9a9-1660-41b6-8f14-c8ce11d803fe/sitw_cover_art_BIG.jpg" />
+<image>
+<title>Shadows in the West</title>
+<link>http://www.sitwl5r.com</link>
+<url>https://storage.pinecast.net/podcasts/covers/4fb1e9a9-1660-41b6-8f14-c8ce11d803fe/sitw_cover_art_BIG.jpg</url>
+</image><itunes:type>episodic</itunes:type>
+<copyright>Copyright 2018 The Shadows in the West crew</copyright>
+<itunes:subtitle>A 4e Legend of the Five Rings Story</itunes:subtitle>
+<rp:cta headline="Support Shadows in the West" subtitle="Give back to your favorite content creators.">
+<rp:action class="financial" disposition="positive" href="https://tips.pinecast.com/jar/sitwl5r" label="Contribute" />
+</rp:cta>
+
+<itunes:category text="Leisure"><itunes:category text="Other Games" />
+<itunes:category text="Hobbies" /></itunes:category>
+<itunes:category text="Arts"><itunes:category text="Performing Arts" /></itunes:category>
+<item><title>Episode 21 - Small Court of the Asahina, Part 8</title>
+<guid isPermaLink="false">https://pinecast.com/guid/be0de537-ebb9-46da-9045-4248cc17e513</guid>
+<pubDate>Sun, 02 Jun 2019 05:33:12 -0000</pubDate>
+<itunes:duration>00:11:09</itunes:duration>
+<itunes:subtitle>Farewells</itunes:subtitle>
+<link>https://sitwl5r.pinecast.co/episode/be0de537ebb946da/episode-21-small-court-of-the-asahina-part-8</link>
+<description><![CDATA[]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/be0de537-ebb9-46da-9045-4248cc17e513.mp3?source=rss&amp;ext=asset.mp3" length="16074307" type="audio/mpeg" />
+</item>
+<item><title>Episode 20 - Small Court of the Asahina, Part 7</title>
+<guid isPermaLink="false">https://pinecast.com/guid/220bad72-c2bc-402e-b9dd-f3f46133b5dd</guid>
+<pubDate>Thu, 16 May 2019 11:30:00 -0000</pubDate>
+<itunes:duration>00:37:37</itunes:duration>
+<itunes:subtitle>Petals and Thorns</itunes:subtitle>
+<link>https://sitwl5r.pinecast.co/episode/220bad72c2bc402e/episode-20-small-court-of-the-asahina-part-7</link>
+<description><![CDATA[As court draws to a close, the samurai gather their thoughts and consider their immediate futures.]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/220bad72-c2bc-402e-b9dd-f3f46133b5dd.mp3?source=rss&amp;ext=asset.mp3" length="54177675" type="audio/mpeg" />
+</item>
+<item><title>Episode 19 - Small Court of the Asahina, Part 6</title>
+<guid isPermaLink="false">https://pinecast.com/guid/2455dac5-a5fa-4ecc-bf2d-fb1411d00bc7</guid>
+<pubDate>Thu, 02 May 2019 11:30:00 -0000</pubDate>
+<itunes:duration>00:56:02</itunes:duration>
+<itunes:subtitle>The Weight of a Name</itunes:subtitle>
+<link>https://sitwl5r.pinecast.co/episode/2455dac5a5fa4ecc/episode-19-small-court-of-the-asahina-part-6</link>
+<description><![CDATA[Crow and Sayuri share an uncomfortable conversation before court proceeds. Daiyu is forced into a difficult situation and must make an equally difficult decision.]]></description>
+<itunes:explicit>clean</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/2455dac5-a5fa-4ecc-bf2d-fb1411d00bc7.mp3?source=rss&amp;ext=asset.mp3" length="80706303" type="audio/mpeg" />
+</item>
+<item><title>Episode 18 - Small Court of the Asahina, Part 5 </title>
+<guid isPermaLink="false">https://pinecast.com/guid/e76e08f3-c4ce-44af-9fbf-48402ecf8753</guid>
+<pubDate>Thu, 04 Apr 2019 11:30:00 -0000</pubDate>
+<itunes:duration>00:46:06</itunes:duration>
+<itunes:subtitle>First Blood</itunes:subtitle>
+<link>https://sitwl5r.pinecast.co/episode/e76e08f3c4ce44af/episode-18-small-court-of-the-asahina-part-5</link>
+<description><![CDATA[]]></description>
+<itunes:explicit>clean</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/e76e08f3-c4ce-44af-9fbf-48402ecf8753.mp3?source=rss&amp;ext=asset.mp3" length="66399699" type="audio/mpeg" />
+</item>
+<item><title>Episode 17 - Small Court of the Asahina, Part 4</title>
+<guid isPermaLink="false">https://pinecast.com/guid/97496fa9-90cb-4821-80cd-dc85a69010a9</guid>
+<pubDate>Thu, 21 Mar 2019 11:30:00 -0000</pubDate>
+<itunes:duration>00:58:59</itunes:duration>
+<itunes:subtitle>Flowers' Shadows Creep Eastward</itunes:subtitle>
+<link>https://sitwl5r.pinecast.co/episode/97496fa990cb4821/episode-17-small-court-of-the-asahina-part-4</link>
+<description><![CDATA[Following tea with Doji Sayuri, the samurai go their own ways for the afternoon, then reconvene for levity that not a single one of them asked for. ]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/97496fa9-90cb-4821-80cd-dc85a69010a9.mp3?source=rss&amp;ext=asset.mp3" length="84949331" type="audio/mpeg" />
+</item>
+<item><title>A Special Look Into City of Remembrance - An L5R Zine</title>
+<guid isPermaLink="false">https://pinecast.com/guid/033addb6-669c-4e5a-b639-32a1f2bf6030</guid>
+<pubDate>Fri, 08 Mar 2019 12:30:00 -0000</pubDate>
+<itunes:duration>01:18:18</itunes:duration>
+<link>https://sitwl5r.pinecast.co/episode/033addb6669c4e5a/a-special-look-into-city-of-remembrance-an-l5r-zine</link>
+<description><![CDATA[<p>Ludo and Melon of City of Remembrance join us for a discussion about the upcoming L5R zine in this special episode!</p>
+
+<p>If you are interested in learning more about City of Remembrance, or are interested in submitting to the zine, check them out on twitter @l5rzine2019. You can also find the document containing all the zine information at the link below!</p>
+
+<p><a href="https://t.co/uHokJZTnrm?amp=1" rel="nofollow">https://t.co/uHokJZTnrm?amp=1</a></p>
+]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/033addb6-669c-4e5a-b639-32a1f2bf6030.mp3?source=rss&amp;ext=asset.mp3" length="112777535" type="audio/mpeg" />
+<itunes:episodeType>bonus</itunes:episodeType>
+</item>
+<item><title>Episode 16 - Small Court of the Asahina, Part 3</title>
+<guid isPermaLink="false">https://pinecast.com/guid/0dc5751f-de40-4d49-995d-9f11549d27e5</guid>
+<pubDate>Thu, 07 Mar 2019 12:30:00 -0000</pubDate>
+<itunes:duration>01:06:00</itunes:duration>
+<itunes:subtitle>Lion in a Crane's Nest</itunes:subtitle>
+<link>https://sitwl5r.pinecast.co/episode/0dc5751fde404d49/episode-16-small-court-of-the-asahina-part-3</link>
+<description><![CDATA[Tensions are high even in the earliest proceedings of court. Following an uncomfortable morning, Doji Sayuri seeks to learn more about the samurai in Akodo Torokai's service.]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/0dc5751f-de40-4d49-995d-9f11549d27e5.mp3?source=rss&amp;ext=asset.mp3" length="95067995" type="audio/mpeg" />
+</item>
+<item><title>Episode 15 - Small Court of the Asahina, Part 2</title>
+<guid isPermaLink="false">https://pinecast.com/guid/534e7f8b-eaa9-461e-b6f5-953fff6f4739</guid>
+<pubDate>Thu, 21 Feb 2019 12:30:00 -0000</pubDate>
+<itunes:duration>00:52:29</itunes:duration>
+<itunes:subtitle>Birds of a Feather</itunes:subtitle>
+<link>https://sitwl5r.pinecast.co/episode/534e7f8beaa9461e/episode-15-small-court-of-the-asahina-part-2</link>
+<description><![CDATA[After meeting their host and settling in at Son of the Crane Castle, the samurai attend an opulent dinner hosted by Asahina Takeshi. They make the acquaintance of several fellow court-goers, and run into a few familiar faces as well.]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/534e7f8b-eaa9-461e-b6f5-953fff6f4739.mp3?source=rss&amp;ext=asset.mp3" length="75602525" type="audio/mpeg" />
+</item>
+<item><title>Episode 14 - Small Court of the Asahina, Part 1</title>
+<guid isPermaLink="false">https://pinecast.com/guid/79b5959f-117c-4871-8eb9-6fd344dc777a</guid>
+<pubDate>Thu, 07 Feb 2019 12:30:00 -0000</pubDate>
+<itunes:duration>00:44:31</itunes:duration>
+<itunes:subtitle>A Fox and Two Cranes</itunes:subtitle>
+<link>https://sitwl5r.pinecast.co/episode/79b5959f117c4871/episode-14-small-court-of-the-asahina-part-1</link>
+<description><![CDATA[After recovering from a night of celebration with the kitsune of the forest, the samurai bid their farewells and set out for court.]]></description>
+<itunes:explicit>clean</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/79b5959f-117c-4871-8eb9-6fd344dc777a.mp3?source=rss&amp;ext=asset.mp3" length="64126765" type="audio/mp3" />
+</item>
+<item><title>SitW's 2018 in Retrospect</title>
+<guid isPermaLink="false">https://pinecast.com/guid/290a50cb-8af7-4f1c-a026-3b6c5c9a133f</guid>
+<pubDate>Thu, 24 Jan 2019 12:30:00 -0000</pubDate>
+<itunes:duration>01:39:13</itunes:duration>
+<itunes:subtitle>Spring of Drowned Liondad-Riding-Pony-Carrying-Two-Crabs-and-Horse</itunes:subtitle>
+<link>https://sitwl5r.pinecast.co/episode/290a50cb8af74f1c/sitw-s-2018-in-retrospect</link>
+<description><![CDATA[<p>The entire cast &amp; crew get together with alcohol and discuss 2018 in SITW, TTRPGs, L5R, and podcasts...among other things. Big and messy and full of bad words. Listen at your peril.</p>
+]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/290a50cb-8af7-4f1c-a026-3b6c5c9a133f.mp3?source=rss&amp;ext=asset.mp3" length="142901408" type="audio/mp3" />
+</item>
+<item><title>Episode 13 - Kitsune Mori, Part 8</title>
+<guid isPermaLink="false">https://pinecast.com/guid/749f4097-b7c3-44c7-9897-f1c6aa2aa367</guid>
+<pubDate>Thu, 10 Jan 2019 12:30:00 -0000</pubDate>
+<itunes:duration>00:53:14</itunes:duration>
+<link>https://sitwl5r.pinecast.co/episode/749f4097b7c344c7/episode-13-kitsune-mori-part-8</link>
+<description><![CDATA[The samurai return to Kitsune Mori Mura, where Torokai confronts Crow about the incident in the cave. The next day, Kitsune Mara seeks each of them out for a final farewell.]]></description>
+<itunes:explicit>clean</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/749f4097-b7c3-44c7-9897-f1c6aa2aa367.mp3?source=rss&amp;aid=1ae3e090-b3fa-46ef-9a57-56510a9387ba.mp3" length="76693440" type="audio/mp3" />
+</item>
+<item><title>Episode 12 - Kitsune Mori, Part 7</title>
+<guid isPermaLink="false">https://pinecast.com/guid/aedc159d-2eef-4fce-a0a5-9d15a739429c</guid>
+<pubDate>Thu, 27 Dec 2018 03:04:09 -0000</pubDate>
+<itunes:duration>01:07:13</itunes:duration>
+<link>https://sitwl5r.pinecast.co/episode/aedc159d2eef4fce/episode-12-kitsune-mori-part-7</link>
+<description><![CDATA[<p>Unable to sleep, Crow goes on a late night walk to clear her head, running into some unlikely company along the way. The samurai then make their final push into the forest, where Crow is forced to confront a past from which she can no longer run.</p>
+
+<p>This episode contains significant violence. Listener discretion is advised.</p>
+]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/aedc159d-2eef-4fce-a0a5-9d15a739429c.mp3?source=rss&amp;ext=asset.mp3" length="96817695" type="audio/mp3" />
+</item>
+<item><title>A Holiday Message from Akodo Torokai</title>
+<guid isPermaLink="false">https://pinecast.com/guid/7b8f3274-efc0-4ff8-b35b-308bde23af23</guid>
+<pubDate>Tue, 25 Dec 2018 22:39:03 -0000</pubDate>
+<itunes:duration>00:02:15</itunes:duration>
+<link>https://sitwl5r.pinecast.co/episode/7b8f3274efc04ff8/a-holiday-message-from-akodo-torokai</link>
+<description><![CDATA[The holidays can be a rough time for a lot of people, especially those of us under the LGBT+ umbrella. If you are struggling to make it through, we hope this message from our beloved Lion Dad can help to bolster your spirit for the season. From all of us in the Shadows in the West crew...happy holidays!!!]]></description>
+<itunes:explicit>clean</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/7b8f3274-efc0-4ff8-b35b-308bde23af23.mp3?source=rss&amp;ext=asset.mp3" length="3254433" type="audio/mp3" />
+<itunes:episodeType>bonus</itunes:episodeType>
+</item>
+<item><title>Episode 11 - Kitsune Mori, Part 6</title>
+<guid isPermaLink="false">https://pinecast.com/guid/15529aec-2634-40d3-b5ac-bd1fb1d3b617</guid>
+<pubDate>Thu, 13 Dec 2018 12:30:00 -0000</pubDate>
+<itunes:duration>00:36:58</itunes:duration>
+<link>https://sitwl5r.pinecast.co/episode/15529aec263440d3/episode-11-kitsune-mori-part-6</link>
+<description><![CDATA[The samurai return to Kitsune Mori Mura to report their findings to Torokai and Toshio. Crow sets out to return the rescued foxes to their homes, and in the process meets someone quite unexpected.]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/15529aec-2634-40d3-b5ac-bd1fb1d3b617.mp3?source=rss&amp;ext=asset.mp3" length="53236280" type="audio/mpeg" />
+</item>
+<item><title>Episode 10 - Kitsune Mori, Part 5</title>
+<guid isPermaLink="false">https://pinecast.com/guid/6a93d7be-b2d9-4201-a390-e6dfa3a34f72</guid>
+<pubDate>Thu, 29 Nov 2018 12:30:00 -0000</pubDate>
+<itunes:duration>00:35:27</itunes:duration>
+<link>https://sitwl5r.pinecast.co/episode/6a93d7beb2d94201/episode-10-kitsune-mori-part-5</link>
+<description><![CDATA[Daiyu, Atsu, and Crow resume their search for poachers in the forest. Things don't go as planned, and they soon make a grim discovery with unsettling implications.]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/6a93d7be-b2d9-4201-a390-e6dfa3a34f72.mp3?source=rss&amp;ext=asset.mp3" length="51069171" type="audio/mp3" />
+</item>
+<item><title>Episode 9 - Kitsune Mori, Part 4</title>
+<guid isPermaLink="false">https://pinecast.com/guid/cf9ab70d-a12b-4426-a110-0a523962a76f</guid>
+<pubDate>Thu, 15 Nov 2018 12:30:00 -0000</pubDate>
+<itunes:duration>00:32:55</itunes:duration>
+<link>https://sitwl5r.pinecast.co/episode/cf9ab70da12b4426/episode-9-kitsune-mori-part-4</link>
+<description><![CDATA[After searching the poachers' camp for clues, Daiyu, Atsu, and Crow return to Kitsune Mori Mura to tend to wounds and report their findings to Kitsune Toshio.]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/cf9ab70d-a12b-4426-a110-0a523962a76f.mp3?source=rss&amp;ext=asset.mp3" length="47443018" type="audio/mp3" />
+</item>
+<item><title>Episode 8 - Kitsune Mori, Part 3</title>
+<guid isPermaLink="false">https://pinecast.com/guid/17570705-64e5-4cdc-a174-ea8ca08141e7</guid>
+<pubDate>Thu, 01 Nov 2018 11:30:00 -0000</pubDate>
+<itunes:duration>00:37:47</itunes:duration>
+<link>https://sitwl5r.pinecast.co/episode/1757070564e54cdc/episode-8-kitsune-mori-part-3</link>
+<description><![CDATA[The samurai reconvene following Crow's early morning venture into the woods, then set out in pursuit of the kitsune poachers.
+
+]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/17570705-64e5-4cdc-a174-ea8ca08141e7.mp3?source=rss&amp;ext=asset.mp3" length="54441679" type="audio/mp3" />
+</item>
+<item><title>Elsewhere in the Empire 1 - Tanuki Justice</title>
+<guid isPermaLink="false">https://pinecast.com/guid/030ef34a-1fe8-42ef-857a-dcca810f3bb3</guid>
+<pubDate>Sat, 27 Oct 2018 21:53:39 -0000</pubDate>
+<itunes:duration>00:11:55</itunes:duration>
+<link>https://sitwl5r.pinecast.co/episode/030ef34a1fe842ef/elsewhere-in-the-empire-1-tanuki-justice</link>
+<description><![CDATA[<p>Elsewhere in the Empire, Toku Tora tells of Tanuki Justice's fateful encounter with the notorious opium smuggler Hard Hoji Harinezumi. Based on the short comic by Peter Violini, novelized by Peter Violini, recorded by...you guessed it: Peter Violini (and James).</p>
+
+<p>As the name suggests, this bonus episode takes place apart from the main story and characters of Shadows in the West. We will resume our regular release schedule on Thursday, November 1st. Thanks for your patience throughout our hiatus!</p>
+]]></description>
+<itunes:explicit>clean</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/030ef34a-1fe8-42ef-857a-dcca810f3bb3.mp3?source=rss&amp;ext=asset.mp3" length="17176273" type="audio/mpeg" />
+<itunes:episodeType>bonus</itunes:episodeType>
+</item>
+<item><title>Episode 7 - Kitsune Mori, Part 2</title>
+<guid isPermaLink="false">https://pinecast.com/guid/ef699874-ec75-41d5-99ea-a93a963a0fe4</guid>
+<pubDate>Thu, 06 Sep 2018 11:30:00 -0000</pubDate>
+<itunes:duration>00:29:11</itunes:duration>
+<itunes:subtitle>Don't you believe in fate?</itunes:subtitle>
+<link>https://sitwl5r.pinecast.co/episode/ef699874ec7541d5/episode-7-kitsune-mori-part-2</link>
+<description><![CDATA[<p>Crow is haunted by dreams of her past, struggling to remember her last visit to Kitsune Mori. Unable to sleep, she sets off into the forest on her own in search of the poachers' whereabouts.</p>
+
+<p>You can find the credits for each episode on our website at https://www.sitwl5r.com/blog/</p>
+]]></description>
+<itunes:explicit>clean</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/ef699874-ec75-41d5-99ea-a93a963a0fe4.mp3?source=rss&amp;ext=asset.mp3" length="42043555" type="audio/mp3" />
+</item>
+<item><title>Episode 6 - Kitsune Mori, Part 1</title>
+<guid isPermaLink="false">https://pinecast.com/guid/70be7846-e0e1-4898-8316-b70bb9a845da</guid>
+<pubDate>Thu, 23 Aug 2018 11:30:00 -0000</pubDate>
+<itunes:duration>00:44:40</itunes:duration>
+<link>https://sitwl5r.pinecast.co/episode/70be7846e0e14898/episode-6-kitsune-mori-part-1</link>
+<description><![CDATA[<p>The samurai finally make their way to Kitsune Mori to return the braid of Chizu to its final resting place. They bond over oden, onsen, and sumai wrestling, but soon find that things are amiss in the forest.</p>
+
+<p>You can find the credits for each episode on our website at https://www.sitwl5r.com/blog/</p>
+]]></description>
+<itunes:explicit>clean</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/70be7846-e0e1-4898-8316-b70bb9a845da.mp3?source=rss&amp;ext=asset.mp3" length="64345969" type="audio/mp3" />
+</item>
+<item><title>Episode 5 - A Sleeping Scorpion, Part 3</title>
+<guid isPermaLink="false">https://pinecast.com/guid/e39477a4-462e-4bcc-a640-5554a58331d9</guid>
+<pubDate>Thu, 26 Jul 2018 11:30:00 -0000</pubDate>
+<itunes:duration>00:39:06</itunes:duration>
+<link>https://sitwl5r.pinecast.co/episode/e39477a4462e4bcc/episode-5-a-sleeping-scorpion-part-3</link>
+<description><![CDATA[<p>The samurai return to Beiden with the monk, but there is more that Bayushi Kushiro would ask of them. His final request starts them down a path they are scarcely prepared to travel.</p>
+
+<p>You can find the credits for each episode on our website at https://www.sitwl5r.com/blog/</p>
+]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/e39477a4-462e-4bcc-a640-5554a58331d9.mp3?source=rss&amp;ext=asset.mp3" length="56329671" type="audio/mp3" />
+</item>
+<item><title>Episode 4 - A Sleeping Scorpion, Part 2</title>
+<guid isPermaLink="false">https://pinecast.com/guid/306d68d4-cf0b-4506-a6e4-7c3abaaca11f</guid>
+<pubDate>Thu, 12 Jul 2018 11:30:00 -0000</pubDate>
+<itunes:duration>00:49:21</itunes:duration>
+<link>https://sitwl5r.pinecast.co/episode/306d68d4cf0b4506/episode-4-a-sleeping-scorpion-part-2</link>
+<description><![CDATA[<p>The samurai, deprived of sleep after the unsettling events of their first night in Beiden, set out to unravel the mystery of whatever darkness is haunting the mountain pass.</p>
+
+<p>You can find the credits for each episode on our website at https://www.sitwl5r.com/blog/</p>
+]]></description>
+<itunes:explicit>clean</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/306d68d4-cf0b-4506-a6e4-7c3abaaca11f.mp3?source=rss&amp;ext=asset.mp3" length="71096228" type="audio/mp3" />
+</item>
+<item><title>Shadows in the West's Extra Spicy Pride Special</title>
+<guid isPermaLink="false">https://pinecast.com/guid/b5a125ea-6859-4250-b330-a824a20e29f2</guid>
+<pubDate>Sat, 30 Jun 2018 23:12:36 -0000</pubDate>
+<itunes:duration>00:52:39</itunes:duration>
+<link>https://sitwl5r.pinecast.co/episode/b5a125ea68594250/shadows-in-the-west-s-extra-spicy-pride-special</link>
+<description><![CDATA[In honor of Pride, we decided to answer some listener questions regarding LGBT content in SITW as well as our thoughts on general LGBT representation as a whole. Thank you to all the folks who sent questions in for this episode! From all of us here in Gay Rokugan, HAPPY PRIDE!!!]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/b5a125ea-6859-4250-b330-a824a20e29f2.mp3?source=rss&amp;ext=asset.mp3" length="75903559" type="audio/mp3" />
+<itunes:episodeType>bonus</itunes:episodeType>
+</item>
+<item><title>Episode 3 - A Sleeping Scorpion, Part 1</title>
+<guid isPermaLink="false">https://pinecast.com/guid/1c8c4799-9bc1-4dee-a234-e894144e1570</guid>
+<pubDate>Thu, 28 Jun 2018 11:30:00 -0000</pubDate>
+<itunes:duration>00:44:06</itunes:duration>
+<link>https://sitwl5r.pinecast.co/episode/1c8c47999bc14dee/episode-3-a-sleeping-scorpion-part-1</link>
+<description><![CDATA[<p>Following Ikeda Akimitsu's wedding, the samurai must decide which route to take to Kitsune Mori. Decisions are made, and regret follows close on their heels.</p>
+
+<p>You can find the credits for each episode on our website at https://www.sitwl5r.com/blog/</p>
+]]></description>
+<itunes:explicit>clean</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/1c8c4799-9bc1-4dee-a234-e894144e1570.mp3?source=rss&amp;ext=asset.mp3" length="63599513" type="audio/mp3" />
+</item>
+<item><title>Episode 2 - A Lion Wedding, Part 2</title>
+<guid isPermaLink="false">https://pinecast.com/guid/b1584bec-78ec-4365-b489-ae4a89a86650</guid>
+<pubDate>Thu, 14 Jun 2018 11:30:00 -0000</pubDate>
+<itunes:duration>00:58:45</itunes:duration>
+<link>https://sitwl5r.pinecast.co/episode/b1584bec78ec4365/episode-2-a-lion-wedding-part-2</link>
+<description><![CDATA[<p>As Ikeda Akimitsu's wedding draws closer, the samurai are forced to investigate strange occurrences in the Ikeda household.</p>
+
+<p>You can find the credits for each episode on our website at https://www.sitwl5r.com/blog/</p>
+]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/b1584bec-78ec-4365-b489-ae4a89a86650.mp3?source=rss&amp;ext=asset.mp3" length="84610787" type="audio/mp3" />
+</item>
+<item><title>Episode 1 - A Lion Wedding, Part 1</title>
+<guid isPermaLink="false">https://pinecast.com/guid/13a07b25-ff74-4271-95df-78ec4168be50</guid>
+<pubDate>Thu, 31 May 2018 11:30:00 -0000</pubDate>
+<itunes:duration>00:59:47</itunes:duration>
+<link>https://sitwl5r.pinecast.co/episode/13a07b25ff744271/episode-1-a-lion-wedding-part-1</link>
+<description><![CDATA[<p>Following the burning of the Red Fox Inn, the samurai gather at Akodo Torokai's request to discuss their plans as yoriki moving forward.</p>
+
+<p>You can find the credits for each episode on our website at https://www.sitwl5r.com/blog/</p>
+]]></description>
+<itunes:explicit>clean</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/13a07b25-ff74-4271-95df-78ec4168be50.mp3?source=rss&amp;aid=11a3d93c-ca68-4cbf-9737-d5709dd1c555.mp3" length="86141783" type="audio/mp3" />
+</item>
+<item><title>Zuihitsu - The Direction of Fate</title>
+<guid isPermaLink="false">https://pinecast.com/guid/536172a6-4667-4dee-acda-77f29abb3c51</guid>
+<pubDate>Thu, 24 May 2018 11:30:00 -0000</pubDate>
+<itunes:duration>00:11:27</itunes:duration>
+<itunes:subtitle>Fickle is the will of the Kami</itunes:subtitle>
+<link>https://sitwl5r.pinecast.co/episode/536172a646674dee/zuihitsu-the-direction-of-fate</link>
+<description><![CDATA[<p>Following the final confrontation with the Red Foxes, Crow seeks to ease her troubled conscience.</p>
+
+<p><em>Zuihitsu are smaller episodes occasionally released between main story episodes. They are short stories centered around smaller, slice of life scenes between various members of the cast, or narrative insights into character backstories.</em></p>
+]]></description>
+<itunes:explicit>clean</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/536172a6-4667-4dee-acda-77f29abb3c51.mp3?source=rss&amp;aid=cdf8ab42-257a-4997-b5af-b86afd8f4710.mp3" length="16580013" type="audio/mp3" />
+<itunes:episodeType>bonus</itunes:episodeType>
+</item>
+<item><title>Episode 0.3 - Prologue - The Red Foxes, Part 2</title>
+<guid isPermaLink="false">https://pinecast.com/guid/dacb8288-02a1-4fbe-a1c0-8b4cfedcd92c</guid>
+<pubDate>Thu, 17 May 2018 11:30:00 -0000</pubDate>
+<itunes:duration>00:53:53</itunes:duration>
+<link>https://sitwl5r.pinecast.co/episode/dacb828802a14fbe/episode-0-3-prologue-the-red-foxes-part-2</link>
+<description><![CDATA[<p>The samurai reconvene to discuss their findings at the Drunken Phoenix before plotting out their next steps.</p>
+
+<p>The Red Foxes (Part 2) is final episode in our Prologue chapter.</p>
+
+<p>You can find the credits for this (and all) episodes on  our website at https://www.sitwl5r.com/blog/</p>
+]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/dacb8288-02a1-4fbe-a1c0-8b4cfedcd92c.mp3?source=rss&amp;ext=asset.mp3" length="77666999" type="audio/mp3" />
+</item>
+<item><title>Episode 0.2 - Prologue - The Red Foxes, Part 1</title>
+<guid isPermaLink="false">https://pinecast.com/guid/3a02ff8b-e455-430d-979c-7234b5a0f024</guid>
+<pubDate>Thu, 03 May 2018 11:30:25 -0000</pubDate>
+<itunes:duration>00:53:23</itunes:duration>
+<link>https://sitwl5r.pinecast.co/episode/3a02ff8be455430d/episode-0-2-prologue-the-red-foxes-part-1</link>
+<description><![CDATA[<p>The samurai make their way to North Hub village to officially meet Akodo Torokai, and are quickly tasked with an investigation into a missing Imperial.</p>
+
+<p>The Red Foxes (Part 1) is the second of three prologue episodes.</p>
+]]></description>
+<itunes:explicit>clean</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/3a02ff8b-e455-430d-979c-7234b5a0f024.mp3?source=rss&amp;aid=debcec35-4422-49ec-b8fb-25d9922824b0.mp3" length="76881657" type="audio/mp3" />
+</item>
+<item><title>Zuihitsu - Travel Plans</title>
+<guid isPermaLink="false">https://pinecast.com/guid/080117c1-43b6-4d5b-9d08-22dfec9c3115</guid>
+<pubDate>Fri, 20 Apr 2018 23:06:41 -0000</pubDate>
+<itunes:duration>00:12:42</itunes:duration>
+<itunes:subtitle>Crow and Shio share a drink</itunes:subtitle>
+<link>https://sitwl5r.pinecast.co/episode/080117c143b64d5b/zuihitsu-travel-plans</link>
+<description><![CDATA[<p>Crow and Shio share a bottle of sake following the events of Escorting Ryoko.</p>
+
+<p><em>Zuihitsu are smaller episodes we'll occasionally release between main story episodes. They are short stories centered around smaller scale slice of life scenes between various members of the cast, or narrative insights into character backstories.</em></p>
+]]></description>
+<itunes:explicit>clean</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/080117c1-43b6-4d5b-9d08-22dfec9c3115.mp3?source=rss&amp;ext=asset.mp3" length="18304913" type="audio/mp3" />
+<itunes:episodeType>bonus</itunes:episodeType>
+</item>
+<item><title>Episode 0.1 - Prologue - Escorting Ryoko</title>
+<guid isPermaLink="false">https://pinecast.com/guid/fd6e0153-e0f9-4220-9774-0b666cb56e53</guid>
+<pubDate>Thu, 19 Apr 2018 11:30:00 -0000</pubDate>
+<itunes:duration>00:54:26</itunes:duration>
+<itunes:subtitle>Five samurai are gathered together at the request of Akodo Torokai, an Emerald Magistrate, to assist in what seems to be a relatively simple task.</itunes:subtitle>
+<link>https://sitwl5r.pinecast.co/episode/fd6e0153e0f94220/episode-0-1-prologue-escorting-ryoko</link>
+<description><![CDATA[<p>Five samurai are gathered together at the request of Akodo Torokai, an Emerald Magistrate, to assist in what seems to be a relatively simple task.</p>
+
+<p>Escorting Ryoko is the first of three prologue episodes.</p>
+]]></description>
+<itunes:explicit>clean</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/fd6e0153-e0f9-4220-9774-0b666cb56e53.mp3?source=rss&amp;aid=f3bb71ca-261b-4cef-9d71-6a71bacb0e11.mp3" length="78462007" type="audio/mp3" />
+</item>
+<item><title>BONUS: 20 Questions - Kitsuki Ryojiro</title>
+<guid isPermaLink="false">https://pinecast.com/guid/f0f45ce5-5fa4-4645-85ca-a36731be46cd</guid>
+<pubDate>Thu, 05 Apr 2018 11:05:00 -0000</pubDate>
+<itunes:duration>00:39:01</itunes:duration>
+<itunes:subtitle>In this episode we interview Nick, who plays the investigator Kitsuki Ryojiro.</itunes:subtitle>
+<link>https://sitwl5r.pinecast.co/episode/f0f45ce55fa44645/bonus-20-questions-kitsuki-ryojiro</link>
+<description><![CDATA[<h1>Episode Notes</h1>
+
+<p>In this episode we interview Nick, who plays the investigator Kitsuki Ryojiro.</p>
+]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/f0f45ce5-5fa4-4645-85ca-a36731be46cd.mp3?source=rss&amp;ext=asset.mp3" length="41698308" type="audio/mp3" />
+<itunes:episodeType>bonus</itunes:episodeType>
+</item>
+<item><title>BONUS: 20 Questions - Kuni Daiyu</title>
+<guid isPermaLink="false">https://pinecast.com/guid/9a4c61fa-7893-49a5-881e-062c5f0c79b2</guid>
+<pubDate>Thu, 05 Apr 2018 11:04:00 -0000</pubDate>
+<itunes:duration>00:14:42</itunes:duration>
+<itunes:subtitle>In this episode we interview Ely, who plays the Ishiken Kuni Daiyu.</itunes:subtitle>
+<link>https://sitwl5r.pinecast.co/episode/9a4c61fa789349a5/bonus-20-questions-kuni-daiyu</link>
+<description><![CDATA[<h1>Episode Notes</h1>
+
+<p>In this episode we interview Ely, who plays the Ishiken Kuni Daiyu.</p>
+]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/9a4c61fa-7893-49a5-881e-062c5f0c79b2.mp3?source=rss&amp;ext=asset.mp3" length="17340049" type="audio/mp3" />
+<itunes:episodeType>bonus</itunes:episodeType>
+</item>
+<item><title>BONUS: 20 Questions - Hida Atsuryokunabe</title>
+<guid isPermaLink="false">https://pinecast.com/guid/ec1b5262-a874-4001-a2c3-3643a654cb8b</guid>
+<pubDate>Thu, 05 Apr 2018 11:03:00 -0000</pubDate>
+<itunes:duration>00:18:30</itunes:duration>
+<itunes:subtitle>In this episode we interview James, who plays the bushi Hida Atsuryokunabe.</itunes:subtitle>
+<link>https://sitwl5r.pinecast.co/episode/ec1b5262a8744001/bonus-20-questions-hida-atsuryokunabe</link>
+<description><![CDATA[<h1>Episode Notes</h1>
+
+<p>In this episode we interview James, who plays the bushi Hida Atsuryokunabe.</p>
+]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/ec1b5262-a874-4001-a2c3-3643a654cb8b.mp3?source=rss&amp;ext=asset.mp3" length="19858828" type="audio/mp3" />
+<itunes:episodeType>bonus</itunes:episodeType>
+</item>
+<item><title>BONUS: 20 Questions - Crow</title>
+<guid isPermaLink="false">https://pinecast.com/guid/fe587683-8d24-4381-8083-6906d49c248e</guid>
+<pubDate>Thu, 05 Apr 2018 11:02:00 -0000</pubDate>
+<itunes:duration>00:20:05</itunes:duration>
+<itunes:subtitle>In this episode we interview Mallory, who plays the ronin Crow.</itunes:subtitle>
+<link>https://sitwl5r.pinecast.co/episode/fe5876838d244381/bonus-20-questions-crow</link>
+<description><![CDATA[<h1>Episode Notes</h1>
+
+<p>In this episode we interview Mallory, who plays the ronin Crow.</p>
+]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/fe587683-8d24-4381-8083-6906d49c248e.mp3?source=rss&amp;ext=asset.mp3" length="21745625" type="audio/mp3" />
+<itunes:episodeType>bonus</itunes:episodeType>
+</item>
+<item><title>BONUS: 20 Questions - Kitsune Shio</title>
+<guid isPermaLink="false">https://pinecast.com/guid/e9a01ceb-8460-49f7-9d82-6adbdd69f7c1</guid>
+<pubDate>Thu, 05 Apr 2018 11:01:00 -0000</pubDate>
+<itunes:duration>00:17:05</itunes:duration>
+<itunes:subtitle>In this episode we interview Hanna, who plays the kenku bushi Kitsune Shio.</itunes:subtitle>
+<link>https://sitwl5r.pinecast.co/episode/e9a01ceb846049f7/bonus-20-questions-kitsune-shio</link>
+<description><![CDATA[<h1>Episode Notes</h1>
+
+<p>In this episode we interview Hanna, who plays the kenku bushi Kitsune Shio.</p>
+]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/e9a01ceb-8460-49f7-9d82-6adbdd69f7c1.mp3?source=rss&amp;ext=asset.mp3" length="18708032" type="audio/mp3" />
+<itunes:episodeType>bonus</itunes:episodeType>
+</item>
+<item><title>Episode 0 - Introductions</title>
+<guid isPermaLink="false">https://pinecast.com/guid/bdfde4c6-dabc-4c6b-812c-d7ed4ad27919</guid>
+<pubDate>Thu, 05 Apr 2018 11:00:00 -0000</pubDate>
+<itunes:duration>00:58:00</itunes:duration>
+<itunes:subtitle>Get to know the setting, the characters, and the cast.</itunes:subtitle>
+<link>https://sitwl5r.pinecast.co/episode/bdfde4c6dabc4c6b/episode-0-introductions</link>
+<description><![CDATA[<h1>Episode Notes</h1>
+
+<p>Join us for a group discussion about L5R and this campaign. In this episode, you'll get to know the setting, the characters, and the players!</p>
+
+<p>Follow us on Twitter for all the latest updates. You can also join our Discord server to hang out and talk L5R, tabletop, or glorious Crab overlords.</p>
+
+<ul>
+<li><a href="https://twitter.com/sitwl5r" title="Twitter">Twitter</a></li>
+<li><a href="https://discord.gg/tTqTrDp" title="Discord">Discord</a></li>
+<li><a href="https://sitwl5r.tumblr.com/" title="Tumblr">Tumblr</a></li>
+<li><a href="https://sitwl5r.blog/" title="Website">Website</a></li>
+</ul>
+]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/bdfde4c6-dabc-4c6b-812c-d7ed4ad27919.mp3?source=rss&amp;ext=asset.mp3" length="62419248" type="audio/mp3" />
+</item>
+<item><title>SITW: Trailer</title>
+<guid isPermaLink="false">https://pinecast.com/guid/a07fbb2e-1987-46c1-8b22-b42ded6ccefb</guid>
+<pubDate>Sun, 25 Mar 2018 18:22:27 -0000</pubDate>
+<itunes:duration>00:03:49</itunes:duration>
+<itunes:subtitle>What to expect on April 5th</itunes:subtitle>
+<link>https://sitwl5r.pinecast.co/episode/a07fbb2e198746c1/sitw-trailer</link>
+<description><![CDATA[<p>A very brief rundown on L5R, this game, and what to expect on April 5th!</p>
+
+<p>Follow us on Twitter for all the latest updates. You can also join our Discord server to hang out and talk L5R, tabletop, or glorious Crab overlords.</p>
+
+<ul>
+<li><a href="https://twitter.com/sitwl5r" title="Twitter">Twitter</a></li>
+<li><a href="https://discord.gg/tTqTrDp" title="Discord">Discord</a></li>
+<li><a href="https://sitwl5r.tumblr.com/" title="Tumblr">Tumblr</a></li>
+<li><a href="https://sitwl5r.blog/" title="Website">Website</a></li>
+</ul>
+]]></description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://pinecast.com/listen/a07fbb2e-1987-46c1-8b22-b42ded6ccefb.mp3?source=rss&amp;ext=asset.mp3" length="4642466" type="audio/mp3" />
+<itunes:episodeType>trailer</itunes:episodeType>
+</item>
+</channel>
+<!-- generated in 0s 29109us -->
+</rss>

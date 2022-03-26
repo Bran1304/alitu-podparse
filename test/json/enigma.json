@@ -14,8 +14,6 @@
       "title": "ENIGMA COLOMBIA: EL PODCAST"
     },
     "explicit": false,
-    "lastBuildDate": "1970-01-01T00:00:00.000Z",
-    "pubDate": "1970-01-01T00:00:00.000Z",
     "link": "https://www.spreaker.com/show/enigma-colombia-el-podcast",
     "links": [
       {
@@ -40,7 +38,6 @@
         "type": "audio/mpeg",
         "url": "https://api.spreaker.com/download/episode/16624475/cap_tulo_6_el_lado_oscuro_de_la_luna.mp3"
       },
-      "lastBuildDate": "1970-01-01T00:00:00.000Z",
       "pubDate": "2019-01-04T02:04:14.000Z",
       "link": "https://www.spreaker.com/user/juanlaguna/capitulo-6-el-lado-oscuro-de-la-luna"
     },
@@ -58,7 +55,6 @@
         "type": "audio/mpeg",
         "url": "https://api.spreaker.com/download/episode/16396342/cap_tulo_5_walt_disney_criogenizado.mp3"
       },
-      "lastBuildDate": "1970-01-01T00:00:00.000Z",
       "pubDate": "2018-12-05T22:30:14.000Z",
       "link": "https://www.spreaker.com/user/juanlaguna/capitulo-5-walt-disney-criogenizado"
     },
@@ -75,7 +71,6 @@
         "type": "audio/mpeg",
         "url": "https://api.spreaker.com/download/episode/16217693/cap_tulo_4_sandra_mayorga.mp3"
       },
-      "lastBuildDate": "1970-01-01T00:00:00.000Z",
       "pubDate": "2018-11-14T16:45:08.000Z",
       "link": "https://www.spreaker.com/user/juanlaguna/capitulo-4-sandra-mayorga"
     },
@@ -93,7 +88,6 @@
         "type": "audio/mpeg",
         "url": "https://api.spreaker.com/download/episode/16087227/cap_tulo_3_gustavo_gonzalez.mp3"
       },
-      "lastBuildDate": "1970-01-01T00:00:00.000Z",
       "pubDate": "2018-10-30T00:21:44.000Z",
       "link": "https://www.spreaker.com/user/juanlaguna/capitulo-3-gustavo-gonzalez"
     },
@@ -111,7 +105,6 @@
         "type": "audio/mpeg",
         "url": "https://api.spreaker.com/download/episode/16025987/cap_tulo_2_edwin_robles.mp3"
       },
-      "lastBuildDate": "1970-01-01T00:00:00.000Z",
       "pubDate": "2018-10-22T22:21:04.000Z",
       "link": "https://www.spreaker.com/user/juanlaguna/capitulo-2-edwin-robles"
     },
@@ -129,7 +122,6 @@
         "type": "audio/mpeg",
         "url": "https://api.spreaker.com/download/episode/15951102/cap_tulo_1_william_chavez.mp3"
       },
-      "lastBuildDate": "1970-01-01T00:00:00.000Z",
       "pubDate": "2018-10-13T05:16:46.000Z",
       "link": "https://www.spreaker.com/user/juanlaguna/capitulo-1-william-chavez"
     },
@@ -147,7 +139,6 @@
         "type": "audio/mpeg",
         "url": "https://api.spreaker.com/download/episode/15942336/press_enigma_col.mp3"
       },
-      "lastBuildDate": "1970-01-01T00:00:00.000Z",
       "pubDate": "2018-10-12T04:18:37.000Z",
       "link": "https://www.spreaker.com/user/juanlaguna/press-enigma-col"
     }

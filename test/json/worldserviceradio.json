@@ -1,0 +1,1361 @@
+{
+  "meta": {
+    "title": "Global News Podcast",
+    "description": "The day’s top stories from BBC News. Delivered twice a day on weekdays, daily at weekends",
+    "language": "en",
+    "author": "BBC World Service",
+    "summary": "The day’s top stories from BBC News. Delivered twice a day on weekdays, daily at weekends",
+    "category": [
+      "News"
+    ],
+    "owner": {
+      "name": "BBC",
+      "email": "RadioMusic.Support@bbc.co.uk"
+    },
+    "image": {
+      "url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p09kz1gg.jpg",
+      "link": "http://www.bbc.co.uk/programmes/p02nq0gn",
+      "title": "Global News Podcast"
+    },
+    "explicit": false,
+    "pubDate": "2022-03-25T15:55:00.000Z",
+    "network": {
+      "name": "BBC World Service",
+      "id": "worldserviceradio"
+    },
+    "seriesDetails": {
+      "frequency": "daily",
+      "daysLive": 30
+    },
+    "link": "http://www.bbc.co.uk/programmes/p02nq0gn",
+    "links": [
+      {
+        "rel": "self",
+        "href": "http://www.bbc.co.uk/programmes/p02nq0gn/episodes/downloads.rss",
+        "type": "application/rss+xml"
+      }
+    ]
+  },
+  "episodes": [
+    {
+      "title": "The US and EU agree a major gas deal",
+      "description": "The US aims to ship enough liquified natural gas to replace its supplies from Russia and President Biden arrives in Poland. Also: Tigrayan rebel forces fighting in northern Ethiopia agree to a truce to allow aid in, and the study that suggests birdsong really can make us feel better.",
+      "subtitle": "The US aims to ship enough liquified natural gas to replace its supplies from Russia",
+      "author": "BBC World Service",
+      "summary": "The US aims to ship enough liquified natural gas to replace its supplies from Russia and President Biden arrives in Poland. Also: Tigrayan rebel forces fighting in northern Ethiopia agree to a truce to allow aid in, and the study that suggests birdsong really can make us feel better.",
+      "guid": "urn:bbc:podcast:p0bxkjhq",
+      "explicit": false,
+      "duration": 1991,
+      "enclosure": {
+        "length": 15928000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bxkd1v.mp3"
+      },
+      "content": {
+        "fileSize": 15928000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bxkd1v.mp3"
+      },
+      "pubDate": "2022-03-25T15:55:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bxkjhq"
+    },
+    {
+      "title": "Biden: NATO has never been more united",
+      "description": "Mr Biden also said the international community must keep applying the pressure to Moscow until it backs down. Also, the latest from Moscow and those fleeing the conflict, and Ethiopia has declared an indefinite and unilateral humanitarian truce which it says will allow aid to get to war-torn Tigray.",
+      "subtitle": "The US President said the outcome is the opposite of what President Putin expected",
+      "author": "BBC World Service",
+      "summary": "Mr Biden also said the international community must keep applying the pressure to Moscow until it backs down. Also, the latest from Moscow and those fleeing the conflict, and Ethiopia has declared an indefinite and unilateral humanitarian truce which it says will allow aid to get to war-torn Tigray.",
+      "guid": "urn:bbc:podcast:p0bxfvqy",
+      "explicit": false,
+      "duration": 1696,
+      "enclosure": {
+        "length": 13568000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bxfvgr.mp3"
+      },
+      "content": {
+        "fileSize": 13568000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bxfvgr.mp3"
+      },
+      "pubDate": "2022-03-24T23:54:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bxfvqy"
+    },
+    {
+      "title": "NATO strengthens forces along border with Ukraine",
+      "description": "40,000 more troops will bolster security following the Russian invasion. Also, Ukrainian forces say they've destroyed a Russian landing ship, and the United Nations says four million Ukrainian children are now displaced.",
+      "subtitle": "40,000 more troops will bolster security following the Russian invasion",
+      "author": "BBC World Service",
+      "summary": "40,000 more troops will bolster security following the Russian invasion. Also, Ukrainian forces say they've destroyed a Russian landing ship, and the United Nations says four million Ukrainian children are now displaced.",
+      "guid": "urn:bbc:podcast:p0bxb5tx",
+      "explicit": false,
+      "duration": 1972,
+      "enclosure": {
+        "length": 15776000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bxb2qb.mp3"
+      },
+      "content": {
+        "fileSize": 15776000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bxb2qb.mp3"
+      },
+      "pubDate": "2022-03-24T15:37:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bxb5tx"
+    },
+    {
+      "title": "Special: Global News Ukrainecast part 2",
+      "description": "A month since the Russian invasion of Ukraine, we are collaborating with Ukrainecast again. We answer more of your questions.\n\nJackie Leonard, presenter of the Global News Podcast, alongside Gabriel Gatehouse and Vitaliy Shevchenko from Ukrainecast, guide us through questions about civilian life in the country, military tactics, and the international response to the invasion. \n\nBBC chief international correspondent, Lyse Doucet, joins us from Kyiv to talk through what is happening on the ground there, and BBC security correspondent Frank Gardner, tells us the latest on the physical and information war. \n\nThis episode was made by Chris Flynn. The studio director was Ash Taylor. The assistant editor was Sam Bonham.",
+      "subtitle": "We answer more of your questions about Ukraine",
+      "author": "BBC World Service",
+      "summary": "A month since the Russian invasion of Ukraine, we are collaborating with Ukrainecast again. We answer more of your questions.\n\nJackie Leonard, presenter of the Global News Podcast, alongside Gabriel Gatehouse and Vitaliy Shevchenko from Ukrainecast, guide us through questions about civilian life in the country, military tactics, and the international response to the invasion. \n\nBBC chief international correspondent, Lyse Doucet, joins us from Kyiv to talk through what is happening on the ground there, and BBC security correspondent Frank Gardner, tells us the latest on the physical and information war. \n\nThis episode was made by Chris Flynn. The studio director was Ash Taylor. The assistant editor was Sam Bonham.",
+      "guid": "urn:bbc:podcast:p0bx8j3y",
+      "explicit": false,
+      "duration": 1969,
+      "enclosure": {
+        "length": 15752000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bx8fv7.mp3"
+      },
+      "content": {
+        "fileSize": 15752000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bx8fv7.mp3"
+      },
+      "pubDate": "2022-03-24T12:44:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bx8j3y"
+    },
+    {
+      "title": "Ukraine: Nato prepares troop boost in eastern Europe",
+      "description": "Leaders are expected to agree the increase at an emergency meeting in Brussels. Also, a top adviser to Vladimir Putin has resigned, citing the war in Ukraine,   we hear from a survivor of the bombing of the theatre in the besieged city of Mariupol, and America's first female Secretary of State, Madeleine Albright, has died.",
+      "subtitle": "Leaders are expected to agree the increase at an emergency meeting in Brussels",
+      "author": "BBC World Service",
+      "summary": "Leaders are expected to agree the increase at an emergency meeting in Brussels. Also, a top adviser to Vladimir Putin has resigned, citing the war in Ukraine,   we hear from a survivor of the bombing of the theatre in the besieged city of Mariupol, and America's first female Secretary of State, Madeleine Albright, has died.",
+      "guid": "urn:bbc:podcast:p0bx5hpc",
+      "explicit": false,
+      "duration": 1928,
+      "enclosure": {
+        "length": 15424000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bx5fvj.mp3"
+      },
+      "content": {
+        "fileSize": 15424000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bx5fvj.mp3"
+      },
+      "pubDate": "2022-03-23T23:36:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bx5hpc"
+    },
+    {
+      "title": "Ukraine's President Zelensky warns of Russian attacks on nuclear plants",
+      "description": "He made the accusation in an address to the Japanese parliament. Russia says President Putin plans to attend the G20 summit in Indonesia later this year. Also, the Taliban deny Afghan teenage girls a return to the classroom, and Ash Barty, the world's best female tennis player, retires.",
+      "subtitle": "He made the accusation in an address to the Japanese parliament",
+      "author": "BBC World Service",
+      "summary": "He made the accusation in an address to the Japanese parliament. Russia says President Putin plans to attend the G20 summit in Indonesia later this year. Also, the Taliban deny Afghan teenage girls a return to the classroom, and Ash Barty, the world's best female tennis player, retires.",
+      "guid": "urn:bbc:podcast:p0bx1wq2",
+      "explicit": false,
+      "duration": 1960,
+      "enclosure": {
+        "length": 15680000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bx1n0r.mp3"
+      },
+      "content": {
+        "fileSize": 15680000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bx1n0r.mp3"
+      },
+      "pubDate": "2022-03-23T16:01:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bx1wq2"
+    },
+    {
+      "title": "The UN calls Ukraine a ‘living hell’",
+      "description": "The UN Secretary-General, António Guterres, has said the situation is becoming more destructive by the hour. Also, the latest on bombardments of civilian areas in Mariupol and Kyiv, and a Palestinian man has killed a number of Israelis at a shopping mall.",
+      "subtitle": "UN Secretary-General António Guterres said the situation is more destructive by the hour",
+      "author": "BBC World Service",
+      "summary": "The UN Secretary-General, António Guterres, has said the situation is becoming more destructive by the hour. Also, the latest on bombardments of civilian areas in Mariupol and Kyiv, and a Palestinian man has killed a number of Israelis at a shopping mall.",
+      "guid": "urn:bbc:podcast:p0bwycys",
+      "explicit": false,
+      "duration": 1696,
+      "enclosure": {
+        "length": 13568000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bwycjm.mp3"
+      },
+      "content": {
+        "fileSize": 13568000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bwycjm.mp3"
+      },
+      "pubDate": "2022-03-22T23:42:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bwycys"
+    },
+    {
+      "title": "Zelensky insists Ukraine will overcome the Russian offensive",
+      "description": "The president's defiance comes as intense fighting continues.  Also, the leading Kremlin critic, Alexei Navalny, is sentenced to nine more years in prison and hearings begin for the US Supreme Court nominee, Ketanji Brown Jackson.",
+      "subtitle": "The president's defiance comes as intense fighting continues",
+      "author": "BBC World Service",
+      "summary": "The president's defiance comes as intense fighting continues.  Also, the leading Kremlin critic, Alexei Navalny, is sentenced to nine more years in prison and hearings begin for the US Supreme Court nominee, Ketanji Brown Jackson.",
+      "guid": "urn:bbc:podcast:p0bww5sw",
+      "explicit": false,
+      "duration": 1527,
+      "enclosure": {
+        "length": 12216000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bww4nb.mp3"
+      },
+      "content": {
+        "fileSize": 12216000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bww4nb.mp3"
+      },
+      "pubDate": "2022-03-22T15:17:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bww5sw"
+    },
+    {
+      "title": "Kyiv hit by heavy shelling",
+      "description": "Eight people are killed by Russian strikes on a shopping mall in Kyiv. President Zelensky says his country will not bow to Russian ultimatums. And the United States describes violence against the Rohingya by the Burmese military as genocide.",
+      "subtitle": "Russian strikes reduce shopping mall in the Ukrainian capital to rubble",
+      "author": "BBC World Service",
+      "summary": "Eight people are killed by Russian strikes on a shopping mall in Kyiv. President Zelensky says his country will not bow to Russian ultimatums. And the United States describes violence against the Rohingya by the Burmese military as genocide.",
+      "guid": "urn:bbc:podcast:p0bwrmgm",
+      "explicit": false,
+      "duration": 1899,
+      "enclosure": {
+        "length": 15192000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bwrm2w.mp3"
+      },
+      "content": {
+        "fileSize": 15192000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bwrm2w.mp3"
+      },
+      "pubDate": "2022-03-21T23:23:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bwrmgm"
+    },
+    {
+      "title": "Ukrainian government refuses to surrender Mariupol",
+      "description": "Ukraine says Russia has not allowed a humanitarian corridor to be established into Mariupol after Kyiv refused to disarm its forces and surrender the besieged city. Also, Russian warships have bombarded Ukraine's biggest port, Odesa, hitting some residential buildings on the city's outskirts, and a Chinese plane carrying 132 people has crashed into hills in southwestern China.",
+      "subtitle": "Kyiv refuses to disarm its forces and surrender the besieged city",
+      "author": "BBC World Service",
+      "summary": "Ukraine says Russia has not allowed a humanitarian corridor to be established into Mariupol after Kyiv refused to disarm its forces and surrender the besieged city. Also, Russian warships have bombarded Ukraine's biggest port, Odesa, hitting some residential buildings on the city's outskirts, and a Chinese plane carrying 132 people has crashed into hills in southwestern China.",
+      "guid": "urn:bbc:podcast:p0bwp94t",
+      "explicit": false,
+      "duration": 2012,
+      "enclosure": {
+        "length": 16096000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bwp6m1.mp3"
+      },
+      "content": {
+        "fileSize": 16096000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bwp6m1.mp3"
+      },
+      "pubDate": "2022-03-21T15:00:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bwp94t"
+    },
+    {
+      "title": "Ukrainian fighters in Mariupol given deadline to surrender",
+      "description": "Russia calls on Ukrainians defending Mariupol to surrender - promising safe passage out of the besieged city. Also. the reaction from Israel after Ukraine's president addressed the country's parliament. Plus, how the Omicron strain has taken hold in several Chinese cities, despite the country's zero tolerance policies.",
+      "subtitle": "Russia calls on Ukrainians defending Mariupol to surrender - promising safe passage",
+      "author": "BBC World Service",
+      "summary": "Russia calls on Ukrainians defending Mariupol to surrender - promising safe passage out of the besieged city. Also. the reaction from Israel after Ukraine's president addressed the country's parliament. Plus, how the Omicron strain has taken hold in several Chinese cities, despite the country's zero tolerance policies.",
+      "guid": "urn:bbc:podcast:p0bwkpf6",
+      "explicit": false,
+      "duration": 1649,
+      "enclosure": {
+        "length": 13192000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bwknx8.mp3"
+      },
+      "content": {
+        "fileSize": 13192000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bwknx8.mp3"
+      },
+      "pubDate": "2022-03-21T00:02:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bwkpf6"
+    },
+    {
+      "title": "More heavy street fighting in southern Ukraine",
+      "description": "A street by street battle has been taking place for control of Mariupol. What are the prospect for peace talks? Many Ukrainians are cautious. Also, why Russia's security services are being blamed for military failures.",
+      "subtitle": "A street by street battle has been taking place for control of Mariupol",
+      "author": "BBC World Service",
+      "summary": "A street by street battle has been taking place for control of Mariupol. What are the prospect for peace talks? Many Ukrainians are cautious. Also, why Russia's security services are being blamed for military failures.",
+      "guid": "urn:bbc:podcast:p0bwfxs8",
+      "explicit": false,
+      "duration": 1737,
+      "enclosure": {
+        "length": 13896000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bwfx9r.mp3"
+      },
+      "content": {
+        "fileSize": 13896000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bwfx9r.mp3"
+      },
+      "pubDate": "2022-03-20T00:03:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bwfxs8"
+    },
+    {
+      "title": "Dozens killed in Mykolaiv as Russia attacks Ukrainian army barracks",
+      "description": "The Ukrainians are continuing to defend Mykolaiv as Russian forces group outside it. Also: President Biden warns Xi Jinping of \"consequences\" if China backs Russia's war in Ukraine, and wildfire smoke linked to Arctic melting.",
+      "subtitle": "The city is crucial in Russia's plans to take Odesa",
+      "author": "BBC World Service",
+      "summary": "The Ukrainians are continuing to defend Mykolaiv as Russian forces group outside it. Also: President Biden warns Xi Jinping of \"consequences\" if China backs Russia's war in Ukraine, and wildfire smoke linked to Arctic melting.",
+      "guid": "urn:bbc:podcast:p0bwbk5k",
+      "explicit": false,
+      "duration": 1867,
+      "enclosure": {
+        "length": 14936000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bwbk39.mp3"
+      },
+      "content": {
+        "fileSize": 14936000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bwbk39.mp3"
+      },
+      "pubDate": "2022-03-19T00:45:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bwbk5k"
+    },
+    {
+      "title": "Western Ukraine comes under assault",
+      "description": "Ukrainian authorities say there has been a Russian missile strike outside Lviv. Also: Poland continues to welcome Ukrainian refugees and Facebook's parent company Meta is facing legal pressure in Australia to act against scammers.",
+      "subtitle": "Ukrainian authorities say there has been a Russian missile strike outside Lviv",
+      "author": "BBC World Service",
+      "summary": "Ukrainian authorities say there has been a Russian missile strike outside Lviv. Also: Poland continues to welcome Ukrainian refugees and Facebook's parent company Meta is facing legal pressure in Australia to act against scammers.",
+      "guid": "urn:bbc:podcast:p0bw86m4",
+      "explicit": false,
+      "duration": 1494,
+      "enclosure": {
+        "length": 11952000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bw841l.mp3"
+      },
+      "content": {
+        "fileSize": 11952000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bw841l.mp3"
+      },
+      "pubDate": "2022-03-18T15:53:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bw86m4"
+    },
+    {
+      "title": "Putin lays out his demands for a peace deal with Ukraine",
+      "description": "The Russian president rang his Turkish counterpart and told him what Russia's precise demands were. Also: Russian forces release the mayor of Melitopol who was abducted earlier in the week, and Nasa's giant new moon rocket makes its debut.",
+      "subtitle": "One is that Ukraine remains neutral",
+      "author": "BBC World Service",
+      "summary": "The Russian president rang his Turkish counterpart and told him what Russia's precise demands were. Also: Russian forces release the mayor of Melitopol who was abducted earlier in the week, and Nasa's giant new moon rocket makes its debut.",
+      "guid": "urn:bbc:podcast:p0bw53yn",
+      "explicit": false,
+      "duration": 1635,
+      "enclosure": {
+        "length": 13080000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bw53vy.mp3"
+      },
+      "content": {
+        "fileSize": 13080000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bw53vy.mp3"
+      },
+      "pubDate": "2022-03-18T01:39:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bw53yn"
+    },
+    {
+      "title": "\"Tear down this wall!\" says President Zelensky",
+      "description": "Ukrainian leader evokes Berlin Wall in address to German Parliament. Also: Ukrainians post videos of captured Russian troops and a baby is born on the frontline.",
+      "subtitle": "Ukrainian leader evokes Berlin Wall in address to German Parliament",
+      "author": "BBC World Service",
+      "summary": "Ukrainian leader evokes Berlin Wall in address to German Parliament. Also: Ukrainians post videos of captured Russian troops and a baby is born on the frontline.",
+      "guid": "urn:bbc:podcast:p0bw1gbd",
+      "explicit": false,
+      "duration": 1722,
+      "enclosure": {
+        "length": 13776000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bw1f34.mp3"
+      },
+      "content": {
+        "fileSize": 13776000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bw1f34.mp3"
+      },
+      "pubDate": "2022-03-17T15:07:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bw1gbd"
+    },
+    {
+      "title": "Russia bombs theatre in Ukraine sheltering 'hundreds of people'",
+      "description": "The Russian word for \"children\" was reportedly painted in huge white letters on the pavement outside the building in Mariupol. Also: President Biden promises a further eight hundred million dollars in military aid to Ukraine.",
+      "subtitle": "The number of casualties is unknown",
+      "author": "BBC World Service",
+      "summary": "The Russian word for \"children\" was reportedly painted in huge white letters on the pavement outside the building in Mariupol. Also: President Biden promises a further eight hundred million dollars in military aid to Ukraine.",
+      "guid": "urn:bbc:podcast:p0bvw8sr",
+      "explicit": false,
+      "duration": 1715,
+      "enclosure": {
+        "length": 13720000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bvw6tg.mp3"
+      },
+      "content": {
+        "fileSize": 13720000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bvw6tg.mp3"
+      },
+      "pubDate": "2022-03-17T00:10:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bvw8sr"
+    },
+    {
+      "title": "President Zelensky addresses the US Congress",
+      "description": "An emotional appeal for help to fight the Russians. Also, Iran releases Nazanin Zaghari-Radcliffe and Afghan children face starvation.",
+      "subtitle": "An emotional appeal for help to fight the Russians",
+      "author": "BBC World Service",
+      "summary": "An emotional appeal for help to fight the Russians. Also, Iran releases Nazanin Zaghari-Radcliffe and Afghan children face starvation.",
+      "guid": "urn:bbc:podcast:p0bvqm36",
+      "explicit": false,
+      "duration": 1940,
+      "enclosure": {
+        "length": 15520000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bvql46.mp3"
+      },
+      "content": {
+        "fileSize": 15520000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bvql46.mp3"
+      },
+      "pubDate": "2022-03-16T15:38:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bvqm36"
+    },
+    {
+      "title": "Kyiv imposes a 35 hour curfew as Russia continues its attacks",
+      "description": "President Volodomyr Zelensky of Ukraine has thanked the prime ministers of Poland, the Czech Republic and Slovenia for travelling to Kyiv to meet him - despite the continuing bombardment by Russian forces. Also: Nato has convened an emergency meeting next week, and the dangers facing those who are trying to escape the besieged southern port of Mariupol.",
+      "subtitle": "The mayor, Vitaliy Klitschko, says Kyiv is facing a difficult and dangerous moment",
+      "author": "BBC World Service",
+      "summary": "President Volodomyr Zelensky of Ukraine has thanked the prime ministers of Poland, the Czech Republic and Slovenia for travelling to Kyiv to meet him - despite the continuing bombardment by Russian forces. Also: Nato has convened an emergency meeting next week, and the dangers facing those who are trying to escape the besieged southern port of Mariupol.",
+      "guid": "urn:bbc:podcast:p0bvkzpj",
+      "explicit": false,
+      "duration": 1512,
+      "enclosure": {
+        "length": 12096000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bvl1qw.mp3"
+      },
+      "content": {
+        "fileSize": 12096000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bvl1qw.mp3"
+      },
+      "pubDate": "2022-03-16T01:03:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bvkzpj"
+    },
+    {
+      "title": "Ukraine: Leaders from Poland, Czech Republic and Slovenia travel to Kyiv",
+      "description": "The prime ministers are entering the besieged capital city, as President Volodymyr Zelensky calls for greater practical support. Also, the EU and Britain lay new sanctions against Russia. And a court in the Indian state of Karnataka upholds a ban on wearing hijabs in schools.",
+      "subtitle": "President Zelensky has called for greater practical international support",
+      "author": "BBC World Service",
+      "summary": "The prime ministers are entering the besieged capital city, as President Volodymyr Zelensky calls for greater practical support. Also, the EU and Britain lay new sanctions against Russia. And a court in the Indian state of Karnataka upholds a ban on wearing hijabs in schools.",
+      "guid": "urn:bbc:podcast:p0bvhm4b",
+      "explicit": false,
+      "duration": 1576,
+      "enclosure": {
+        "length": 12608000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bvhlk2.mp3"
+      },
+      "content": {
+        "fileSize": 12608000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bvhlk2.mp3"
+      },
+      "pubDate": "2022-03-15T15:15:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bvhm4b"
+    },
+    {
+      "title": "Convoy of civilians escapes besieged Mariupol",
+      "description": "A convoy of 150 vehicles left Mariupol but has not yet reached its intended destination. Also, Russia continues its bombardment of civilian and military targets across Ukraine, and Russian state TV employee storms news broadcast with 'no war' protest.",
+      "subtitle": "A convoy of 150 vehicles left Mariupol but has not yet reached its intended destination",
+      "author": "BBC World Service",
+      "summary": "A convoy of 150 vehicles left Mariupol but has not yet reached its intended destination. Also, Russia continues its bombardment of civilian and military targets across Ukraine, and Russian state TV employee storms news broadcast with 'no war' protest.",
+      "guid": "urn:bbc:podcast:p0bvd961",
+      "explicit": false,
+      "duration": 1726,
+      "enclosure": {
+        "length": 13808000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bvd8pc.mp3"
+      },
+      "content": {
+        "fileSize": 13808000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bvd8pc.mp3"
+      },
+      "pubDate": "2022-03-15T00:01:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bvd961"
+    },
+    {
+      "title": "Ukraine: Fighting continues despite talks",
+      "description": "Ukraine calls for tougher sanctions. Also, China dismisses reports Russia asked for assistance and Khrushchev’s great granddaughter speaks out on President Putin’s use of history.",
+      "subtitle": "Ukraine calls for tougher sanctions on Russia",
+      "author": "BBC World Service",
+      "summary": "Ukraine calls for tougher sanctions. Also, China dismisses reports Russia asked for assistance and Khrushchev’s great granddaughter speaks out on President Putin’s use of history.",
+      "guid": "urn:bbc:podcast:p0bvb398",
+      "explicit": false,
+      "duration": 1834,
+      "enclosure": {
+        "length": 14672000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bvb2b0.mp3"
+      },
+      "content": {
+        "fileSize": 14672000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bvb2b0.mp3"
+      },
+      "pubDate": "2022-03-14T15:25:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bvb398"
+    },
+    {
+      "title": "Russia strikes Ukraine army base near Polish border",
+      "description": "At least 35 people killed and dozens injured in missile attack in Yavoriv. Both sides say talks to try to end the war could make further progress within days. Also: Iran's Revolutionary Guards say they carried out a missile attack near US consulate in Erbil in Iraqi Kurdistan, American actor William Hurt dies aged 71 and a western takes top honours at Britain's Bafta film awards.",
+      "subtitle": "At least 35 people killed and dozens injured in missile attack in Yavoriv",
+      "author": "BBC World Service",
+      "summary": "At least 35 people killed and dozens injured in missile attack in Yavoriv. Both sides say talks to try to end the war could make further progress within days. Also: Iran's Revolutionary Guards say they carried out a missile attack near US consulate in Erbil in Iraqi Kurdistan, American actor William Hurt dies aged 71 and a western takes top honours at Britain's Bafta film awards.",
+      "guid": "urn:bbc:podcast:p0bv6hyg",
+      "explicit": false,
+      "duration": 1747,
+      "enclosure": {
+        "length": 13976000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bv6gjq.mp3"
+      },
+      "content": {
+        "fileSize": 13976000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bv6gjq.mp3"
+      },
+      "pubDate": "2022-03-14T01:14:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bv6hyg"
+    },
+    {
+      "title": "Evacuation convoy attacked outside Kyiv",
+      "description": "Ukrainian officials say seven people, including women and children, were killed. Also: Saudi blogger freed after decade in prison, the new Deltacron Covid variant and why are Russian classical music composers so influential?",
+      "subtitle": "Ukrainian officials say seven people, including women and children, were killed",
+      "author": "BBC World Service",
+      "summary": "Ukrainian officials say seven people, including women and children, were killed. Also: Saudi blogger freed after decade in prison, the new Deltacron Covid variant and why are Russian classical music composers so influential?",
+      "guid": "urn:bbc:podcast:p0bv3393",
+      "explicit": false,
+      "duration": 1898,
+      "enclosure": {
+        "length": 15184000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bv32yn.mp3"
+      },
+      "content": {
+        "fileSize": 15184000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bv32yn.mp3"
+      },
+      "pubDate": "2022-03-13T00:49:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bv3393"
+    },
+    {
+      "title": "Biden says the US will not fight a war against Russia in Ukraine",
+      "description": "Following the Russian invasion of Ukraine, the US administration has pursued an increasingly aggressive sanctions campaign against Vladimir Putin and his country. Also: the UN says it's not aware of any biological weapons programme in Ukraine, and Gabriel Boric -- a former student protest leader -- has been sworn in as Chile's youngest ever president.",
+      "subtitle": "The US president said he won't send US troops for direct engagement with Russia",
+      "author": "BBC World Service",
+      "summary": "Following the Russian invasion of Ukraine, the US administration has pursued an increasingly aggressive sanctions campaign against Vladimir Putin and his country. Also: the UN says it's not aware of any biological weapons programme in Ukraine, and Gabriel Boric -- a former student protest leader -- has been sworn in as Chile's youngest ever president.",
+      "guid": "urn:bbc:podcast:p0btzr79",
+      "explicit": false,
+      "duration": 1915,
+      "enclosure": {
+        "length": 15320000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0btzptp.mp3"
+      },
+      "content": {
+        "fileSize": 15320000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0btzptp.mp3"
+      },
+      "pubDate": "2022-03-12T01:16:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0btzr79"
+    },
+    {
+      "title": "Russia widens attacks on Ukrainian cities",
+      "description": "Lutsk, Dnipro and Ivano-Frankivsk are among those targeted and President Putin calls for Syrian volunteer fighters to join the invasion. Also, we hear from Irpin, where thousands of people emerge from bombed houses and basements, and the Chinese city of Changchun imposes a strict Covid lockdown.",
+      "subtitle": "Lutsk, Dnipro and Ivano-Frankivsk are among those targeted",
+      "author": "BBC World Service",
+      "summary": "Lutsk, Dnipro and Ivano-Frankivsk are among those targeted and President Putin calls for Syrian volunteer fighters to join the invasion. Also, we hear from Irpin, where thousands of people emerge from bombed houses and basements, and the Chinese city of Changchun imposes a strict Covid lockdown.",
+      "guid": "urn:bbc:podcast:p0btx6ws",
+      "explicit": false,
+      "duration": 2035,
+      "enclosure": {
+        "length": 16280000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0btx4wb.mp3"
+      },
+      "content": {
+        "fileSize": 16280000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0btx4wb.mp3"
+      },
+      "pubDate": "2022-03-11T15:50:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0btx6ws"
+    },
+    {
+      "title": "Ukraine: Mariupol 'running out of food and water'",
+      "description": "Charities warn of a humanitarian crisis in the besieged city of Mariupol. We report from the frontline of the battle for Kharkiv. Also, EU leaders meet to discuss how to increase pressure on Russia to end the war, and new research shows coronavirus came from an animal market, not a laboratory.",
+      "subtitle": "Charities warn of a humanitarian crisis in the besieged city of Mariupol",
+      "author": "BBC World Service",
+      "summary": "Charities warn of a humanitarian crisis in the besieged city of Mariupol. We report from the frontline of the battle for Kharkiv. Also, EU leaders meet to discuss how to increase pressure on Russia to end the war, and new research shows coronavirus came from an animal market, not a laboratory.",
+      "guid": "urn:bbc:podcast:p0bts99m",
+      "explicit": false,
+      "duration": 1871,
+      "enclosure": {
+        "length": 14968000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bts7dq.mp3"
+      },
+      "content": {
+        "fileSize": 14968000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bts7dq.mp3"
+      },
+      "pubDate": "2022-03-10T23:55:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bts99m"
+    },
+    {
+      "title": "No progress at Kyiv-Moscow talks",
+      "description": "Ukrainian and Russian foreign ministers fail to agree an end to the war in first high-level negotiations since invasion began. Also, as the UK imposes sanctions on Roman Abramovich, what does it mean for Chelsea football club? Narendra Modi's party triumphs in India's bellwether state and Dolly Parton on her  debut novel.",
+      "subtitle": "Ukrainian and Russian foreign ministers fail to agree an end to the war",
+      "author": "BBC World Service",
+      "summary": "Ukrainian and Russian foreign ministers fail to agree an end to the war in first high-level negotiations since invasion began. Also, as the UK imposes sanctions on Roman Abramovich, what does it mean for Chelsea football club? Narendra Modi's party triumphs in India's bellwether state and Dolly Parton on her  debut novel.",
+      "guid": "urn:bbc:podcast:p0btn85g",
+      "explicit": false,
+      "duration": 1925,
+      "enclosure": {
+        "length": 15400000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0btn6hn.mp3"
+      },
+      "content": {
+        "fileSize": 15400000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0btn6hn.mp3"
+      },
+      "pubDate": "2022-03-10T15:06:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0btn85g"
+    },
+    {
+      "title": "Zelensky says Russian bombing of children's hospital in Ukraine is a war crime",
+      "description": "The Ukrainian authorities say the strike destroyed the maternity and children's wards in the hospital complex in Mariupol. Also, western officials are concerned that Russia could deploy non-conventional weapons in Ukraine, and a man who was given a genetically modified pig heart has died.",
+      "subtitle": "The city council in Mariupol says the devastation is \"colossal\"",
+      "author": "BBC World Service",
+      "summary": "The Ukrainian authorities say the strike destroyed the maternity and children's wards in the hospital complex in Mariupol. Also, western officials are concerned that Russia could deploy non-conventional weapons in Ukraine, and a man who was given a genetically modified pig heart has died.",
+      "guid": "urn:bbc:podcast:p0btj8lk",
+      "explicit": false,
+      "duration": 1902,
+      "enclosure": {
+        "length": 15216000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0btj7zj.mp3"
+      },
+      "content": {
+        "fileSize": 15216000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0btj7zj.mp3"
+      },
+      "pubDate": "2022-03-10T01:14:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0btj8lk"
+    },
+    {
+      "title": "New ceasefire agreement allows some civilians to leave Ukraine",
+      "description": "Thousands of people leave Sumy in the north-east. But Ukraine's president accuses Russian forces of continuing to attack civilians. Also, the Chernobyl nuclear plant, which is under Russian control, has lost its power supply, and in other news, Shackleton's lost ship is found in the Antarctic.",
+      "subtitle": "Thousands of people leave Sumy in the north-east of Ukraine",
+      "author": "BBC World Service",
+      "summary": "Thousands of people leave Sumy in the north-east. But Ukraine's president accuses Russian forces of continuing to attack civilians. Also, the Chernobyl nuclear plant, which is under Russian control, has lost its power supply, and in other news, Shackleton's lost ship is found in the Antarctic.",
+      "guid": "urn:bbc:podcast:p0btd50v",
+      "explicit": false,
+      "duration": 1671,
+      "enclosure": {
+        "length": 13368000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0btd39w.mp3"
+      },
+      "content": {
+        "fileSize": 13368000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0btd39w.mp3"
+      },
+      "pubDate": "2022-03-09T15:55:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0btd50v"
+    },
+    {
+      "title": "Zelensky vows to fight Russia in 'forests, fields and shores'",
+      "description": "The Ukrainian President, Volodymyr Zelensky, has given an unprecedented address to British MPs in the House of Commons. Also, US \"surprised\" by Poland fighter jets offer, and will it be possible to spot the early signs of pancreatic cancer by changes in gut microbes?",
+      "subtitle": "Meanwhile, people have been leaving the Ukrainian cities of Irpin and Sumy",
+      "author": "BBC World Service",
+      "summary": "The Ukrainian President, Volodymyr Zelensky, has given an unprecedented address to British MPs in the House of Commons. Also, US \"surprised\" by Poland fighter jets offer, and will it be possible to spot the early signs of pancreatic cancer by changes in gut microbes?",
+      "guid": "urn:bbc:podcast:p0bt86hd",
+      "explicit": false,
+      "duration": 1920,
+      "enclosure": {
+        "length": 15360000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bt869v.mp3"
+      },
+      "content": {
+        "fileSize": 15360000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bt869v.mp3"
+      },
+      "pubDate": "2022-03-09T00:57:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bt86hd"
+    },
+    {
+      "title": "Special: Global News Ukrainecast",
+      "description": "BBC correspondents tackle questions from listeners around the world about Russia’s invasion of Ukraine. Jackie Leonard speaks to Gabriel Gatehouse, Vitaliy Shevchenko, Lyse Doucet and James Landale.",
+      "subtitle": "BBC correspondents tackle questions from listeners around the world",
+      "author": "BBC World Service",
+      "summary": "BBC correspondents tackle questions from listeners around the world about Russia’s invasion of Ukraine. Jackie Leonard speaks to Gabriel Gatehouse, Vitaliy Shevchenko, Lyse Doucet and James Landale.",
+      "guid": "urn:bbc:podcast:p0bt77np",
+      "explicit": false,
+      "duration": 2236,
+      "enclosure": {
+        "length": 17888000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bt76bl.mp3"
+      },
+      "content": {
+        "fileSize": 17888000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bt76bl.mp3"
+      },
+      "pubDate": "2022-03-08T19:30:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bt77np"
+    },
+    {
+      "title": "Russia allows some evacuations from besieged cities",
+      "description": "A humanitarian corridor in the north-eastern city of Sumy is largely holding. Also: Shell announces its complete withdrawal from Russian oil and gas; and the role of social media in documenting troop movements and human rights abuses in Ukraine.",
+      "subtitle": "A humanitarian corridor in the north-eastern city of Sumy is largely holding",
+      "author": "BBC World Service",
+      "summary": "A humanitarian corridor in the north-eastern city of Sumy is largely holding. Also: Shell announces its complete withdrawal from Russian oil and gas; and the role of social media in documenting troop movements and human rights abuses in Ukraine.",
+      "guid": "urn:bbc:podcast:p0bt5yrx",
+      "explicit": false,
+      "duration": 1557,
+      "enclosure": {
+        "length": 12456000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bt5vt7.mp3"
+      },
+      "content": {
+        "fileSize": 12456000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bt5vt7.mp3"
+      },
+      "pubDate": "2022-03-08T15:37:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bt5yrx"
+    },
+    {
+      "title": "UN aid chief calls for safe passage of civilians from Ukraine",
+      "description": "Martin Griffiths has called for fleeing Ukrainian civilians to be allowed to leave in the direction  they want. Also, what is the significance of the Z symbol on the Russian tanks, and brain changes seen after mild Covid-19 infection.",
+      "subtitle": "Aid, especially medical supplies, must also be protected",
+      "author": "BBC World Service",
+      "summary": "Martin Griffiths has called for fleeing Ukrainian civilians to be allowed to leave in the direction  they want. Also, what is the significance of the Z symbol on the Russian tanks, and brain changes seen after mild Covid-19 infection.",
+      "guid": "urn:bbc:podcast:p0bt2nny",
+      "explicit": false,
+      "duration": 1865,
+      "enclosure": {
+        "length": 14920000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bt2my1.mp3"
+      },
+      "content": {
+        "fileSize": 14920000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bt2my1.mp3"
+      },
+      "pubDate": "2022-03-08T01:14:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bt2nny"
+    },
+    {
+      "title": "Ukraine rejects Russia's proposals for civilians escaping the bombing",
+      "description": "Ukraine says the idea they travel to Russia or Belarus is \"completely immoral\".  Also, energy prices surge and stock markets fall, and on the outskirts of Kyiv a wedding takes place among the barricades.",
+      "subtitle": "Ukraine says the idea they travel to Russia or Belarus is \"completely immoral\"",
+      "author": "BBC World Service",
+      "summary": "Ukraine says the idea they travel to Russia or Belarus is \"completely immoral\".  Also, energy prices surge and stock markets fall, and on the outskirts of Kyiv a wedding takes place among the barricades.",
+      "guid": "urn:bbc:podcast:p0bt0bsk",
+      "explicit": false,
+      "duration": 1944,
+      "enclosure": {
+        "length": 15552000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bt08x9.mp3"
+      },
+      "content": {
+        "fileSize": 15552000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bt08x9.mp3"
+      },
+      "pubDate": "2022-03-07T15:50:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bt0bsk"
+    },
+    {
+      "title": "Ukraine reinforces defences in Kyiv",
+      "description": "The Ukrainian army reinforces the defences of the capital Kyiv as the Russian military continues its attacks. Also the International Atomic Energy Agency expresses concern over two nuclear power plants in Ukraine. And more than three thousand people in Russia are arrested for protesting against the war.",
+      "subtitle": "Soldiers in the capital dig trenches and block roads with anti-tank obstacles",
+      "author": "BBC World Service",
+      "summary": "The Ukrainian army reinforces the defences of the capital Kyiv as the Russian military continues its attacks. Also the International Atomic Energy Agency expresses concern over two nuclear power plants in Ukraine. And more than three thousand people in Russia are arrested for protesting against the war.",
+      "guid": "urn:bbc:podcast:p0bswbzr",
+      "explicit": false,
+      "duration": 1927,
+      "enclosure": {
+        "length": 15416000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bswbv5.mp3"
+      },
+      "content": {
+        "fileSize": 15416000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bswbv5.mp3"
+      },
+      "pubDate": "2022-03-06T23:55:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bswbzr"
+    },
+    {
+      "title": "Ukraine: Mass evacuation near Kyiv",
+      "description": "The town of Irpin, just 25 km outside Kyiv, is being evacuated amid heavy shelling. Also, President Volodymyr Zelensky pleads for US military aid. And a Taliban leader, facing a $10 million FBI bounty, makes a rare public appearance in Kabul",
+      "subtitle": "Ukrainian forces blow up the main bridge in Irpin",
+      "author": "BBC World Service",
+      "summary": "The town of Irpin, just 25 km outside Kyiv, is being evacuated amid heavy shelling. Also, President Volodymyr Zelensky pleads for US military aid. And a Taliban leader, facing a $10 million FBI bounty, makes a rare public appearance in Kabul",
+      "guid": "urn:bbc:podcast:p0bsrzrl",
+      "explicit": false,
+      "duration": 1588,
+      "enclosure": {
+        "length": 12704000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bsrzlm.mp3"
+      },
+      "content": {
+        "fileSize": 12704000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bsrzlm.mp3"
+      },
+      "pubDate": "2022-03-06T02:00:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bsrzrl"
+    },
+    {
+      "title": "US Secretary of State Blinken: 'Russia using brutal methods against Ukraine'",
+      "description": "US Secretary of State Antony Blinken says Ukrainians have shown great resilience in the face of \"tremendous humanitarian suffering.\" Also, Nato says it has strengthened its defence capabilities, but once again rejects calls for a no-fly zone over Ukraine. And we look back at the life and career of the legendary Australian cricketer Shane Warne.",
+      "subtitle": "Washington's top diplomat praises Ukrainian resilience in the face of Russian aggression",
+      "author": "BBC World Service",
+      "summary": "US Secretary of State Antony Blinken says Ukrainians have shown great resilience in the face of \"tremendous humanitarian suffering.\" Also, Nato says it has strengthened its defence capabilities, but once again rejects calls for a no-fly zone over Ukraine. And we look back at the life and career of the legendary Australian cricketer Shane Warne.",
+      "guid": "urn:bbc:podcast:p0bsmvfb",
+      "explicit": false,
+      "duration": 1770,
+      "enclosure": {
+        "length": 14160000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bsmtyw.mp3"
+      },
+      "content": {
+        "fileSize": 14160000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bsmtyw.mp3"
+      },
+      "pubDate": "2022-03-05T02:00:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bsmvfb"
+    },
+    {
+      "title": "Ukraine nuclear power plant attacked and captured",
+      "description": "The International Atomic Energy Agency says there's been no radiation leak and the Russian army have been tightening their siege of several cities. Also: Russia's parliament decrees those deemed guilty of spreading fake news on Ukraine could go to jail for 15 years, and the Australian cricketer Shane Warne has died at the age of fifty two.",
+      "subtitle": "The International Atomic Energy Agency says there's been no radiation leak",
+      "author": "BBC World Service",
+      "summary": "The International Atomic Energy Agency says there's been no radiation leak and the Russian army have been tightening their siege of several cities. Also: Russia's parliament decrees those deemed guilty of spreading fake news on Ukraine could go to jail for 15 years, and the Australian cricketer Shane Warne has died at the age of fifty two.",
+      "guid": "urn:bbc:podcast:p0bskmpr",
+      "explicit": false,
+      "duration": 1984,
+      "enclosure": {
+        "length": 15872000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bskl94.mp3"
+      },
+      "content": {
+        "fileSize": 15872000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bskl94.mp3"
+      },
+      "pubDate": "2022-03-04T15:37:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bskmpr"
+    },
+    {
+      "title": "Putin claims invasion is going to plan",
+      "description": "The Russian president was speaking as his troops stepped up their attacks and civilians continued to bear the brunt of the fighting. Also, the head of Ukraine's biggest gas corporation says it is time the West weaned itself off Russian energy, and the threat of a new type of war, in cyberspace.",
+      "subtitle": "The Russian president was speaking as his troops stepped up their attacks",
+      "author": "BBC World Service",
+      "summary": "The Russian president was speaking as his troops stepped up their attacks and civilians continued to bear the brunt of the fighting. Also, the head of Ukraine's biggest gas corporation says it is time the West weaned itself off Russian energy, and the threat of a new type of war, in cyberspace.",
+      "guid": "urn:bbc:podcast:p0bsg9bh",
+      "explicit": false,
+      "duration": 1909,
+      "enclosure": {
+        "length": 15272000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bsg8vq.mp3"
+      },
+      "content": {
+        "fileSize": 15272000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bsg8vq.mp3"
+      },
+      "pubDate": "2022-03-04T00:17:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bsg9bh"
+    },
+    {
+      "title": "Ukraine conflict: Russian forces take control of Kherson",
+      "description": "The southern port is the first major city to be occupied. Russia's foreign minister says Ukraine's desire to join Nato threatened Russia's security. The UN says a million people have already fled the country. Also, the International Criminal Court begins an investigation into possible war crimes in Ukraine, and athletes from Russia and Belarus will not now be allowed to compete in the Paralympic Winter Games.",
+      "subtitle": "The southern port is the first major city to be occupied",
+      "author": "BBC World Service",
+      "summary": "The southern port is the first major city to be occupied. Russia's foreign minister says Ukraine's desire to join Nato threatened Russia's security. The UN says a million people have already fled the country. Also, the International Criminal Court begins an investigation into possible war crimes in Ukraine, and athletes from Russia and Belarus will not now be allowed to compete in the Paralympic Winter Games.",
+      "guid": "urn:bbc:podcast:p0bsbh94",
+      "explicit": false,
+      "duration": 1923,
+      "enclosure": {
+        "length": 15384000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bsb9w8.mp3"
+      },
+      "content": {
+        "fileSize": 15384000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bsb9w8.mp3"
+      },
+      "pubDate": "2022-03-03T15:50:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bsbh94"
+    },
+    {
+      "title": "UN General Assembly condemns Russian invasion",
+      "description": "Just five countries opposed resolution demanding Russian forces withdraw from Ukraine. The port of Kherson becomes the first major Ukrainian city to be taken by invading forces. Also, world leaders agree historic plastic pollution pledge and a new mobile phone Covid swab test.",
+      "subtitle": "Just five countries opposed resolution demanding Russian forces withdraw from Ukraine",
+      "author": "BBC World Service",
+      "summary": "Just five countries opposed resolution demanding Russian forces withdraw from Ukraine. The port of Kherson becomes the first major Ukrainian city to be taken by invading forces. Also, world leaders agree historic plastic pollution pledge and a new mobile phone Covid swab test.",
+      "guid": "urn:bbc:podcast:p0bs5lgm",
+      "explicit": false,
+      "duration": 1715,
+      "enclosure": {
+        "length": 13720000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bs5h1f.mp3"
+      },
+      "content": {
+        "fileSize": 13720000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bs5h1f.mp3"
+      },
+      "pubDate": "2022-03-03T01:31:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bs5lgm"
+    },
+    {
+      "title": "Ukraine conflict: Russia intensifies its assault",
+      "description": "Ukrainian emergency services estimate more than 2,000 people have been killed since the invasion began. Also, the UN says nearly 900,000 people have left Ukraine, the governing body of the Paralympics confirms that Russian and Belarusian athletes can compete at the winter games in Beijing, and we hear from Ukrainians at home and abroad, caught up in the conflict.",
+      "subtitle": "Ukrainian emergency services estimate more than 2,000 people have been killed so far",
+      "author": "BBC World Service",
+      "summary": "Ukrainian emergency services estimate more than 2,000 people have been killed since the invasion began. Also, the UN says nearly 900,000 people have left Ukraine, the governing body of the Paralympics confirms that Russian and Belarusian athletes can compete at the winter games in Beijing, and we hear from Ukrainians at home and abroad, caught up in the conflict.",
+      "guid": "urn:bbc:podcast:p0bs1b9l",
+      "explicit": false,
+      "duration": 1863,
+      "enclosure": {
+        "length": 14904000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bs19b0.mp3"
+      },
+      "content": {
+        "fileSize": 14904000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bs19b0.mp3"
+      },
+      "pubDate": "2022-03-02T15:30:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bs1b9l"
+    },
+    {
+      "title": "Ukrainian president warns his country can't win the war with Russia on its own",
+      "description": "Volodymyr Zelensky is urging Nato to rethink its refusal to impose a no-fly zone. Also: the UN launches an appeal to provide humanitarian aid to fleeing Ukrainians, and several sporting federations ban athletes from Russia and Belarus.",
+      "subtitle": "He said international sanctions were having an impact but were not enough",
+      "author": "BBC World Service",
+      "summary": "Volodymyr Zelensky is urging Nato to rethink its refusal to impose a no-fly zone. Also: the UN launches an appeal to provide humanitarian aid to fleeing Ukrainians, and several sporting federations ban athletes from Russia and Belarus.",
+      "guid": "urn:bbc:podcast:p0brxw6b",
+      "explicit": false,
+      "duration": 1949,
+      "enclosure": {
+        "length": 15592000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0brxvx7.mp3"
+      },
+      "content": {
+        "fileSize": 15592000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0brxvx7.mp3"
+      },
+      "pubDate": "2022-03-02T01:23:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0brxw6b"
+    },
+    {
+      "title": "Ukraine accuses Russia of war crimes in Kharkiv",
+      "description": "President Zelensky says missile and rocket attacks amount to state terrorism. Also, the Russian foreign minister suggests the invasion is about preventing Ukraine from developing nuclear weapons, Russia’s one-time richest man gives us his take on Vladimir Putin’s mindset, and the Munich Philharmonic sacks its star conductor over his ties to the Russian president.",
+      "subtitle": "President Zelensky says missile and rocket attacks amount to state terrorism",
+      "author": "BBC World Service",
+      "summary": "President Zelensky says missile and rocket attacks amount to state terrorism. Also, the Russian foreign minister suggests the invasion is about preventing Ukraine from developing nuclear weapons, Russia’s one-time richest man gives us his take on Vladimir Putin’s mindset, and the Munich Philharmonic sacks its star conductor over his ties to the Russian president.",
+      "guid": "urn:bbc:podcast:p0brvdxk",
+      "explicit": false,
+      "duration": 2137,
+      "enclosure": {
+        "length": 17096000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0brvbvp.mp3"
+      },
+      "content": {
+        "fileSize": 17096000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0brvbvp.mp3"
+      },
+      "pubDate": "2022-03-01T15:40:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0brvdxk"
+    },
+    {
+      "title": "Fighting continues despite Ukraine ceasefire talks",
+      "description": "The cities of Kharkiv and Chernihiv suffer fierce shelling despite talks between Ukraine and Russia. Also, ICC prosecutor to investigate possible war crimes in Ukraine, and Fifa and Uefa suspend all Russian football teams.",
+      "subtitle": "Russian advance is said to have been slowed by Ukrainian resistance",
+      "author": "BBC World Service",
+      "summary": "The cities of Kharkiv and Chernihiv suffer fierce shelling despite talks between Ukraine and Russia. Also, ICC prosecutor to investigate possible war crimes in Ukraine, and Fifa and Uefa suspend all Russian football teams.",
+      "guid": "urn:bbc:podcast:p0brqx0w",
+      "explicit": false,
+      "duration": 1977,
+      "enclosure": {
+        "length": 15816000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0brqws2.mp3"
+      },
+      "content": {
+        "fileSize": 15816000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0brqws2.mp3"
+      },
+      "pubDate": "2022-03-01T01:37:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0brqx0w"
+    },
+    {
+      "title": "Half a million Ukrainians flee Russian invasion",
+      "description": "Poland says 250,000 are being processed for entry. Also, Moscow's stock exchange fails to open and the value of the rouble plummets, and a major new climate report has found that global warming is already causing dangerous disruption affecting billions of people.",
+      "subtitle": "Poland says 250,000 are being processed for entry",
+      "author": "BBC World Service",
+      "summary": "Poland says 250,000 are being processed for entry. Also, Moscow's stock exchange fails to open and the value of the rouble plummets, and a major new climate report has found that global warming is already causing dangerous disruption affecting billions of people.",
+      "guid": "urn:bbc:podcast:p0brngrs",
+      "explicit": false,
+      "duration": 1926,
+      "enclosure": {
+        "length": 15408000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0brnd7n.mp3"
+      },
+      "content": {
+        "fileSize": 15408000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0brnd7n.mp3"
+      },
+      "pubDate": "2022-02-28T15:36:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0brngrs"
+    },
+    {
+      "title": "Putin places Russia's nuclear forces on high alert",
+      "description": "Nato condemns the move on the fourth day of the Ukrainian invasion. Also, the energy giant BP says it is divesting its 20% stake in the Russian Rosneft company, and the European Union bans Russian state media outlets from broadcasting to its member-states.",
+      "subtitle": "Nato condemns the move on the fourth day of the Ukrainian invasion",
+      "author": "BBC World Service",
+      "summary": "Nato condemns the move on the fourth day of the Ukrainian invasion. Also, the energy giant BP says it is divesting its 20% stake in the Russian Rosneft company, and the European Union bans Russian state media outlets from broadcasting to its member-states.",
+      "guid": "urn:bbc:podcast:p0brk0cy",
+      "explicit": false,
+      "duration": 1820,
+      "enclosure": {
+        "length": 14560000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0brk01r.mp3"
+      },
+      "content": {
+        "fileSize": 14560000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0brk01r.mp3"
+      },
+      "pubDate": "2022-02-27T23:47:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0brk0cy"
+    },
+    {
+      "title": "Ukrainians in Kyiv face another night in bomb shelters",
+      "description": "The capital of Ukraine is still resisting the Russian advance. Also, chaos at a railway station near the Polish border as Ukrainians continue to flee the country, and Germany has decided to supply anti-tank weapons to Ukrainian forces in a major policy change.",
+      "subtitle": "The capital of Ukraine is still resisting the Russian advance",
+      "author": "BBC World Service",
+      "summary": "The capital of Ukraine is still resisting the Russian advance. Also, chaos at a railway station near the Polish border as Ukrainians continue to flee the country, and Germany has decided to supply anti-tank weapons to Ukrainian forces in a major policy change.",
+      "guid": "urn:bbc:podcast:p0brfn88",
+      "explicit": false,
+      "duration": 1962,
+      "enclosure": {
+        "length": 15696000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0brfmxt.mp3"
+      },
+      "content": {
+        "fileSize": 15696000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0brfmxt.mp3"
+      },
+      "pubDate": "2022-02-27T00:17:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0brfn88"
+    },
+    {
+      "title": "Ukraine's Zelensky asks citizens to resist and Europe to do more",
+      "description": "The second day of fighting saw Russian tanks advancing on the capital Kyiv. Also, the US, EU, UK and Canada freeze the assets of the Russian president and his foreign minister over Ukraine, and more false conflict images shared online.",
+      "subtitle": "Analysts suggest Russia's advance has been slowed by fierce resistance",
+      "author": "BBC World Service",
+      "summary": "The second day of fighting saw Russian tanks advancing on the capital Kyiv. Also, the US, EU, UK and Canada freeze the assets of the Russian president and his foreign minister over Ukraine, and more false conflict images shared online.",
+      "guid": "urn:bbc:podcast:p0brb60c",
+      "explicit": false,
+      "duration": 1642,
+      "enclosure": {
+        "length": 13136000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0brb5wc.mp3"
+      },
+      "content": {
+        "fileSize": 13136000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0brb5wc.mp3"
+      },
+      "pubDate": "2022-02-26T02:53:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0brb60c"
+    },
+    {
+      "title": "Ukraine conflict: Kyiv braces for Russian assault",
+      "description": "The sound of gunfire has echoed through Ukraine's capital. Also: The European Union has announced new sanctions to freeze Vladimir Putin's personal assets in Europe and The Kremlin says that Russia is ready for talks",
+      "subtitle": "Ukraine's Ministry of Defence called on those living in the outskirts to make fire bombs",
+      "author": "BBC World Service",
+      "summary": "The sound of gunfire has echoed through Ukraine's capital. Also: The European Union has announced new sanctions to freeze Vladimir Putin's personal assets in Europe and The Kremlin says that Russia is ready for talks",
+      "guid": "urn:bbc:podcast:p0br7jn4",
+      "explicit": false,
+      "duration": 1686,
+      "enclosure": {
+        "length": 13488000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0br7f16.mp3"
+      },
+      "content": {
+        "fileSize": 13488000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0br7f16.mp3"
+      },
+      "pubDate": "2022-02-25T15:22:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0br7jn4"
+    },
+    {
+      "title": "Ukraine conflict: Fighting rages near Kyiv",
+      "description": "Ukraine's army tries to repel a full-scale Russian invasion. We hear from our correspondents on the front line in the east, and in the capital, Kyiv. Also, a Ukrainian MP tells us he is ready for battle, and the US and EU announce further sanctions against Moscow.",
+      "subtitle": "Ukraine's army tries to repel a full-scale Russian invasion",
+      "author": "BBC World Service",
+      "summary": "Ukraine's army tries to repel a full-scale Russian invasion. We hear from our correspondents on the front line in the east, and in the capital, Kyiv. Also, a Ukrainian MP tells us he is ready for battle, and the US and EU announce further sanctions against Moscow.",
+      "guid": "urn:bbc:podcast:p0br4hlx",
+      "explicit": false,
+      "duration": 1491,
+      "enclosure": {
+        "length": 11928000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0br4g8t.mp3"
+      },
+      "content": {
+        "fileSize": 11928000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0br4g8t.mp3"
+      },
+      "pubDate": "2022-02-25T00:33:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0br4hlx"
+    },
+    {
+      "title": "Ukraine under full-scale Russian attack",
+      "description": "Ukraine's president says a new iron curtain is falling and closing Russia off from the civilised world. We hear from ordinary Ukrainians, who are now living in fear. We get the view from Ukraine's neighbour, Estonia, and reaction from people in Russia.",
+      "subtitle": "Ukraine's president says a new iron curtain is falling",
+      "author": "BBC World Service",
+      "summary": "Ukraine's president says a new iron curtain is falling and closing Russia off from the civilised world. We hear from ordinary Ukrainians, who are now living in fear. We get the view from Ukraine's neighbour, Estonia, and reaction from people in Russia.",
+      "guid": "urn:bbc:podcast:p0br2lxm",
+      "explicit": false,
+      "duration": 1434,
+      "enclosure": {
+        "length": 11472000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0br2bt6.mp3"
+      },
+      "content": {
+        "fileSize": 11472000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0br2bt6.mp3"
+      },
+      "pubDate": "2022-02-24T18:18:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0br2lxm"
+    },
+    {
+      "title": "War in Europe: Russia invades Ukraine",
+      "description": "Nato secretary general condemns Russian attack on Ukraine as a cold-blooded invasion. How did events develop overnight and what is the outlook? This Special edition podcast has been reuploaded to include the correct clip of Volodymyr Zelensky, after an incorrect clip was used earlier in error.",
+      "subtitle": "Nato chief condemns Russian attack as a cold-blooded invasion",
+      "author": "BBC World Service",
+      "summary": "Nato secretary general condemns Russian attack on Ukraine as a cold-blooded invasion. How did events develop overnight and what is the outlook? This Special edition podcast has been reuploaded to include the correct clip of Volodymyr Zelensky, after an incorrect clip was used earlier in error.",
+      "guid": "urn:bbc:podcast:p0bqzj5k",
+      "explicit": false,
+      "duration": 1984,
+      "enclosure": {
+        "length": 15872000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0br0w62.mp3"
+      },
+      "content": {
+        "fileSize": 15872000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0br0w62.mp3"
+      },
+      "pubDate": "2022-02-24T12:44:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bqzj5k"
+    },
+    {
+      "title": "US warns of imminent Russian attack on Ukraine",
+      "description": "Kyiv imposes nationwide state of emergency. Also: the World Food Programme warns that Yemen is at risk of losing all humanitarian aid and South Korea records its lowest birth rate since records began.",
+      "subtitle": "Kyiv imposes nationwide state of emergency",
+      "author": "BBC World Service",
+      "summary": "Kyiv imposes nationwide state of emergency. Also: the World Food Programme warns that Yemen is at risk of losing all humanitarian aid and South Korea records its lowest birth rate since records began.",
+      "guid": "urn:bbc:podcast:p0bqwgnw",
+      "explicit": false,
+      "duration": 1689,
+      "enclosure": {
+        "length": 13512000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bqwcq0.mp3"
+      },
+      "content": {
+        "fileSize": 13512000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bqwcq0.mp3"
+      },
+      "pubDate": "2022-02-23T23:56:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bqwgnw"
+    },
+    {
+      "title": "Russia-Ukraine: On the brink of war?",
+      "description": "Our experts in Moscow, Kyiv and London answer your questions about the crisis.",
+      "subtitle": "US President Biden warns Russia might invade Ukraine in February",
+      "author": "BBC World Service",
+      "summary": "Our experts in Moscow, Kyiv and London answer your questions about the crisis.",
+      "guid": "urn:bbc:podcast:p0bkwx7h",
+      "explicit": false,
+      "duration": 2042,
+      "enclosure": {
+        "length": 16336000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bkwvc3.mp3"
+      },
+      "content": {
+        "fileSize": 16336000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bkwvc3.mp3"
+      },
+      "pubDate": "2022-01-28T13:15:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bkwx7h"
+    },
+    {
+      "title": "Omicron versus the world: Your questions answered",
+      "description": "As the Omicron variant spreads around the world and cases surge, BBC correspondents tell us how Covid-19 is impacting our lives, our businesses and our economies.",
+      "subtitle": "The facts, the science, the politics, the economics and the myths",
+      "author": "BBC World Service",
+      "summary": "As the Omicron variant spreads around the world and cases surge, BBC correspondents tell us how Covid-19 is impacting our lives, our businesses and our economies.",
+      "guid": "urn:bbc:podcast:p0bcdlyz",
+      "explicit": false,
+      "duration": 2016,
+      "enclosure": {
+        "length": 16128000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bccxy9.mp3"
+      },
+      "content": {
+        "fileSize": 16128000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bccxy9.mp3"
+      },
+      "pubDate": "2021-12-21T15:40:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0bcdlyz"
+    },
+    {
+      "title": "Climate Special: Your questions answered",
+      "description": "Our experts address your concerns about climate change. As the COP 26 summit continues in Glasgow, we look at the science behind global warming and the impact on our environment. Is there enough political will to make a difference? What can we as individuals do? Can technology help?",
+      "subtitle": "Our experts address your concerns about climate change",
+      "author": "BBC World Service",
+      "summary": "Our experts address your concerns about climate change. As the COP 26 summit continues in Glasgow, we look at the science behind global warming and the impact on our environment. Is there enough political will to make a difference? What can we as individuals do? Can technology help?",
+      "guid": "urn:bbc:podcast:p0b2z3nc",
+      "explicit": false,
+      "duration": 2489,
+      "enclosure": {
+        "length": 19912000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0b2z084.mp3"
+      },
+      "content": {
+        "fileSize": 19912000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0b2z084.mp3"
+      },
+      "pubDate": "2021-11-08T14:55:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p0b2z3nc"
+    },
+    {
+      "title": "Afghanistan Special: Your Questions Answered",
+      "description": "BBC correspondents answer your questions about the Taliban's takeover of Afghanistan.  We ask how did the Taliban overthrow the Afghan government so quickly? What now for human rights, the economy and international relations?\n\nPhoto:People on board an evacuation flight out of Kabul airport, August 21, 2021 Credit:MoD/PA Wire",
+      "subtitle": "BBC correspondents answer your questions about the Taliban's takeover of Afghanistan",
+      "author": "BBC World Service",
+      "summary": "BBC correspondents answer your questions about the Taliban's takeover of Afghanistan.  We ask how did the Taliban overthrow the Afghan government so quickly? What now for human rights, the economy and international relations?\n\nPhoto:People on board an evacuation flight out of Kabul airport, August 21, 2021 Credit:MoD/PA Wire",
+      "guid": "urn:bbc:podcast:p09tlshj",
+      "explicit": false,
+      "duration": 2117,
+      "enclosure": {
+        "length": 16936000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09tls7d.mp3"
+      },
+      "content": {
+        "fileSize": 16936000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p09tls7d.mp3"
+      },
+      "pubDate": "2021-08-30T17:40:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p09tlshj"
+    },
+    {
+      "title": "Global News Brexitcast",
+      "description": "We team up with the award-winning Brexitcast team to bring you a special update on what Britain leaving the EU means for you. You’ve sent us questions from around the world and Jackie Leonard puts them to the experts from the podcast that’s all about Brexit. There’s also cake, phew.\nSpread the word! #GlobalNewsPod #Brexitcast\nFind the Brexitcast podcast here: http://www.bbc.co.uk/brexitcast",
+      "subtitle": "What will Brexit mean for you? We team up with Brexitcast to bring you the answers",
+      "author": "BBC World Service",
+      "summary": "We team up with the award-winning Brexitcast team to bring you a special update on what Britain leaving the EU means for you. You’ve sent us questions from around the world and Jackie Leonard puts them to the experts from the podcast that’s all about Brexit. There’s also cake, phew.\nSpread the word! #GlobalNewsPod #Brexitcast\nFind the Brexitcast podcast here: http://www.bbc.co.uk/brexitcast",
+      "guid": "urn:bbc:podcast:p07s2nd6",
+      "explicit": false,
+      "duration": 3039,
+      "enclosure": {
+        "length": 24312000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07s2m05.mp3"
+      },
+      "content": {
+        "fileSize": 24312000,
+        "type": "audio/mpeg",
+        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07s2m05.mp3"
+      },
+      "pubDate": "2019-10-25T15:22:00.000Z",
+      "link": "http://www.bbc.co.uk/programmes/p07s2nd6"
+    }
+  ]
+}
