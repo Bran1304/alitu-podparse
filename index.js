@@ -287,13 +287,16 @@ const rssElements = Object.freeze({
       .map((keyword) => keyword.trim())
       .sort(),
   ),
-  category: (nodes) => {
-    const categoryText = nodes.map((node) => getText([node]));
-    const categories = nodes.map((node) => getAttribute([node], 'text'));
-    const subcategories = nodes.map((node) => getAttribute(findNodesLike(node, 'category'), 'text'));
-    return uniq(
-      categories.concat(categoryText).concat(subcategories).filter(isNotEmptyString),
-    ).sort();
+  category: nodes => {
+    const categories = nodes.map(node => getAttribute([node], 'text'));
+    const subcategories = nodes.map(node => getAttribute(findNodesLike(node, 'category'), 'text'));
+    const formattedCategories = categories.map((category, i) => {
+      if (subcategories[i]) {
+        return `${category} > ${subcategories[i]}`;
+      }
+      return category;
+    });
+    return uniq(formattedCategories.filter(isNotEmptyString)).sort();
   },
   owner: ([node]) => {
     if (!(node && node.children && node.children.length)) { return undefined; }
