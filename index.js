@@ -242,6 +242,7 @@ const rssElements = Object.freeze({
   language: getText,
   author: getText,
   summary: getText,
+  copyright: getText,
   managingEditor: getText,
   webMaster: getText,
   episodeType: getText, // full, trailer, or bonus
