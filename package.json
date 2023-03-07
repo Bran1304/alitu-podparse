@@ -1,6 +1,6 @@
 {
   "name": "alitu-podparse",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Clone of the popular package podparse, with some bugfixes and improvements. Credits go to the original author Thomas Barrasso <tom@barrasso.me>",
   "main": "index.js",
   "files": [
