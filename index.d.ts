@@ -1,4 +1,4 @@
-declare module 'podparse' {
+declare module 'alitu-podparse' {
     export interface Podcast {
         meta: Meta;
         episodes: Episode[];
