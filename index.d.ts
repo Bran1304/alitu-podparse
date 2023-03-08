@@ -9,7 +9,7 @@ declare module 'alitu-podparse' {
         title: string;
         description: string;
         language: string;
-        author: Author;
+        author: string;
         summary: string;
         type: string;
 
@@ -264,13 +264,7 @@ declare module 'alitu-podparse' {
         source?: AlternateEnclosureSource[];
         integrity?: AlternateEnclosureIntegrity[];
     }
-
-    export interface Author {
-        name?: string;
-        email?: string;
-        link?: string;
-    }
-
+  
     export interface Category {
         name?: string;
         domain?: string;
