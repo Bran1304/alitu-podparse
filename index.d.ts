@@ -59,6 +59,7 @@ declare module 'alitu-podparse' {
         createdAt?: string;
         deleted?: boolean;
         exclusive?: string;
+        copyright: string;
     }
 
     export interface Episode {
