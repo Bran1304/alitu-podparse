@@ -250,6 +250,7 @@ const rssElements = Object.freeze({
   guid: getText,
   generator: getText,
   countryOfOrigin: getText, // spotify
+  txt: getText,
   limit: ([node]) => { // spotify
     if (!(node && node.children)) { return undefined; }
     return Number.parseInt(getAttribute([node], 'recentCount'), 10);
