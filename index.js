@@ -287,9 +287,9 @@ const rssElements = Object.freeze({
       .map((keyword) => keyword.trim())
       .sort(),
   ),
-  category: nodes => {
-    const categories = nodes.map(node => getAttribute([node], 'text'));
-    const subcategories = nodes.map(node => getAttribute(findNodesLike(node, 'category'), 'text'));
+  category: (nodes) => {
+    const categories = nodes.map((node) => getAttribute([node], 'text'));
+    const subcategories = nodes.map((node) => getAttribute(findNodesLike(node, 'category'), 'text'));
     const formattedCategories = categories.map((category, i) => {
       if (subcategories[i]) {
         return `${category} > ${subcategories[i]}`;
