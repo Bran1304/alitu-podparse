@@ -499,6 +499,8 @@ const rssElements = Object.freeze({
 
     const geoAttr = getAttribute([node], 'geo');
     const osm = getAttribute([node], 'osm');
+    const rel = getAttribute([node], 'rel');
+    const country = getAttribute([node], 'country');
 
     // Parse geo, i.e. geo:30.3321838,-81.65565099999999
     let coords = null;
@@ -515,6 +517,8 @@ const rssElements = Object.freeze({
       name, // Jacksonville, FL, USA
       geo: coords, // [ 30.3321838, -81.65565099999999 ]
       osm, // R113314
+      rel, // i.e. 'subject'
+      country, // i.e. 'US'
     });
   },
   // Soundbites
